@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Secondary Title\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Saud Abdulaziz <Salasfoor@outlook.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/wp-translations/secondary-title/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-05-27 19:42+0100\n"
+"PO-Revision-Date: 2017-09-20 04:10:32\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: secondary-title.php\n"
+
+#: includes/admin.php:35
+msgid "Enter secondary title here"
+msgstr "أكتب العنوان الفرعي هنا"
+
+#: includes/hooks.php:87
+msgid "Secondary title"
+msgstr "العنوان الفرعي"
+
+#: includes/hooks.php:230
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: includes/settings.php:40
+msgid "Are you sure you want to reset all settings?"
+msgstr "هل أنت متأكد من إعادة ضبط جميع الإعدادات؟"
+
+#: includes/settings.php:50
+msgid "The settings have been successfully updated."
+msgstr "تم تحديث الإعدادات بنجاح."
+
+#: includes/settings.php:57
+msgid "The settings have been successfully reset."
+msgstr "تمت إعادة تعيين الإعدادات بنجاح."
+
+#: includes/settings.php:65
+#: includes/settings.php:300
+msgid "Collapse/expand section"
+msgstr "طي/توسيع القسم"
+
+#: includes/settings.php:67
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: includes/settings.php:71
+msgid "This section lets you change the most basic settings about how Secondary Title is supposed to behave."
+msgstr "هذا القسم يتيح لك تغيير الإعدادات الأساسية حول كيفية عرض العنوان الفرعي."
+
+#: includes/settings.php:78
+msgid "Auto show"
+msgstr "عرض تلقائي"
+
+#: includes/settings.php:84
+#: includes/settings.php:173
+#: includes/settings.php:317
+msgid "On"
+msgstr "مفعل"
+
+#: includes/settings.php:87
+#: includes/settings.php:176
+#: includes/settings.php:322
+msgid "Off"
+msgstr "معطل"
+
+#: includes/settings.php:91
+msgid "Automatically merges the secondary title with the standard title."
+msgstr "دمج العنوان الفرعي مع العنوان الرئيسي بشكل تلقائي."
+
+#: includes/settings.php:96
+#, php-format
+msgid "To manually insert the secondary title in your theme, use %s or %s. See the <a href=\"%s\" title=\"See official documentation\" target=\"_blank\" >official documentation</a> for additional parameters."
+msgstr "لإدخال العنوان الفرعي بشكل يدوي إلى القالب، استخدم %s أو %s. راجع <a href=\"%s\" title=\"شاهد التعليمات الرسمية\" target=\"_blank\">التعليمات الرسمية</a> لمزيد من المعطيات."
+
+#: includes/settings.php:105
+msgid "Title format"
+msgstr "شكل العنوان"
+
+#: includes/settings.php:110
+msgid "E.g.: %secondary_title%: %title%"
+msgstr "مثال: %secondary_title%: %title"
+
+#: includes/settings.php:113
+msgid "Reset"
+msgstr "تفريغ الحقول"
+
+#: includes/settings.php:117
+#, php-format
+msgid "Replaces the default title with the given format. Use %s for the main title and %s for the secondary title."
+msgstr "استبدال العنوان الافتراضي بالشكل المحدد. استخدم %s للعنوان الرئيسي و %s للعنوان الفرعي. "
+
+#: includes/settings.php:117
+msgid "Add title to title format input"
+msgstr "إضافة عنوان إلى مدخل شكل العنوان"
+
+#: includes/settings.php:117
+msgid "Add secondary title to title format input"
+msgstr "إضافة العنوان الفرعي إلى مدخل شكل العنوان"
+
+#: includes/settings.php:145
+#, php-format
+msgid "<b>Note:</b> To style the output, use the <a href=\"%s\" title=\"See an explanation on w3schools.com\" target=\"_blank\">style HTML attribute</a>, e.g.:<br />%s"
+msgstr "<b>ملاحظة:</b> من أجل تنسيق النتيجة، استخدم <a href=\"%s\" title=\"See an explanation on w3schools.com\" target=\"_blank\">سمات تنسيق الهتمل</a>، مثال:<br />%s"
+
+#: includes/settings.php:145
+msgid "Add code to title format input"
+msgstr "إضافة كود إلى مدخل شكل العنوان"
+
+#: includes/settings.php:158
+msgid "Display Rules"
+msgstr "شروط العرض"
+
+#: includes/settings.php:162
+msgid "These options let you specify where the secondary title is allowed to be displayed and where not. Unselecting all fields deactivates the limit completely."
+msgstr "هذه الخيارات تتيح لك تحديد الأماكن المسموح بها عرض العنوان الفرعي وغير المسموح بها. عدم اختيار جميع الحقول يلغي هذا التحديد بشكل كامل."
+
+#: includes/settings.php:168
+msgid "Only show in main post"
+msgstr "عرض في المقالة الرئيسية فقط"
+
+#: includes/settings.php:179
+msgid "Only displays the secondary title if the post is a main post and <strong>not</strong> within a widget etc."
+msgstr "عرض العنوان الفرعي فقط إذا كان المقال رئيسي و <strong>عدم عرضه</strong> داخل الودجت وغيرها."
+
+#: includes/settings.php:186
+msgid "Post types"
+msgstr "أنواع المقالات"
+
+#: includes/settings.php:226
+msgid "Only displays the secondary title if post among the selected post types."
+msgstr "عرض العنوان الفرعي فقط إذا كان المقال ضمن أنواع المقالات المختارة."
+
+#: includes/settings.php:233
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: includes/settings.php:252
+#, php-format
+msgid "There are %s posts in %s"
+msgstr "هنالك %s مقال في %s"
+
+#: includes/settings.php:267
+msgid "Select all"
+msgstr "اختر الكل"
+
+#: includes/settings.php:272
+msgid "Unselect all"
+msgstr "إلغاء جميع التحديدات"
+
+#: includes/settings.php:277
+msgid "Displays the secondary title only if post is among the selected categories."
+msgstr "عرض العنوان الفرعي فقط إذا كان المقال ضمن الأقسام المختارة."
+
+#: includes/settings.php:286
+msgid "Post IDs"
+msgstr "أرقام المقالات"
+
+#: includes/settings.php:290
+msgid "E.g. 13, 71, 33"
+msgstr "مثال: 13,71,33"
+
+#: includes/settings.php:292
+msgid "Only uses the secondary title if post is among the entered post IDs. Use commas to separate multiple IDs."
+msgstr "استخدم العنوان الفرعي فقط إذا كان المقال ضمن أرقام المقالات المدخلة. أستخدم الفاصلة لتفريق الأرقام المتعددة."
+
+#: includes/settings.php:302
+msgid "Miscellaneous Settings "
+msgstr "إعدادات متنوعة"
+
+#: includes/settings.php:310
+msgid "Include in search"
+msgstr "تضمين في البحث"
+
+#: includes/settings.php:326
+msgid "Makes the secondary title searchable."
+msgstr "جعل العنوان الفرعي قابل للبحث."
+
+#: includes/settings.php:334
+msgid "Input field position"
+msgstr "موقع حقل الإدخال"
+
+#: includes/settings.php:340
+msgid "Above standard title"
+msgstr "فوق العنوان الرئيسي"
+
+#: includes/settings.php:343
+msgid "Below standard title"
+msgstr "تحت العنوان الرئيسي"
+
+#: includes/settings.php:345
+#, php-format
+msgid "Defines whether input field for the secondary title should be displayed above or below<br />the standard title <strong>within the add/edit post/page area</strong> on the admin Dashboard.<br />See the <a href=\"%s\" title=\"See the FAQ\" target=\"_blank\">FAQ</a> if you want to apply the same effect on your front end."
+msgstr "تحدد ما إذا كانت خانة الإدخال للعنوان الفرعي يجب أن تعرض فوق أو تحت<br />العنوان الرئيسي <strong>في صفحة إضافة/تحرير المقالات</strong> في قسم الإدارة.<br />See the <a href=\"%s\" title=\"See the FAQ\" target=\"_blank\">الأسئلة الأكثر شيوعاً</a> إذا أردت إضافة نفس التأثير على الواجهة الأمامية."
+
+#: includes/settings.php:352
+msgid "Column position"
+msgstr "موضع العمود"
+
+#: includes/settings.php:359
+msgid "Left of primary title"
+msgstr "يسار العنوان الرئيسي"
+
+#: includes/settings.php:364
+msgid "Right of primary title"
+msgstr "يمين العنوان الرئيسي"
+
+#: includes/settings.php:368
+#, php-format
+msgid "Specifies the position of the secondary title in regard to the primary title on <a href=\"%s\">post overview</a> pages within the Dashboard."
+msgstr "تحدد موقع العنوان الفرعي بالنسبة للعنوان الرئيسي في <a href=\"%s\">معاينة المقال</a> في قسم الإدارة."
+
+#: includes/settings.php:381
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: includes/settings.php:386
+msgid "Reset Settings"
+msgstr " إعادة الاعدادات"
+
+#: includes/settings.php:394
+#, php-format
+msgid "Found an error? Help making Secondary Title better by <a href=\"%s\" title=\"Click here to report a bug\" target=\"_blank\">quickly reporting the bug</a>."
+msgstr "وجدت خطأ؟ ساعد في جعل العنوان الفرعي أفضل بـ <a href=\"%s\" title=\"أضغط هنا للتبليغ عن الخطأ\" target=\"_blank\">التبليغ عن الخطأ</a>."
+
+#. Plugin Name of the plugin/theme
+msgid "Secondary Title"
+msgstr "العنوان الفرعي"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
+msgstr "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
+
+#. Description of the plugin/theme
+msgid "Adds a secondary title to posts, pages and custom post types."
+msgstr "أضف عنوان فرعي للمقالات، الصفحات، وأنواع المقالات المخصصة."
+
+#. Author of the plugin/theme
+msgid "Kolja Nolte"
+msgstr "Kolja Nolte"
+
+#. Author URI of the plugin/theme
+msgid "http://www.koljanolte.com"
+msgstr "http://www.koljanolte.com"
