@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP Affiliate Banners Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/affiliatewp-affiliate-banners-widget/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-05-15 13:21+0100\n"
+"PO-Revision-Date: 2017-09-23 19:51:57\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: affiliatewp-banners-widget.php:128
+msgid "Documentation"
+msgstr "កម្រង​ឯកសារ"
+
+#: affiliatewp-banners-widget.php:175
+#, php-format
+msgid "Sorry, %s requires WordPress "
+msgstr "សូម​ទោស, %s ត្រូវ​ការ WordPress"
+
+#: includes/widget.php:30
+#, php-format
+msgid "Display a banner of your choice that links to your %s referral link."
+msgstr ""
+
+#: includes/widget.php:32
+msgid "Affiliate Banner"
+msgstr "អ្នកគ្រប់គ្រងបដា"
+
+#: includes/widget.php:38
+msgid "Title"
+msgstr "ឈ្មោះ"
+
+#: includes/widget.php:42
+msgid "Affiliate URL"
+msgstr "អ្នកគ្រប់គ្រង​តំណភ្ជាប់"
+
+#: includes/widget.php:46
+msgid "Open link in a new window ?"
+msgstr "បើក​តំណ​នៅ​ក្នុង​វីនដូ​មួយ​ថ្មី?"
+
+#: includes/widget.php:54
+#: includes/widget.php:55
+msgid "Get Started"
+msgstr "ចាប់​ផ្ដើម"
+
+#: includes/widget.php:54
+msgid "Red Ad"
+msgstr "ផ្ទាំងផ្សព្វផ្សាយពណ៌ក្រហម"
+
+#: includes/widget.php:55
+msgid "White Ad"
+msgstr "ផ្ទាំងផ្សព្វផ្សាយ​ពណ៌ស"
+
+#: includes/widget.php:60
+msgid "Size"
+msgstr "ទំហំ"
