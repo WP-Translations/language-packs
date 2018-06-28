@@ -1,0 +1,1897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Cédric Valmary <cvalmary@yahoo.fr>\n"
+"Language-Team: Occitan (post 1500) (http://www.transifex.com/wysija/wysija/language/oc/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-09-23 21:43:52\n"
+"Language: oc\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Apondre una casa de marcar sus la pagina de pagament per que vòstres clients s'abònan a vòstras newsletters MailPoet."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Decidir quin e-mail recebrà automaticament un novèl client, concernant lo produch que ven juste de crompar. Es una extension Premium per WooCommerce."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Apondre un novèl camp a vòstres formularis per que vòstres visitors s'abònan a vòstras newsletters MailPoet."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Apondre una casa de marcar sus la pagina d'inscripcion d'aquesta extension per que vòstres novèls utilizaires s'abònan a la lista que voldràn."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Apondre una casa de marcar dins vòstres formularis, e seleccionatz las listas a las qualas l'utilizaire serà apondut."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Arrestar las faussas inscripcions per de robòts amb WangGuard, un servici de lista blanca, e una extension."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Se avètz aqueste problèma, alors c'est la solucion. Et c'est totalement gratuit."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall es una extension premium per metre vòstre contengut derrière un paywall. Aqueste module gère los abonaments de vòstres abonats."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Apondre un formulari dins una barra amont o aval de vòstre site, o dins una polida bóstia dins vòstres articles amb las extensions gratuitas de GetConversion. Connectatz-las a MailPoet amb aqueste add-on <br/></br>Obtenètz 30% de reduccion sus la version Premium en clicant <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?copon=MAILPOET\">aicí</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Ensajatz-la, sèm estats impressionats per la version gratuita."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Grâce a l'extension Premium, inserir un formulari d'abonament dins una popup, lo pè de pagina o un slide per aver mai d'abonats."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Los autors an efectuat un excellent trabalh."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Los utilizaires premium s'estalvian 20 % amb aqueste copon : MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Aquesta extension Premium permet d'apondre un formulari MailPoet dins una popup."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Es nécessaire de conéisser lo CSS per lo personalizar a vòstre goût."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Los utilizaires de l'extension Premium s'estalvian 25% amb aqueste copon : mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Aquesta extension premium vos permet d'apondre de formularis MailPoet dins diferents endreches, e tanben dins Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Fòrça opcions, amb una interfàcia complicada."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Aquesta extension gratuita vos permet de personalizar e de posicionar un formulari al començament o a la fin d'un article."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Es gratuit, e nos utilizaires l'adorent."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "Las popups de sortida son pas unicament \"à la mòde\", aumantan de manière prouvée los tauses de conversion e donc boostent vòstre marketing, vòstres abonaments e vòstras vendas. wBounce aficha una popup abans que vòstre visitor quite vòstre site."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "La popup de sortida apareisserà quand vòstre cursor sortirà de la fenèstra."
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Aquesta extension gratuita vos permet de metre un formulari dins una popup, tot simplament."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Es la version gratuita d'una extension Premium encara mai performanta."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Vòstre site es pas encara en linha ? Afichar una pagina d'espèra amb un formulari, per recuperar d'adreças e-mails gràcias a aquesta extension Premium."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Una extension plan concebuda per una idèa simpla."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Los utilizaires premium s'estalvian 20 % amb aqueste copon : MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Aquesta extension Premium vos permet de metre un superbe formulari dirèctament sous vòstre entèsta. Rien de plus, rien de moins."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Apondre una casa de marcar per vòstres clients per facilitar l'inscripcion a vòstra newsletter al moment d'una crompa dins vòstra botiga EDD."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Crear rapidement un formulari d'abonament per vòstras listas de diffusion MailPoet en utilisant la puissance e la flexibilitat offertes per Ninja Forms."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Nous recommandons aquesta extension coma una bona alternative a WPML per vòstres sites multilangues. Elle es légère, simple e touche très peu al còr de vòstre site. Cada lenga dispose de son pròpri site dins vòstra installacion multisite. Elle fonciona parfaitement amb MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "èra pas activada e necessita <strong><a href=\"%s\">%s</a></strong> d'èsser installada e activa en primièr."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Amagar aqueste messatge"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "es estat activat."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "es estat desactivat."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet ditz :"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Site Web"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Crompar"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Installar dempuèi WordPress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Activar"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Configurar"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Trobatz pas l'extension que recercatz ? <a href=\"%s\">Fasètz-lo nos saber</a> en utilizant nòstre formulari de contacte."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Aqueste camp conten pas cap de valor"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "L'annada"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Mes"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Un còp per jorn"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Impossible d'accedir al fichièr CSV. Verificatz los dreches d'accès del dorsièr \"%1$s\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "I a una error amb la lista qu'ensajatz d'importar."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Error d'insercion d'e-mails."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Error d'insercion de lista."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "La lista qu'avètz pegada es tròp granda pel navigador. <strong>Telecargatz lo fichièr</strong> plutôt."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "La lista qu'ensajatz d'importar es pas al format CSV (Valors Separadas per Virgulas)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Ne saber mai"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "La primièra linha d'un CSV deu èsser lo títol de las colomnas, per exemple : \"e-mail\",\"nom\",\"prenom\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "A partir de la 2nda linha, lo fichièr CSV deuriá aver las donadas, per exemple : \"joeeg@exemple.com\",\"Average\",\"Joe\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Las doas primièras linhas de vòstra lista son : "
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Linha voida"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Verificatz tornamai çò qu'ensajatz d'importar."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Avèm pas trobat cap d'adreça corrècta dins los 10 primièrs rengs."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Vòstre fichièr d'importacion es pas valid."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "È ! %1$s es estat mes a jorn (en version %2$s), <a href=\"%3$s\">clicatz aicí per metre a jorn</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Actualizatz la pagina sus la quala sètz !"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Retorn a MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Metre a jorn l'extension"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Utilizar un e-mail amb vòstre nom de domeni, coma <strong>info@%s</strong> per evitar de vos retrobar dins los indesirables, o d'èsser blocat."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Se utilizatz una adreça Gmail, vos cal mandar amb Gmail. Verificar <a id=\"tip-send-with\" href=\"%s\"> dins vòstres paramètres de mandadís."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Mercé&nbsp;!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Impossible de cargar lo tèma seleccionat."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Vòstra newsletter a pas pogut èsser salvada"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Vòstra newsletter es estada salvada"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Los estils an pas pogut èsser salvats"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Los estils son estats salvats"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "L'imatge es estada suprimit."
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "La seleccion d'imatge es pas estada salvada."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "La seleccion d'imatge es estada salvada."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Se vos plai seleccionar un article."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Cap d'article correspond pas a vòstra recèrca."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "L'apercebut de vòstra newsletter es estat mandat a %1$s."
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Avèm pas pogut comunicar amb l'API, lo site pòt èsser indisponible. Se vos plai tornatz ensajar mai tard."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Vòstra requèsta a fracassat "
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Requèsta capitada"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Connexion capitada a %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "I a %1$s messatges dins vòstra bóstia de recepcion"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Pas cap de messatge de retorn de tractar ara !"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Vos caldrà benlèu activar l'opcion <i>certificats autosignats</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Avètz seleccionat lo bon pòrt ? Daissar void se sabètz pas."
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Vos cal seleccionar un tipe per aqueste camp"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Vos cal especificar un nom per aqueste camp"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Aqueste camp existís pas."
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Enregistrat ! Los cambiaments son ja activats dins vòstre widget."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Enregistrat ! Apondre aqueste formulari dins [link_widget]un widget[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Vòstre formulari a pas pogut èsser salvat."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Vòstre formulari es estat enregistrat."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "L'utilizaire es estat apondut."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "L'utilizaire es pas estat apondut."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "L'utilizaire es estat mes a jorn."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "L'utilizaire es pas estat mes a jorn."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Inserir un formulari d'abonament"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Crompar la version Premium"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Sètz de delà del limit dels 2000 abonats per la version gratuita de MailPoet (%1$s al total). Lo mandadís es d'ara enlà desactivat. Passar a la [link]version Premium[/link] per mandar sens limit."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Sètz prêt del limit dels %1$s abonats per la version gratuita de MailPoet. Passatz a la [link]version premium[/link] per mandar sens limit."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elements suprimits"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "L'element es estat suprimit."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Telecargatz"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Imatges de la newsletter"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "Imatges de vòstres articles WordPress"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Desfalhença de la seguretat al cors de la demanda"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Problèma de seguretat"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "La pagina de benvenguda&nbsp;!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Installacion de l'extension MailPoet Newsletter Premium"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Un tot novèl MailPoet. Que la fèsta comence."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Restez informé&nbsp;:! Abonatz-vos a nòstra newsletter."
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Mandam una newsletter mesadièra amb :"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Las importantas mesas a jorn de l'extension"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "De bons de reduccion"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "D'astúcias per vos o vòstres lectors"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Nòstres projèctes actuals"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "De novèlas de nòstra equipa"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Lo primièr còp&nbsp;? Agachatz cossí aquò fonciona"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Podètz començar per agachar aquesta vidèo realizada per un de nòstres utilizaires."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Partejar vòstras donadas"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Coneissèm pas pro nòstres utilizaires. Avèm besonh de [link]donadas anonimas[/link] per melhorar l'extension. [ajaxlink] Òc, podètz compter sus ieu&nbsp;![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Coneissèm pas pro nos utilizaires. Avèm besonh de [link]donadas anonimas[/link] per melhorar l'extension. Mercé, partejatz ja&nbsp;!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Çò que podètz far"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "Lo guida del debutant en 5 minutas"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoet vos provesís un exemple de newsletter. La veiretz quand tamparetz aquesta pagina de benvenguda. Conten un pichon guida per vos familiarizar amb l'editor. "
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Besonh d'ajuda ? Sèm aquí per aquò."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Avèm de documentacion en anglés e un sistèma d'ajuda sus [link]supòrt.mailpoet.com[/link]. Respondèm dins las 24h."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Qué de nòu&nbsp;?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "La version Premium es activada per vòstre site."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Vòstre site a pas de licéncia per la version premium. Crompar la version[link]Premium[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "La fila d'espèra es voida !"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Etapa %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Afichar lo nombre d'articles amb [newsletter:total], lo títol del darrièr article amb [newsletter:post_title] e lo numèro del mandadís amb [newsletter:number]."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "La primièra causa que vòstres abonats veiràn. Siatz creatiu !"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Etapa 1 : los detalhs principals"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "a cada jorn a..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "a cada setmana..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "mesadièrament lo..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "mesadièrament, a cada..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "immediatament."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "pauc impòrta lo ròtle"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Quand i a de novèl contengut..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Quand qualqu'un s'inscriu a la lista..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Quand un novèl utilizaire WordPress es apondut a vòstre site..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "ora(s) aprèp."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "jorn(s) aprèp."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "setmana(s) aprèp."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "immediatament"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "ora(s)"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "jorn(s)"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "setmana(s)"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Salvament..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Error de salvament..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Vòstra newsletter es estada salvada."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Mandadís de l'apercebut en cors..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Los resultats dels tèsts anti-spam"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Etapa 2 : lo design de \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Lo mandadís es arrestat"
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Lo mandadís a représ."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Còpia de "
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "La newsletter es estada duplicada."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s e-mails mandats i a %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Vòstres reglatges de mandadís ([settings]) vos empachan de mandar tan rapidament a vòstres [number] abonats. I aurà un relambi dins la recepcion dels e-mails. [link]Ne saber mai.[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Darrièra etapa : confirmacion"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Seleccionar una date"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Salvar & tampar"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Mandar mai tard"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Planificar"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Activatz-la ara"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Mandar"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Sètz a mand de mandar aquesta newsletter. Confirmatz."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Sètz segur que volètz ignorar los %1$s abonats de la lista %2$s ?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Newsletter suprimida."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Newsletters supprimées."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "La newsletter pòt pas èsser suprimida."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Legir la seguida."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Autor :"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Categorias :"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Lo darrièr contengut es ja estat mandat."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Los articles seguents son estats aponduts grâce al widget %sContengut automatic lo mai recent%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sPer modificar%s, survolez amb vòstra mirga per far apparaître lo boton d'édition çaijós."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Etapa 1 :"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "è, vos, clicatz sus aqueste tèxte !"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Clicar sus aqueste blòt de tèxte per lo modificar."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Etapa 2 :"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "manipular l'imatge"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Susvolar amb vòstra mirga l'imatge a esquèrra."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Etapa 3 :"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "depausar del contengut aicí"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Lisar e depausar %1$stèxtes, articles, separadors.%2$s Agachatz a drecha !"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Podètz quitament depausar %1$svos icònas de rets socialas%2$s coma aquò :"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Etapa 4 :"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "et lo pè de pagina ?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Cambiar lo contengut del pè de pagina dins los %1$sParamètres%2$s de MailPoet."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Newsletter creada."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Informacion mancanta."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Lo nom de vòstra campanha Google pòt pas conténer que de letras, de chifras, d'espacis e de jonhents&nbsp;!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Lo mandadís de la newsletter es estat planificat."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Vòstra newsletter es estada salvada coma borrolhon."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Mercé de causir una newsletter."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Suprimir definitivament aquesta newsletter ?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Suprimir aquestas newsletters definitivament ?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Mandadís d'un lòt d'e-mails..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Afichar la newsletter"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "La newsletter serà desactivada, la vos caldrà reactivar un còp qu'auretz acabat de la modificar. Volètz contunhar ?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "La lista es estada suprimida."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Mandadís arrestat."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "I a pas cap de newsletter."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Estatisticas : %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Avèm pas trobat cap d'abonat ! Cambiatz vòstres filtres !"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "Segment de %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Lista creada en seguida d'una segmentacion."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "La lista \"%1$s\" es estada creada a partir del segment."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Los abonats d'aqueste segment son estats desabonats de totas las listas. "
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Lo segment es estat suprimit de la fila d'espèra."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Los abonats d'aqueste segment son estats desabonats de la lista \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Los abonats d'aqueste segment ne pòdon èsser desabonats de la lista [IMPORT]."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Causida d'articles"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Afichatge e opcions d'insercion"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Retorn a la seleccion"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Cargament..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Insercion dels articles..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "seleccionat(s)"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Problèma de telecargament : lo fichièr %1$s es tròp pesuc (max : %2$s)."
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Installar"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Detalhs & PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Retorn"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Telecargar"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Reïnstallar"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Los fichièrs Photoshop son disponibles dins las [link]foncionalitats de la version Premium[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Totes los tèmas"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s votes)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Vòstre vòte es estat enregistrat"
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Vòstre vòte es pas estat enregistrat"
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Atencion ! Se reïnstallatz aqueste tèma totes los fichièrs contengut dins /wp-content/uploads/wysija/themes/%1$s seràn espotits. Sètz segur que lo volètz reïnstallar ?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Veire totes los tèmas de %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Telecargar lo fichièr Photoshop"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Telecargar en .zip"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Veire lo site de l'autor"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Mejana : %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Mon vòte : %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Telecargaments : %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Mots claus : %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Darrièra mesa a jorn : %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Conten : %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Marcar coma favorits"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Causida de separadors"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Apondre / Modificar un grop d'articles"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Afichar las opcions d'afichatge"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Amagar las opcions d'afichatge"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Paramètres d'imatges"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Suprimir aqueste imatge de totas las newsletters ?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Aqueste imatge es benlèu utilizada dins un article. Lo volètz suprimir malgrat tot ?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Ensajatz de mandar tròp de fichièrs a l'encòp"
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s depassa lo limit de telecargament d'aqueste site."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Lo fichièr es void. Mercé de n&rsquo;ensajar un autre."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Aqueste tipe de fichièr es pas autorizat. Mercé de n&rsquo;ensajar un autre."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Aqueste fichièr es pas un imatge. Mercé de n&rsquo;ensajar un autre."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Memòria depassada. Se vos plai, ensajatz amb un autre fichièr mai pichon."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Depassament de la talha maximala autorizada. Ensajatz un autre. "
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Una error s'es produsida al moment del telecargament. Tornatz ensajar mai tard."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "I a una error de configuracion. Mercé de contactar l&rsquo;administrator de vòstre servidor."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Podètz pas telecargar qu'un sol fichièr."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "Error HTTP."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Fracàs del telecargament."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Ensajatz de metre aqueste fichièr en linha a l&rsquo;ajuda de l&rsquo;%1$saisina del navigador%2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s depassa lo limit de telecargament per l&rsquo;aisina de mesa en linha multifichièrs de vòstre navigador."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "Error I/O (Entradas-Sortidas)."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Error de seguretat."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Fichièr suprimit."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Lo telecargament es arrestat."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Regetar"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "En cors de tractament&hellip;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "desplaçat dins l'escobilhièr."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; a pas pogut èsser telecargat."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d fichièr(s) es/son estat(s) mes(es) en linha corrèctament."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Salvat."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "La newsletter existís pas."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Mandadís d'un tèst"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Tèst de la connexion dels retorns"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Gestion dels retorns en cors"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Los abonats deuràn activar lor abonament per e-mail per fin de recebre vòstras newsletters. Aquesta validacion es recomandada."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "A partir d'ara, totes los abonats non confirmats recebràn vòstras newsletters sens aver a activar lor abonament."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Verificatz los retorns ara !"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Vòstra adreça de retorn e la per las responsas devon èsser diferentas."
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Sètz segur que volètz suprimir aqueste formulari ?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Gaireben i sètz. Clicatz sus aqueste [link]ligam[/link] per activar la licéncia que venètz de crompar."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Reïnstallar MailPoet ?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Novèl formulari"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Aqueste formulari existís pas."
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Còpia"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Lo formulari intitolat \"%1$s\" es estat creat."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Aqueste formulari es ja estat suprimit"
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Lo formulari intitolat \"%1$s\" es estat suprimit."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Novèl formulari"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Aqueste formulari existís pas."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Reglatges dels widgets"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Ja pagat ? Clicatz aicí per l'activar"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Verificacion de la licéncia"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Los 7 darrièrs jorns"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Lo mes passat"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Los 30 darrièrs jorns"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Los 90 darrièrs jorns"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Los 180 darrièrs jorns"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Los 365 darrièrs jorns"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Datas personalizadas"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "L'abonat es estat salvat."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Nombre d'abonats per pagina :"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Seleccionatz al mens un abonat !"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Aï ! Cap d'abonat pas trobat. "
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "L'abonat es pas estat salvat."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "L'abonat es estat modificat. [link]Modificar lo tornamai[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "L'abonat es pas estat modificat."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s abonats son estats aponduts a la lista \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "L'abonat %1$s es estat apondut a la lista \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s abonats son estats desplaçats dins \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s abonats son estats desplaçats dins \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s abonats son estats suprimits de totas las listas existentas."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "L'abonat %1$s es estat suprimit de totas las listas existentas."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s abonats son estats suprimits de \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "L'abonat %1$s es estat suprimit de \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s abonats son estats confirmats."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "L'abonat %1$s es estat confirmat."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Cap d'e-mail es pas estat mandat."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "Un e-mail es estat mandat"
+msgstr[1] "%d e-mails son estats mandats a vòstres abonats non confirmats"
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Modificar las listas"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Modificacion de la lista %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Una novèla lista ?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "La lista \"%1$s\" es estada duplicada."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Apondre un abonat"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Cap d'abonat pas trobat. Es probablement estat suprimit."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Modificar"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "La lista \"%1$s\" es estada suprimida."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Aquesta lista existís pas o pòt pas èsser suprimida."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "La lista es estada mesa a jorn."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Vòstra novèla lista espèra son primièr abonat amb impaciéncia."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "L'importacion de l'extension %1$s es estada completada."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "L'importacion de l'extension %1$s es estada anullada."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Importar los abonats d'autres extensions"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Pas cap d'extension amb de listas importablas."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Importar d'abonats"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "La valor seleccionada correspond ja a la d'una autra colomna."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Podètz confirmar qu'aquesta colomna correspond bien a aqueste camp&nbsp;?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "qu'avètz pegat"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Desabonat"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Pas confirmat"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Abonat"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Vos cal seleccionar al mens una lista."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s abonats son estats aponduts a %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s adreças apparaissent mai d'un còp dins vòstre fichièr : %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s e-mails son pas valids : %2$s"
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Exportar los abonats"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr " %1$s abonats son estats suprimits."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "L'abonat %1$s es estat suprimit."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s abonats son estats exportats. Salvatz lo [link]fichièr d'exportacion[/link]."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Exportacion de %1$s abonats"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Pagina introbabla."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Verificatz lo ligam cap a aquesta pagina."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Sètz desabonat(ada) !"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Es fait, sètz d'ara enlà desabonat !"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Sètz ja desabonat(ada)."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Vos sètz enganat(ada) ? [link]Anullar la desinscripcion[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Sètz abonat(ada) !"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Modificar vòstra soscripcion"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Modificar vòstre perfil d'abonat : %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "L'e-mail %1$s existís ja"
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Vòstre perfil es estat mes a jorn."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Abonament sens javascript desactivat."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Sembla que vòstre widget es estat suprimit de la [link]zòna de widgets[/link] de WordPress."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Cargament..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "Una error s'es produsida. [link]Afichar mai de detalhs.[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Afichar los detalhs[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Un còp per minuta"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "Un còp a cada 2 minutas"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "Un còp a cada 5 minutas"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "Un còp a cada 10 minutas"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "Un còp a cada 15 minutas"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "Un còp a cada 30 minutas"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "Un còp a cada 2 oras"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Un còp per setmana"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "Un còp a cada 28 jorns"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "Pagina MailPoet"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "Vòstra version de PHP es tròp anciana. Se la metètz pas a jorn rapidament, las novèlas versions de MailPoet foncionaràn pas."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]Cossí far per metre a jorn vòstra version de PHP.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Regetar[/link] aqueste avertiment."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Error de validacion dels camps"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Lo camp \"%1$s\" es requesit per la taula \"%2$s\"."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Lo camp \"%1$s\" conten pas una adreça valida."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "I a pas cap d'estatistica a cargar !"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "La configuracion de vòstre servidor nos empacha d'acabar l'installacion de MailPoet !"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Legir la seguida."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Clicatz aicí per veire."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Filtrar per tipe"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Articles"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Paginas"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Categorias e mots claus"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtrar per estat"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Vos cal activar l'extension Premium de MailPoet."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Confirmar l'activacion de l'extension Premium de MailPoet ?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Activar l'extension Premium de MailPoet."
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Felicitacions, vòstra licéncia Premium es activada. Una darrièra etapa&hellip;"
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Confirmar l'installacion de l'extension Premium de MailPoet ?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Installacion de l'extension Premium de MailPoet."
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Telecargar l'extension Premium."
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Tot fonciona pas totjorn coma volèm, vertat ? Obtenètz d'ajuda sul site dédié : [link]supòrt.wysija.com[/link]. La documentacion es en anglés, mas parlam occitan."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "Version de MailPoet : "
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Abonats"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Reglatges"
