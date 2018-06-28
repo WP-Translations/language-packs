@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Photo Album\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/easy-photo-album\n"
+"Last-Translator: Mauro Hemerly Gazzani <mauro.hemerly@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/wp-translations/easy-photo-album/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-17 16:39:41+00:00\n"
+"PO-Revision-Date: 2017-10-26 19:49:13\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: EPA_Admin.php:71
+#: EPA_Admin.php:388
+msgctxt "Page title of settings page"
+msgid "Easy Photo Album Settings"
+msgstr "Configurações do Easy Photo Album"
+
+#: EPA_Admin.php:71
+msgctxt "Menu title for the Easy Photo Album settings page."
+msgid "Easy Photo Album"
+msgstr "Easy Photo Album"
+
+#: EPA_Admin.php:84
+msgid "About Easy Photo Album"
+msgstr "Sobre Easy Photo Album"
+
+#: EPA_Admin.php:135
+msgid "Display Settings"
+msgstr "Mostrar configurações"
+
+#: EPA_Admin.php:136
+msgid "Image view mode"
+msgstr "Mode de visualização de imagem"
+
+#: EPA_Admin.php:142
+#: EPA_PostType.php:239
+#: EPA_PostType.php:510
+msgid "Columns"
+msgstr "Colunas"
+
+#: EPA_Admin.php:150
+#: EPA_PostType.php:249
+msgid "Show caption"
+msgstr "Mostrar legenda"
+
+#: EPA_Admin.php:157
+#: EPA_PostType.php:260
+#: EPA_PostType.php:512
+msgid "Image size"
+msgstr "Tamanho da Imagem"
+
+#: EPA_Admin.php:163
+#: EPA_PostType.php:286
+#: EPA_PostType.php:513
+msgid "Number of images for excerpt"
+msgstr "Número de imagens para resumo"
+
+#: EPA_Admin.php:173
+#: EPA_Admin.php:415
+msgid "Lightbox settings"
+msgstr "Configurações da galeria de fotos"
+
+#: EPA_Admin.php:174
+msgid "Show image number"
+msgstr "Mostrar número da imagem"
+
+#: EPA_Admin.php:181
+msgid "Image number format"
+msgstr "Formato do número de imagem"
+
+#: EPA_Admin.php:187
+msgid "Wrap around"
+msgstr "Envolver em torno"
+
+#: EPA_Admin.php:194
+msgid "Scale to fit"
+msgstr "Escalar para encaixar"
+
+#: EPA_Admin.php:201
+msgid "Imagesize"
+msgstr "Tamanho da imagem"
+
+#: EPA_Admin.php:207
+#: EPA_Admin.php:424
+msgid "Miscellaneous settings"
+msgstr "Outras Configurações"
+
+#: EPA_Admin.php:208
+msgid "Show title field"
+msgstr "Mostrar campo do título"
+
+#: EPA_Admin.php:215
+msgid "Show albums on blog page"
+msgstr "Mostrar álbuns na página do blog"
+
+#: EPA_Admin.php:291
+#: EPA_Help.php:66
+msgid "Imagefile"
+msgstr "Arquivo da imagem"
+
+#: EPA_Admin.php:295
+#: EPA_Help.php:66
+msgid "Attachment"
+msgstr "Anexo"
+
+#: EPA_Admin.php:299
+#: EPA_Help.php:66
+msgid "Lightbox"
+msgstr "Galeria de fotos"
+
+#: EPA_Admin.php:367
+#: EPA_PostType.php:268
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: EPA_Admin.php:368
+#: EPA_PostType.php:269
+msgid "Medium"
+msgstr "Médio"
+
+#: EPA_Admin.php:369
+#: EPA_Help.php:77
+#: EPA_PostType.php:270
+msgid "Large"
+msgstr "Grande"
+
+#: EPA_Admin.php:370
+#: EPA_Help.php:77
+#: EPA_PostType.php:271
+msgid "Full Size"
+msgstr "Tamanho completo"
+
+#: EPA_Admin.php:397
+msgid "The following settings affect the display and behaviour of the photo album.%1$sFor help, check the help text (click on the quesion icon) or visit the %2$ssupport forums%3$s."
+msgstr "As seguintes configurações afetam a visualização do álbum de foto. %1$sPara auxílio, verificar o texto de ajuda (clique no icon  de interrogação) ou visitar os %2$sfórums de apoio%3$s"
+
+#: EPA_Admin.php:398
+msgid "Support the development of this plugin by donating a %1$scup of coffee%2$s."
+msgstr "Apoiar o desenvolvimento deste plugin pela doação de quantia equivalente a uma %1$sxícara de café%2$s"
+
+#: EPA_Admin.php:402
+#: EPA_PostType.php:509
+msgid "Display settings"
+msgstr "Mostrar configurações"
+
+#: EPA_Admin.php:409
+msgid "Apply to all albums"
+msgstr "Aplicar a todos os álbuns"
+
+#: EPA_Help.php:39
+msgid "Easy Photo Album Settings"
+msgstr "Configurações do Easy Photo Album"
+
+#: EPA_Help.php:39
+msgid "Click on the question mark next to each setting for a short description of it. If you still have questions, please ask them at the %1$ssupport forums%2$s."
+msgstr "Clicar no próximo sinal de interrogação para cada configuração com uma curta descrição. Se Você ainda tem alguma pergunta, favor postá-la nos %1$sfórums de apoio%2$s."
+
+#: EPA_Help.php:39
+#: EPA_about.php:67
+msgid "View the video documentation"
+msgstr "Visualizara documentação do vídeo"
+
+#: EPA_Help.php:66
+msgid "This setting determines what happens when you click on a photo"
+msgstr "Esta configuração define o que acontece quando Você clicar sobre a foto"
+
+#: EPA_Help.php:66
+msgid "with this option, you will see the photo file in your browser. This isn't recognisable as your website."
+msgstr "com esta opção, Você verá o arquivo de foto em seu navegador. Isto não será reconhecido como seu site na internet."
+
+#: EPA_Help.php:66
+msgid "with this option, you will the attachment page of that photo, this is recognisable as your website."
+msgstr "com esta opção, Você anexará a página daquela foto, isto é reconhecível como sua página na internet."
+
+#: EPA_Help.php:66
+msgid "with this option, you will stay on the same page, but a lightbox will show the photo."
+msgstr ""
+
+#: EPA_Help.php:67
+msgid "The number of columns of an album."
+msgstr "O número de colunas de um álbum."
+
+#: EPA_Help.php:68
+msgid "Show the caption below the photo."
+msgstr "Mostrar a legenda abaixo da foto."
+
+#: EPA_Help.php:69
+msgid "The size of the images. When you have a few columns, you may want to choose a larger size or there will be a lot of space between the photos."
+msgstr ""
+
+#: EPA_Help.php:70
+msgid "The number of images to display when the excerpt of an album is shown. Set to 0 to dispaly all the images."
+msgstr "O número de imagens é mostrado quando uma parte do álbum é visualizada. Definir como 0 para visualizar todas as imagens."
+
+#: EPA_Help.php:71
+msgid "Apply the current display settings to every photo album. This overrides the current display setting of each indiviual photo album."
+msgstr ""
+
+#: EPA_Help.php:73
+msgid "Show something like \"Image 2 of 6\" below the lightbox."
+msgstr ""
+
+#: EPA_Help.php:74
+msgid "Customize your image number text. %1$s will be replaced with the current photo number and %2$s with the total number of photos."
+msgstr ""
+
+#: EPA_Help.php:75
+msgid "Wrap the images around in the lightbox, i.e. when you look at the last image of the album and press on the right arrow, the first image will appear."
+msgstr ""
+
+#: EPA_Help.php:76
+msgid "Scale the image in the lightbox to the largest possible size of the screen and the image itselve."
+msgstr ""
+
+#: EPA_Help.php:77
+msgid "Recommended to set to %1$s or %2$s. When you have very large photos, it might be usefull to choose %1$s to reduce the download time for each photo."
+msgstr ""
+
+#: EPA_Help.php:79
+msgid "Show the title field on the photo album edit screen. The title isn't used by Easy Photo Album."
+msgstr ""
+
+#: EPA_Help.php:80
+msgid "Show the albums on your blog page, like posts."
+msgstr "Mostrar os álbuns em seu blog, como postagens"
+
+#: EPA_Insert_Album.php:146
+msgid "View more photos"
+msgstr "Ver mais fotos"
+
+#: EPA_Insert_Album.php:230
+msgid "No albums found"
+msgstr "Nenhum álbum encontrado"
+
+#: EPA_Insert_Album.php:239
+msgid "Select an album to insert."
+msgstr "Selecionar um álbum para inserir"
+
+#: EPA_Insert_Album.php:247
+msgid "How should the album be displayed?"
+msgstr "Como deveria ser visualizado o álbum?"
+
+#: EPA_Insert_Album.php:249
+msgid "Show album title"
+msgstr "Mostrar o título do álbum"
+
+#: EPA_Insert_Album.php:252
+msgctxt "Like Display: excerpt"
+msgid "Display:"
+msgstr "Mostrar:"
+
+#: EPA_Insert_Album.php:254
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: EPA_Insert_Album.php:255
+msgid "Full album"
+msgstr "Álbum completo"
+
+#: EPA_Insert_Album.php:263
+msgid "Insert Album"
+msgstr "Inserir Álbum"
+
+#: EPA_Insert_Album.php:266
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: EPA_List_Table.php:39
+msgid "Images"
+msgstr "Imagens"
+
+#: EPA_List_Table.php:40
+#: EPA_List_Table.php:89
+msgid "Image"
+msgstr "Imagem"
+
+#: EPA_List_Table.php:80
+msgid "No photos added yet."
+msgstr "Nenhuma foto ainda adicionada."
+
+#: EPA_List_Table.php:88
+msgid "Select All"
+msgstr "Selecionar Tudo"
+
+#: EPA_List_Table.php:90
+#: EPA_PostType.php:520
+msgid "Caption"
+msgstr "Legenda"
+
+#: EPA_List_Table.php:91
+#: EPA_PostType.php:519
+msgid "Title"
+msgstr "Título"
+
+#: EPA_List_Table.php:123
+#: EPA_List_Table.php:162
+msgid "Delete"
+msgstr "Eliminar"
+
+#: EPA_List_Table.php:124
+msgid "Up"
+msgstr "Acima"
+
+#: EPA_List_Table.php:125
+msgid "Down"
+msgstr "Abaixo"
+
+#: EPA_List_Table.php:189
+msgid "Bulk Actions"
+msgstr "Ações em Massa"
+
+#: EPA_List_Table.php:199
+msgid "Apply"
+msgstr "Aplicar"
+
+#: EPA_List_Table.php:281
+msgid "Choose image(s)"
+msgstr "Escolher imagens."
+
+#: EPA_List_Table.php:282
+msgid "Select image(s)"
+msgstr "Selecionar imagens"
+
+#: EPA_List_Table.php:283
+msgid "The photo '{0}' will be removed. Are you shure?"
+msgstr "A foto '{0}' será removida. Tem certeza?"
+
+#: EPA_List_Table.php:284
+msgctxt "like 1 photo"
+msgid "photo"
+msgstr "Foto"
+
+#: EPA_List_Table.php:285
+msgctxt "like 2 photos"
+msgid "photos"
+msgstr "Fotos"
+
+#: EPA_PostType.php:133
+msgctxt "General Photo Albums name (multiple)"
+msgid "Photo Albums"
+msgstr "Álbuns de foto"
+
+#: EPA_PostType.php:134
+msgctxt "General singular Photo Albums name"
+msgid "Photo Album"
+msgstr "Álbum de foto"
+
+#: EPA_PostType.php:135
+msgctxt "Add new menu item"
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: EPA_PostType.php:136
+msgctxt "Add new menu item extended"
+msgid "Add New Photo Album"
+msgstr "Adicionar Novo Álbum de Foto"
+
+#: EPA_PostType.php:137
+msgctxt "Edit menu item"
+msgid "Edit Photo Album"
+msgstr "Editar Álbum de Foto"
+
+#: EPA_PostType.php:138
+msgctxt "New menu item"
+msgid "New Photo Album"
+msgstr "Novo Álbum de Foto"
+
+#: EPA_PostType.php:139
+msgctxt "View menu item"
+msgid "View Photo Album"
+msgstr "Visualizar Álbum de Foto"
+
+#: EPA_PostType.php:140
+msgctxt "Search menu item"
+msgid "Search Photo Album"
+msgstr "Procurar Álbum de Foto"
+
+#: EPA_PostType.php:141
+msgctxt "No Photo Albums found message"
+msgid "No Photo Albums found"
+msgstr "Nenhum Álbum de Foto encontrado"
+
+#: EPA_PostType.php:142
+msgctxt "No Photo Albums found in trash message"
+msgid "No Photo Albums found in Trash"
+msgstr "Nenhum Álbum de Foto encontrado na lixeira"
+
+#: EPA_PostType.php:143
+msgctxt "Parent Photo album label"
+msgid "Parent Photo Album:"
+msgstr "Álbum de Fotos dos Pais"
+
+#: EPA_PostType.php:144
+msgctxt "Menu name"
+msgid "Photo Albums"
+msgstr "Álbuns de Foto"
+
+#: EPA_PostType.php:147
+msgctxt "Posttype description"
+msgid "Post easy Photo Albums with Easy Photo Album"
+msgstr "Divulgar Álbuns de Foto facilmente com Easy Photo Album"
+
+#: EPA_PostType.php:167
+msgctxt "Rewrite slug"
+msgid "albums"
+msgstr "álbuns"
+
+#: EPA_PostType.php:184
+msgid "Album display options"
+msgstr "Opções de visualização de álbum"
+
+#: EPA_PostType.php:188
+msgid "Album images"
+msgstr "Imagens de álbum"
+
+#: EPA_PostType.php:221
+msgid "Add one or more photos"
+msgstr "Adicionar uma ou mais fotos"
+
+#: EPA_PostType.php:475
+msgctxt "Revisions screen"
+msgid "Easy Photo Album data"
+msgstr "Dados do Easy Photo Album"
+
+#: EPA_PostType.php:511
+msgid "Show caption under the images"
+msgstr "Mostrar legenda abaixo das imagens"
+
+#: EPA_PostType.php:511
+msgid "yes"
+msgstr "sim"
+
+#: EPA_PostType.php:511
+msgid "no"
+msgstr "não"
+
+#: EPA_PostType.php:515
+msgid "Photos"
+msgstr "Fotos"
+
+#: EPA_PostType.php:518
+msgid "Photo ID"
+msgstr "ID da Foto"
+
+#: EPA_PostType.php:674
+msgid "Photo Album updated. <a href=\"%s\">View Album</a>"
+msgstr "Álbum de Fotos atualizado.<a href=\"%s\">Visualizar Álbum</a>"
+
+#: EPA_PostType.php:675
+msgid "Custom field updated."
+msgstr "Campo personalizado atualizado."
+
+#: EPA_PostType.php:676
+msgid "Custom field deleted."
+msgstr "Campo personalizado excluido."
+
+#: EPA_PostType.php:677
+msgid "Photo Album updated."
+msgstr "Álbum de Fotos atualizado."
+
+#. translators: %s: date and time of the revision
+#: EPA_PostType.php:679
+msgid "Photo Album restored to revision from %s"
+msgstr "Álbum de Fotos recuperado para revisão de %s"
+
+#: EPA_PostType.php:680
+msgid "Photo Album published. <a href=\"%s\">View Album</a>"
+msgstr "Álbum de Fotos publicado.<a href=\"%s\">Visualizar Álbum</a>"
+
+#: EPA_PostType.php:681
+msgid "Photo Album saved."
+msgstr "Álbum de Fotos gravado."
+
+#: EPA_PostType.php:682
+msgid "Photo Album submitted. <a target=\"_blank\" href=\"%s\">Preview Album</a>"
+msgstr "Álbum de Fotos submetido.<a target=\"_blank\" href=\"%s\">Pré-visualizar Álbum</a>"
+
+#: EPA_PostType.php:683
+msgid "Photo Album scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Album</a>"
+msgstr "Álbum de Fotos agendado para: <strong>%1$s</strong>.<a target=\"_blank\" href=\"%2$s\">Pré-visualizar Álbum</a>"
+
+#. translators: Publish box date format, see http:php.net/date
+#: EPA_PostType.php:685
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: EPA_PostType.php:686
+msgid "Photo Album draft updated. <a target=\"_blank\" href=\"%s\">Preview Album</a>"
+msgstr "Esboço de Álbum de Fotos atualizado.<a target=\"_blank\" href=\"%s\">Pré-visualização de Álbum</a>"
+
+#: EPA_PostType.php:726
+msgid "More photos..."
+msgstr "Mais fotos..."
+
+#: EPA_PostType.php:768
+msgid "Javascript is disabled. Please enable Javascript and reload the page before you continue."
+msgstr "Javscript está desabilitado. Favor habilitá-lo e recarregar a página antes de continuar."
+
+#: EPA_about.php:35
+msgid "Welcome to Easy Photo Album %s"
+msgstr "Bem-vindo ao Easy Photo Album %s"
+
+#: EPA_about.php:37
+msgid "Thank you for updating to the latest version. Easy Photo Album %s makes it even easier for you to create and manage photo albums."
+msgstr "Obrigado pela atualização com a última versão. Easy Photo Album %s faz ficar ainda mais fácil para Você criar e gerenciar álbuns de foto."
+
+#: EPA_about.php:40
+msgid "Version %s"
+msgstr "Versão %s"
+
+#: EPA_about.php:43
+msgid "What's New"
+msgstr "Novidades"
+
+#: EPA_about.php:47
+#: EPA_about.php:155
+msgid "Maintenance Release"
+msgstr "Versão de Correção"
+
+#: EPA_about.php:50
+#: EPA_about.php:156
+msgid "Version %1$s has %2$s bugfixes. For more information, check the %3$schangelog%4$s."
+msgstr "Versão %1$s tem %2$s correções de erros. Para mais informações, verificar o %3$sregistro de mudanças%4$s"
+
+#: EPA_about.php:56
+msgid "Video documentation"
+msgstr "Documentação em vídeo"
+
+#: EPA_about.php:62
+msgid "Learn quick how this plugin works"
+msgstr "Aprender rápido como utilizar este plugin"
+
+#: EPA_about.php:63
+msgid "An enthousiastic Easy Photo Album user has recorded a couple of videos that shows how to create an album, how to change the photo order, how to add albums to your menu and an introduction into the settings."
+msgstr "Usuários entusiastas do Easy Photo Album gravaram alguns vídeos que mostram como criar um álbum, como mudar a ordem das fotos, como adicionar álbuns ao seu menu e uma introdução de como configurar."
+
+#: EPA_about.php:64
+msgid "If you have still questions, please head over to the %1$ssupport forums%2$s."
+msgstr "Se Você ainda tem dúvidas, favor consultar os %1$sfóruns de ajuda%2$s"
+
+#: EPA_about.php:73
+msgid "Clear settings page"
+msgstr "Limpar a página de configurações"
+
+#: EPA_about.php:79
+msgid "Clear and consistent settings"
+msgstr ""
+
+#: EPA_about.php:80
+msgid "The new settings page makes it very easy for you to change the display of the albums. The settings are grouped together, which makes everyting more clear"
+msgstr ""
+
+#: EPA_about.php:81
+msgid "Besides the options on the settings page, you can edit some options for each individual album. You can adjust the display of the album to the contents of it."
+msgstr "Além das opções na página de configurações, Você pode editar algumas opções para cada álbum individualmente. Você pode ajustar a visualização do álbum em função de seu conteúdo."
+
+#: EPA_about.php:82
+msgid "Each option, also on the album edit screen, has now some helptext. And all this in the fresh WordPress 3.8 style."
+msgstr "Cada opção, também na tela de edição do álbum, tem alguma ajuda dependente de contexto. E isto no novo estilo do WordPress 3.8."
+
+#: EPA_about.php:87
+msgid "Updated revisions support"
+msgstr "Suporte de revisões atualizadas"
+
+#: EPA_about.php:88
+msgid "Don't be afraid to change your albums. There is now full support for revisions. The differences between photos are easy to compare with the updated display of the album. Change you album with confidence."
+msgstr ""
+
+#: EPA_about.php:92
+msgid "Easy Photo Album is doing well!"
+msgstr "Easy Photo Album está mandando ver!"
+
+#: EPA_about.php:93
+msgid "Easy Photo Album has been downloaded %s times! Thank you very much for using this plugin. If you want to support the development of this plugin, please consider a donation."
+msgstr "Easy Photo Album foi baixado %s vezes! Agradecemos muito pelo uso deste plugin. Se Você deseja apoiar o desenvolvimento deste plugin, favor considerar uma doação de valores."
+
+#: EPA_about.php:102
+msgid "You can also contribute by creating documentation or by translating this plugin into your language."
+msgstr "Você também pode contribuir pela manutenção ou tradução deste plugin em seu idioma."
+
+#: EPA_about.php:107
+msgid "Title versus Caption"
+msgstr "Título versus Legenda"
+
+#: EPA_about.php:108
+msgid "You can see two fields for each image on the album edit screen. The title field and the caption field. The title is just a short name, so you know about what the image is when you read the title. The caption is a short description of the image. Easy Photo Album uses the caption for the text under the images."
+msgstr "Você pode ver dois campos para cada imagem na teça de edição do álbum. O campo do título e o campo da legenda. O título é apenas uma abreviação, assim Você sabe algo sobre a imagem quando Você lê o título. A legenda é uma curta descrição da imagem. Easy Photo Album usa a legenda para o texto abaixo das imagens."
+
+#: EPA_about.php:111
+msgid "Featured image and comments support"
+msgstr "Imagem caracterizada e suporte de comentários"
+
+#: EPA_about.php:112
+msgid "This means that you can set a featured image for an album. How it will be used, depends on your theme."
+msgstr "Isto significa que Você pode definir uma imagem que identifica um álbum. Como será usado, depende do tema."
+
+#: EPA_about.php:113
+msgid "Get feedback on your albums. Comments on albums are now supported and look and feel the same as normal post comments."
+msgstr "Obtenha comentários de retorno sobre os seus álbuns. Comentários sobre os álbuns agora são suportados e se parecem como comentários de postagens normais."
+
+#: EPA_about.php:119
+msgid "And further on"
+msgstr "E mais adiante"
+
+#: EPA_about.php:123
+msgid "Bugfixes"
+msgstr "Correções de erros"
+
+#: EPA_about.php:124
+msgid "We fixed one bug in this release. See the %2$schangelog%3$s."
+msgid_plural "We fixed %1$s bugs in this release. See the %2$schangelog%3$s."
+msgstr[0] "Corrigimos um erro neste versão. Veja o %2$s registro de mudanças%3$s."
+msgstr[1] "Corrigimos %1$s erros nesta versão. Veja o %2$sregistro de mudanças%3$s."
+
+#: EPA_about.php:127
+msgid "Support"
+msgstr "Suporte"
+
+#: EPA_about.php:128
+msgid "Do you have a question, a bug found or a feature request? Report it at the %1$ssupport forums%2$s."
+msgstr "Tem alguma dúvida, encontrou um erro ou uma solicitação de novo recurso? Divulgar nos %1$s fóruns de ajuda%2$s"
+
+#: EPA_about.php:131
+msgid "Translation"
+msgstr "Tradução"
+
+#: EPA_about.php:132
+msgid "This translation is made by: %s."
+msgstr "Tradução realizada por:%s"
+
+#: EPA_about.php:132
+msgctxt "Translators: insert your name here (with link if you want)"
+msgid "TV productions"
+msgstr "Produções de TV"
+
+#: EPA_about.php:143
+msgid "Go to Settings &rarr; Easy Photo Album"
+msgstr ""
+
+#: EPA_about.php:147
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ir para Painel &rarr; Início"
+
+#: EPA_about.php:147
+msgid "Go to Dashboard"
+msgstr "Ir para o painel"
+
+#: easy-photo-album.php:195
+msgid "Settings"
+msgstr "Configurações"
+
+#: easy-photo-album.php:196
+msgid "About"
+msgstr "Sobre"
+
+#: easy-photo-album.php:212
+msgid "Property not found Exception in EasyPhotoAlbum: property \"%s\" isn&#39;t valid."
+msgstr ""
+
+#: easy-photo-album.php:240
+msgctxt "Example: Image 4 of 6, so {0} is the current image number and {1} is the total number of images."
+msgid "Image {0} of {1}"
+msgstr ""
+
+#. #-#-#-#-#  easy-photo-album.pot (Easy Photo Album 1.3.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: easy-photo-album.php:359
+msgid "This plugin makes it very easy to create and manage photo albums. The albums are responsive and display in a lightbox. You can help by submit bugs and request new features at the plugin page at wordpress.org."
+msgid_plural "This plugin makes it very easy to create and manage photo albums. The albums are responsive and display in a lightbox. You can help by submit bugs and request new features at the plugin page at wordpress.org."
+msgstr[0] ""
+msgstr[1] ""
+
+#: js/tinymce/langs.php:32
+msgid "Insert a Photo Album"
+msgstr "Inserir um Álbum de Foto"
+
+#: js/tinymce/langs.php:33
+msgid "Select an album to insert"
+msgstr "Selecionar um álbum a inserir"
+
+#: js/tinymce/langs.php:34
+msgid "Show the title"
+msgstr "Mostrar o título"
+
+#: js/tinymce/langs.php:35
+msgctxt "Like: Display album full OR Display album excerpt"
+msgid "Display album"
+msgstr "Visualizar álbum"
+
+#: js/tinymce/langs.php:36
+msgctxt "Display album excerpt"
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: js/tinymce/langs.php:37
+msgctxt "Display album full"
+msgid "Full"
+msgstr "Completo"
+
+#: js/tinymce/langs.php:38
+msgctxt "button text"
+msgid "Insert"
+msgstr "Inserir"
+
+#: js/tinymce/langs.php:39
+msgctxt "button text"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: js/tinymce/langs.php:40
+msgctxt "Loading dialog title"
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: js/tinymce/langs.php:41
+msgid "Loading albums ..."
+msgstr "Carregando álbuns..."
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Photo Album"
+msgstr "Easy Photo Album"
+
+#. Author of the plugin/theme
+msgid "TV productions"
+msgstr "Produções de TV"
+
+#. Author URI of the plugin/theme
+msgid "http://tv-productions.org/"
+msgstr "http://tv-productions.org/"
