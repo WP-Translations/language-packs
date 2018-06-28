@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Auto Teaser\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Александр Сизов <sizovaleksandrserg@gmail.com>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/auto-teaser/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-07-24 02:33+0700\n"
+"PO-Revision-Date: 2017-09-20 11:55:33\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/hooks.php:31
+#: ../includes/settings.php:23
+msgid "Auto Teaser settings"
+msgstr "Настройки Auto Teaser"
+
+#: ../includes/hooks.php:31
+msgid "Auto Teaser"
+msgstr "Auto Teaser"
+
+#: ../includes/settings.php:27
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: ../includes/settings.php:36
+msgid "Teaser format"
+msgstr "Формат тизера"
+
+#: ../includes/settings.php:40
+msgid "Enter teaser format..."
+msgstr "Введите формат тизера..."
+
+#: ../includes/settings.php:41
+#, php-format
+msgid "%s characters"
+msgstr "%s символов"
+
+#: ../includes/settings.php:43
+msgid "Defines the way the teaser is being displayed. <strong>HTML allowed</strong>."
+msgstr "Определяет, как будет отображаться тизер. <strong>HTML разрешен</strong>."
+
+#: ../includes/settings.php:46
+msgid "Show preview"
+msgstr "Показать превью"
+
+#: ../includes/settings.php:47
+msgid "Hide preview"
+msgstr "Скрыть просмотр"
+
+#: ../includes/settings.php:47
+msgid "Show placeholders"
+msgstr "Показать заполнители"
+
+#: ../includes/settings.php:48
+msgid "Hide placeholders"
+msgstr "Скрыть заполнители"
+
+#: ../includes/settings.php:59
+msgid "Administrator"
+msgstr "Администратор"
+
+#: ../includes/settings.php:63
+msgid "Travel reports"
+msgstr "Отчеты о поездках"
+
+#: ../includes/settings.php:64
+msgid "Blog"
+msgstr "Блог"
+
+#: ../includes/settings.php:65
+msgid "All posts"
+msgstr "Все посты"
+
+#: ../includes/settings.php:109
+msgid "The generated teaser."
+msgstr "Сгенированный тизер."
+
+#: ../includes/settings.php:116
+msgid "Post's excerpt."
+msgstr "Отрывок поста."
+
+#: ../includes/settings.php:123
+msgid "Permalink (URL) to the current post."
+msgstr "Постоянная ссылка (URL) на этот пост"
+
+#: ../includes/settings.php:132
+msgid "Author of the post"
+msgstr "Автор публикации"
+
+#: ../includes/settings.php:139
+msgid "The total number of comments."
+msgstr "Общее количество комментариев."
+
+#: ../includes/settings.php:146
+msgid "Post's categories separated with commas."
+msgstr "Категории постов, разделённые запятыми."
+
+#: ../includes/settings.php:157
+msgid "First found category post is saved in."
+msgstr "Первое найденное сообщение категории сохраняется."
+
+#: ../includes/settings.php:167
+msgid "Teaser split style"
+msgstr "Тизерный стиль разделения"
+
+#: ../includes/settings.php:174
+msgid "Paragraphs"
+msgstr "Параграфы"
+
+#: ../includes/settings.php:175
+msgid "Sentences"
+msgstr "Выражения"
+
+#: ../includes/settings.php:176
+msgid "Words"
+msgstr "Слова"
+
+#: ../includes/settings.php:177
+msgid "Characters"
+msgstr "Символы"
+
+#: ../includes/settings.php:178
+msgid "Custom"
+msgstr "Настраиваемый"
+
+#: ../includes/settings.php:189
+msgid "How should Auto Teaser split the teaser?"
+msgstr "Как Auto Teaser разделяет тизер?"
+
+#: ../includes/settings.php:194
+msgid "before"
+msgstr "до"
+
+#: ../includes/settings.php:194
+msgid "after"
+msgstr "после"
+
+#: ../includes/settings.php:196
+#, php-format
+msgid "Split %s finding"
+msgstr "Разделить %s найденого"
+
+#: ../includes/settings.php:200
+#: ../includes/settings.php:263
+msgid "Show"
+msgstr "Показать"
+
+#: ../includes/settings.php:210
+msgid "Replace default excerpt"
+msgstr "Заменить отрывок по умолчанию"
+
+#: ../includes/settings.php:215
+#: ../includes/settings.php:230
+msgid "Yes"
+msgstr "Да"
+
+#: ../includes/settings.php:217
+#: ../includes/settings.php:233
+msgid "No"
+msgstr "Нет"
+
+#: ../includes/settings.php:218
+msgid "Displays the auto teaser wherever WordPress' native <code>the_excerpt()</code> or <code>get_the_excerpt()</code> is being called."
+msgstr "Отображает автоматический тизер везде, где родной WordPress 1 Выдержка 1 или 2 Получить отрывок 2 Вызывается."
+
+#: ../includes/settings.php:225
+msgid "Allow HTML"
+msgstr "Разрешить HTML"
+
+#: ../includes/settings.php:236
+msgid "Only allowed tags"
+msgstr "Только разрешенные теги"
+
+#: ../includes/settings.php:239
+msgid "E.g.: p, div, br"
+msgstr "Например: p, div, br"
+
+#: ../includes/settings.php:240
+msgid "Defines whether HTML is allowed inside the teaser or not. Separate allowed tags with commas."
+msgstr "Определяет, разрешен ли HTML внутри тизера или нет. Разделяйте допустимые теги запятыми."
+
+#: ../includes/settings.php:247
+msgid "Exclude post IDs"
+msgstr "Исключить ID постов"
+
+#: ../includes/settings.php:251
+msgid "E.g.: 13, 84, 194"
+msgstr "Например: 13, 84, 194"
+
+#: ../includes/settings.php:252
+msgid "Post IDs Auto Teaser will ignore. Separate multiple IDs with commas."
+msgstr "Auto Teaser проигнорирует ID постов. Разделяйте несколько ID постов запятыми."
+
+#: ../includes/settings.php:259
+msgid "Backup teaser"
+msgstr "Резервное копирование"
+
+#: ../includes/settings.php:265
+msgid "full post content"
+msgstr "полный контент поста"
+
+#: ../includes/settings.php:266
+msgid "post excerpt"
+msgstr "отрывок поста"
+
+#: ../includes/settings.php:267
+msgid "custom text"
+msgstr "настраиваемый текст"
+
+#: ../includes/settings.php:268
+msgid "nothing"
+msgstr "ничего"
+
+#: ../includes/settings.php:272
+msgid "Enter your custom text..."
+msgstr "Введите свой текст..."
+
+#: ../includes/settings.php:275
+msgid "What to display in case the auto teaser could not be generated."
+msgstr "Что показывать, если невозможно создать автоматический тизер."
+
+#: ../includes/settings.php:280
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../includes/settings.php:286
+#, php-format
+msgid "Found an error? Help making Auto Teaser better by <a href=\"%s\" title=\"Click here to report a bug\" target=\"_blank\">quickly reporting the bug</a>."
+msgstr "Нашли ошибку? Помогите сделать Auto Teaser лучше <a href=\"%s\" title=\"Нажмите здесь, чтобы отправить отчёт об ошибке\" target=\"_blank\">быстро отправив отчёт об ошибке</a>."
