@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Forking\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/post-forking\n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/post-forking/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-10-09 21:40:33+00:00\n"
+"PO-Revision-Date: 2017-12-21 12:20:13\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin.php:124
+#: includes/admin.php:127
+msgid "Fork updated."
+msgstr "Fork güncellendi."
+
+#: includes/admin.php:125
+msgid "Custom field updated."
+msgstr "Özel alan güncellendi."
+
+#: includes/admin.php:126
+msgid "Custom field deleted."
+msgstr "Özel alan silindi."
+
+#: includes/admin.php:128
+msgid "Fork restored to revision from %s"
+msgstr "Fork %s tashihi üzerinden restore edildi"
+
+#: includes/admin.php:129
+msgid "Fork published. <a href=\"%s\">Download Fork</a>"
+msgstr "Fork yayımlandı. <a href=\"%s\">Forku İndir</a>"
+
+#: includes/admin.php:130
+msgid "Fork saved."
+msgstr "Fork saklandı."
+
+#: includes/admin.php:131
+msgid "Fork submitted."
+msgstr "Fork gönderildi."
+
+#: includes/admin.php:132
+msgid "Fork scheduled for:"
+msgstr "Fork şu tarihe ayarlandı:"
+
+#: includes/admin.php:133
+msgid "Fork draft updated."
+msgstr "Fork taslağı güncellendi."
+
+#: includes/admin.php:168
+msgid "Create branch"
+msgstr "Dal oluştur"
+
+#: includes/admin.php:168
+#: includes/merge.php:79
+#: includes/merge.php:262
+#: templates/post-meta-box.php:4
+msgid "Fork"
+msgstr "Fork"
+
+#: includes/admin.php:174
+#: templates/fork-meta-box.php:3
+msgid "Compare"
+msgstr "Karşılaştır"
+
+#: includes/diff.php:44
+msgid "Compare a Fork to its parent"
+msgstr "Bir Forku kaynağıyla karşılaştır"
+
+#: includes/diff.php:81
+msgid "Invalid type for right side; must be a fork."
+msgstr "Sağ taraf için geçersiz tip; bir fork olmalı."
+
+#: includes/diff.php:96
+msgid "Failed to save"
+msgstr "Saklama başarısız"
+
+#: includes/merge.php:50
+msgid "You are not authorized to merge forks"
+msgstr "Forkları birleştirmeye yetkili değilsiniz"
+
+#: includes/merge.php:79
+#: includes/merge.php:262
+msgid "Current Version"
+msgstr "Geçerli Sürüm"
+
+#: includes/options.php:83
+msgid "Fork Settings"
+msgstr "Fork Ayarları"
+
+#: includes/options.php:83
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: post-forking.php:110
+#: post-forking.php:121
+msgctxt "post-forking"
+msgid "Forks"
+msgstr "Forklar"
+
+#: post-forking.php:111
+msgctxt "post-forking"
+msgid "Fork"
+msgstr "Fork"
+
+#: post-forking.php:114
+msgctxt "post-forking"
+msgid "Edit Fork"
+msgstr "Forku Düzenle"
+
+#: post-forking.php:115
+msgctxt "post-forking"
+msgid "New Fork"
+msgstr "Yeni Fork"
+
+#: post-forking.php:116
+msgctxt "post-forking"
+msgid "View Fork"
+msgstr "Forku Görüntüle"
+
+#: post-forking.php:117
+msgctxt "post-forking"
+msgid "Search Forks"
+msgstr "Forklarda Ara"
+
+#: post-forking.php:118
+msgctxt "post-forking"
+msgid "No forks found"
+msgstr "Hiç fork bulunamadı"
+
+#: post-forking.php:119
+msgctxt "post-forking"
+msgid "No forks found in Trash"
+msgstr "Çöpte hiç fork bulunamadı"
+
+#: post-forking.php:120
+msgctxt "post-forking"
+msgid "Parent Fork:"
+msgstr "Fork Kaynağı:"
+
+#: post-forking.php:145
+msgctxt "post-forking"
+msgid "Merged"
+msgstr "Birleştirilmiş"
+
+#: post-forking.php:148
+msgid "Merged <span class=\"count\">(%s)</span>"
+msgid_plural "Merged <span class=\"count\">(%s)</span>"
+msgstr[0] "Birleştirilmiş <span class=\"count\">(%s)</span>"
+msgstr[1] "Birleştirilmiş <span class=\"count\">(%s)</span>"
+
+#: post-forking.php:279
+msgid "That post type does not support forking"
+msgstr "Bu gönderi tipi forklamayı desteklemiyor"
+
+#: post-forking.php:284
+msgid "You are not authorized to fork that post"
+msgstr "Bu gönderiyi forklamaya yetkili değilsiniz"
+
+#: templates/author-post-meta-box.php:2
+msgid "Create New Branch"
+msgstr "Yeni Dal Oluştur"
+
+#: templates/branches-dropdown.php:2
+msgid "Branch:"
+msgstr "Dal:"
+
+#: templates/branches-dropdown.php:3
+msgid "Original"
+msgstr "Asıl"
+
+#: templates/conflict-warning.php:5
+msgid "This fork cannot be merged with its parent post. Please resolve the conflict below before attempting to publish again, or use the <a href=\"%s\">interactive merge tool.</a>"
+msgstr "Bu fork kaynak gönderi ile birleştirilemiyor. Lütfen tekrar yayımlamayı denemeden önce aşağıdaki karmaşayı çözün veya <a href=\"%s\">etkileşimli birleştirme aracı</a>nı kullanın."
+
+#: templates/diff.php:31
+msgid "Compare Fork:"
+msgstr "Fork Karşılaştır:"
+
+#: templates/diff.php:32
+#: templates/fork-meta-box.php:3
+msgid "Forked from <a href=\"%1$s\">%2$s</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> kaynağından fork edilmiştir"
+
+#: templates/diff.php:43
+msgid "Manually Merge Fork"
+msgstr "Forku Elle Birleştir"
+
+#: templates/diff.php:45
+msgid "Clicking \"Manually Merge Fork\" will save your changes above to the original post and mark the fork as merged."
+msgstr "\"Forku Elle Birleştir\" 'e tıklamak yukarıdaki asıl gönderide yaptığınız değişiklikleri saklar ve forku da birleşmiş olarak işaretler."
+
+#: templates/fork-meta-box.php:9
+msgid "Save Fork"
+msgstr "Forku Sakla"
+
+#: templates/fork-meta-box.php:15
+msgid "Merge"
+msgstr "Birleştir"
+
+#: templates/options.php:7
+msgid "Fork Options"
+msgstr "Fork Seçenekleri"
+
+#: templates/options.php:12
+msgid "Post Types"
+msgstr "Gönderi Tipleri"
+
+#: templates/post-meta-box.php:2
+msgid "View Fork"
+msgstr "Forku Görüntüle"
+
+#. Plugin Name of the plugin/theme
+msgid "Post Forking"
+msgstr "Gönderi Forklama"
+
+#. Plugin URI of the plugin/theme
+msgid "http://postforking.wordpress.com"
+msgstr "http://postforking.wordpress.com"
+
+#. Description of the plugin/theme
+msgid "WordPress Post Forking allows users to \"fork\" or create an alternate version of content to foster a more collaborative approach to WordPress content curation."
+msgstr "WordPress Gönderi Forklama kullanıcılara \"fork etme\" veya içeriğin alternatif sürümünü oluşturmaya daha işbirlikçi yaklaşımla teşvik etme imkanı verir."
+
+#. Author of the plugin/theme
+msgid "Benjamin J. Balter, Daniel Bachhuber, Aaron Jorbin"
+msgstr "Benjamin J. Balter, Daniel Bachhuber, Aaron Jorbin (çeviri: mapazarbasi)"
