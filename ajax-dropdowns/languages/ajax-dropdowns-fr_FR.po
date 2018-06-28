@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Dropdowns\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/ajax-dropdowns/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-03-27 11:32+0200\n"
+"PO-Revision-Date: 2018-03-27 09:39:29\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: ajax-dropdowns.php\n"
+
+#: ajax-dropdowns.php:92
+msgid "Manage"
+msgstr "Gérer"
+
+#: ajax-dropdowns.php:103
+msgid "Dropdowns"
+msgstr "Listes déroulantes"
+
+#: ajax-dropdowns.php:104
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: ajax-dropdowns.php:105
+msgid "Add New Dropdown"
+msgstr "Ajouter une nouvelle liste déroulante"
+
+#: ajax-dropdowns.php:106
+msgid "Edit Dropdown"
+msgstr "Modifier la liste déroulante"
+
+#: ajax-dropdowns.php:107
+msgid "New Dropdown"
+msgstr "Nouvelle liste déroulante"
+
+#: ajax-dropdowns.php:108
+msgid "View Dropdown"
+msgstr "Afficher la liste déroulante"
+
+#: ajax-dropdowns.php:109
+msgid "Search Dropdowns"
+msgstr "Chercher des listes déroulantes"
+
+#: ajax-dropdowns.php:110
+msgid "No dropdowns found."
+msgstr "Aucune liste déroulante trouvée."
+
+#: ajax-dropdowns.php:111
+msgid "No dropdowns found in trash."
+msgstr "Aucune liste déroulante trouvée dans la corbeille."
+
+#: ajax-dropdowns.php:178
+msgid "Posts"
+msgstr "Articles"
+
+#: ajax-dropdowns.php:179
+msgid "Method"
+msgstr "Méthode"
+
+#: ajax-dropdowns.php:180
+msgid "Shortcode"
+msgstr "Code court"
+
+#: ajax-dropdowns.php:191
+msgid "Add a post to this dropdown"
+msgstr "Ajouter un article à cette liste déroulante"
+
+#: ajax-dropdowns.php:202
+#, php-format
+msgid "&mdash; Add All %1$s (%2$s) &mdash;"
+msgstr "&mdash; Ajouter tout %1$s (%2$s) &mdash;"
+
+#: ajax-dropdowns.php:218
+msgid "Title"
+msgstr "Titre"
+
+#: ajax-dropdowns.php:219
+msgid "Post Type"
+msgstr "Type de contenu"
+
+#: ajax-dropdowns.php:226
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+#: ajax-dropdowns.php:227
+msgid "Use the menu above to add a post to this dropdown."
+msgstr "Utiliser le menu ci-dessus pour ajouter un article à cette liste déroulante."
+
+#: ajax-dropdowns.php:241
+msgid "Drag and drop to reorder posts."
+msgstr "Glisser-déposer pour réorganiser les articles."
+
+#: ajax-dropdowns.php:245
+msgid "Love Ajax Dropdowns? Help spread the word by rating us 5★ on WordPress.org"
+msgstr "Vous aimez Ajax Dropdowns ? Faites passer le mot en nous donnant 5★ sur WordPress.org"
+
+#: ajax-dropdowns.php:257
+msgid "Copy this code and paste it into your post, page or text widget content."
+msgstr "Copiez ce code et collez-le dans le contenu de votre article, page ou widget de texte. "
+
+#: ajax-dropdowns.php:270
+msgid "Ajax"
+msgstr "Ajax"
+
+#: ajax-dropdowns.php:270
+msgid "Inline"
+msgstr "Inline"
+
+#: ajax-dropdowns.php:270
+msgid "URL Parameter"
+msgstr "Paramètre de l’URL"
+
+#: ajax-dropdowns.php:270
+msgid "Redirect"
+msgstr "Redirection"
+
+#: ajax-dropdowns.php:273
+msgid "Select the method to query posts."
+msgstr "Sélectionner la méthode de requête des articles."
+
+#: ajax-dropdowns.php:288
+msgid "Dropdown only (no content)"
+msgstr "Liste déroulante uniquement (pas de contenu)"
+
+#: ajax-dropdowns.php:333
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#. Plugin Name of the plugin/theme
+msgid "Ajax Dropdowns"
+msgstr "Ajax Dropdowns"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/ajax-dropdowns/"
+msgstr "http://wordpress.org/plugins/ajax-dropdowns/"
+
+#. Description of the plugin/theme
+msgid "Display a group of posts that can be switched using dropdowns."
+msgstr "Affichez un groupe d’articles qui peuvent être permuter en utilisant une liste déroulante."
+
+#. Author of the plugin/theme
+msgid "Brian Miyaji"
+msgstr "Brian Miyaji"
+
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com/"
+msgstr "http://themeboy.com/"
