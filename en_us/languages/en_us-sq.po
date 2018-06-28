@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WooCommerce Add-on\n"
+"Report-Msgid-Bugs-To: https://github.com/seb86/MailPoet-WooCommerce-Add-on/issues\n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: Albanian (http://www.transifex.com/wysija/mailpoet-woocommerce-add-on/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-11-06 07:54+0100\n"
+"PO-Revision-Date: 2017-11-30 16:36:39\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:62
+msgid "General"
+msgstr "Të përgjithshme"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:63
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:189
+msgid "Available Lists"
+msgstr "Lista të Mundshme"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:86
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet as they order. These settings control how your customers subscribe."
+msgstr "Tani klientët tuaj mund të pajtohen te buletinet që keni krijuar me MailPoet, teksa porositin. Këto rregullime kontrollojnë mënyrën se si pajtohen klientët tuaj."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:91
+msgid "Enable subscription?"
+msgstr "Të aktivizohet pajtimi?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:92
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr "I vini shenjë kësaj kutize që të aktivizohet pajtimi MailPoet gjatë pagimit."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr "Pajtime Në Disa Njëherësh?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:101
+#, php-format
+msgid "If you have more than one newsletter. Allow your customers to select which lists they wish to subscribe too. <a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Edit Lists</a> <a class=\"button\" href=\"%s\">Available Lists</a>"
+msgstr "Nëse keni më shumë se një buletin. Lejojuni klientëve tuaj të përzgjedhin se te cilat lista duan të pajtohen. <a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Përpunoni Lista</a> <a class=\"button\" href=\"%s\">Lista të Gatshme</a>"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:108
+msgid "No"
+msgstr "Jo"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:109
+msgid "Yes"
+msgstr "Po"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:115
+msgid "Enable Double Opt-in?"
+msgstr "Të aktivizohet Zgjedhje e Dyfishtë?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:116
+msgid "Controls whether a double opt-in confirmation message is sent, defaults to true."
+msgstr "Kontrollon nëse dërgohet a jo një mesazh ripohimi për zgjedhje të dyfishtë, parazgjedhja është po."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:124
+msgid "Default checkbox status"
+msgstr "Gjendje parazgjedhje për kutizën"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:125
+msgid "The default state of the subscribe checkbox. Be aware some countries have laws against using opt-out checkboxes."
+msgstr "Gjendja parazgjedhje e kutizës së pajtimit. Mos harroni që disa vende kanë ligje kundër përdorimit të kutizave për zgjedhje lënieje jashtë diçkaje."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:132
+msgid "Checked"
+msgstr "Me shenjë"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:133
+msgid "Un-checked"
+msgstr "Pa shenjë"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:139
+msgid "Subscribe checkbox label"
+msgstr "Etiketë kutize pajtimesh"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:140
+msgid "The text you want to display next to the \"Subscribe to Newsletter/s\" checkbox."
+msgstr "Teksti që doni të shfaqet në krah të kutizës \"Pajtohuni te Buletini/s\"."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:145
+#: includes/mailpoet-woocommerce-core-functions.php:95
+msgid "Yes, please subscribe me to the newsletter/s."
+msgstr "Po, ju lutem, më pajtoni te buletini/et."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:151
+msgid "Subscription Position"
+msgstr "Pozicion Pajtimi"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:152
+msgid "Select where on the checkout page you want to display the subscription sign-up."
+msgstr "Përzgjidhni ku doni të vendoset regjistrimi për pajtim te faqja e pagimit."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:158
+msgid "Before Billing Form"
+msgstr "Përpara Formularit të Faturimit"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:159
+msgid "After Billing Form"
+msgstr "Pas Formularit të Faturimit"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:160
+msgid "Before Shipping Form"
+msgstr "Përpara Formularit të Dërgimit"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:161
+msgid "After Shipping Form"
+msgstr "Pas Formularit të Dërgimit"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:162
+msgid "Before Order Notes"
+msgstr "Përpara Shënimesh Porosie"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:163
+msgid "After Order Notes"
+msgstr "Pas Shënimesh Porosie"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:164
+msgid "After Order Submit"
+msgstr "Përpara Parashtrimi Porosie"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:170
+msgid "Remove all data on uninstall?"
+msgstr "Të hiqen krejt të dhënat gjatë çinstalimit?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:171
+msgid "If enabled, all settings for this plugin will all be deleted when uninstalling via Plugins > Delete."
+msgstr "Në u aktivizoftë, krejt rregullimet për këtë shtojcë do të fshihen, kur ajo çinstalohet përmes Shtojcë > Fshije."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:191
+msgid "Simply tick the lists you want your customers to subscribe to or allow the customer to choose from and press \"Save changes\"."
+msgstr "Thjesht i vini shenjë listave në të cilat doni që të pajtohen klientët tuaj ose lejojini klientit të zgjedhe vetë dhe të shtypë \"Ruaji ndryshimet\"."
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:53
+msgid "Settings"
+msgstr "Rregullime"
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:77
+msgid "Documentation"
+msgstr "Dokumentim"
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:78
+msgid "Community Support"
+msgstr "Asistencë Nga Bashkësia"
+
+#: includes/admin/settings/mailpoet-lists.php:25
+msgid "Enabled"
+msgstr "E aktivizuar"
+
+#: includes/admin/settings/mailpoet-lists.php:26
+msgid "Newsletters"
+msgstr "Buletine"
+
+#: includes/admin/views/html-notice-requirement-mailpoet.php:9
+msgid "Hold on a minute. You need to <a href=\""
+msgstr "Pa dale një minutë. Ju duhet <a href=\""
+
+#: includes/admin/views/html-notice-requirement-wc.php:9
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce v"
+msgstr "Na ndjeni, <strong>%s</strong> lyp WooCommerce v"
+
+#: includes/admin/views/html-notice-requirement-wp.php:9
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade your WordPress setup."
+msgstr "Na ndjeni, <strong>%s</strong> lyp WordPress %s ose më të ri. Ju lutemi, përmirësoni instalimin tuaj të WordPress-it."
+
+#: includes/mailpoet-woocommerce-core-functions.php:69
+msgid "Subscribe to Newsletter/s"
+msgstr "Të pajtoheni te Buletini/et"
+
+#: includes/mailpoet-woocommerce-core-functions.php:144
+msgid "There appears to be a problem subscribing you to our newsletter/s. Please let us know so we can manually add you ourselves. Thank you."
+msgstr "Duket se ka një problem në pajtimin tuaj te buletini/et tanë. Ju lutemi, na e bëni të ditur, që kështu të mund t’ju shtojmë ne dorazi. Faleminderit."
+
+#: includes/mailpoet-woocommerce-core-functions.php:177
+msgid "We have sent you an email to confirm your newsletter subscription. Please confirm your subscription. Thank you."
+msgstr "Ju kemi dërguar një email që të ripohoni pajtimin tuaj në  buletin. Ju lutemi, ripohoni pajtimin tuaj. Faleminderit."
+
+#: includes/mailpoet-woocommerce-core-functions.php:182
+msgid "Thank you for subscribing to our newsletter/s."
+msgstr "Faleminderit për pajtimin në buletinin/et tanë."
+
+#: mailpoet-woocommerce-addon.php:83
+#: mailpoet-woocommerce-addon.php:95
+msgid "Cheatin’ huh?"
+msgstr "Po bëni me hile, hë?"
