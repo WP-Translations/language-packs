@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Forking\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/post-forking\n"
+"Last-Translator: Gregory Karpinsky <gregory@tiv.net>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/post-forking/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-10-09 21:40:33+00:00\n"
+"PO-Revision-Date: 2018-03-14 03:40:57\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: includes/admin.php:124
+#: includes/admin.php:127
+msgid "Fork updated."
+msgstr "Форк обновлён."
+
+#: includes/admin.php:125
+msgid "Custom field updated."
+msgstr "Поле изменено."
+
+#: includes/admin.php:126
+msgid "Custom field deleted."
+msgstr "Поле удалено."
+
+#: includes/admin.php:128
+msgid "Fork restored to revision from %s"
+msgstr "Форк восстановлен до версии от %s"
+
+#: includes/admin.php:129
+msgid "Fork published. <a href=\"%s\">Download Fork</a>"
+msgstr "Форк опубликован. <a href=\"%s\">Скачать форк</a>"
+
+#: includes/admin.php:130
+msgid "Fork saved."
+msgstr "Форк сохранён."
+
+#: includes/admin.php:131
+msgid "Fork submitted."
+msgstr "Форк опубликован."
+
+#: includes/admin.php:132
+msgid "Fork scheduled for:"
+msgstr "Форк запланирован на:"
+
+#: includes/admin.php:133
+msgid "Fork draft updated."
+msgstr "Черновик форка обновлён."
+
+#: includes/admin.php:168
+msgid "Create branch"
+msgstr "Создать ветвь"
+
+#: includes/admin.php:168
+#: includes/merge.php:79
+#: includes/merge.php:262
+#: templates/post-meta-box.php:4
+msgid "Fork"
+msgstr "Форк"
+
+#: includes/admin.php:174
+#: templates/fork-meta-box.php:3
+msgid "Compare"
+msgstr "Сравнить"
+
+#: includes/diff.php:44
+msgid "Compare a Fork to its parent"
+msgstr "Сравнить форк с его родителем"
+
+#: includes/diff.php:81
+msgid "Invalid type for right side; must be a fork."
+msgstr ""
+
+#: includes/diff.php:96
+msgid "Failed to save"
+msgstr "Не удалось сохранить"
+
+#: includes/merge.php:50
+msgid "You are not authorized to merge forks"
+msgstr "Вы не авторизованы для слияния форков"
+
+#: includes/merge.php:79
+#: includes/merge.php:262
+msgid "Current Version"
+msgstr "Текущая версия"
+
+#: includes/options.php:83
+msgid "Fork Settings"
+msgstr "Настройки форка"
+
+#: includes/options.php:83
+msgid "Settings"
+msgstr "Параметры"
+
+#: post-forking.php:110
+#: post-forking.php:121
+msgctxt "post-forking"
+msgid "Forks"
+msgstr "Форки"
+
+#: post-forking.php:111
+msgctxt "post-forking"
+msgid "Fork"
+msgstr "Форк"
+
+#: post-forking.php:114
+msgctxt "post-forking"
+msgid "Edit Fork"
+msgstr "Изменить форк"
+
+#: post-forking.php:115
+msgctxt "post-forking"
+msgid "New Fork"
+msgstr "Новый форк"
+
+#: post-forking.php:116
+msgctxt "post-forking"
+msgid "View Fork"
+msgstr "Просмотреть форк"
+
+#: post-forking.php:117
+msgctxt "post-forking"
+msgid "Search Forks"
+msgstr "Поиск форков"
+
+#: post-forking.php:118
+msgctxt "post-forking"
+msgid "No forks found"
+msgstr "Форков не найдено"
+
+#: post-forking.php:119
+msgctxt "post-forking"
+msgid "No forks found in Trash"
+msgstr "Форков в корзине не найдено"
+
+#: post-forking.php:120
+msgctxt "post-forking"
+msgid "Parent Fork:"
+msgstr "Родительский форк:"
+
+#: post-forking.php:145
+msgctxt "post-forking"
+msgid "Merged"
+msgstr "Слито"
+
+#: post-forking.php:148
+msgid "Merged <span class=\"count\">(%s)</span>"
+msgid_plural "Merged <span class=\"count\">(%s)</span>"
+msgstr[0] "Слит <span class=\"count\">(%s)</span>"
+msgstr[1] "Слито <span class=\"count\">(%s)</span>"
+msgstr[2] "Слито <span class=\"count\">(%s)</span>"
+msgstr[3] "Слито <span class=\"count\">(%s)</span>"
+
+#: post-forking.php:279
+msgid "That post type does not support forking"
+msgstr "Этот тип поста не поддерживает форкание"
+
+#: post-forking.php:284
+msgid "You are not authorized to fork that post"
+msgstr "Вы не авторизованы, чтобы форкать этот пост"
+
+#: templates/author-post-meta-box.php:2
+msgid "Create New Branch"
+msgstr "Создать новую ветвь"
+
+#: templates/branches-dropdown.php:2
+msgid "Branch:"
+msgstr "Ветвь:"
+
+#: templates/branches-dropdown.php:3
+msgid "Original"
+msgstr "Оригинал"
+
+#: templates/conflict-warning.php:5
+msgid "This fork cannot be merged with its parent post. Please resolve the conflict below before attempting to publish again, or use the <a href=\"%s\">interactive merge tool.</a>"
+msgstr ""
+
+#: templates/diff.php:31
+msgid "Compare Fork:"
+msgstr "Сравнить форк:"
+
+#: templates/diff.php:32
+#: templates/fork-meta-box.php:3
+msgid "Forked from <a href=\"%1$s\">%2$s</a>"
+msgstr "Форкнуто с <a href=\"%1$s\">%2$s</a>"
+
+#: templates/diff.php:43
+msgid "Manually Merge Fork"
+msgstr "Вручную слить форк"
+
+#: templates/diff.php:45
+msgid "Clicking \"Manually Merge Fork\" will save your changes above to the original post and mark the fork as merged."
+msgstr ""
+
+#: templates/fork-meta-box.php:9
+msgid "Save Fork"
+msgstr "Сохранить форк"
+
+#: templates/fork-meta-box.php:15
+msgid "Merge"
+msgstr "Объединить"
+
+#: templates/options.php:7
+msgid "Fork Options"
+msgstr "Опции форка"
+
+#: templates/options.php:12
+msgid "Post Types"
+msgstr "Типы записи"
+
+#: templates/post-meta-box.php:2
+msgid "View Fork"
+msgstr "Просмотреть форк"
+
+#. Plugin Name of the plugin/theme
+msgid "Post Forking"
+msgstr "Post Forking"
+
+#. Plugin URI of the plugin/theme
+msgid "http://postforking.wordpress.com"
+msgstr "http://postforking.wordpress.com"
+
+#. Description of the plugin/theme
+msgid "WordPress Post Forking allows users to \"fork\" or create an alternate version of content to foster a more collaborative approach to WordPress content curation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benjamin J. Balter, Daniel Bachhuber, Aaron Jorbin"
+msgstr "Benjamin J. Balter, Daniel Bachhuber, Aaron Jorbin"
