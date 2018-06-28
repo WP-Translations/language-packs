@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I Luv 2 Test\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/blogly-lite\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/iluv2test/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-28 13:39:36+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:37:29\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: archive.php:29
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: archive.php:37
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:40
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:43
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:49
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:52
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:55
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:58
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:61
+#: sidebar.php:29
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "% Comments"
+msgstr "% Comments"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31
+#: content-audio.php:31
+#: content-chat.php:35
+#: content-image.php:33
+#: content-link.php:31
+#: content-quote.php:29
+#: content-single.php:30
+#: content-status.php:31
+#: content.php:37
+#: single-quote.php:29
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-chat.php:41
+#: content-image.php:39
+#: content-link.php:37
+#: content-quote.php:35
+#: content-single.php:33
+#: content-status.php:37
+#: content.php:43
+#: single-quote.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-page.php:33
+#: content-single.php:16
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-page.php:43
+#: inc/template-tags.php:141
+#: inc/template-tags.php:179
+msgid "Edit"
+msgstr "Edit"
+
+#: footer.php:8
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/customizer.php:54
+#: inc/customizer.php:64
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:70
+msgid "Footer Logo"
+msgstr "Footer Logo"
+
+#: inc/customizer.php:77
+msgid "Colors"
+msgstr "Colors"
+
+#: inc/customizer.php:90
+msgid "Link color"
+msgstr "Link color"
+
+#: inc/customizer.php:103
+msgid "Accent color"
+msgstr "Accent color"
+
+#: inc/extras.php:134
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:75
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: inc/template-tags.php:95
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:161
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:369
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+
+#: inc/themesetup.php:29
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: no-results.php:25
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: no-results.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: no-results.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: no-results.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: sidebar.php:20
+msgid "Menu"
+msgstr "Menu"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "Blogly Lite"
+msgstr "Blogly Lite"
+
+#. Theme URI of the plugin/theme
+msgid "http://themefurnace.com/blog/portfolio/blogly-lite/"
+msgstr "http://themefurnace.com/blog/portfolio/blogly-lite/"
+
+#. Description of the plugin/theme
+msgid "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+msgstr "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
