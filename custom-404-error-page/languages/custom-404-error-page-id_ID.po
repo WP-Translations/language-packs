@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: eko ikhyar <ikhyar.com@gmail.com>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/custom-404-error-page/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:09:19\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "Halaman untuk Kesalahan 404 (Tidak Ditemukan)"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "Halaman kesalahan 404"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "Standar (templat 404.php)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "Pengaturan"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "Ubahsuaikan Halaman Kesalahan 404"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "Atur halaman apapun yang akan digunakan sebagai halaman kesalahan 404."
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
