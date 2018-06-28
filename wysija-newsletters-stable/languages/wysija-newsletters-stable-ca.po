@@ -1,0 +1,3219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-06-28T08:57:09+00:00\n"
+"PO-Revision-Date: 2018-05-21 20:21:29\n"
+"Language: \n"
+": El procediment d'actualització a la versió MailPoet "%1$s" ha fallat!\n"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Text aleatori o instruccions"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "El email no és vàlid!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "El subscriptor existeix. [link]Clica per editar[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Caram! Ja estaves subscrit."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Ui! No el podem afegir!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Nou subscriptor a %1$s"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr "Afortunadament,  El subscriptor %1$s s'ha subscrit a la llista \"%2$s\".  Felicitacions, El plugin Wysija"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "Un subscriptor menys a %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr "Afortunadament,  El subscriptor %1$s s'ha subscrit a la llista \"%2$s\".  Felicitacions,  El plugin Wysija"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "La llista \"%1$s\" s'ha sincronitzat."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "La llista no existeix o no pot ser sincronitzada."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Pàgina no accesible."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "El seu enllaç de confirmació ha caducat, si us plau subscrigui's de nou."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Estàs subscrit a: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Caram, t'has afegit a la nostra llista. Rebràs notícies nostres en breu."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Ja estaves subscrit a: %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Ja estaves subscrit."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Deixa caure el logo a la capçalera"
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Deixa caure la imatge del peu de pàgina."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Si deixes aquest camp buit, no es mostrarà quan enviïs el correu electrònic"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Clica aquí per afegir un títol o un text."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Alinear a l'esquerra"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Alinear al centre"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Alinear a la dreta"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Afegir enllaç/text alternatiu"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Eliminar enllaç"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Eliminar imatge"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Eliminar"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Editar text"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Eliminar text"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Titols i text"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Línia horitzontal"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Línia horitzontal personalitzada"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "Artícle WordPress"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Text"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Veure en el navegador\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Títol 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Títol 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Títol 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Enllaços"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "subratllar"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Text del peu"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Fons del peu"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Butlletí"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Fons"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Fons de capçalera"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Selecció Social Bookmark"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Selecció de divisor"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Estàs a punt d'esborrar el tema: %1$s. Estàs segur de voler fer-ho?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Afegir vincle i text alternatiu"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Mara aquesta casella si vols transparència"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Inseriu les dades dinàmiques sobre els seus subscriptors, el butlletí, la data d'avui, etc ..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Sel·lecció d'opcions"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Edita l'Últim Contingut Automàtic"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Només es pot afegir un giny en el disseny d'una notificació de missatge enviat immediatament després que un article sigui publicat"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Veure sense imatges"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Subscriptor"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Nom"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Cognoms"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Adreça de correu"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "Mostrar el nom d'usuari de WordPress"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Tots els subscriptors"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Assumpte del Butlletí"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Notificació d'entrades"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Nombre total d'entrades o pàgines"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Títol de l'última entrada"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Problema número"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Data"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Número del dia en curs del mes"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Dia en curs del mes en nom ordinal. ex. 2on, 3er, etc."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Nom del dia en curs"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Numero del mes en curs"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Nom del mes en curs"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Enllaç per donar-se de baixa"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Edita l'enllaç a la pàgina de subscripció"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Veure l'enllaç del navegador"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Camps Personalitzats"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Guardant estil per defecte"
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Estil per defecte guardat"
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Seleccionar com a estil per defecte"
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Inserir bloc aquí"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Programat"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Confirma la teva subscripció a %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Hola!\n"
+"\n"
+"¡Visca! T'has subscrit al butlletí de la nostra pàgina.\n"
+"Però encara no s'ha acabat, necessitem que activis la teva subscripció a la llista(es): [lists_to_confirm] fent clic a l'enllaç de sota:\n"
+"\n"
+"[activation_link]Feu clic aquí per confirmar la subscripció.[/activation_link] \n"
+"\n"
+"Gràcies, de part del nostre Equip!\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Problemes de visualitzacio? [link]Mira aquest butlletí al teu navegador.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Sí, afegeix-me a la llista."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Qui pot crear els butlletins?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Qui gestiona els subscriotors?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Qui pot canviar la configuració de MailPoet?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Qui oir veure la fitxa de plantilles al editor visual?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Qui pot veure la fitxa d'estils al editor visual?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "buït"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "El <strong>correu electrònic</strong> que has introduït (%1$s) no és una adreça vàlida."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "El <strong>correu electrònic</strong> de resposta que has introduït (%1$s) no és una adreça vàlida."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "La configuració s'ha desat."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Utilitza `view_in_browser_link` en el seu lloc."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Veure"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "L'últim butlletí s'està enviant."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "El teu butlletí automàtic ha estat activat."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Nom"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Descripció"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Activat"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Endreçant"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "No hi ha cap llista per enviar-ho."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Estat"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Creat el"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Feu clic aquí per cancel·lar la seva subscripció"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Click here to subscribe"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "Adreça IP"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Data de subscripció"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "shortcode per pàgina d'arxiu"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Enganxa aquest shortcode a la pàgina que vilguis mostrar el llistat dels anteriors butlletins."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Ui! No hi han butlletins per mostrar."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Visualitza en una nova pestaña"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Upps! Alguna cosa ha fallat en activar el cron de Mailpoet."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Upps! Alguna cosa ha fallat en desactivar el cron de Mailpoet."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "No enviar tard"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet pot visitar el teu lloc cada 15, <strong>simplement com  un treball \"cron\"</strong>, per assegurar-se que els seus missatges de correu electrònic s'envien a temps."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Els usuaris Premium són visitats cada 5 minuts"
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... o [link] configuració d'un treball cron en el teu servidor[/link] alternativament."
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "La màgia està passant..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Esperant a la priemra visita!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Veure els detalls."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Deshabilita-ho."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "En uns minuts, veuràs l'hora de la nostra darrera visita aquí."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Configuració del cron de la part del servidor"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Primer, configuri una ordre en el seu servidor per a visitar la URL de les nostres rutines planificades."
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Vet aquí un exemple d'una ordre de configuració en el teu servidor:"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "Per a d'altres exemples d'ordres, comprobi [link]aquest article[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "Per a un millor control, pots configurar un treball cron per rutina"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Enviant"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Gestió dels rebots"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Diari"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Setmanal"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Mensual"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "No, gràcies!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "OK, ho he configurat"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Esperant a la primera visita del teu treball cron!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Comprobar ara."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "La teva tasca cron està corrent!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Upps, alguna cosa ha fallat."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Veure les instruccions de configuració"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Tornar a la pàgina de \"Configuració\""
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Upps! No es pot connectar al servidor de Mailpoet ara mateix. Podriem estar caiguts o vostè està darrera un proxy o un firwall."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "La última visita ha estat fa uns pocs segons."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "La última visita ha estat  fa %1$s minuts."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "La última visita ha estat fa %1$s minut."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Hi ha un problema! Mailpoet.com no ha pogut visitar el teu lloc, perquè:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Vostè està en una intranet. Necessitarà configurar el seu treball cron."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "El teu .htaccess, firewall o servidor està bloquejant la nostra IP (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Configuri [link]el seu treball cron[/link] en canvi."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "O demana al teu webmaster ajuda!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "La rutina d'enviament comença en:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "La rutina de gestió dels rebots comença en:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "La rutina diaria comença en:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "La rutina setmanal comença en:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "La rutina mensual comença en:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Activat!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "En cua"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "No enviats"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Retornats"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Enviar"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Oberts"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Oberts i clicats"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Obert i No subscrit"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Tarifa"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Millors enllaços"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Enllaç"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Clics únics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Total clics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Actualment veient"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Vore suscriptors"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Enviat el"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Llistes"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "De"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Respondre a"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Bot"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "El subscriptor ha obert %1$s de %2$s missatges "
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "El subscriptor ha obert %1$s de %2$s missatge "
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Clica'ts"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Dispositiu"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Data obertura"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Data d'enviament"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Esborrar"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Accions en bloc"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Aplicar"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Página %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "de %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Dividir subscriptors en %1$s pàgines."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Subscriptors a mostrar per pàgina:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Modifica"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Afegeix"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Tots els butlletins"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Cerca butlletins"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Enrere"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Crea un nou correu electrònic"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "...o duplica'n un per copiar el diseny."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Tot"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Esborrany"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Pausat"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Butlletins per defecte."
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Butlletins automàtics"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Mostra els mesos"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Visualitza per llistes"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filtra"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Tots els enviats"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "En Cua"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Eviament fallit"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Sense obrir"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Oberts"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Clicats"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Amb aquest segment"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Treu-lo de la cua"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Crea una nova llista"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Donar-se de baixa de totes les llistes"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Donar-se de baixa de la llista: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Obrir, clicar, donats de baixa"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Modificats el"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Enviat a"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Enviats a %1$s fora de %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s fora de %2$s enviats."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Programants per enviar en %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Programants per enviar el %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Visualitzar"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Estadistiques"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Següent a enviar en %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Següent a enviar el %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Enviar diariament cada %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Enviar setmanalment cada %1$s a %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Enviar mensualment cada dia %1$s a %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Enviar mensualment cada dia %1$s %2$s a %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "si hi ha nou contingut"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pausa"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "No actiu"
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Reprendre"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "No enviat encara"
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Envia immediatament."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Enviar immediatament després que algú es subscrigui a la llista de correu %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Enviat %2$s després que algú es subscrigui a la llista de correu %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "qualsevol rol"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Enviat immediatament després que un nou usuari s'afegit al lloc com %1$s."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Enviat %2$s després que un nou usuari s'ha afegit al lloc com %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Enviar per esdeveniment"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Enviat to %1$s subscribers."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "L'últim lot de missatges de correu electrònic ha de començar a enviar-se de forma automàtica en els pròxims minuts."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Temps restant: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s correu(s) programat(s)."
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "L'últim lot s'ha enviat fa %1$s."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "No esperis i envia-ho ara mateix."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Per reprendre l'enviament [link]fes-te Prèmium ara![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "visualitza els vincles amb una [link]llicència Prèmium[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Cerca destinataris"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Estat dels correus"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Estat dels subscriptors"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Clicat a"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Subscrits a"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Mosta estaístiques o edita"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Quin tipus de butlletí és aquest?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Enviat automàticament ..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Línia d'assumpte"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Aquest és l'assumpte del correu electrònic. Sigues creatiu, ja que és la primera cosa que veuran els teus subscriptors."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "¡Caram! Pot ser que el teu navegador sigui incompatible. Aconseguiex els últims  [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer [/linkie] o [linksafari]Safari[/linksafari]. Et sembla que funciona correctament? [link_ignore]Ignira-ho[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Desa i activa"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Següent pas"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Contingut"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Imatges"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Estils"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Temes"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Arrosega els ginys a sota del teu butlletí."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Últim Contingut Automàtic"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Social bookmarks"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Insereix imatges"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Afegeix més plantilles"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "La nostra barra de eines no carrega?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Conflicte"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Sembla que un complement d'un tercer dona problemes amb el nostre tema o interfaç. [link]Llegir més.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Envia avanç"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Desa els canvis"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "torna el pas 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Si confirmes el canvi de tema, s'anul·larà la capçalera, peu de pàgina, els divisors i els estils"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Sigues creatiu! Això és el primer que veuran els subscriptors. Tempta'ls a obrir el correu."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Quan..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "La lllista de subscriptors que s'usarà per la campanya."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "De"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Nom i correu personal o de l'empresa."
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Nom i correu electrònic de resposta"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Quan els subscriptors cliquen a \"respondre\" els sortirà aquest correu."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Planifica-ho"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ignorar aquestos suscriptors"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "No enviar als suscriptors actuals, tan sols a futurs"
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Desa com a borrador i tanca"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "o simplement [link]torna al disseny[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "L'hora local és <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Butlletí estàndard"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Butlletí automàtic"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Afegit"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Adreça:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Text alternatiu:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Aquest text es mostra quan el sistema de correu bloca les imatges, que pasa gairebé sempre."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Carrega Plantilla (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Guia[/link] per crear la teva propia plantilla."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Gratuït"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "Mida màxima total per la pujada d'arxius: %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Si existeix un tema amb el mateix nom, es sobreescriurà."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Cerca"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Insereix sel·leccionats"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Quin resum usarà? [link]Llegeix més[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Mostra..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "resum"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "article sencer"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "només títol"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Format del títol"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "capçalera 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "capçalera 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "capçalera 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "mosta com a llista"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Posició del títol"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "al bloc de text"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "sobre el bloc de text i la imatge"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Alineació del títol"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "esquerra"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "centrat"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "dreta"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Alineació de la imatge"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "Alterna esquera i dreta"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "sense imatge"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Amplada de la imatge"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Inclou autor"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "no"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "sobre el contingut"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "sota el contingut"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Precedit per:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Inclou categories"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "Text \"Llegeix més\""
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Color del fons"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Insereix cua d'opcions"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Llista-ho per"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "nous"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "antics"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Mostra divisor entre articles"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "si"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Color de fons alternatiu amb"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Fet"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Tipus de publicacions"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Nombre d'articles màxim a mostrar"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "I taxonomies, així ..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Seleccioni ..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Tamany:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "petit"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "mitjà"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "El navegador del dispositiu no es pot usar per carregar arxius. Prova d'utilitzar <a href=\"http://wordpress.org/extend/mobile/\">l'aplicació nativa per al dispositiu</a>."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Ho sentim, has omplert la teva quota d'emmagatzematge (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Arxius permesos"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Deixa anar els arxius aquí"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "o"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Selecciona arxius"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Mida màxima de càrrega d'arxius: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "El teu navegador té algunes limitacions per carregar arxius grans via el carregador multi-arxiu. Utilitzeu el carregador del navegador per arxius de més de 100 MB."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Actualitza el teu Wordpress a l'última versió, per disposar de l'últim carregador."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Escull arxius per pujar"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Cancel·la la càrrega"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Màxim tamany d'arxiu a pujar: %d%s "
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Si vols utilitzar totes les capacitats del carregador, com pujar diversos arxius alhora, si us plau actualitzat a lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Aquesta fitxa s'omple d'imatges dels teus butlletins actuals i anteriors."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Aquesta fitxa s'omple d'imatges de les teves entrades de WordPress."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Benvingut a %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Gràcies! Ara porta'm a MailPoet."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "Has sigut usuari de MailPoet durant %s."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Wav! Gràcies per formar part de la nostra comunitat per tant de temps."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Has actualitzat! És com tenir el l'últim gadget, però millor."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Una pregunta ràpida..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Subscriu-te als nostres butlletins de notícies"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Manté aquest complement essencialment gratuït"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "T'agraden els gatets?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "En agraden les estrelles..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Cada vegada que un dels nostres usuaris s'oblida d'escriure una crítica, un gatet mor. És trist i se't trenca el cor. [link]Dóna la teva opinió[/link], i avui, salva un gatet."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Segueix-nos y no et perdis res!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Amaga!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Canviar registre"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Ha actualitzat a %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Ei! Tenim una pregunta ràpida per a tu:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Si confirma això, s'esborraran totes les seves dades MailPoet actuals (butlletins, temes, estadístiques, llistes de subscriptors, etc.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Confirmeu reinstal·lació"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Aquesta funció no funciona quan la de \"Comentaris\" del Jetpack està habilitada."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "El registre está deshabilitat al site."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Els subscriptors podem escollir entre les següents llistes:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Enviaré una feina programada al meu servidor per executar-la amb la freqüencia que jo desitje. Llegir sobre [link] programar una feïna amb cron[/link]"
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Utilitza aquesta URL per al teu cron: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "No, gràcies! Tinc bastants visitants al meu lloc. Les seves visites activaran cron MailPoet automàticament."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Sóc un usuari Premium, MailPoet.com s'assegurarà de que els meus correus electrònics són enviats a temps."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Si vols, pots [link]crear una tasca programada addicional[/link] per mirar d'augmentar la freqüència d'enviament."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Si vull puc [link]crear una tasca programada addicional[/link] per augmentar la freqüència."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Configura les DNS afegint una clau/valor en un registre TXT com es mostra a continuació."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Llegir més"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Clau"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Valorr"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Estàs emprant una clau DKIM antiga de Gmail sense suport."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Necesitaras actulitzar les teves DNS si t'actualitzes."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Actualitza la clau DKIM"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domini"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Rols i permisos"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Vuere tots"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Quan algú es subscriu"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Quan algú cancel·la la subscripció"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Resum diari de correus electrònics enviats"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "No"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Si"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Essencial"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Formularis"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Confirmació de registre"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Envia amb..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Avançat"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Complements"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Desar ajustos"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Adreça de l'empresa"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Aquesta és l'adreça de correu que apareixerà al peu de pàgina del butlletí. Això ajuda a evitar els filtres d'spam."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "Correu de notificacions"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Introdueix les adresses de correu que rebran notificacions (separades per comes)."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Remitent de les notificacions"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Escull el nom de FROM i l'adreça de correu per les notificacions dels correus."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Subscriure als comentaris"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Els visitants que deixin un comentari als articles podran clicar a una casella de verificació per subscriure's."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Subscripció amb un formulari"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Permet als usuaris registrats de subscriure's a les llistes que escullin."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Enllaç a la versió del navegador"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Es mostra a la part superior dels seus butlletins. No t'oblidis d'incloure l'etiqueta d'enllaç, p.e.: [link]l'Enllaç[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Text de l'enllaç \"Donar-se de baixa\"Això canvia l'etiqueta de l'enllaç per donar-se de baixa en el peu de pàgina dels seus butlletins."
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Això canvia l'etiqueta de l'enllaç per donar-se de baixa en el peu de pàgina dels teus butlletins."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Pàgina per Donar-se de baixa"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Un subscriptor es dirigeix ​​a una pàgina de la seva elecció després de fer clic a l'enllaç per donar-se de baixa, a la part inferior d'un butlletí de notícies."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Habilitar confirmació de registre"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Evitar que les persones es subscriguin a la seva llista de mala gana, aquesta opció assegura que vostè mantingui una llista neta."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Més informació."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "Assumpte del correu"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "Contingut del correu"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "No oblidis d'inserir: <br><br>[activation_link]Confirma la teva subscripció.[/activation_link]. <br><br>Opcional: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Pàgina de Confirmació"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Quan els subscriptors, facin clic a l'enllaç d'activació, se'ls redirigeix ​​a una pàgina de la seva elecció."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Métode en xarxa"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Métode establert per l'administrador de la xaraxa"
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Sense configurar!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "El teu lloc web"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "La solució més senzilla per llistes petites. El teu host estableix el límit d'enviaments diaris."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Terceres parts"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Envia amb un servei SMTP professional, és la millor opció per a grans i petites llistes. Hem negociat ofertes promocionals amb alguns proveïdors per tu."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Mètode de lliurament"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Envia tu mateix alguns correus de proba per confirmar que aquest mètode funciona amb el teu servidor."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Aquest motor de correus funciona amb el 95&#37; del servidors"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Aquest mètode funciona amb el 5&#37; del servidors"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Ruta Sendmail"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Utilitzeu el mateix mètode que l'utilitzat per al seu lloc WP."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP hostname"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "p.e.:smtp.mydomain.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Usuari"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Paraula de pas"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Activar si els ports SMTP són blocats."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "Port SMTP"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Connexió segura"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Autentificació"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Deixa aquesta opció en Si. Només un petita porció de serveis et demanarà de desactivar l'autenticiació."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Mètode d'assaig"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Envia un correu de proba"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Enviar..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "El teu hosting té límits. Et suggerim 70 correus per hora per estar-ne segurs. [link]Informa-te'n[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "correus electrònics"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Això és rapidessa!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Suggerim que configuri un treball cron. [link]Llegir més [/link] a support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "Clau d'API"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Es pot canviar el nom i el email de la resposta predeterminada pels butlletins. Aquesta opció també s'utilitza per als correus d'activació i les notificacions a l'administrador (en Essensials)."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Correu retornat"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "A quina adreça es desen els missatges rebotats? Gestiona'ls automàticament amb la [link]versió Prèmium[/link]."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Compra la versió Prèmium."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Els subscriptors poden editar el seu perfil"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Afegeix un enllaç al peu de pàgina de totes els teus butlletins així els subscriptors poden editar les seves llistes i perfils. [link]Veure teva pàgina de perfil.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Visualitza pàgina"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Pàgina de Perfils d'Usuaris "
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Seleccioneu la pàgina per mostrar el perfil del subscriptor."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Permet editar HTML"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Això permet que modificar el HTML o els blocs de text en l'editor visual."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Comparteix dades anónimes"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Comparteix dades anónimes per ajudar-nos a millorar el connector. [link]Llegir-ne més[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "altres"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "art"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "negocis"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "educació"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "comerç electrònic"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "alimentació"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "assegurances"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "govern"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "salut i esports"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "fabricació"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "màrqueting i mitjans de comunicació"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "sense ànim de lucre"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotografia"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "viatjes"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "inmobiliaris"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "religiós"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "tecnologia"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "Indústria"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Seleciona el camp empresarial. "
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Shortcode per mostrar el nombre total de subscriptors"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Enganxa aquest codi curt per mostrar el nombre de subscriptors confirmats al butlletí en una pàgina o entrada."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Caràcters"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Quadrats o caràcters estranys apareixen en els teus correus? Selecciona la codificació corresponent al teu idioma."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Habilitar el Cron de MailPoet"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Cap dels correus en cua s'ha enviat? Doncs activa aquesta opció."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Mode de depuració"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Activa això per mostrar errors de MailPoet. El nostre suport pot demanar-li que activar aquesta opció si vostè necessita la seva ajuda."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Fer o no fer. No hi ha cap intent."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Opcions Geeky"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Estendre Opcions Geeky"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Amagar"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Mostra"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Torneu a instal·lar des de zero"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Vols començar de nou? Això netejarà MailPoet i el reinstal·larà de nou."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Reinstal·la ara..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Sel·lecciona la teva configuració preferida?"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Una configuració per tots els llocs web"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Força tots els llocs web a enviar amb una única adreça de correu DESDE. Només necessites configurar el Gestor Automatic de Rebots (Prèmium), SPF & DKIM un sol cop."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Els usuaris poden canviar l'adreça de resposta del seu butlletí. Els administradir de xarxa poden editar el sistema d'enviamente per cada lloc."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Configura cada lloc individualment"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Configureu SPF i DKIM de forma independent per a cada lloc."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Configuració i Permisos"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Permetre que els administradors canviin el mètode d'enviament."
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Permetre que els administradors desactivar la Confirmació de Subscripció."
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Mètode d'enviament per defecte"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF i DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "El teu registre SPF"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "DE adreça email per als llocs que utilitzen aquest mètode"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Crear un nou formulari"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Cap llista especificada"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Tria de l'usuari: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Editar formulari"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Caram! Per editar un formulari, cal tenir almenys 1 llista."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Afegeix una llista"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Editar nom"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Llista de formularis"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Aquest formulari afegeix subscriptors a les llistes:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Seleccioneu una llista"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Després d'enviar..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "mostra missatge"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "anar a la pàgina"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Pots afegir aquest formulari al teu blog de forma senzilla als [link]Widgets[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] les versions també estan disponibles."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Entrada de text"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Àrea de text"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Botons de selecció"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Casella de verificació"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Seleccionar"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Seleccioneu un tipus de camp:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "El nom del camp:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Agegir paragrafs de forma automática"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Nombre de línies:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Selecciona la llista que vols afegir:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Any, mes, dia"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Any, mes"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Mes (Gener, Febrer,...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Tipus de data:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Afegir element"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Etiqueta:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Visualitza l'etiqueta del camp:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Ordre:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Preselecció de la data d'avui:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "És un camp obligatori?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Només números"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Només lletres"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Alfanumèric"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Número de telèfon, (+, -, #, (,) i espais permesos)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Validar per:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Res"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "L'experiència més dolça de la nostre Premium"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Totes les estadístiques en un únic quadre de comandaments"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Veure captura de pantalla completa"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Tenir millora diversió"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Veure els principals butlletins de notícies, els millors dels subscriptors, els millors enllaços, els millors llistes i els millors dominis en una mateixa pantalla. Es pot vèncer als seus butlletins anteriors?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Augmenti seus subscriptors"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "¿La meva forma de barra lateral aconseguir més subscriptors que el que està al peu de pàgina? És el moment de descobrir-ho."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Comparar passat i present"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Estàs fent millor ara que fa 3 mesos? Seleccioneu un rang de dates per revelar els canvis en els seus resultats."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Arribar a les seves safates d'entrada"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Obtingui la seva puntuació d'spam en un clic, mentre que vostè està dissenyant el seu butlletí de notícies gràcies a [link]mail-tester[/link], la nostra i molt popular eina interna."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Els filtres de correu brossa estimen DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Afegir una signatura DKIM per als seus butlletins de notícies per augmentar la capacitat de lliurament dels seus butlletins de notícies. [link]Llegiu la guia de configuració.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Anem configurar-ho"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "El nostre equip internacional i amable l'ajudarà a optimitzar la seva configuració en els detalls, i assegurar-se que està tot a punt per sortir. Responem a preguntes en menys de 10h de mitjana. Bastant ràpid!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatitzar les coses avorrides"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Deixeu que el complement tregui les <strong>adreces no vàlides i rebotades</strong> automàticament. [link]Veure la guia.[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "D'altra banda, MailPoet comprova cada 15 minuts el teu lloc, <strong>la mateixa manera que un treball \"cron\"</strong>, per assegurar-se que els seus missatges de correu electrònic s'envien a temps. No hi ha configuració involucrada!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 dies de devolució de diners"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Una gran manera de provar Premium. Ningú ha de ser bloquejat, mai."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "El gatet és només per omplir l'espai en blanc. Es veu amb gana, no? Ens encanten els gatets."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "No més límits de 2.000 subscriptors"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "La versió lliure limita a 2.000 subscriptors confirmats l'enviament dels seus butlletins de notícies. El Premium elimina aquest límit."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "I més..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Sapigueu el que passa als seus subscriptors una vegada que arriben al seu lloc, gràcies a la campanya de seguiment de Google Analytics"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Estadístiques detallades per a cada subscriptor"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Estadístiques d'enllaços oberts per cada butlletí de notícies"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Blocaire"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Autònom"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Agència"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "cada any"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Lloc web Individual"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Quatre Llocs web"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Llocs web il·limitats"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Preparat per Multilloc."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Comprar ara"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Ja has pagat?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Té alguna pregunta sobre vendes? [link]Poseu-vos en contacte[/link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Superviseu tot amb més estadístiques"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Buscant respostes? Per què tal i cual campanya va funcionar tan bé? Quin és el teu formulari de subscripció més eficient? Obtenir una imatge clara amb el nostre tauler amb noves estadístiques! [link] Obtingui el quadre de comandament d'estadístiques a Premium. [/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Neteja automàticament la llista de correu"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Enviar com un professional i seguir tenint ALTA reputació al seu servidor. Gràcies a la nostra avançada eina de neteja de llistes, vostè pot finalment evitar l'enviament a adreces de correu electrònic no vàlids o antics. [link]Mantenir la seva llista neta amb Premium.[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Enviar a una freqüència més alta"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Sabies que... És millor enviar menys missatges de correu electrònic a freqüències més altes. Fes-te Premium i farem ping al seu lloc cada 15 minuts fent que els seus missatges de correu electrònic s'enviïn sense problemes en aquesta freqüència. [link]Enviar millor amb Premium.[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Oblida't dels límits"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Eliminar el límit de 2.000 subscriptors de la versió gratuïta, i enviar a tants subscriptors com vulgui. [link]Treieu aquest límit! [/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Investigui els seus principals subscriptors"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Descobreixi quins enllaços són els millors en cada butlletí. Sapigueu quins dels subscriptors són els seus fans número u i obtingui detalls avançats sobre ells. [link]Obtingui més dades amb Premium. [/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Obtingui suport més ràpid"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Vés a la cua, anar directament a la nostra safata d'entrada de prioritat. [link]Obtenir el suport més ràpid amb Premium.[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Obtenir més temes"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "No és bo el joc de colors? No et preocupis, treballem amb els millors dissenyadors de primera classe per proporcionar-li un munt de temes, els més nous són exclusius Premium. [link]Obtenir més temes a Premium.[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Segueixi als seus lectors dins de Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Verifiqui el que fan els seus subscriptors una vegada que els porta al seu lloc i millorar la seva taxa de retenció. [link]Controla els teus lectors amb GA a Premium.[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 dies de garantia feliç"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Encara té dubtes sobre el nostre producte i el nostre equip de 9? Sense estrès, estem prou segurs com per donar-li 30 dies per provar-ho. Te'ls tornem en un instant si no ets feliç. [link] Fes-te Premium ara sense estrès.[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Sigui productiu gràcies a Premium!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Comptem amb 3 llicències diferents disponibles per satisfer les seves necessitats:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Per %s a l'any, aconsegueixi 1 lloc web amb cobertura Premium."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Aconsegueix-lo ara!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Auntònom"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Per %s a l'any, aconsegueixi 4 llocs web amb cobertura Premium."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Per %s a l'any, doni a tots els seus llocs web cobertura Premium."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Llegeix les notres [link]condicions d'us[/link] són senzilles i fàcils d'entendre."
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Estadístiques quadre de comandament"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "A"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Té comentaris sobre el contingut d'aquestes estadístiques? [link]Poseu-vos en contacte amb nosaltres[/link] directament per fer-nos saber els seus comentaris."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Llistes i subcriptors"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Cerca subcripstors"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Torna a llistes"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Edita les llistes"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Importa"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Exporta"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Sense llistat"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Mai obert o fet clic"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Eliminar aquest subscriptor per sempre?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Eliminar aquests subscriptors per sempre?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Moure a la lllista"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Afegir a la llista"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Esborrar de la llista"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Esborrar-los tots de la llista"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Eliminar subscriptors"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Confirmar suscriptors no confirmats"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Torneu a enviar correu electrònic de confirmació"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Veure totes les llistes"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Subscriptors en cap llista"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Darrer obert"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Darrer clic"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "S'han seleccionat tots els suscriptors d'aquesta página"
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Seleccionar els %1$s suscriptors"
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Tots els %1$s suscriptors s'han seleccionat"
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Esborrar selecció"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Llistats on el subscriptor està subscrit."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Selecciona una llista"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Format"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "Arxiu CSV"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel per Windows"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Exporta solament subscriptors confirmats"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Llista de camps a exportar"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Desubscrit en %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Nota:. Esbrina quins subscriptors obren i fan clic amb la [link]versió Prèmium[/link]"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Data de creació"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Actualitza"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Obté tots els usuaris MS"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Per al teu ús personal, no ho mostris mai als teus subscriptors."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Actualitar llista"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Afegir llista"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Com vols importar?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Copia i enganxa en un quadre de text"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Carrega un fitxer"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Importa desde %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "A continuació, enganxa la llista aquí"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Això ha d'estar en format CSV o enganxant simple de Gmail, Hotmail o Yahoo. Veure [link] exemples al nostre lloc de suport [/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Això ha d'estar en format CSV. Veure [link]exemples al nostre lloc de suport[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Aquests subscriptors t'han preguntat d'estar a la teva llista?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Si la resposta és \"no\", considera't un spammer."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Llegir més en support.mailpoet.com [/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Dades d'ajust"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Ignora la columna ..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Importat com \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Importat com \"%1$s\" com a camp de data"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Comproveu que la data en blau coincideix amb l'original."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "No coincidir amb un 'camp de data' si la major part de les files de la columna retornen el mateix error."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Error data coincident."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Escull una o més llistes"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Tria les llistes a les que vols importar els subscriptors."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Llista nova"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Escriu el nom de la nova llista"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Nota:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "els subscriptors rebran \"%1$s\" després de la importació."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Importa els %1$s subscriptors des del connector: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Insereix formulari"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Les teves llistes"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "Formulari de subscripció de MailPoet"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Subscripció des del butlletí."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Comprova la safata d'entrada per confirmar la teva subscripció."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Estàs subscrit correctament."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Títol:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Per subscriuret al nostre butlletí de notícies només has d'afegir el teu correu electrònic. T'enviarem un correu de confirmació!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Anem a seleccionar els teus subscriptors de les llistes:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Pregunta per:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Mostra les etiquetes de les entrades"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Etiqueta de botó:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Missatge d'èxit:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "Versió iframe"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Selecciona un formulari:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet Newsletters"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "Crear i enviar butlletins o correus automàticament. Capturar subscriptors amb un giny. Importar i gestionar les seves llistes. Mailpoet és un plugin dolç mantingut i suportat per l'amor de un equip d'una dotzena de persones"
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
