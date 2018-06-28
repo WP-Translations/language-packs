@@ -1,0 +1,1004 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stargazer\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/stargazer\n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/stargazer/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-25 01:32:45+00:00\n"
+"PO-Revision-Date: 2017-11-09 16:56:21\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: comment/comment.php:7
+#: comment/ping.php:5
+msgid "%s ago"
+msgstr "%s назад"
+
+#: comment/comment.php:8
+#: comment/ping.php:6
+#: content/link.php:38
+#: content/quote.php:28
+#: content/status.php:46
+#: library/functions/deprecated.php:432
+#: library/functions/deprecated.php:520
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: content/aside.php:25
+#: content/audio.php:27
+#: content/chat.php:33
+#: content/content.php:24
+#: content/gallery.php:25
+#: content/image.php:27
+#: content/link.php:25
+#: content/quote.php:15
+#: content/status.php:23
+#: content/video.php:27
+msgid "Posted in %s"
+msgstr "В рубрике  %s"
+
+#: content/aside.php:26
+#: content/audio.php:28
+#: content/chat.php:34
+#: content/content.php:25
+#: content/gallery.php:26
+#: content/image.php:28
+#: content/link.php:26
+#: content/quote.php:16
+#: content/status.php:24
+#: content/video.php:28
+msgid "Tagged %s"
+msgstr "Теги %s"
+
+#: content/attachment-audio.php:27
+#: inc/stargazer.php:374
+msgid "Audio Info"
+msgstr "Аудио информация"
+
+#: content/attachment-image.php:22
+msgid "Sizes: %s"
+msgstr "Размеры: %s"
+
+#: content/attachment-image.php:59
+msgid "Image Info"
+msgstr "Информация об изображении"
+
+#: content/attachment-image.php:70
+msgid "Gallery"
+msgstr "Галерея"
+
+#: content/attachment-video.php:27
+#: inc/stargazer.php:418
+msgid "Video Info"
+msgstr "Информация о видео"
+
+#: content/error.php:4
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: content/error.php:8
+msgid "Apologies, but no entries were found."
+msgstr "Извините, но ничего не найдено."
+
+#: content/gallery.php:50
+msgid "This gallery contains %s item."
+msgid_plural "This gallery contains %s items."
+msgstr[0] "В этой галерее содержится %s элемент."
+msgstr[1] "В этой галерее содержится %s элемента."
+msgstr[2] "В этой галерее содержится %s элементов."
+msgstr[3] "В этой галерее содержится %s элементов."
+
+#. Translators: 1 is current year, 2 is site name/link, 3 is WordPress
+#. name/link, and 4 is theme name/link.
+#: footer.php:18
+msgid "Copyright &#169; %1$s %2$s. Powered by %3$s and %4$s."
+msgstr "Авторское право &#169; %1$s %2$s. Разработано %3$s и %4$s."
+
+#: functions.php:60
+msgid "1 Column Wide"
+msgstr "1 Увеличить Ширину Колонки"
+
+#: functions.php:61
+msgid "1 Column Narrow"
+msgstr "1 Уменьшить Ширину Колонки"
+
+#: functions.php:62
+msgid "2 Columns: Content / Sidebar"
+msgstr "2 колонки: контент/боковая панель"
+
+#: functions.php:63
+msgid "2 Columns: Sidebar / Content"
+msgstr "2 колонки: боковая панель/контент"
+
+#: inc/custom-colors.php:231
+msgid "Primary Color"
+msgstr "Основной Цвет"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:50
+msgid "Horizon"
+msgstr "Перспектива"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:56
+msgid "Orange Burn"
+msgstr "Orange Blue"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:62
+msgid "Blue Planets"
+msgstr "Blue Planets"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:68
+msgid "Planet Burst"
+msgstr "Planet Burst"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:74
+msgid "Space Splatters"
+msgstr "Space Splatters"
+
+#: inc/stargazer.php:83
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr "Первичные"
+
+#: inc/stargazer.php:84
+msgctxt "nav menu location"
+msgid "Secondary"
+msgstr "Вторичные"
+
+#: inc/stargazer.php:85
+msgctxt "nav menu location"
+msgid "Social"
+msgstr "Социальные сети"
+
+#: inc/stargazer.php:100
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Первичные"
+
+#: inc/stargazer.php:101
+msgid "The main sidebar. It is displayed on either the left or right side of the page based on the chosen layout."
+msgstr "Основная панель. Показывается слева или справа, в соответствии с выбранной компановкой"
+
+#: inc/stargazer.php:108
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr "Дополнительный"
+
+#: inc/stargazer.php:109
+msgid "A sidebar located in the footer of the site. Optimized for one, two, or three widgets (and multiples thereof)."
+msgstr "Боковая панель расположена в подвале сайта. Она оптимизирована для одного, двух, и даже трех виджетов (и кратных им)"
+
+#: library/admin/meta-box-post-template.php:45
+msgid "Template"
+msgstr "Шаблон"
+
+#. Translators: %s is the theme name.
+#: library/admin/theme-settings.php:132
+#: library/admin/theme-settings.php:198
+msgid "%s Theme Settings"
+msgstr "%s Настройки темы"
+
+#: library/admin/theme-settings.php:133
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: library/classes/customize-control-background-image.php:43
+msgctxt "theme customizer tab"
+msgid "Default"
+msgstr "По умолчанию"
+
+#. Translators: Media dimensions - 1 is width and 2 is height.
+#: library/classes/hybrid-media-meta.php:154
+#: library/classes/hybrid-media-meta.php:277
+#: library/functions/template-media.php:102
+msgid "%1$s &#215; %2$s"
+msgstr "%1$s &#215; %2$s"
+
+#: library/classes/hybrid-media-meta.php:155
+#: library/classes/hybrid-media-meta.php:277
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: library/classes/hybrid-media-meta.php:161
+#: library/classes/widget-pages.php:158
+msgid "Date"
+msgstr "Дата"
+
+#: library/classes/hybrid-media-meta.php:165
+msgid "Camera"
+msgstr "Камера"
+
+#: library/classes/hybrid-media-meta.php:169
+msgid "Aperture"
+msgstr "Диафрагма"
+
+#. Translators: Camera focal length.
+#: library/classes/hybrid-media-meta.php:174
+msgid "%s mm"
+msgstr "%s мм"
+
+#: library/classes/hybrid-media-meta.php:174
+msgid "Focal Length"
+msgstr "Фокусное расстояние"
+
+#: library/classes/hybrid-media-meta.php:180
+msgid "International Organization for Standardization"
+msgstr "Международная организация по стандартизации"
+
+#: library/classes/hybrid-media-meta.php:180
+msgid "ISO"
+msgstr "ISO"
+
+#. Translators: Camera shutter speed. "sec" is an abbreviation for "seconds".
+#: library/classes/hybrid-media-meta.php:199
+msgid "%s sec"
+msgstr "%s сек"
+
+#: library/classes/hybrid-media-meta.php:199
+msgid "Shutter Speed"
+msgstr "Выдержка"
+
+#: library/classes/hybrid-media-meta.php:218
+#: library/classes/hybrid-media-meta.php:272
+msgid "Run Time"
+msgstr "Run Time"
+
+#: library/classes/hybrid-media-meta.php:222
+msgid "Artist"
+msgstr "Исполнитель"
+
+#: library/classes/hybrid-media-meta.php:226
+msgid "Composer"
+msgstr "Композитор"
+
+#: library/classes/hybrid-media-meta.php:230
+msgid "Album"
+msgstr "Альбом"
+
+#: library/classes/hybrid-media-meta.php:234
+msgid "Track"
+msgstr "Трек"
+
+#: library/classes/hybrid-media-meta.php:238
+msgid "Year"
+msgstr "Год"
+
+#: library/classes/hybrid-media-meta.php:242
+msgid "Genre"
+msgstr "Жанр"
+
+#: library/classes/hybrid-media-meta.php:245
+#: library/classes/hybrid-media-meta.php:280
+msgid "File Name"
+msgstr "Название файла"
+
+#: library/classes/hybrid-media-meta.php:249
+#: library/classes/hybrid-media-meta.php:284
+msgid "File Size"
+msgstr "Размер файла"
+
+#: library/classes/hybrid-media-meta.php:253
+#: library/classes/hybrid-media-meta.php:288
+msgid "File Type"
+msgstr "Тип файла"
+
+#: library/classes/hybrid-media-meta.php:257
+#: library/classes/hybrid-media-meta.php:292
+msgid "Mime Type"
+msgstr "Mime Type"
+
+#: library/classes/widget-archives.php:32
+msgid "An advanced widget that gives you total control over the output of your archives."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением архивов."
+
+#: library/classes/widget-archives.php:44
+#: library/classes/widget-archives.php:146
+#: library/extensions/breadcrumb-trail.php:181
+#: library/functions/template-general.php:318
+msgid "Archives"
+msgstr "Архивы"
+
+#: library/classes/widget-archives.php:83
+msgid "Select Year"
+msgstr "Выберите год"
+
+#: library/classes/widget-archives.php:86
+msgid "Select Month"
+msgstr "Выберите месяц"
+
+#: library/classes/widget-archives.php:89
+msgid "Select Week"
+msgstr "Выберите неделю"
+
+#: library/classes/widget-archives.php:92
+msgid "Select Day"
+msgstr "Выберите день"
+
+#: library/classes/widget-archives.php:95
+msgid "Select Post"
+msgstr "Выберите сообщение"
+
+#: library/classes/widget-archives.php:161
+msgid "Alphabetical"
+msgstr "По алфавиту"
+
+#: library/classes/widget-archives.php:162
+msgid "Daily"
+msgstr "День"
+
+#: library/classes/widget-archives.php:163
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+#: library/classes/widget-archives.php:164
+msgid "Post By Post"
+msgstr "Ответить сообщением"
+
+#: library/classes/widget-archives.php:165
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: library/classes/widget-archives.php:166
+msgid "Yearly"
+msgstr "Ежегодно"
+
+#: library/classes/widget-archives.php:171
+#: library/classes/widget-authors.php:141
+#: library/classes/widget-bookmarks.php:182
+#: library/classes/widget-bookmarks.php:194
+#: library/classes/widget-categories.php:171
+#: library/classes/widget-pages.php:152
+#: library/classes/widget-tags.php:186
+msgid "Ascending"
+msgstr "Возрастающий"
+
+#: library/classes/widget-archives.php:172
+#: library/classes/widget-authors.php:142
+#: library/classes/widget-bookmarks.php:183
+#: library/classes/widget-bookmarks.php:195
+#: library/classes/widget-categories.php:172
+#: library/classes/widget-pages.php:153
+#: library/classes/widget-tags.php:187
+msgid "Descending"
+msgstr "Убывающий"
+
+#: library/classes/widget-archives.php:177
+msgid "Custom"
+msgstr "Настраиваемый"
+
+#: library/classes/widget-archives.php:178
+msgid "HTML"
+msgstr "HTML"
+
+#: library/classes/widget-archives.php:179
+msgid "Option"
+msgstr "Варианты"
+
+#: library/classes/widget-archives.php:185
+#: library/classes/widget-authors.php:160
+#: library/classes/widget-bookmarks.php:217
+#: library/classes/widget-calendar.php:108
+#: library/classes/widget-categories.php:195
+#: library/classes/widget-nav-menu.php:131
+#: library/classes/widget-pages.php:178
+#: library/classes/widget-search.php:144
+#: library/classes/widget-tags.php:207
+msgid "Title:"
+msgstr "Наименование:"
+
+#: library/classes/widget-archives.php:229
+#: library/classes/widget-authors.php:208
+msgid "Show post count?"
+msgstr "Показывать количество записей?"
+
+#: library/classes/widget-authors.php:32
+msgid "An advanced widget that gives you total control over the output of your author lists."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением архивов автора."
+
+#: library/classes/widget-authors.php:44
+#: library/classes/widget-authors.php:123
+msgid "Authors"
+msgstr "Авторы"
+
+#: library/classes/widget-authors.php:146
+msgid "Display Name"
+msgstr "Отображать Имя"
+
+#: library/classes/widget-authors.php:147
+msgid "Email"
+msgstr "Эл. почта"
+
+#: library/classes/widget-authors.php:148
+#: library/classes/widget-bookmarks.php:188
+#: library/classes/widget-bookmarks.php:199
+#: library/classes/widget-categories.php:177
+#: library/classes/widget-pages.php:159
+msgid "ID"
+msgstr "Идентификатор"
+
+#: library/classes/widget-authors.php:149
+msgid "Nice Name"
+msgstr "Красивое имя"
+
+#: library/classes/widget-authors.php:150
+msgid "Post Count"
+msgstr "По количеству сообщений"
+
+#: library/classes/widget-authors.php:151
+msgid "Registered"
+msgstr "Зарегистрирован"
+
+#: library/classes/widget-authors.php:152
+#: library/classes/widget-bookmarks.php:211
+msgid "URL"
+msgstr "URL"
+
+#: library/classes/widget-authors.php:153
+msgid "Login"
+msgstr "Войти"
+
+#: library/classes/widget-authors.php:186
+#: library/classes/widget-categories.php:166
+#: library/classes/widget-tags.php:182
+msgid "List"
+msgstr "Список"
+
+#: library/classes/widget-authors.php:186
+#: library/classes/widget-categories.php:167
+msgid "None"
+msgstr "Никакого"
+
+#: library/classes/widget-authors.php:204
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+
+#: library/classes/widget-authors.php:212
+msgid "Exclude admin?"
+msgstr "Исключить админа?"
+
+#: library/classes/widget-authors.php:216
+msgid "Show full name?"
+msgstr "Показать полное имя?"
+
+#: library/classes/widget-authors.php:220
+#: library/classes/widget-categories.php:298
+#: library/classes/widget-tags.php:318
+msgid "Hide empty?"
+msgstr "Скрыть пустые?"
+
+#: library/classes/widget-bookmarks.php:32
+msgid "An advanced widget that gives you total control over the output of your bookmarks (links)."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением ваших закладок (ссылки)."
+
+#: library/classes/widget-bookmarks.php:44
+#: library/classes/widget-bookmarks.php:86
+#: library/classes/widget-bookmarks.php:150
+msgid "Bookmarks"
+msgstr "Закладки"
+
+#: library/classes/widget-bookmarks.php:187
+#: library/classes/widget-categories.php:176
+#: library/classes/widget-tags.php:192
+msgid "Count"
+msgstr "Счетчик"
+
+#: library/classes/widget-bookmarks.php:189
+#: library/classes/widget-bookmarks.php:202
+#: library/classes/widget-categories.php:178
+#: library/classes/widget-tags.php:193
+msgid "Name"
+msgstr "Имя"
+
+#: library/classes/widget-bookmarks.php:190
+#: library/classes/widget-categories.php:179
+#: library/classes/widget-pages.php:162
+msgid "Slug"
+msgstr "Ярлык"
+
+#: library/classes/widget-bookmarks.php:200
+msgid "Description"
+msgstr "Описание"
+
+#: library/classes/widget-bookmarks.php:201
+msgid "Length"
+msgstr "Длина"
+
+#: library/classes/widget-bookmarks.php:203
+msgid "Notes"
+msgstr "Заметки"
+
+#: library/classes/widget-bookmarks.php:204
+msgid "Owner"
+msgstr "Владелец"
+
+#: library/classes/widget-bookmarks.php:205
+#: library/classes/widget-tags.php:188
+msgid "Random"
+msgstr "Случайно"
+
+#: library/classes/widget-bookmarks.php:206
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: library/classes/widget-bookmarks.php:207
+msgid "Rel"
+msgstr "Rel"
+
+#: library/classes/widget-bookmarks.php:208
+#: library/classes/widget-categories.php:187
+msgid "RSS"
+msgstr "RSS"
+
+#: library/classes/widget-bookmarks.php:209
+msgid "Target"
+msgstr "Цель"
+
+#: library/classes/widget-bookmarks.php:210
+msgid "Updated"
+msgstr "Обновлено"
+
+#: library/classes/widget-bookmarks.php:319
+msgid "Categorize?"
+msgstr "Классифицировать?"
+
+#: library/classes/widget-bookmarks.php:323
+msgid "Show description?"
+msgstr "Показать описание?"
+
+#: library/classes/widget-bookmarks.php:327
+msgid "Hide invisible?"
+msgstr "Скрыть невидимым?"
+
+#: library/classes/widget-bookmarks.php:331
+msgid "Show rating?"
+msgstr "Показать рейтинг?"
+
+#: library/classes/widget-bookmarks.php:335
+msgid "Show updated?"
+msgstr "Показать обновления?"
+
+#: library/classes/widget-bookmarks.php:339
+msgid "Show images?"
+msgstr "Показать картинки?"
+
+#: library/classes/widget-bookmarks.php:343
+msgid "Show name?"
+msgstr "Показать имя?"
+
+#: library/classes/widget-bookmarks.php:347
+msgid "Show private?"
+msgstr "Показать личные данные?"
+
+#: library/classes/widget-calendar.php:32
+msgid "An advanced widget that gives you total control over the output of your calendar."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением календаря."
+
+#: library/classes/widget-calendar.php:44
+#: library/classes/widget-calendar.php:99
+msgid "Calendar"
+msgstr "Календарь"
+
+#: library/classes/widget-calendar.php:113
+msgid "One-letter abbreviation?"
+msgstr "Использовать аббревиатуры?"
+
+#: library/classes/widget-categories.php:32
+msgid "An advanced widget that gives you total control over the output of your category links."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением категорий."
+
+#: library/classes/widget-categories.php:44
+#: library/classes/widget-categories.php:136
+msgid "Categories"
+msgstr "Категории"
+
+#: library/classes/widget-categories.php:180
+msgid "Term Group"
+msgstr "Сортировать Категории ссылок по Названию/ID/Короткой ссылке/Количесву/Период группы"
+
+#: library/classes/widget-categories.php:185
+msgid "Atom"
+msgstr "Записи из любой ленты RSS или Atom"
+
+#: library/classes/widget-categories.php:186
+msgid "RDF"
+msgstr "RDF"
+
+#: library/classes/widget-categories.php:188
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: library/classes/widget-categories.php:286
+#: library/classes/widget-pages.php:277
+msgid "Hierarchical?"
+msgstr "Иерархия?"
+
+#: library/classes/widget-categories.php:290
+msgid "Use description?"
+msgstr "Использовать описания?"
+
+#: library/classes/widget-categories.php:294
+msgid "Show count?"
+msgstr "Показывать количество?"
+
+#: library/classes/widget-nav-menu.php:32
+msgid "An advanced widget that gives you total control over the output of your menus."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением меню."
+
+#: library/classes/widget-nav-menu.php:44
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: library/classes/widget-nav-menu.php:108
+#: menu/primary.php:10
+#: menu/secondary.php:6
+msgid "Navigation"
+msgstr "Навигация"
+
+#: library/classes/widget-pages.php:32
+msgid "An advanced widget that gives you total control over the output of your page links."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением страниц."
+
+#: library/classes/widget-pages.php:44
+#: library/classes/widget-pages.php:125
+msgid "Pages"
+msgstr "Страницы"
+
+#: library/classes/widget-pages.php:157
+msgid "Author"
+msgstr "Автор"
+
+#: library/classes/widget-pages.php:160
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: library/classes/widget-pages.php:161
+#: library/classes/widget-pages.php:169
+msgid "Modified"
+msgstr "Изменения"
+
+#: library/classes/widget-pages.php:163
+msgid "Title"
+msgstr "Заголовок"
+
+#: library/classes/widget-pages.php:168
+msgid "Created"
+msgstr "Создан"
+
+#: library/classes/widget-search.php:33
+msgid "An advanced widget that gives you total control over the output of your search form."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением формы поиска."
+
+#: library/classes/widget-search.php:45
+#: library/classes/widget-search.php:132
+msgid "Search"
+msgstr "Поиск"
+
+#: library/classes/widget-search.php:148
+msgid "Search Label:"
+msgstr "Ярлык поиска:"
+
+#: library/classes/widget-search.php:152
+msgid "Search Text:"
+msgstr "Текст поиска:"
+
+#: library/classes/widget-search.php:159
+msgid "Search Submit:"
+msgstr "Кнопка поиска:"
+
+#: library/classes/widget-search.php:164
+msgid "Use theme's <code>searchform.php</code>?"
+msgstr "Использовать <code>searchform.php</code>?"
+
+#: library/classes/widget-tags.php:32
+msgid "An advanced widget that gives you total control over the output of your tags."
+msgstr "Расширенный виджет, который дает вам полный контроль над отображением тегов."
+
+#: library/classes/widget-tags.php:44
+#: library/classes/widget-tags.php:146
+msgid "Tags"
+msgstr "Теги"
+
+#: library/classes/widget-tags.php:176
+msgid "View"
+msgstr "Перейти"
+
+#: library/classes/widget-tags.php:177
+#: library/extensions/breadcrumb-trail.php:1135
+#: library/extensions/breadcrumb-trail.php:1171
+#: library/extensions/breadcrumb-trail.php:1188
+#: library/extensions/breadcrumb-trail.php:1219
+msgid "Edit"
+msgstr "Редактировать"
+
+#: library/classes/widget-tags.php:181
+msgid "Flat"
+msgstr "Плоский"
+
+#: library/classes/widget-tags.php:314
+msgid "Pad counts?"
+msgstr "Количество панелей?"
+
+#: library/extensions/breadcrumb-trail.php:178
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: library/extensions/breadcrumb-trail.php:179
+msgid "Home"
+msgstr "Главная"
+
+#: library/extensions/breadcrumb-trail.php:180
+#: library/functions/template-general.php:473
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: library/extensions/breadcrumb-trail.php:183
+#: library/functions/template-general.php:454
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска &laquo;%s&raquo;"
+
+#. Translators: %s is the page number.
+#: library/extensions/breadcrumb-trail.php:185
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: library/extensions/breadcrumb-trail.php:187
+#: library/functions/template-general.php:415
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: library/extensions/breadcrumb-trail.php:189
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#: library/extensions/breadcrumb-trail.php:716
+#: library/functions/template-general.php:434
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: library/extensions/breadcrumb-trail.php:733
+#: library/functions/template-general.php:415
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: library/extensions/breadcrumb-trail.php:750
+#: library/functions/template-general.php:395
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: library/extensions/breadcrumb-trail.php:766
+#: library/extensions/breadcrumb-trail.php:795
+#: library/extensions/breadcrumb-trail.php:822
+#: library/extensions/breadcrumb-trail.php:849
+#: library/extensions/breadcrumb-trail.php:1036
+#: library/functions/template-general.php:337
+#: library/functions/template-general.php:357
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: library/extensions/breadcrumb-trail.php:767
+#: library/extensions/breadcrumb-trail.php:823
+#: library/extensions/breadcrumb-trail.php:1040
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: library/extensions/breadcrumb-trail.php:768
+#: library/extensions/breadcrumb-trail.php:1044
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: library/extensions/breadcrumb-trail.php:796
+#: library/functions/template-general.php:357
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: library/extensions/breadcrumb-trail.php:1163
+msgid "Split"
+msgstr "Разделить"
+
+#: library/extensions/breadcrumb-trail.php:1167
+msgid "Merge"
+msgstr "Объединить"
+
+#: library/extensions/featured-header.php:202
+msgid "Featured Header"
+msgstr "Оcновной Заголовок"
+
+#: library/extensions/post-stylesheets.php:286
+msgid "Stylesheet"
+msgstr "Таблица стилей"
+
+#: library/extensions/theme-fonts.php:401
+msgid "Fonts"
+msgstr "Шрифты"
+
+#. Translators: Default theme layout option.
+#: library/extensions/theme-layouts.php:345
+msgctxt "theme layout"
+msgid "Default"
+msgstr "По умолчанию"
+
+#: library/extensions/theme-layouts.php:437
+#: library/extensions/theme-layouts.php:547
+#: library/extensions/theme-layouts.php:632
+msgid "Layout"
+msgstr "Разметка"
+
+#: library/extensions/theme-layouts.php:463
+msgid "Layout is a theme-specific structure for the single view of the post."
+msgstr "Эта секция поможет настроить структуру дизайна для просмтора отдельных статей"
+
+#: library/extensions/theme-layouts.php:665
+msgid "Global Layout"
+msgstr "Компоновка по всему сайту"
+
+#. Translators: Post date/time "title" attribute.
+#: library/functions/attr.php:414
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#. Translators: Comment date/time "title" attribute.
+#: library/functions/attr.php:535
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: library/functions/deprecated.php:861
+msgid "<code>%1$s</code> &mdash; This function has been removed or replaced by another function."
+msgstr "<code>%1$s</code> &mdash; Эта функция была удалена или заменена другой функцией."
+
+#. Translators: 1 is the page title. 2 is the page number.
+#: library/functions/head.php:149
+msgid "%1$s Page %2$s"
+msgstr "%1$s Страница %2$s"
+
+#: library/functions/media.php:30
+msgid "Post Thumbnail"
+msgstr "Миниатюра записи"
+
+#: library/functions/template-general.php:55
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr "Самая продвинутая семантическая публикационнная веб платформа"
+
+#: library/functions/template-general.php:55
+msgid "WordPress"
+msgstr "WordPress"
+
+#. Translators: Theme name.
+#: library/functions/template-general.php:82
+#: library/functions/template-general.php:115
+msgid "%s WordPress Theme"
+msgstr "%s WordPress шаблон"
+
+#: library/functions/template-general.php:284
+msgid "You are browsing the search results for &#8220;%s&#8221;"
+msgstr "Вы просматриваете результаты поиска за &#8220;%s&#8221;"
+
+#: library/functions/template-general.php:290
+msgid "You are browsing the site archives by time."
+msgstr "Вы просматриваете архивы сайта по времени"
+
+#: library/functions/template-general.php:293
+#: library/functions/template-general.php:296
+#: library/functions/template-general.php:299
+msgid "You are browsing the site archives for %s."
+msgstr "Вы просматриваете архивы сайта за %s."
+
+#: library/functions/template-general.php:302
+msgid "You are browsing the site archives."
+msgstr "Вы просматриваете архивы сайта."
+
+#. Translators: 1 is the week number and 2 is the year.
+#: library/functions/template-general.php:357
+msgid "Week %1$s of %2$s"
+msgstr "Неделя %1$s из %2$s"
+
+#: library/functions/template-general.php:376
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: library/functions/template-post.php:93
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#: library/functions/utility.php:86
+msgid "(Untitled)"
+msgstr "(Безымянный)"
+
+#: menu/primary.php:6
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Translators: The two %s are placeholders for HTML. The order can't be
+#. changed.
+#: misc/comments-error.php:6
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr "Комментарии закрыты, но %strackbacks%s и pingbacks открыты."
+
+#: misc/comments-error.php:13
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: misc/comments-nav.php:5
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущее"
+
+#. Translators: Comments page numbers. 1 is current page and 2 is total pages.
+#: misc/comments-nav.php:9
+msgid "Page %1$s of %2$s"
+msgstr "Страница %1$s из %2$s"
+
+#: misc/comments-nav.php:12
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr "Следующее &rarr;"
+
+#: misc/loop-nav.php:4
+msgid "Previous Post: %link"
+msgstr "Предыдущая публикация: %ссылка"
+
+#: misc/loop-nav.php:5
+msgid "Next Post: %link"
+msgstr "Следующая Публикация: %ссылка"
+
+#: misc/loop-nav.php:12
+msgctxt "posts navigation"
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущее"
+
+#: misc/loop-nav.php:13
+msgctxt "posts navigation"
+msgid "Next &rarr;"
+msgstr "Следующее &rarr;"
+
+#: sidebar/primary.php:14
+msgid "Example Widget"
+msgstr "Пример Виджета"
+
+#. Translators: The %s are placeholders for HTML, so the order can't be
+#. changed.
+#: sidebar/primary.php:16
+msgid "This is an example widget to show how the Primary sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr "Это пример виджета, который показывает как выглядит Основная боковая панель по умолчанию. Вы можете добавить стандартные виджеты из %зкранного редактора виджетов% в разделе Администратора."
+
+#. Theme Name of the plugin/theme
+msgid "Stargazer"
+msgstr "Stargazer"
+
+#. Theme URI of the plugin/theme
+msgid "http://themehybrid.com/themes/stargazer"
+msgstr "http://themehybrid.com/themes/stargazer"
+
+#. Description of the plugin/theme
+msgid "Welcome to Stargazer, the most advanced theme ever created for WordPress without compromising standards. This is the only theme in the world that you'll find that extends WordPress' built-in theme features so robustly but naturally. The theme is built on the rock-solid Hybrid Core theme framework. It's built with search-engine optimization (SEO) in mind by utilizing the most current HTML5 conventions and <a href=\"http://schema.org\">Schema.org</a> microdata. It also integrates with useful theme add-on plugins like <a href=\"http://wordpress.org/plugins/custom-background-extended\">Custom Background Extended</a>, <a href=\"http://wordpress.org/plugins/custom-header-extended\">Custom Header Extended</a>, <a href=\"http://wordpress.org/plugins/whistles\">Whistles</a>, and more."
+msgstr "Добро пожаловать в \"Stargazer\", в самую продвинутый и нестандартный шаблон, который был когда либо создан для WordPress. Это единственный в мире шаблон, раскрывающий весь потенциал опций WordPress и, используя который, Вы легко это поймете. Структура шаблона построена на мощном Hybrid Core движке. Шаблон основан на поисковом движке (SEO), оптимизированном под самую передовую технологию стандартов HTML5 и расширений <a href=\"http://schema.org\"> Schema.org </a>. Также он совместим с такими полезными плагинами как <a href=\"http://wordpress.org/plugins/custom-background-extended\"> Custom Background Extended </a>, <a href=\"http://wordpress.org/plugins/custom-header-extended\"> Custom Header Extended </a>, <a href=\"http://wordpress.org/plugins/whistles\"> Whistles </a>, и прочими плагинами."
+
+#. Author of the plugin/theme
+msgid "Justin Tadlock"
+msgstr "Justin Tadlock"
+
+#. Author URI of the plugin/theme
+msgid "http://justintadlock.com"
+msgstr "http://justintadlock.com"
