@@ -1,0 +1,395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BotSmasher\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/botsmasher\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/botsmasher/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-14 07:31:27+00:00\n"
+"PO-Revision-Date: 2018-01-16 12:31:20\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: botsmasher.php:93
+msgid "BotSmasher Settings"
+msgstr "Réglages de BotSmasher"
+
+#: botsmasher.php:163
+msgid "BotSmasher Settings Updated"
+msgstr "Réglages de BotSmasher mis à jour"
+
+#: botsmasher.php:184
+msgid "You must <a href='%s'>enter a BotSmasher API key</a> to use BotSmasher."
+msgstr "Vous devez <a href='%s'>saisir votre clé API de BotSmasher</a> pour pouvoir utiliser BotSmasher."
+
+#: botsmasher.php:188
+msgid "BotSmasher: Settings"
+msgstr "BotSmasher : Réglages"
+
+#: botsmasher.php:193
+#: botsmasher.php:197
+msgid "BotSmasher Options"
+msgstr "Options de BotSmasher"
+
+#: botsmasher.php:199
+msgid "BotSmasher API Key"
+msgstr "Clé API de BotSmasher"
+
+#: botsmasher.php:199
+msgid "Get an API key"
+msgstr "Obtenir votre clé API"
+
+#: botsmasher.php:200
+msgid "Required Label Text"
+msgstr "Texte du libellé requis"
+
+#: botsmasher.php:201
+msgid "Send HTML Email"
+msgstr "Envoyez un e-mail HTML"
+
+#: botsmasher.php:202
+msgid "Filter Comments"
+msgstr "Filtrer les commentaires"
+
+#: botsmasher.php:203
+msgid "Filter Registrations"
+msgstr "Filtrer les inscriptions"
+
+#: botsmasher.php:210
+msgid "Update Settings"
+msgstr "Mettre à jour les réglages"
+
+#: botsmasher.php:215
+msgid "BotSmasher API Errors (Last 20)"
+msgstr "Erreurs de l’API BotSmasher (20 dernières)"
+
+#: botsmasher.php:218
+msgid "This is a record of errors returned by the BotSmasher API or by WordPress when smashing a bot. If you're having trouble with BotSmasher, this is useful information for debugging."
+msgstr "C'est l’enregistrement des erreurs retournées par l’API de BotSmasher, ou de WordPress quand un bot est écrasé. Si vous rencontrez des problèmes avec BotSmasher, ces informations seront utiles pour le débogage."
+
+#: botsmasher.php:231
+msgid "You have reached your BotSmasher API check limit for today. <a href=\"%s\">Raise your limit!</a>"
+msgstr "Vous avez atteint votre limite de vérification de l’API de BotSmasher pour aujourd’hui. <a href=\"%s\">Augmentez votre limite !</a>"
+
+#: botsmasher.php:239
+msgid "Date"
+msgstr "Date"
+
+#: botsmasher.php:240
+msgid "Message"
+msgstr "Message"
+
+#: botsmasher.php:241
+msgid "Reported by"
+msgstr "Reporté par"
+
+#: botsmasher.php:249
+msgid "No errors reported."
+msgstr "Aucune erreur reportée."
+
+#: botsmasher.php:257
+msgid "BotSmasher Shortcode"
+msgstr "Code court de BotSmasher"
+
+#: botsmasher.php:259
+msgid "Simple Usage"
+msgstr "Utilisation simple"
+
+#: botsmasher.php:261
+msgid "The basic BotSmasher shortcode produces a simple contact form with name, email, telephone, subject, and message. The name, email, and message fields are required. Messages will be sent to the administrator email set in WordPress general settings."
+msgstr "Le code court de base de BotSmasher produit un simple formulaire de contact avec nom, e-mail, téléphone, sujet et message. Le nom, l’e-mail et le champs de message sont nécessaires. Les messages seront envoyés à l’e-mail de l’administrateur défini dans les réglages généraux de WordPress."
+
+#: botsmasher.php:262
+msgid "Shortcode Attributes (defaults shown)"
+msgstr "Attributs des codes courts (affichés par défaut)"
+
+#: botsmasher.php:264
+msgid "None of these attributes are required, but if you use them, there are particular things you will need to know:"
+msgstr "Aucun de ses attributs n’est obligatoire, mais si vous les utilisés, il y a certaines choses que vous devez savoir :"
+
+#: botsmasher.php:265
+msgid "Email or comma-separated string of emails to send messages to."
+msgstr "E-mail ou suite d’e-mails séparée par des virgules à qui envoyer les messages."
+
+#: botsmasher.php:266
+msgid "Name of recipient. (Shown as email \"from\" name.)"
+msgstr "Nom du destinataire. (Affiché comme le nom « De » de l’e-mail.)"
+
+#: botsmasher.php:267
+msgid "Text of submit button."
+msgstr "Texte du bouton d’envoi."
+
+#: botsmasher.php:268
+msgid "Fields to include. Whatever you want, but \"name\" and \"email\" are always included, whether in this list or not. Include them in the list if you wish to customize their labels. Some keywords will trigger particular input types: e.g., \"number\", \"phone\" or \"tel\", \"date\", etc. \"Message\", \"Notes\", \"Textarea\" or \"Description\" will trigger textarea elements."
+msgstr "Les champs à inclure. Tout ce que vous voulez, mais le « nom » et « l’e-mail » seront toujours inclus, que ce soit dans cette liste ou pas. Les inclure dans la liste si vous souhaitez personnaliser leurs libellés. Certains mots clés déclencheront des types d'entrée particuliers : p.ex. « numéro », « téléphone » ou « tel », « date », etc. « Message », « Notes », « Zone de texte » ou « Description » déclencheront les éléments des zones de texte."
+
+#: botsmasher.php:268
+msgid "Fields listed must be unique."
+msgstr "Les champs listés doivent être uniques."
+
+#: botsmasher.php:269
+msgid "Text labels for the above fields. Must be one label for every field listed."
+msgstr "Libellés du texte pour les champs ci-dessus. Il doit y avoir un libellé pour chaque champ."
+
+#: botsmasher.php:270
+msgid "Comma-separated list of required fields. Name and email need not be included, they are always required."
+msgstr "Liste des champs requis, séparés par des virgules. Il n’est pas utile d'inclure le nom et l’e-mail, ils sont toujours obligatoires."
+
+#: botsmasher.php:271
+msgid "Thank you message displayed after form submission."
+msgstr "Message de confirmation affiché après l’envoi du formulaire."
+
+#: botsmasher.php:272
+msgid "Subject line of sent message. Note that the default value includes a template tag \"{name}\" - this will be replaced by the value submitted in the \"name\" field. Any included field is available as a template tag using the name of the field wrapped in curly braces."
+msgstr "La ligne objet du message envoyé. Notez que la valeur par défaut inclut une balise de modèle \"{name}\" qui sera remplacée par la valeur envoyée dans le champ « nom ». Tous les champs inclus sont disponible en tant que balise de modèle en utilisant le nom du champ avec des accolades."
+
+#: botsmasher.php:273
+msgid "Customizing the Email message sent"
+msgstr "Personnalisation le contenu de l’e-mail envoyé"
+
+#: botsmasher.php:274
+msgid "The <code>[botsmasher]</code> shortcode is a containing shortcode. Whatever you wrap inside the shortcode container will be used as the template for your email message sent. Alternately, you can use the <code>bs_customize_template</code> filter to generate a custom template."
+msgstr "Le code court <code>[botsmasher]</code> est un conteneur. Quoi que vous enveloppiez dans le conteneur servira comme modèle pour l’envoi de votre message e-mail. Alternativement, vous pouvez utiliser le filtre <code>bs_customize_template</code> pour générer un modèle personnalisé."
+
+#: botsmasher.php:289
+msgid "Get Plug-in Support"
+msgstr "Obtenir de l’aide pour l’extension"
+
+#: botsmasher.php:302
+msgid "Support this Plugin"
+msgstr "Soutenir cette extension"
+
+#: botsmasher.php:309
+msgid "If you've found BotSmasher useful, then please consider <a href='http://wordpress.org/extend/plugins/botsmasher/'>rating it five stars</a>, <a href='http://www.joedolson.com/donate.php'>making a donation</a>, or <a href='http://translate.joedolson.com/projects/botsmasher'>helping with translation</a>."
+msgstr "Si vous trouvé BotSmasher utile, vous pouvez <a href='http://wordpress.org/extend/plugins/botsmasher/'>lui donner une note de 5 étoiles</a>, <a href='http://www.joedolson.com/donate.php'>faire un don</a>, ou <a href='http://translate.joedolson.com/projects/botsmasher'>participer à sa traduction</a>."
+
+#: botsmasher.php:311
+msgid "<a href=\"http://www.joedolson.com/donate.php\">Make a donation today!</a> Every donation counts - donate $5, $20, or $100 and help me keep this plug-in running!"
+msgstr "<a href=\"http://www.joedolson.com/donate.php\">Faites un don aujourd’hui !</a> Tous les dons comptent - donnez $5, $20, or $100 et aidez-moi à garder cette extension au top !"
+
+#: botsmasher.php:326
+msgid "Your API Usage"
+msgstr "Votre utilisation de l’API"
+
+#: botsmasher.php:335
+msgid "Total Checks: %1$s<br />Bots Smashed: %2$s<br />Today's Checks: %3$s"
+msgstr "Vérifications totales : %1$s<br />Bots smashed : %2$s<br />Vérifiés aujourd’hui : %3$s"
+
+#: botsmasher.php:338
+msgid "The <a href=\"http://www.botsmasher.com\">BotSmasher API</a> was created and is supported by <a href=\"http://www.karlgroves.com\">Karl Groves</a>."
+msgstr "L’<a href=\"http://www.botsmasher.com\">API de BotSmasher</a> a été développée et est maintenue par <a href=\"http://www.karlgroves.com\">Karl Groves</a>."
+
+#: botsmasher.php:428
+msgid "Please read the FAQ and other Help documents before making a support request."
+msgstr "Merci de lire la FAQ et les documents d’aide disponibles avant de solliciter le support."
+
+#: botsmasher.php:430
+msgid "Please describe your problem. I'm not psychic."
+msgstr "Veuillez décrire votre problème. Je ne suis pas extralucide."
+
+#: botsmasher.php:434
+msgid "Thank you for supporting the continuing development of this plug-in! I'll get back to you as soon as I can."
+msgstr "Merci de soutenir le développement de cette extension ! Je vous réponds dès que possible."
+
+#: botsmasher.php:436
+msgid "I cannot provide free support, but will treat your request as a bug report, and will incorporate any permanent solutions I discover into the plug-in."
+msgstr "Je ne peux pas fournir de support gratuitement, mais je vais traiter votre demande, et j'intégrerai les solutions que je découvrirai dans l’extension."
+
+#: botsmasher.php:448
+msgid "<strong>Please note</strong>: I do keep records of those who have donated, but if your donation came from somebody other than your account at this web site, you must note this in your message."
+msgstr "<strong>Remarque :</strong> Je tiens à jour la liste des donneurs, mais si votre don a été fait par une autre personne ou un autre compte utilisateur que celui utilisé sur ce site, merci de me le signaler dans votre message."
+
+#: botsmasher.php:452
+msgid "From:"
+msgstr "Depuis&nbsp;:"
+
+#: botsmasher.php:455
+msgid "I have read <a href=\"%1$s\">the FAQ for this plug-in</a> <span>(required)</span>"
+msgstr "J’ai lu <a href=\"%1$s\">la FAQ de l’extension</a> <span>(requis)</span>"
+
+#: botsmasher.php:458
+msgid "I have <a href=\"%1$s\">made a donation to help support this plug-in</a>"
+msgstr "J’ai <a href=\"%1$s\">fait un don pour soutenir l’extension</a>"
+
+#: botsmasher.php:461
+msgid "Support Request:"
+msgstr "Demande de support :"
+
+#: botsmasher.php:464
+msgid "Send Support Request"
+msgstr "Envoyer votre demande"
+
+#: botsmasher.php:467
+msgid "The following additional information will be sent with your support request:"
+msgstr "Les informations suivantes seront envoyées au support avec votre demande :"
+
+#. #-#-#-#-#  botsmasher.pot (BotSmasher 1.0.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: bs-comments.php:61
+msgid "BotSmasher"
+msgstr "BotSmasher"
+
+#: bs-comments.php:69
+msgid "Flagged by BotSmasher"
+msgstr "Marqué par BotSmasher"
+
+#: bs-comments.php:71
+msgid "Flagged by you as a false positive"
+msgstr "Marqué par vous comme faux positif"
+
+#: bs-comments.php:73
+msgid "Flagged by you as spam"
+msgstr "Marqué par vous comme indésirable"
+
+#: bs-contacts.php:40
+msgid "Field count and label count does not match. You must have a label specified for all defined fields."
+msgstr "Le nombre de champs et celui des libellés ne correspond pas. Vous devez avoir un libellé pour tous les champs définis."
+
+#: bs-contacts.php:55
+#: bs-contacts.php:61
+#: bs-contacts.php:139
+msgid "%s is a required field."
+msgstr "%s est un champ nécessaire."
+
+#: bs-contacts.php:219
+msgid "BotSmasher thinks you're a spammer. Please contact us if you're a real person!"
+msgstr "BotSmasher pense que vous êtes un spammeur. Veuillez nous contacter pour nous prouver le contraire !"
+
+#: bs-contacts.php:257
+msgid "The provided information for <strong>%1$s</strong> did not validate."
+msgstr "L’information fournit pour <strong>%1$s</strong> n’a pas été validée."
+
+#: bs-contacts.php:341
+msgid "BotSmasher Contact Form"
+msgstr "Formulaire de contact de BotSmasher"
+
+#: bs-contacts.php:343
+msgid "Quick Contact"
+msgstr "Contact rapide"
+
+#: bs-contacts.php:402
+msgid "Title"
+msgstr "Titre"
+
+#: bs-contacts.php:406
+msgid "Recipient"
+msgstr "Destinataire"
+
+#: bs-contacts.php:410
+msgid "Submit Text"
+msgstr "Envoyer"
+
+#: bs-contacts.php:414
+msgid "Email Subject"
+msgstr "Sujet de l’e-mail"
+
+#: bs-contacts.php:416
+#: bs-contacts.php:426
+msgid "Available template tags: "
+msgstr "Modèles de balises disponibles : "
+
+#: bs-contacts.php:420
+msgid "Thank you message"
+msgstr "Message de remerciement"
+
+#: bs-contacts.php:424
+msgid "Message Template"
+msgstr "Modèle de message"
+
+#: bs-contacts.php:429
+msgid "BotSmasher Form Fields"
+msgstr "Champs de formulaire de BotSmasher"
+
+#: bs-contacts.php:432
+msgid "Name field label"
+msgstr "Libellé du champ du nom"
+
+#: bs-contacts.php:436
+msgid "Email field label"
+msgstr "Libellé du champ e-mail"
+
+#: bs-contacts.php:443
+#: bs-contacts.php:473
+msgid "Label"
+msgstr "Libellé"
+
+#: bs-contacts.php:444
+#: bs-contacts.php:475
+msgid "Required"
+msgstr "Nécessaire"
+
+#: bs-contacts.php:445
+#: bs-contacts.php:477
+msgid "Type"
+msgstr "Type"
+
+#: bs-contacts.php:446
+msgid "Order"
+msgstr "Ordre"
+
+#: bs-contacts.php:466
+msgid "Up"
+msgstr "Haut"
+
+#: bs-contacts.php:466
+msgid "Down"
+msgstr "Bas"
+
+#: bs-registrations.php:17
+msgid "<strong>ERROR</strong>: BotSmasher has flagged you as a spammer. Please contact the site owner!"
+msgstr "<strong>Erreur :</strong> BotSmasher vous a marqué comme un spammeur. Veuillez contacter le propriétaire du site !"
+
+#: bs-registrations.php:33
+msgid "New user registration on your site %s:"
+msgstr "Inscription d’un nouvel utilisateur sur votre site %s :"
+
+#: bs-registrations.php:34
+#: bs-registrations.php:43
+msgid "Username: %s"
+msgstr "Nom d’utilisateur : %s"
+
+#: bs-registrations.php:35
+msgid "E-mail: %s"
+msgstr "E-mail : %s"
+
+#: bs-registrations.php:36
+msgid "Flag as spam? %s"
+msgstr "Marquer comme indésirable ? %s"
+
+#: bs-registrations.php:38
+msgid "[%s] New User Registration"
+msgstr "[%s] Inscription d'un nouvel utilisateur"
+
+#: bs-registrations.php:44
+msgid "Password: %s"
+msgstr "Mot de passe : %s"
+
+#: bs-registrations.php:47
+msgid "[%s] Your username and password"
+msgstr "[%s] Votre identifiant et mot de passe"
+
+#: bs-registrations.php:79
+msgid "User blacklisted at BotSmasher <a href=\"%s\">Delete user</a>"
+msgstr "Utilisateur blacklisté sur BotSmasher <a href=\"%s\">Supprimer l’utilisateur</a>"
+
+#: bs-registrations.php:81
+msgid "Could not blacklist user at BotSmasher"
+msgstr "Impossible de blacklister l’utilisateur sur BotSmasher"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.joedolson.com/articles/botsmasher/"
+msgstr "http://www.joedolson.com/articles/botsmasher/"
+
+#. Description of the plugin/theme
+msgid "BotSmasher smashes bots."
+msgstr "BotSmasher écrase les bots."
+
+#. Author of the plugin/theme
+msgid "Joe Dolson"
+msgstr "Joe Dolson"
+
+#. Author URI of the plugin/theme
+msgid "http://www.joedolson.com/"
+msgstr "http://www.joedolson.com/"
