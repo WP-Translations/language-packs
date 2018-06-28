@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Edd Download Info\n"
+"Report-Msgid-Bugs-To: https://foxland.fi/\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/edd-download-info/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-10-03 21:30:32+00:00\n"
+"PO-Revision-Date: 2017-09-20 11:34:47\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.4.8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/functions.php:26
+msgid "View Details:"
+msgstr "View Details:"
+
+#: includes/functions.php:28
+msgid "Add To Cart"
+msgstr "Add To Cart"
+
+#: includes/functions.php:31
+msgid "Checkout"
+msgstr "Checkout"
+
+#: includes/functions.php:37
+#: includes/functions.php:64
+#: includes/widgets.php:124
+#: includes/widgets.php:140
+msgid "Demo"
+msgstr "Demo"
+
+#: includes/metabox.php:20
+#: includes/widgets.php:37
+msgid "Download Info"
+msgstr "Download Info"
+
+#: includes/metabox.php:36
+msgid "Add demo URL."
+msgstr "Add demo URL."
+
+#: includes/metabox.php:42
+msgid "Add forum support URL."
+msgstr "Add forum support URL."
+
+#: includes/metabox.php:48
+msgid "Add document URL."
+msgstr "Add document URL."
+
+#: includes/metabox.php:54
+msgid "Add repository URL."
+msgstr "Add repository URL."
+
+#: includes/metabox.php:60
+msgid "Add changelog URL."
+msgstr "Add changelog URL."
+
+#: includes/metabox.php:66
+msgid "Add updated date."
+msgstr "Add updated date."
+
+#: includes/metabox.php:69
+msgid "m/d/y"
+msgstr "m/d/y"
+
+#: includes/settings.php:22
+msgid "Default demo link Style"
+msgstr "Default demo link Style"
+
+#: includes/settings.php:23
+msgid "Choose the style you want to use for the demo link button"
+msgstr "Choose the style you want to use for the demo link button"
+
+#: includes/shortcodes.php:23
+msgid "Download"
+msgstr "Download"
+
+#: includes/taxonomy.php:24
+msgid "Search Features"
+msgstr "Search Features"
+
+#: includes/taxonomy.php:25
+msgid "All Features"
+msgstr "All Features"
+
+#: includes/taxonomy.php:26
+msgid "Parent Feature"
+msgstr "Parent Feature"
+
+#: includes/taxonomy.php:27
+msgid "Parent Feature:"
+msgstr "Parent Feature:"
+
+#: includes/taxonomy.php:28
+msgid "Edit Features"
+msgstr "Edit Features"
+
+#: includes/taxonomy.php:29
+msgid "Update Feature"
+msgstr "Update Feature"
+
+#: includes/taxonomy.php:30
+msgid "Add New Feature"
+msgstr "Add New Feature"
+
+#: includes/taxonomy.php:31
+msgid "New Feature Name"
+msgstr "New Feature Name"
+
+#: includes/taxonomy.php:32
+msgid "Features"
+msgstr "Features"
+
+#: includes/widgets.php:24
+msgid "Display download info."
+msgstr "Display download info."
+
+#: includes/widgets.php:147
+msgid "Support"
+msgstr "Support"
+
+#: includes/widgets.php:154
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/widgets.php:161
+msgid "Repository"
+msgstr "Repository"
+
+#: includes/widgets.php:168
+msgid "Changelog"
+msgstr "Changelog"
+
+#: includes/widgets.php:175
+msgid "<span class=\"edd-download-info-version\">Version:</span> %1$s"
+msgstr "<span class=\"edd-download-info-version\">Version:</span> %1$s"
+
+#: includes/widgets.php:182
+msgid "<span class=\"edd-download-info-download\">Downloads:</span> %1$s"
+msgstr "<span class=\"edd-download-info-download\">Downloads:</span> %1$s"
+
+#: includes/widgets.php:189
+msgid "<span class=\"edd-download-info-updated\">Updated:</span>"
+msgstr "<span class=\"edd-download-info-updated\">Updated:</span>"
+
+#: includes/widgets.php:241
+msgid "Download info"
+msgstr "Download info"
+
+#: includes/widgets.php:254
+#: includes/widgets.php:425
+msgid "Title:"
+msgstr "Title:"
+
+#: includes/widgets.php:260
+msgid "Show Feature Image?"
+msgstr "Show Feature Image?"
+
+#: includes/widgets.php:265
+msgid "Show purchase link in button?"
+msgstr "Show purchase link in button?"
+
+#: includes/widgets.php:270
+msgid "Show demo link in button?"
+msgstr "Show demo link in button?"
+
+#: includes/widgets.php:275
+msgid "Open demo link in a new window?"
+msgstr "Open demo link in a new window?"
+
+#: includes/widgets.php:280
+msgid "Show download count?"
+msgstr "Show download count?"
+
+#: includes/widgets.php:306
+msgid "Display the downloads features."
+msgstr "Display the downloads features."
+
+#: includes/widgets.php:319
+#: includes/widgets.php:416
+msgid "Download Features"
+msgstr "Download Features"
+
+#: includes/widgets.php:431
+msgid "Show features as links?"
+msgstr "Show features as links?"
+
+#. Plugin Name of the plugin/theme
+msgid "EDD Download Info"
+msgstr "EDD Download Info"
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxland.fi/downloads/edd-download-info/"
+msgstr "https://foxland.fi/downloads/edd-download-info/"
+
+#. Description of the plugin/theme
+msgid "Adds download info metabox and widget to Easy Digital Downloads."
+msgstr "Adds download info metabox and widget to Easy Digital Downloads."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi"
+msgstr "https://foxland.fi"
+
+#: includes/taxonomy.php:22
+msgctxt "taxonomy general name"
+msgid "Download Features"
+msgstr "Download Features"
+
+#: includes/taxonomy.php:23
+msgctxt "taxonomy singular name"
+msgid "Feature"
+msgstr "Feature"
