@@ -1,0 +1,1173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delightful Downloads\n"
+"Report-Msgid-Bugs-To: hello@ashleyrich.com\n"
+"Last-Translator: Ashley Rich <hello@ashleyrich.com>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/delightful-downloads/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-02-03 07:33+0000\n"
+"PO-Revision-Date: 2017-10-12 09:29:23\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: src/delightful-downloads/classes/EDD_SL_Plugin_Updater.php:181
+#, php-format
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr "Доступна новая версия %1$s. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Посмотреть детали %3$s обновления</a>."
+
+#: src/delightful-downloads/classes/EDD_SL_Plugin_Updater.php:188
+#, php-format
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr "Доступна новая версия %1$s для обновления. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Посмотреть детали версии %3$s</a> или <a href=\"%4$s\">обновить сейчас</a>."
+
+#: src/delightful-downloads/classes/EDD_SL_Plugin_Updater.php:326
+msgid "You do not have permission to install plugin updates"
+msgstr "У вас нет прав для установки обновлений плагина"
+
+#: src/delightful-downloads/classes/EDD_SL_Plugin_Updater.php:326
+msgid "Error"
+msgstr "Ошибка"
+
+#: src/delightful-downloads/classes/class-addon.php:170
+msgid "License Key"
+msgstr "Ключ лицензии"
+
+#: src/delightful-downloads/classes/class-addon.php:221
+#, php-format
+msgid "%s License Error"
+msgstr "%s ошибка лицензии"
+
+#: src/delightful-downloads/classes/class-addon.php:226
+msgid "License key not found."
+msgstr "Лицензионный ключ не найден."
+
+#: src/delightful-downloads/classes/class-addon.php:229
+msgid "No site activations remaining."
+msgstr "Не осталось активаций сайта."
+
+#: src/delightful-downloads/classes/class-addon.php:232
+msgid "Your license key has expired."
+msgstr "Ваш лицензионный ключ просрочен."
+
+#: src/delightful-downloads/classes/class-addon.php:235
+#: src/delightful-downloads/classes/class-addon.php:238
+msgid "Please check your license key and try again."
+msgstr "Пожалуйста, проверьте ваш лицензионный ключ и попробуйте снова."
+
+#: src/delightful-downloads/delightful-downloads.php:205
+#: src/delightful-downloads/includes/admin/page-settings.php:19
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/delightful-downloads/includes/admin/ajax.php:23
+msgid "Failed security checks!"
+msgstr "Проведена проверка на безопасность!"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:30
+msgid "Log"
+msgstr "Лог"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:31
+#: src/delightful-downloads/includes/admin/page-statistics.php:22
+msgid "Logs"
+msgstr "Логи"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:48
+#: src/delightful-downloads/includes/admin/media-button.php:65
+#: src/delightful-downloads/includes/admin/meta-boxes.php:19
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+#: src/delightful-downloads/includes/options.php:80
+#: src/delightful-downloads/includes/post-types.php:23
+msgid "Download"
+msgstr "Скачать"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:49
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+msgid "User"
+msgstr "Пользователь"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:50
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:51
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+msgid "User Agent"
+msgstr "Броузер пользователя"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:52
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:133
+#: src/delightful-downloads/includes/post-types.php:67
+msgid "Date"
+msgstr "Дата"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:130
+#: src/delightful-downloads/includes/admin/dashboard.php:175
+#: src/delightful-downloads/includes/admin/page-statistics.php:193
+msgid "Unknown"
+msgstr "Не известно"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:139
+#: src/delightful-downloads/includes/admin/page-statistics.php:196
+msgid "Non-member"
+msgstr "Не пользователь сайта"
+
+#: src/delightful-downloads/includes/admin/class-dedo-list-table.php:174
+msgid "No download logs found."
+msgstr "Логи загрузок не найдены"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:22
+msgid "Download Statistics"
+msgstr "Статистика загрузок"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:40
+msgid "Download statistics could not be retrieved."
+msgstr "Статистика скачиваний не может быть получена."
+
+#: src/delightful-downloads/includes/admin/dashboard.php:41
+#: src/delightful-downloads/includes/admin/dashboard.php:87
+msgid "There are no popular downloads yet!"
+msgstr "Пока еще нет популярных скачиваний."
+
+#: src/delightful-downloads/includes/admin/dashboard.php:50
+#: src/delightful-downloads/includes/admin/dashboard.php:94
+msgid "Last 24 Hours"
+msgstr "За сутки"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:54
+#: src/delightful-downloads/includes/admin/dashboard.php:95
+msgid "Last 7 Days"
+msgstr "За неделю"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:58
+#: src/delightful-downloads/includes/admin/dashboard.php:96
+msgid "Last 30 Days"
+msgstr "За месяц"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:62
+#: src/delightful-downloads/includes/admin/dashboard.php:97
+msgid "All Time"
+msgstr "За все время"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:67
+msgid "Popular Downloads"
+msgstr "Популярные скачивания"
+
+#: src/delightful-downloads/includes/admin/dashboard.php:121
+#: src/delightful-downloads/includes/admin/dashboard.php:159
+#: src/delightful-downloads/includes/admin/meta-boxes.php:306
+#: src/delightful-downloads/includes/admin/upgrades.php:173
+msgid "Failed security check!"
+msgstr "Невозможна проверка на безопасность!"
+
+#: src/delightful-downloads/includes/admin/media-button.php:59
+msgid "Close"
+msgstr "Закрыть"
+
+#: src/delightful-downloads/includes/admin/media-button.php:61
+msgid "Insert Download"
+msgstr "Вставить Загрузку"
+
+#: src/delightful-downloads/includes/admin/media-button.php:74
+msgid "Style"
+msgstr "Стиль"
+
+#: src/delightful-downloads/includes/admin/media-button.php:76
+#: src/delightful-downloads/includes/admin/media-button.php:89
+#: src/delightful-downloads/includes/admin/meta-boxes.php:211
+msgid "Global"
+msgstr "Глобальный"
+
+#: src/delightful-downloads/includes/admin/media-button.php:77
+#: src/delightful-downloads/includes/admin/media-button.php:90
+#: src/delightful-downloads/includes/admin/media-button.php:102
+#: src/delightful-downloads/includes/admin/meta-boxes.php:193
+#: src/delightful-downloads/includes/admin/meta-boxes.php:202
+#: src/delightful-downloads/includes/admin/meta-boxes.php:210
+#: src/delightful-downloads/includes/admin/meta-boxes.php:211
+#: src/delightful-downloads/includes/admin/meta-boxes.php:230
+#: src/delightful-downloads/includes/post-types.php:126
+#: src/delightful-downloads/includes/post-types.php:137
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: src/delightful-downloads/includes/admin/media-button.php:79
+msgid "Styles"
+msgstr "Стили"
+
+#: src/delightful-downloads/includes/admin/media-button.php:87
+#: src/delightful-downloads/includes/functions.php:22
+msgid "Button"
+msgstr "Кнопка"
+
+#: src/delightful-downloads/includes/admin/media-button.php:92
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: src/delightful-downloads/includes/admin/media-button.php:101
+msgid "Text"
+msgstr "Текст"
+
+#: src/delightful-downloads/includes/admin/media-button.php:106
+msgid "Insert"
+msgstr "Вставить"
+
+#: src/delightful-downloads/includes/admin/media-button.php:107
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:135
+#: src/delightful-downloads/includes/post-types.php:62
+msgid "File Size"
+msgstr "Размер файла"
+
+#: src/delightful-downloads/includes/admin/media-button.php:108
+#: src/delightful-downloads/includes/admin/meta-boxes.php:177
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:134
+msgid "Download Count"
+msgstr "Счетчик скачиваний"
+
+#: src/delightful-downloads/includes/admin/media-button.php:111
+#, php-format
+msgid "Please %sadd%s a new download."
+msgstr "Пожалуйста %sadd%s для новой загрузки."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:45
+#: src/delightful-downloads/includes/admin/meta-boxes.php:48
+#, php-format
+msgid "Download updated. Use the %s shortcode to include it in posts or pages."
+msgstr "Загрузка обновлена. Используйте %s код, чтобы вставить его в записи или страницы."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:46
+msgid "Custom field updated."
+msgstr "Поле изменено."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:47
+msgid "Custom field deleted."
+msgstr "Поле удалено."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:49
+#, php-format
+msgid "Download restored to revision from %s"
+msgstr "Загрузка восстановлена до версии %s"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:50
+#, php-format
+msgid "Download published. Use the %s shortcode to include it in posts or pages."
+msgstr "Загрузка опубликована. Используйте %s код, чтобы вставить его в записи или страницы."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:51
+msgid "Download saved."
+msgstr "Загрузка сохранена"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:52
+msgid "Download submitted."
+msgstr "Загрузка подтверждена"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:53
+#, php-format
+msgid "Download scheduled for: <strong>%1$s</strong>."
+msgstr "Расписание дляr: <strong>%1$s</strong>."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:54
+msgid "M j, Y @ G:i"
+msgstr "d.m.Y H:i"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:55
+msgid "Download draft updated."
+msgstr "Черновик загрузки обновлен"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:78
+#, php-format
+msgid "%s download updated."
+msgid_plural "%s downloads updated."
+msgstr[0] "%s загрузка обновлена."
+msgstr[1] "%s загрузки обновлены."
+msgstr[2] "%s загрузок обновлено."
+msgstr[3] "%s загрузок обновлено."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:79
+msgid "1 download not updated, somebody is editing it."
+msgstr "1 закачка не обновлена, кто-то ее редактирует."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:79
+#, php-format
+msgid "%s download not updated, somebody is editing it."
+msgid_plural "%s downloads not updated, somebody is editing them."
+msgstr[0] "%s загрузка не обновлена, т.к. кто-то её изменяет."
+msgstr[1] "%s загрузки не обновлены, т.к. кто-то их изменяет."
+msgstr[2] "%s загрузок не обновлено, т.к. кто-то их изменяет."
+msgstr[3] "%s загрузок не обновлено, т.к. кто-то их изменяет."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:80
+#, php-format
+msgid "%s download permanently deleted."
+msgid_plural "%s downloads permanently deleted."
+msgstr[0] "%s загрузка навсегда удалена."
+msgstr[1] "%s загрузки навсегда удалены."
+msgstr[2] "%s загрузок навсегда удалено."
+msgstr[3] "%s загрузок навсегда удалено."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:81
+#, php-format
+msgid "%s download moved to the Trash."
+msgid_plural "%s downloads moved to the Trash."
+msgstr[0] "%s загрузка перемещена в корзину."
+msgstr[1] "%s загрузки перемещены в корзину."
+msgstr[2] "%s загрузок перемещено в корзину."
+msgstr[3] "%s загрузок перемещено в корзину."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:82
+#, php-format
+msgid "%s download restored from the Trash."
+msgid_plural "%s downloads restored from the Trash."
+msgstr[0] "%s загрузка восстановлена из корзины."
+msgstr[1] "%s загрузки восстановлены из корзины."
+msgstr[2] "%s загрузок восстановлено из корзины."
+msgstr[3] "%s загрузок восстановлено из корзины."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:114
+msgid "Local File"
+msgstr "Локальный файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:115
+msgid "Remote File"
+msgstr "Удаленный файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:116
+msgid "Inaccessible File"
+msgstr "Не доступный файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:132
+msgid "Allowed Files"
+msgstr "Разрешенных Файлов"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:158
+#: src/delightful-downloads/includes/admin/meta-boxes.php:252
+msgid "Upload File"
+msgstr "Загрузить файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:159
+#: src/delightful-downloads/includes/admin/meta-boxes.php:274
+msgid "Existing File"
+msgstr "Существующий файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:181
+msgid "The number of times this file has been downloaded."
+msgstr "Сколько раз этот файл был загружен."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:188
+#: src/delightful-downloads/includes/options.php:56
+#: src/delightful-downloads/includes/post-types.php:65
+msgid "Members Only"
+msgstr "Только для подписчиков"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:191
+#: src/delightful-downloads/includes/admin/meta-boxes.php:228
+#: src/delightful-downloads/includes/admin/page-settings.php:285
+#: src/delightful-downloads/includes/admin/page-settings.php:301
+#: src/delightful-downloads/includes/admin/page-settings.php:334
+#: src/delightful-downloads/includes/admin/page-settings.php:459
+#: src/delightful-downloads/includes/admin/page-settings.php:476
+#: src/delightful-downloads/includes/admin/page-settings.php:497
+#: src/delightful-downloads/includes/admin/page-settings.php:517
+#: src/delightful-downloads/includes/admin/page-settings.php:534
+#: src/delightful-downloads/includes/admin/page-settings.php:580
+#: src/delightful-downloads/includes/admin/page-settings.php:596
+#: src/delightful-downloads/includes/post-types.php:124
+#: src/delightful-downloads/includes/post-types.php:135
+msgid "Yes"
+msgstr "Да"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:192
+#: src/delightful-downloads/includes/admin/meta-boxes.php:229
+#: src/delightful-downloads/includes/admin/page-settings.php:286
+#: src/delightful-downloads/includes/admin/page-settings.php:302
+#: src/delightful-downloads/includes/admin/page-settings.php:335
+#: src/delightful-downloads/includes/admin/page-settings.php:460
+#: src/delightful-downloads/includes/admin/page-settings.php:477
+#: src/delightful-downloads/includes/admin/page-settings.php:498
+#: src/delightful-downloads/includes/admin/page-settings.php:518
+#: src/delightful-downloads/includes/admin/page-settings.php:535
+#: src/delightful-downloads/includes/admin/page-settings.php:581
+#: src/delightful-downloads/includes/admin/page-settings.php:597
+#: src/delightful-downloads/includes/post-types.php:124
+#: src/delightful-downloads/includes/post-types.php:135
+msgid "No"
+msgstr "Нет"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:194
+msgid "Allow only logged in users to download this file."
+msgstr "Разрешить только пользователям, вошедшим в систему, чтобы загрузить этот файл."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:211
+msgid "Pages"
+msgstr "Страницы"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:218
+msgid "The page to redirect non-members."
+msgstr "Страница перенаправления для не подписчиков"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:225
+msgid "Open In Browser"
+msgstr "Открыть в браузере"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:231
+#, php-format
+msgid "This file will attempt to open in the browser window. If the file is located within the Delightful Downloads upload directory, you will need to set the %sfolder protection%s setting to 'No'."
+msgstr "Этот файл пытаются открыть в окне браузера. Если файл находится в Delightful Downloads upload директории, вы должны будете установить %sfolder защиты%s значение на 'No'."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:238
+msgid "Replace File:"
+msgstr "Заменить файл:"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:239
+msgid "Upload"
+msgstr "Загрузить"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:240
+msgid "Select Existing"
+msgstr "Выбрать существующий"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:241
+msgid "Delete File"
+msgstr "Удалить файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:255
+msgid "Drop file here"
+msgstr "Перетащите файл сюда"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:256
+msgid "or"
+msgstr "или"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:257
+msgid "Select File"
+msgstr "Выберите файл"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:262
+#, php-format
+msgid "Maximum upload file size: %s."
+msgstr "Максимальный размер файла: %s."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:275
+msgid "Manually enter a file URL, or use the file browser."
+msgstr "Вручную введите URL файла или используйте файловый браузер"
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:278
+msgid "File URL or path..."
+msgstr "Файл URL или путь..."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:281
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: src/delightful-downloads/includes/admin/meta-boxes.php:284
+msgid "Confirm"
+msgstr "Подтверждаю"
+
+#: src/delightful-downloads/includes/admin/page-addons.php:18
+msgid "Download Add-Ons"
+msgstr "Скачать дополнения"
+
+#: src/delightful-downloads/includes/admin/page-addons.php:18
+msgid "Add-Ons"
+msgstr "Дополнения"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:19
+#: src/delightful-downloads/includes/admin/page-settings.php:85
+msgid "Download Settings"
+msgstr "Настройки скачиваний"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:86
+#: src/delightful-downloads/includes/admin/page-settings.php:669
+msgid "Import"
+msgstr "Импорт"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:87
+#: src/delightful-downloads/includes/admin/page-statistics.php:39
+#: src/delightful-downloads/includes/admin/page-statistics.php:86
+msgid "Export"
+msgstr "Экспорт"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:88
+msgid "You are about to reset the download settings."
+msgstr "Вы собираетесь сбросить настройки."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:88
+msgid "Reset Defaults"
+msgstr "Восстановить настройки по умолчанию"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:92
+msgid "Settings updated successfully."
+msgstr "Настройки обновлены успешно."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:243
+msgid "News and Updates"
+msgstr ""
+
+#: src/delightful-downloads/includes/admin/page-settings.php:244
+#, php-format
+msgid "Want to be the first to know about future add-ons? Subscribe to keep informed and receive your 20% discount when they’re released!"
+msgstr ""
+
+#: src/delightful-downloads/includes/admin/page-settings.php:255
+msgid "Keep me informed"
+msgstr "Держите меня в курсе"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:257
+msgid "I will not use your email for anything else and you can unsubscribe at anytime."
+msgstr "Я буду использовать ваш адрес электронной почты для чего-то другого и вы сможете отписаться в любое время."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:260
+msgid "Help and Support"
+msgstr "Помощь и поддержка"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:261
+#, php-format
+msgid "Having issues? Check out the %sdocumentation%s. If you can't find a solution, please raise an issue on the %ssupport forums%s."
+msgstr "Есть проблемы? Проверьте %sдокументацию%s. Если вы не найдёте решения, поднимите проблему на %sфоруме поддержки%s."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:287
+msgid "Allow downloads to be tagged or categorised."
+msgstr "Разрешить загрузки с тегами или категориями"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:303
+msgid "Allow only logged in users to download files. This can be overridden on a per-download basis."
+msgstr "Разрешить только пользователям, вошедшим в систему для загрузки файлов."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:312
+msgid "No Page (Generic Error)"
+msgstr "Нет cтраницы (ошибка сайта)"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:318
+msgid "The page to redirect non-members. If no page is selected, a generic error message will be displayed. This can be overridden on a per-download basis."
+msgstr "Страница перенаправления для не зарегистрированных. В противном случае будет выводиться ошибка."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:336
+msgid "Attempt to open files in the browser window. This can be overridden on a per-download basis. For files located within the Delightful Downloads upload directory, set folder protection to 'No', which can be found under the advanced tab."
+msgstr "Попытка открыть файлы в окне браузера."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:351
+msgid "User agents to block from downloading files. One per line."
+msgstr "Агенты пользователей для блокировки загрузки файлов. По одному в строке."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:365
+#, php-format
+msgid "The default text to display, when using the %s shortcode. This can be overridden on a per-download basis."
+msgstr "По умолчанию текст для отображения, при использовании %s шорткода."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:388
+msgid "No styles registered"
+msgstr ""
+
+#: src/delightful-downloads/includes/admin/page-settings.php:392
+#, php-format
+msgid "The default output style, when using the %s shortcode. This can be overridden on a per-download basis."
+msgstr "По умолчанию стиль, при использовании %s шорткода."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:415
+msgid "No button styles registered"
+msgstr ""
+
+#: src/delightful-downloads/includes/admin/page-settings.php:419
+#, php-format
+msgid "The default button style, when using the %s shortcode. This can be overridden on a per-download basis."
+msgstr "По умолчанию стиль кнопки, при использовании %s шорткода."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:442
+msgid "No list styles registered"
+msgstr ""
+
+#: src/delightful-downloads/includes/admin/page-settings.php:446
+#, php-format
+msgid "The default output style, when using the %s shortcode. This can be overridden on a per-list basis."
+msgstr "По умолчанию стиль, при использовании %s шорткода."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:461
+msgid "Log events triggered by admin users."
+msgstr "Лог событий, вызванных пользователями с правами администратора."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:478
+msgid "Stop multiple logs of the same type from being saved, in quick succession."
+msgstr "Остановка нескольких логов, того же типа, которые были сохранены, в быстром порядке."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:481
+msgid "The time in minutes before creating a new log."
+msgstr "Время в минутах перед тем, как создать новый лог."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:499
+msgid "Automatically delete old logs."
+msgstr "Автоматом удялять старые логи."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:502
+msgid "The time in days to keep logs."
+msgstr "Время в днях для хранения логов."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:519
+msgid "Output the Delightful Downloads stylesheet on the front-end."
+msgstr "Вывод Delightful Downloads стилей на front-end."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:536
+msgid "Cache database queries that are expensive to generate."
+msgstr "Кэш запросов к базе данных."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:539
+msgid "The time in minutes to cache queries."
+msgstr "Время в минутах для кэширования запросов."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:555
+msgid "The URL for download links."
+msgstr "URL для ссылок загрузок"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:567
+msgid "The directory to upload files."
+msgstr "Директория для загрузки файлов."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:582
+msgid "Stop direct access to uploaded files, within the Delightful Downloads upload directory."
+msgstr "Остановка прямого доступа к загружаемым файлам в директории Delightful Downloads"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:598
+msgid "Completely remove all data associated with Delightful Downloads, when uninstalling the plugin. All downloads, categories, tags and statistics will be removed."
+msgstr "Полностью удалить все данные, связанные с Delightful Downloads. При удалении плагина все загрузки, категории, теги и статистика будут удалены."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:663
+msgid "Import Settings"
+msgstr "Импортировать настройки"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:664
+msgid "Select a Delightful Downloads settings file to import:"
+msgstr "Выбрать Delightful Downloads файл настроек для импорта."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:734
+msgid "Invalid settings file."
+msgstr "Неверный файл настроек."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:744
+msgid "Settings have been successfully imported."
+msgstr "Настройки были успешно импортированы."
+
+#: src/delightful-downloads/includes/admin/page-settings.php:752
+msgid "No file uploaded."
+msgstr "Файл не загружен"
+
+#: src/delightful-downloads/includes/admin/page-settings.php:812
+msgid "Default settings reset successfully."
+msgstr "Восстановлены исходные настройки."
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:22
+#: src/delightful-downloads/includes/admin/page-statistics.php:38
+#: src/delightful-downloads/includes/admin/page-statistics.php:258
+msgid "Download Logs"
+msgstr "Логи скачиваний"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:40
+msgid "You are about to permanently delete the download logs."
+msgstr "Вы собираетесь удалить все логи скачиваний."
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:40
+msgid "Delete"
+msgstr "Удалить"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:73
+msgid "Export Logs"
+msgstr "Экспорт логов"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:74
+msgid "Export log entries to a CSV file. Please select a date range, or leave blank to export all:"
+msgstr "Экспорт логов в CSV-файл. Пожалуйста, выберите диапазон дат, или оставьте пустым, чтобы экспортировать все:"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:77
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:81
+msgid "End Date"
+msgstr "Конечная дата"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:155
+msgid "You do not have any logs to export in that date range."
+msgstr "У вас нет логов для экспорта в указанном диапазоне дат."
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+msgid "ID"
+msgstr "Идентификатор"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:188
+msgid "Status"
+msgstr "Статус"
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:229
+msgid "Logs could not be deleted."
+msgstr "Логи не могут быть удалены."
+
+#: src/delightful-downloads/includes/admin/page-statistics.php:233
+msgid "Logs deleted successfully."
+msgstr "Логи удалены."
+
+#: src/delightful-downloads/includes/admin/upgrades.php:76
+msgid "Delightful Downloads updated to version 1.4."
+msgstr "Delightful Downloads обновлен до версии 1.4."
+
+#: src/delightful-downloads/includes/admin/upgrades.php:80
+#, php-format
+msgid "Please visit the %slogs screen%s to migrate your download statistics."
+msgstr "Посетите %slogs screen%s для перехода к статистике."
+
+#: src/delightful-downloads/includes/admin/upgrades.php:109
+msgid "Delightful Downloads updated to version 1.5."
+msgstr "Delightful Downloads обновлен до версии 1.5."
+
+#: src/delightful-downloads/includes/admin/upgrades.php:135
+#: src/delightful-downloads/includes/admin/upgrades.php:144
+msgid "Migrate"
+msgstr "Миграция"
+
+#: src/delightful-downloads/includes/admin/upgrades.php:136
+msgid "Stop"
+msgstr "Стоп"
+
+#: src/delightful-downloads/includes/admin/upgrades.php:137
+msgid "The migration could not start due to an error."
+msgstr "Миграция не может быть запущена из за ошибки."
+
+#: src/delightful-downloads/includes/admin/upgrades.php:142
+#, php-format
+msgid "You have %s logs from an older version of Delightful Downloads. %sPlease make a backup of your database before migrating!%s"
+msgstr "У вас %s логи от старой версии. %s Сделайте резервную копию базы данных перед переносом!%s"
+
+#: src/delightful-downloads/includes/admin/upgrades.php:148
+msgid "JavaScript must be enabled to migrate legacy logs."
+msgstr "JavaScript должен быть включен, чтобы перенести старые логи."
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:24
+msgid "Delightful Downloads"
+msgstr "Превосходные Закачки"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:26
+msgid "A list of your site's downloads."
+msgstr "Список загрузок вашего сайта."
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:96
+#: src/delightful-downloads/includes/post-types.php:22
+#: src/delightful-downloads/includes/post-types.php:34
+#: src/delightful-downloads/includes/post-types.php:64
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:123
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:127
+msgid "Number of downloads to show:"
+msgstr "Количество загрузок для отображения:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:131
+msgid "Order by:"
+msgstr "Порядок сортировки:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:136
+msgid "Random"
+msgstr "Случайным образом"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:137
+#: src/delightful-downloads/includes/functions.php:88
+#: src/delightful-downloads/includes/post-types.php:60
+msgid "Title"
+msgstr "Заголовок"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:141
+msgid "Order:"
+msgstr "Порядок:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:143
+msgid "ASC"
+msgstr "Восходящий алфавитный порядок"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:144
+msgid "DESC"
+msgstr "Нисходящий алфавитный порядок"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:148
+msgid "List Style:"
+msgstr "Стиль списка:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:158
+msgid "Category:"
+msgstr "Категория:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:161
+#: src/delightful-downloads/includes/taxonomies.php:26
+msgid "All Categories"
+msgstr "Все категории"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:168
+msgid "Tag:"
+msgstr "Тег:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:171
+#: src/delightful-downloads/includes/taxonomies.php:50
+msgid "All Tags"
+msgstr "Все теги"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:178
+msgid "Relation:"
+msgstr "Отношение:"
+
+#: src/delightful-downloads/includes/class-dedo-widget-list.php:183
+msgid "Downloads belong to category AND/OR tag."
+msgstr "Загрузки принадлежащие категории И/ИЛИ тегам."
+
+#: src/delightful-downloads/includes/cron.php:73
+msgid "Once Weekly"
+msgstr "Один раз в неделю"
+
+#: src/delightful-downloads/includes/functions.php:26
+msgid "Link"
+msgstr "Ссылка"
+
+#: src/delightful-downloads/includes/functions.php:30
+msgid "Plain Text"
+msgstr "Обычный текст"
+
+#: src/delightful-downloads/includes/functions.php:47
+msgid "Black"
+msgstr "Черная"
+
+#: src/delightful-downloads/includes/functions.php:51
+msgid "Blue"
+msgstr "Синяя"
+
+#: src/delightful-downloads/includes/functions.php:55
+msgid "Grey"
+msgstr "Серая"
+
+#: src/delightful-downloads/includes/functions.php:59
+msgid "Green"
+msgstr "Зеленая"
+
+#: src/delightful-downloads/includes/functions.php:63
+msgid "Purple"
+msgstr "Фиолетовая"
+
+#: src/delightful-downloads/includes/functions.php:67
+msgid "Red"
+msgstr "Красная"
+
+#: src/delightful-downloads/includes/functions.php:71
+msgid "Yellow"
+msgstr "Жёлтая"
+
+#: src/delightful-downloads/includes/functions.php:92
+msgid "Title (Date)"
+msgstr "Заголовок (Дата)"
+
+#: src/delightful-downloads/includes/functions.php:96
+msgid "Title (Count)"
+msgstr "Заголовок (Счетчик)"
+
+#: src/delightful-downloads/includes/functions.php:100
+msgid "Title (File size)"
+msgstr "Заголовок (Размер файла)"
+
+#: src/delightful-downloads/includes/functions.php:104
+msgid "Title (Extension, File size)"
+msgstr "Заголовок (Расширение, Размер файла)"
+
+#: src/delightful-downloads/includes/options.php:22
+msgid "General"
+msgstr "Главные"
+
+#: src/delightful-downloads/includes/options.php:23
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: src/delightful-downloads/includes/options.php:24
+msgid "Statistics"
+msgstr "Статистика"
+
+#: src/delightful-downloads/includes/options.php:25
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: src/delightful-downloads/includes/options.php:32
+msgid "Licenses"
+msgstr "Лицензии"
+
+#: src/delightful-downloads/includes/options.php:37
+msgid "Support"
+msgstr "Поддержка"
+
+#: src/delightful-downloads/includes/options.php:50
+msgid "Categories and Tags"
+msgstr "Категории и теги"
+
+#: src/delightful-downloads/includes/options.php:65
+#: src/delightful-downloads/includes/post-types.php:66
+msgid "Open in Browser"
+msgstr "Открыть в браузере"
+
+#: src/delightful-downloads/includes/options.php:71
+msgid "Block User Agents"
+msgstr "Блокировать имена пользователей"
+
+#: src/delightful-downloads/includes/options.php:77
+msgid "Default Text"
+msgstr "Текст по умолчанию"
+
+#: src/delightful-downloads/includes/options.php:83
+msgid "Default Style"
+msgstr "Стиль по умолчанию"
+
+#: src/delightful-downloads/includes/options.php:89
+msgid "Default Button Style"
+msgstr "Стиль кнопки по умолчанию"
+
+#: src/delightful-downloads/includes/options.php:95
+msgid "Default List Style"
+msgstr "Стиль списка по умолчанию"
+
+#: src/delightful-downloads/includes/options.php:101
+msgid "Admin Events"
+msgstr "Админ события"
+
+#: src/delightful-downloads/includes/options.php:107
+msgid "Grace Period"
+msgstr "Льготный период"
+
+#: src/delightful-downloads/includes/options.php:116
+msgid "Auto Delete"
+msgstr "Авто удаление"
+
+#: src/delightful-downloads/includes/options.php:125
+msgid "Output CSS"
+msgstr "Внешний CSS"
+
+#: src/delightful-downloads/includes/options.php:131
+msgid "Cache"
+msgstr "Кеширование"
+
+#: src/delightful-downloads/includes/options.php:140
+msgid "Download Address"
+msgstr "Адрес загрузки"
+
+#: src/delightful-downloads/includes/options.php:146
+msgid "Upload Directory"
+msgstr "Директория загрузки"
+
+#: src/delightful-downloads/includes/options.php:152
+msgid "Folder Protection"
+msgstr "Защита папки"
+
+#: src/delightful-downloads/includes/options.php:158
+msgid "Complete Uninstall"
+msgstr "Полное удаление"
+
+#: src/delightful-downloads/includes/post-types.php:24
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: src/delightful-downloads/includes/post-types.php:25
+msgid "Add New Download"
+msgstr "Добавить новую загрузку"
+
+#: src/delightful-downloads/includes/post-types.php:26
+msgid "Edit Download"
+msgstr "Редактировать загрузку"
+
+#: src/delightful-downloads/includes/post-types.php:27
+msgid "New Download"
+msgstr "Новая загрузка"
+
+#: src/delightful-downloads/includes/post-types.php:28
+msgid "All Downloads"
+msgstr "Все загрузки"
+
+#: src/delightful-downloads/includes/post-types.php:29
+msgid "View Download"
+msgstr "Просмотр загрузок"
+
+#: src/delightful-downloads/includes/post-types.php:30
+msgid "Search Downloads"
+msgstr "Искать загрузки"
+
+#: src/delightful-downloads/includes/post-types.php:31
+msgid "No downloads found"
+msgstr "Загрузок не найдено"
+
+#: src/delightful-downloads/includes/post-types.php:32
+msgid "No downloads found in Trash"
+msgstr "Загрузок в корзине не найдено"
+
+#: src/delightful-downloads/includes/post-types.php:61
+msgid "File"
+msgstr "Файл"
+
+#: src/delightful-downloads/includes/post-types.php:63
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: src/delightful-downloads/includes/post-types.php:73
+#: src/delightful-downloads/includes/taxonomies.php:25
+msgid "Categories"
+msgstr "Категории"
+
+#: src/delightful-downloads/includes/post-types.php:74
+#: src/delightful-downloads/includes/taxonomies.php:49
+msgid "Tags"
+msgstr "Теги"
+
+#: src/delightful-downloads/includes/post-types.php:109
+msgid "Shortcode copied to clipboard."
+msgstr ""
+
+#: src/delightful-downloads/includes/process-download.php:29
+msgid "Invalid download."
+msgstr "Неверное скачивание."
+
+#: src/delightful-downloads/includes/process-download.php:35
+msgid "You are blocked from downloading this file!"
+msgstr "Скачивание файла заблокировано!"
+
+#: src/delightful-downloads/includes/process-download.php:59
+msgid "Please login to download this file!"
+msgstr "Пожалуйста войдите на сайт для скачивания!"
+
+#: src/delightful-downloads/includes/process-download.php:65
+msgid "Password Required"
+msgstr "Требуется пароль"
+
+#: src/delightful-downloads/includes/process-download.php:70
+msgid "You must attach a file to this download."
+msgstr "Вы должны прикрепить файл к загрузке."
+
+#: src/delightful-downloads/includes/process-download.php:125
+msgid "Server error, file cannot be opened!"
+msgstr "Ошибка сервера, файл не найден!"
+
+#: src/delightful-downloads/includes/shortcodes.php:47
+#: src/delightful-downloads/includes/shortcodes.php:352
+#: src/delightful-downloads/includes/shortcodes.php:416
+msgid "Invalid download ID."
+msgstr "Не правильный ID."
+
+#: src/delightful-downloads/includes/shortcodes.php:59
+#: src/delightful-downloads/includes/shortcodes.php:262
+msgid "Invalid style attribute."
+msgstr "Не правильный стиль атрибута."
+
+#: src/delightful-downloads/includes/shortcodes.php:80
+msgid "Invalid button attribute."
+msgstr "Не правильный атрибут кнопки."
+
+#: src/delightful-downloads/includes/shortcodes.php:147
+msgid "Invalid orderby attribute."
+msgstr "Не правильный атрибут действия."
+
+#: src/delightful-downloads/includes/shortcodes.php:178
+msgid "Invalid order attribute."
+msgstr "Не правильный атрибут"
+
+#: src/delightful-downloads/includes/shortcodes.php:187
+msgid "Invalid relation attribute."
+msgstr "Устаревший атрибут."
+
+#: src/delightful-downloads/includes/shortcodes.php:318
+msgid "No downloads found."
+msgstr "Скачиваний не найдено."
+
+#: src/delightful-downloads/includes/taxonomies.php:23
+msgid "Download Categories"
+msgstr "Категории загрузки"
+
+#: src/delightful-downloads/includes/taxonomies.php:24
+msgid "Download Category"
+msgstr "Категория загрузки"
+
+#: src/delightful-downloads/includes/taxonomies.php:27
+msgid "Edit Category"
+msgstr "редактировать категорию"
+
+#: src/delightful-downloads/includes/taxonomies.php:28
+msgid "View Category"
+msgstr "Смотреть категорию"
+
+#: src/delightful-downloads/includes/taxonomies.php:29
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+#: src/delightful-downloads/includes/taxonomies.php:30
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+#: src/delightful-downloads/includes/taxonomies.php:31
+msgid "New Category Name"
+msgstr "Имя новой категории"
+
+#: src/delightful-downloads/includes/taxonomies.php:32
+msgid "Search Categories"
+msgstr "Искать категорию"
+
+#: src/delightful-downloads/includes/taxonomies.php:33
+msgid "Popular Categories"
+msgstr "Популярные категории"
+
+#: src/delightful-downloads/includes/taxonomies.php:47
+msgid "Download Tags"
+msgstr "Теги загрузок"
+
+#: src/delightful-downloads/includes/taxonomies.php:48
+msgid "Download Tag"
+msgstr "Тег загрузки"
+
+#: src/delightful-downloads/includes/taxonomies.php:51
+msgid "Edit Tag"
+msgstr "Редактировать тег"
+
+#: src/delightful-downloads/includes/taxonomies.php:52
+msgid "View Tag"
+msgstr "Смотреть тег"
+
+#: src/delightful-downloads/includes/taxonomies.php:53
+msgid "Update Tag"
+msgstr "Обновить тег"
+
+#: src/delightful-downloads/includes/taxonomies.php:54
+msgid "Add New Tag"
+msgstr "Добавить новый тег"
+
+#: src/delightful-downloads/includes/taxonomies.php:55
+msgid "New Tag Name"
+msgstr "Имя нового тега"
+
+#: src/delightful-downloads/includes/taxonomies.php:56
+msgid "Search Tags"
+msgstr "Искать теги"
+
+#: src/delightful-downloads/includes/taxonomies.php:57
+msgid "Popular Tags"
+msgstr "Популярные теги"
+
+#: src/delightful-downloads/views/addons.php:2
+msgid "Delightful Downloads Add-Ons"
+msgstr "Дополнения Delightful Downloads"
+
+#: src/delightful-downloads/views/addons.php:13
+msgid "Get Add-On"
+msgstr "Получить дополнения"
+
+#: src/delightful-downloads/views/addons.php:18
+msgid "Unable to retrieve available add-ons."
+msgstr "Не удалось получить доступные обновления."
+
+#: src/delightful-downloads/views/license-field.php:3
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: src/delightful-downloads/views/license-field.php:4
+#, php-format
+msgid "Your license will expire on %s."
+msgstr "Ваша лицензия просрочилась %s."
