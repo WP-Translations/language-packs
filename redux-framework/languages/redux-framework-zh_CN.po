@@ -1,0 +1,1418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"Report-Msgid-Bugs-To: https://github.com/ReduxFramework/ReduxFramework/issues\n"
+"Last-Translator: 颜泊泓 <553327522@qq.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/wp-translations/redux-framework/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-04-02 04:45:17+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:05:33\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: ReduxCore/core/enqueue.php:397
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:562
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "你可以改变,没有改变。现在你想改变它吗?"
+
+#: ReduxCore/core/enqueue.php:405
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:563
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "你确定要这样做? 重置将会抹掉当前所有设置数据值."
+
+#: ReduxCore/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "你确定要这样做? 重置将会抹掉当前选区的所有设置数据值."
+
+#: ReduxCore/core/enqueue.php:421
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:564
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "你当前的设置将会被现在的更改所覆盖. 确定继续?"
+
+#: ReduxCore/core/enqueue.php:428
+msgid "Please Wait"
+msgstr "请稍等"
+
+#: ReduxCore/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "保存时发生错误。这是您刚才的操作结果："
+
+#: ReduxCore/core/enqueue.php:440
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr "在操作中出现错误。请刷新页面再试一次。"
+
+#: ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "警告! 若没有javascript, 这个设置区域将不能正常工作."
+
+#: ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "设置数据已成功导入!"
+
+#: ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "所有默认设置已恢复!"
+
+#: ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "选区的默认设置已恢复!"
+
+#: ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "成功保存设置!"
+
+#: ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "设置项已改变, 你应该立即保存!"
+
+#: ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "找到错误信息!"
+
+#: ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "找到警告信息!"
+
+#: ReduxCore/core/panel.php:340
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr "<strong>你的面板已经捆绑了过期的Redux 框架模板文件</strong> &#8211; 如果你发现网站存在问题，可能是此原因引起的。您可以更新这些或删除它们。"
+
+#: ReduxCore/framework.php:220
+msgid "Options panel created using %1$s"
+msgstr "设置面板由 %1$s 提供开发"
+
+#. Plugin Name of the plugin/theme
+msgid "Redux Framework"
+msgstr "Redux 开发框架"
+
+#: ReduxCore/framework.php:224
+#: ReduxCore/framework.php:228
+msgid "Options"
+msgstr "选项"
+
+#: ReduxCore/framework.php:1381
+#: ReduxCore/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr "系统信息"
+
+#: ReduxCore/framework.php:1684
+msgid "Enable"
+msgstr "启用"
+
+#: ReduxCore/framework.php:1689
+msgid "Disable"
+msgstr "停用"
+
+#: ReduxCore/framework.php:1695
+msgid "moving the mouse over"
+msgstr "将鼠标移动到上面"
+
+#: ReduxCore/framework.php:1697
+msgid "clicking"
+msgstr "点击"
+
+#: ReduxCore/framework.php:1701
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr "工具提示是在 %d 点图标时弹出的信息，它提供了当前字段的补充信息。利用下面的链接他们能够被 %d。"
+
+#: ReduxCore/framework.php:1706
+msgid "Hints"
+msgstr "提示"
+
+#: ReduxCore/framework.php:1833
+msgid "Default"
+msgstr "默认"
+
+#: ReduxCore/framework.php:2687
+msgid "Invalid security credential, please reload the page and try again."
+msgstr "无效的安全证书，请刷新页面，然后再试一次。"
+
+#: ReduxCore/framework.php:2753
+msgid "Your panel has no fields. Nothing to save."
+msgstr "您的面板没有字段，没有要保存的内容。"
+
+#: ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr "无法修改所需的文件，请确认"
+
+#: ReduxCore/inc/class.redux_filesystem.php:25
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr "有合适的读/写权限或者在下面输入您的FTP信息."
+
+#: ReduxCore/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr "不再显示"
+
+#: ReduxCore/inc/class.redux_helpers.php:577
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr "<code>%s</code>版本<strong style=\"color:red\">%s</strong>是过期的。核心版本为%s"
+
+#: ReduxCore/inc/class.redux_themecheck.php:61
+msgid "The theme you are testing has %s embedded. We invite you to read the %sTheme-Check Documentation%s to understand some warnings you will see because of Redux."
+msgstr "您正在测试的当前主题已嵌入 %s 。由于Redux的原因，您可能看到的一些警告信息，您可以通过阅读 %s 主题检查文档 %s 来了解它们。"
+
+#: ReduxCore/inc/class.redux_themecheck.php:109
+msgid "The following directories & files are still located in your <strong>Redux</strong>  directory. They may cause errors in Theme-Check."
+msgstr "以下的目录和文件仍然位于您的<strong>Redux</strong>目录下。它们可能在主题检查中导致错误。"
+
+#: ReduxCore/inc/debug.php:41
+#: ReduxCore/inc/debug.php:69
+#: ReduxCore/inc/debug.php:76
+#: ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr "设置对象"
+
+#: ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "在Javsscript控制台显示对象"
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:597
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "你还未保存更改. 需要立即保存吗?"
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:598
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "你确定要这样做? 重置将会抹掉当前所有设置数据值."
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:599
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "你当前的设置将会被现在的更改所覆盖. 确定继续?"
+
+#: ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr "导入 / 导出"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:106
+msgid "Import Options"
+msgstr "导入选项"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import from File"
+msgstr "从文件导入"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import from URL"
+msgstr "从网址导入"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:110
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "在下方输入你的备份文件, 然后点击导入来恢复你的备份设置."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:115
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "输入另外一个站点的设置数据URL, 然后点击导入来远程导入设置."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Import"
+msgstr "导入"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr "警告! 此动作将会复写所有当前设置数据值, 请小心使用!"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Export Options"
+msgstr "导出设置数据"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "在此页面你可以复制/下载你当前的设置数据. 你可以以此作为备份以免发生任何错误, 或者你可以用来恢复此站点备份设置(或者其他网站设置)."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Copy Data"
+msgstr "复制数据"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Download Data File"
+msgstr "下载数据文件"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Copy Export URL"
+msgstr "复制导出URL"
+
+#: ReduxCore/inc/fields/background/field_background.php:124
+#: ReduxCore/inc/fields/color/field_color.php:73
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "透明"
+
+#: ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "重复背景"
+
+#: ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "背景片段"
+
+#: ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "背景定位"
+
+#: ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "背景尺寸"
+
+#: ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "背景附着方式"
+
+#: ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "背景位置"
+
+#: ReduxCore/inc/fields/background/field_background.php:277
+#: ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr "没有选择媒体"
+
+#: ReduxCore/inc/fields/background/field_background.php:314
+#: ReduxCore/inc/fields/media/field_media.php:198
+#: ReduxCore/inc/fields/slides/field_slides.php:126
+#: ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "上传"
+
+#: ReduxCore/inc/fields/background/field_background.php:321
+#: ReduxCore/inc/fields/media/field_media.php:205
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "移除"
+
+#: ReduxCore/inc/fields/border/field_border.php:125
+#: ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "全部"
+
+#: ReduxCore/inc/fields/border/field_border.php:138
+#: ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "上"
+
+#: ReduxCore/inc/fields/border/field_border.php:145
+#: ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "右"
+
+#: ReduxCore/inc/fields/border/field_border.php:152
+#: ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "下"
+
+#: ReduxCore/inc/fields/border/field_border.php:159
+#: ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "左"
+
+#: ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr "描边样式"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "从"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "到"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr "宽度"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr "高度"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "部件"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "添加/编辑 相册"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "清空相册"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "一般"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "悬浮"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "访问"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "激活"
+
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr "添加更多"
+
+#: ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "密码"
+
+#: ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "用户名"
+
+#: ReduxCore/inc/fields/select/field_select.php:83
+#: ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr "选择一个项目"
+
+#: ReduxCore/inc/fields/select/field_select.php:134
+#: ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr "没有找到符合条件的此类别项目."
+
+#: ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "幻灯片"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:73
+#: ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr "新%s"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:145
+#: ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "标题"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:149
+#: ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "描述"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:153
+#: ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:167
+#: ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "删除"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr "添加%s"
+
+#: ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "开启"
+
+#: ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "关闭"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr "字体源"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr "字体"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:258
+#: ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr "备份字体源"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:273
+#: ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr "字体样式"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr "字体粗细样式"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr "样式"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr "字体子项"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr "字体子项"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr "子项"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr "字体脚本"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:342
+#: ReduxCore/inc/fields/typography/field_typography.php:343
+#: ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr "文字对齐方式"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:365
+#: ReduxCore/inc/fields/typography/field_typography.php:366
+#: ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr "文字转变"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:388
+#: ReduxCore/inc/fields/typography/field_typography.php:389
+#: ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr "字体多样性"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:408
+#: ReduxCore/inc/fields/typography/field_typography.php:409
+#: ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr "字体装饰"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:432
+#: ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr "字体尺寸"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr "尺寸"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:441
+#: ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr "行高"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:450
+#: ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr "词组间距"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:459
+#: ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr "文字间距"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr "字体颜色"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr "Google字体"
+
+#: ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "帮助改善我们的面板"
+
+#: ReduxCore/inc/tracking.php:130
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr "请帮助我们改善我们的面板，允许我们收集匿名统计数据，使我们知道哪些配置，插件和主题用来进行测试以确保兼容。"
+
+#: ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "允许追踪"
+
+#: ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "不允许追踪"
+
+#: ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "欢迎来到Redux演示数据面板"
+
+#: ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr "开始"
+
+#: ReduxCore/inc/tracking.php:152
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr "此演示数据面板包含了许多Redux的特性. 在深入了解前, 我们建议你先浏览 %1$s 来帮助你提高开发速度."
+
+#: ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr "说明文档"
+
+#: ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Redux生成器"
+
+#: ReduxCore/inc/tracking.php:153
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr "想立即开始? 使用 %1$s. 它将会创建一个自定义的主题或者一个标准的管理员文件夹(由Undersocres与TGM提供). 节省你大量时间, 立即尝试下吧."
+
+#: ReduxCore/inc/tracking.php:154
+#: ReduxCore/inc/welcome/welcome.php:212
+msgid "Redux Extensions"
+msgstr "Redux插件"
+
+#: ReduxCore/inc/tracking.php:154
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr "你知道我们还有拓展插件吗? 这些插件将会极大拓展Redux设置面板的功能. 浏览我们的 %1$s 来了解更多!"
+
+#: ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "插件列表"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "喜欢Redux?"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr "如果如此, 请 %1$s 与考虑 %2$s 来支持我们的开发."
+
+#: ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "在WordPress.org给我们点赞吧"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr "捐赠"
+
+#: ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr "订阅"
+
+#: ReduxCore/inc/tracking.php:156
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr "如果你想了解关于Redux的最新消息, 请订阅我们的内容吧."
+
+#: ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr "Email地址"
+
+#: ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr "关闭"
+
+#: ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "此项必须填写一个有效的颜色值."
+
+#: ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr "你必须填写一列由英文逗号分隔的数字串."
+
+#: ReduxCore/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "发现你的CSS存在不安全的字符串，其已被过滤掉了。"
+
+#: ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "此项必须填写一个有效的日期."
+
+#: ReduxCore/inc/validation/email/validation_email.php:16
+#: ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "你必须填写一个有效的电子邮件地址."
+
+#: ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "你不能在此填写任何HTML代码, 所有HTML代码将会被移除."
+
+#: ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "你不能在此填写任何特殊文字符号, 所有特殊文字符号将会被移除."
+
+#: ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "此项不能为空. 请提供一个有效的值."
+
+#: ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "你必须填写一个有效的数字值."
+
+#: ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr "该URL slug已经在使用中，请选择另一个。<code>%s</code> 开放可用。"
+
+#: ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "你必须填写一个有效的URL地址."
+
+#: ReduxCore/inc/welcome/views/about.php:2
+msgid "Welcome to Redux Framework %s"
+msgstr "欢迎使用Redux Framework %s"
+
+#: ReduxCore/inc/welcome/views/about.php:5
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+msgstr "感谢您更新到最新版本！Redux 框架 %s是一个巨大的进步。看看所有部分，这就是新的。"
+
+#: ReduxCore/inc/welcome/views/about.php:8
+#: ReduxCore/inc/welcome/views/changelog.php:8
+#: ReduxCore/inc/welcome/views/credits.php:8
+#: ReduxCore/inc/welcome/views/extensions.php:82
+#: ReduxCore/inc/welcome/views/status_report.php:31
+#: ReduxCore/inc/welcome/views/support.php:8
+msgid "Version %s"
+msgstr "%s版本"
+
+#: ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "什么是Redux 框架？"
+
+#: ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+msgstr "Redux 框架是许多产品在网络上的核心。它是一个选项的框架，开发人员使用为\\n提升他们的产品。"
+
+#: ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "了解更多"
+
+#: ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "该版本中新的特性"
+
+#: ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "Redux框架更新日志"
+
+#: ReduxCore/inc/welcome/views/changelog.php:5
+#: ReduxCore/inc/welcome/views/status_report.php:28
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+msgstr "我们Redux的核心宗旨是向下兼容，通过世界各地的成千上万的实例，你可以放心，我们会为你和你的客户提供支持。"
+
+#: ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "Redux框架 - 开发人员"
+
+#: ReduxCore/inc/welcome/views/credits.php:5
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr "我们认识到，如果没有我们的社区，我们什么都不是。我们要感谢所有那些帮助Redux的人，谢谢您的参与。"
+
+#: ReduxCore/inc/welcome/views/credits.php:14
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"https://github.com/reduxframework/redux-framework/blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr "Redux 是由世界各地的开发者社区创建，希望列表中有你的名字？ <a href=\"https://github.com/reduxframework/redux-framework/blob/master/CONTRIBUTING.md\" target=\"_blank\">有助于Redux </a> 。"
+
+#: ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr "Redux 框架 - 扩展"
+
+#: ReduxCore/inc/welcome/views/extensions.php:79
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+msgstr "增强您使用 Redux的体验。我们扩展为您提供的功能，将你的产品提高到一个新的水平。"
+
+#: ReduxCore/inc/welcome/views/extensions.php:88
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
+msgstr "而另一些则建specificially对于开发商来说，扩展功能，如自定义字体务必使任何用户喜欢。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr "Redux框架 - 系统状态"
+
+#: ReduxCore/inc/welcome/views/status_report.php:38
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "请复制并粘贴此信息在您的票，当与支持人员联系:"
+
+#: ReduxCore/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr "获取系统报告"
+
+#: ReduxCore/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr "了解状态报告"
+
+#: ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr "复制!"
+
+#: ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr "复制支持"
+
+#: ReduxCore/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr "WordPress 的环境"
+
+#: ReduxCore/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr "主页地址"
+
+#: ReduxCore/inc/welcome/views/status_report.php:66
+msgid "The URL of your site's homepage."
+msgstr "您的网站主页的 URL。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr "网站链接"
+
+#: ReduxCore/inc/welcome/views/status_report.php:71
+msgid "The root URL of your site."
+msgstr "您的站点根 URL。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr "Redux版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:76
+msgid "The version of Redux Framework installed on your site."
+msgstr "安装在您站点中的Redux框架版本。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr "Redux 数据目录可写"
+
+#: ReduxCore/inc/welcome/views/status_report.php:83
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr "Redux及其扩展数据写入<code>uploads</code>目录。该目录必须是可写的。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:88
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "为了让数据保存，使得<code>%s</code>可写入。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:93
+msgid "WP Version"
+msgstr "WP 版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:94
+msgid "The version of WordPress installed on your site."
+msgstr "安装在您站点中的WordPress版本。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:98
+msgid "WP Multisite"
+msgstr "WP 多站点"
+
+#: ReduxCore/inc/welcome/views/status_report.php:99
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "是否你有 WordPress 多站点启用。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:107
+msgid "Permalink Structure"
+msgstr "固定链接结构"
+
+#: ReduxCore/inc/welcome/views/status_report.php:108
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr "在WordPress的设置 ->固定链接中定义当前的固定链接结构。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:113
+msgid "Front Page Display"
+msgstr "首页显示"
+
+#: ReduxCore/inc/welcome/views/status_report.php:114
+msgid "The current Reading mode of Wordpress."
+msgstr "WordPress的当前读数模式。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:122
+msgid "Front Page"
+msgstr "首页"
+
+#: ReduxCore/inc/welcome/views/status_report.php:123
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "当前选定的页面，将作为网站的首页。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:127
+msgid "Posts Page"
+msgstr "图卡页"
+
+#: ReduxCore/inc/welcome/views/status_report.php:128
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "你的博客文章将被显示在此页面上。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:135
+msgid "WP Memory Limit"
+msgstr "WP 內存限制"
+
+#: ReduxCore/inc/welcome/views/status_report.php:136
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "最大内存 (RAM)，您网站可以使用的单次最大量。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:141
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%s-我们建议设置为至少 40 MB 的内存。请参见: <a href=\"%s\"target=\"_blank\"> 增加内存分配给 PHP</a>"
+
+#: ReduxCore/inc/welcome/views/status_report.php:148
+msgid "Database Table Prefix"
+msgstr "数据库表前缀"
+
+#: ReduxCore/inc/welcome/views/status_report.php:150
+msgid "The prefix structure of the current Wordpress database."
+msgstr "当前的WordPress数据库的前缀结构。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:154
+msgid "WP Debug Mode"
+msgstr "WP 调试模式"
+
+#: ReduxCore/inc/welcome/views/status_report.php:155
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "显示 WordPress 是否在调试模式下。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:163
+msgid "Language"
+msgstr "语言"
+
+#: ReduxCore/inc/welcome/views/status_report.php:164
+msgid "The current language used by WordPress. Default = English"
+msgstr "使用 WordPress 的当前语言。默认值 = 英语"
+
+#: ReduxCore/inc/welcome/views/status_report.php:172
+msgid "Browser"
+msgstr "浏览器"
+
+#: ReduxCore/inc/welcome/views/status_report.php:177
+msgid "Browser Info"
+msgstr "浏览器信息"
+
+#: ReduxCore/inc/welcome/views/status_report.php:178
+msgid "Information about web browser current in use."
+msgstr "显示当前使用的浏览器信息。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:193
+msgid "Server Environment"
+msgstr "服务器环境"
+
+#: ReduxCore/inc/welcome/views/status_report.php:198
+msgid "Server Info"
+msgstr "服务器信息"
+
+#: ReduxCore/inc/welcome/views/status_report.php:199
+msgid "Information about the web server that is currently hosting your site."
+msgstr "有关当前您的站点的 web 服务器的信息。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:203
+msgid "Localhost Environment"
+msgstr "本地主机环境"
+
+#: ReduxCore/inc/welcome/views/status_report.php:204
+msgid "Is the server running in a localhost environment."
+msgstr "是在本地主机环境中运行的服务器。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:214
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:215
+msgid "The version of PHP installed on your hosting server."
+msgstr "服务器上安装的 PHP 版本。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:220
+msgid "PHP Memory Limit"
+msgstr "PHP 内存限制"
+
+#: ReduxCore/inc/welcome/views/status_report.php:221
+#: ReduxCore/inc/welcome/views/status_report.php:226
+msgid "The largest filesize that can be contained in one post."
+msgstr "可以在一篇文章所载最大文件大小。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:225
+msgid "PHP Post Max Size"
+msgstr "PHP最大的POST尺寸"
+
+#: ReduxCore/inc/welcome/views/status_report.php:230
+msgid "PHP Time Limit"
+msgstr "PHP执行时间限制"
+
+#: ReduxCore/inc/welcome/views/status_report.php:231
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "用的时间 (以秒为单位)，您的站点将上单个操作之前超时 (以避免服务器锁定) 量"
+
+#: ReduxCore/inc/welcome/views/status_report.php:235
+msgid "PHP Max Input Vars"
+msgstr "PHP输入变量最大值"
+
+#: ReduxCore/inc/welcome/views/status_report.php:236
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "最大数量的变量您的服务器可以使用针对单个函数来避免重载。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:240
+msgid "PHP Display Errors"
+msgstr "PHP错误显示"
+
+#: ReduxCore/inc/welcome/views/status_report.php:241
+msgid "Determines if PHP will display errors within the browser."
+msgstr "确定是否PHP将显示在浏览器中的错误。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:252
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN已安装"
+
+#: ReduxCore/inc/welcome/views/status_report.php:253
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin 是为 PHP 安装先进的保护系统。它旨在保护您的服务器在一方面对一些众所周知的问题，PHP 应用程序中，另一方面针对潜在未知的漏洞，在这些应用程序或 PHP 内核心本身。如果您的服务器上启用，Suhosin 可能需要通过配置来提高其数据提交限制。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:262
+msgid "MySQL Version"
+msgstr "MySql版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:263
+msgid "The version of MySQL installed on your hosting server."
+msgstr "MySQL 在托管服务器上安装的版本。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:267
+msgid "Max Upload Size"
+msgstr "最大上传大小"
+
+#: ReduxCore/inc/welcome/views/status_report.php:268
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "可以上传到你的 WordPress 安装的最大文件大小。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:272
+msgid "Default Timezone is UTC"
+msgstr "设置默认的时区是 UTC"
+
+#: ReduxCore/inc/welcome/views/status_report.php:275
+msgid "The default timezone for your server."
+msgstr "您的服务器的的默认时区。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:278
+msgid "Default timezone is %s - it should be UTC"
+msgstr "默认时区是 %s -默认为 UTC"
+
+#: ReduxCore/inc/welcome/views/status_report.php:289
+msgid "Used when communicating with remote services with PHP."
+msgstr "与PHP远程服务进行通信时使用。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:295
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr "您的服务器不具有或的fsockopen启用卷曲 - 卷曲是用来与其它服务器进行通信。请联系您的托管服务提供商。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:334
+msgid "Remote Post"
+msgstr "远程发布"
+
+#: ReduxCore/inc/welcome/views/status_report.php:335
+msgid "Used to send data to remote servers."
+msgstr "用于将数据发送到远程服务器。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:340
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr "wp_remote_post() 失败，许多高级功能可能无法正常工作，请联系您的托管服务提供商。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:343
+#: ReduxCore/inc/welcome/views/status_report.php:358
+msgid "Error: %s"
+msgstr "出错了！%s"
+
+#: ReduxCore/inc/welcome/views/status_report.php:350
+msgid "Remote Get"
+msgstr "远程获取"
+
+#: ReduxCore/inc/welcome/views/status_report.php:351
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "用来获取从远程服务器更新更新的信息。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:356
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr "wp_remote_get()失败。这是获得远程服务器的信息的必需品，请联系您的托管服务提供商。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:390
+msgid "Active Plugins"
+msgstr "激活插件"
+
+#: ReduxCore/inc/welcome/views/status_report.php:406
+msgid "Visit plugin homepage"
+msgstr "访问插件主页"
+
+#: ReduxCore/inc/welcome/views/status_report.php:430
+msgid "Redux Instance: "
+msgstr "Redux实例："
+
+#: ReduxCore/inc/welcome/views/status_report.php:437
+msgid "The opt_name argument for this instance of Redux."
+msgstr "该opt_name论据Redux的实例。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:445
+msgid "The global_variable argument for this instance of Redux."
+msgstr "该global_variable论据Redux的此实例。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:453
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "指示是否启用了Redux的此实例的开发模式。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:458
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr "指示是否启用了Redux的此实例基于Ajax的储蓄。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:463
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr "这个表示是用于Redux实例的选项面板页面的页面别名。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:468
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr "页面权限变量集需要设置此Redux实例选项面板的权限级别。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:473
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr "这个变量的作用是设置是否显示菜单作为Redux实例的后台管理菜单。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:478
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr "页面的父变量设置选项菜单将被放置在该Redux实例的WordPress管理面板侧边栏"
+
+#: ReduxCore/inc/welcome/views/status_report.php:484
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "指示是否启用了Redux的此实例的编译器标志。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr "指示是否启用了Redux的此实例输出标志在全局范围切断所有的CSS输出。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:494
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr "该output_tag变量设置是否动态CSS将用于定制和谷歌字体终极版的此实例产生。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:503
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr "包含自定义模板文件Redux版实例的模板路径。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:508
+msgid "List of template files overriding the default Redux template files."
+msgstr "模板文件覆盖缺省模板Redux的文件列表。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "表示所安装的Redux扩展和它们的版本号。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:562
+msgid "Theme"
+msgstr "主题"
+
+#: ReduxCore/inc/welcome/views/status_report.php:567
+msgid "Name"
+msgstr "名字"
+
+#: ReduxCore/inc/welcome/views/status_report.php:568
+msgid "The name of the current active theme."
+msgstr "当前活动的主题的名称。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Version"
+msgstr "版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:573
+msgid "The installed version of the current active theme."
+msgstr "已安装的版本的当前的活动主题。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:578
+msgid "is available"
+msgstr "可用"
+
+#: ReduxCore/inc/welcome/views/status_report.php:583
+msgid "Author URL"
+msgstr "作者链接"
+
+#: ReduxCore/inc/welcome/views/status_report.php:584
+msgid "The theme developers URL."
+msgstr "主题开发者的 URL。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:588
+msgid "Child Theme"
+msgstr "子主题"
+
+#: ReduxCore/inc/welcome/views/status_report.php:589
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "显示当前主题是否是一个子主题。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:591
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "如果你正在修改终极版框架或父主题，我们建议您使用子主题。请参阅： <a href=\"%s\" target=\"_blank\">如何创建一个子主题</a>"
+
+#: ReduxCore/inc/welcome/views/status_report.php:599
+msgid "Parent Theme Name"
+msgstr "父主题名称"
+
+#: ReduxCore/inc/welcome/views/status_report.php:601
+msgid "The name of the parent theme."
+msgstr "父主题的名称。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:605
+msgid "Parent Theme Version"
+msgstr "父主题版本"
+
+#: ReduxCore/inc/welcome/views/status_report.php:608
+msgid "The installed version of the parent theme."
+msgstr "父主题的已安装的版本。"
+
+#: ReduxCore/inc/welcome/views/status_report.php:612
+msgid "Parent Theme Author URL"
+msgstr "父主题作者 URL"
+
+#: ReduxCore/inc/welcome/views/status_report.php:615
+msgid "The parent theme developers URL."
+msgstr "父主题开发者的 URL。"
+
+#: ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "Redux框架 - 支持"
+
+#: ReduxCore/inc/welcome/views/support.php:5
+msgid "We are an open source project used by developers to make powerful control panels."
+msgstr "我们是一个开源项目，开发者使用我们开发强大的控制面板。"
+
+#: ReduxCore/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr "获得支持URL"
+
+#: ReduxCore/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr "选择支持类型"
+
+#: ReduxCore/inc/welcome/views/support.php:22
+#: ReduxCore/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr "如何得到支持"
+
+#: ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "提交一个支持请求"
+
+#: ReduxCore/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr "要开始，我们需要生成一个支持的HASH值。"
+
+#: ReduxCore/inc/welcome/views/support.php:33
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
+msgstr "这将提供给你的开发人员他们可能需要解决您的问题的信息。此行为将安全地将信息发送到远程服务器。要查看发送的信息的类型，请查看<a href=\"%s\">状态选项卡</a> 。"
+
+#: ReduxCore/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+"生成\n"
+"            支持 URL"
+
+#: ReduxCore/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr "选择您的支持类型"
+
+#: ReduxCore/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr "你是什么类型的用户？"
+
+#: ReduxCore/inc/welcome/views/support.php:52
+msgid "User"
+msgstr "用户"
+
+#: ReduxCore/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr "我是一个用户，使用一个预览产品。"
+
+#: ReduxCore/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr "开发人员"
+
+#: ReduxCore/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr "我是一个开发者，使用Redux设计产品。"
+
+#: ReduxCore/inc/welcome/views/support.php:68
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr "请转至Redux的框架问题检查软件，并与下方的URL提供给我们。还请提供有助于我们重现您的问题的任何信息。"
+
+#: ReduxCore/inc/welcome/views/support.php:74
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr "下面列出的是安装在您的网站上的WordPress的插件和/或主题，利用Redux框架。我们不直接支持在我们的框架中创建的产品。这是插件和主题开发者的工作职责。您将需要联系下面列出的产品的作者（S）。"
+
+#: ReduxCore/inc/welcome/views/support.php:77
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr "请一定要包含你的开发者 - 通过剪切和粘贴 - 在下面的框中的支持URL。"
+
+#: ReduxCore/inc/welcome/views/support.php:215
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr "如果开发商不响应，请阅读<a href=\"%s\" target=\"_blank\">下面的文章</a> ，直接要求支持在我们面前。"
+
+#: ReduxCore/inc/welcome/welcome.php:168
+msgid "Support hash could not be generated. Please try again later."
+msgstr "无法生成支持HASH值。请稍后再试。"
+
+#: ReduxCore/inc/welcome/welcome.php:188
+msgid "Welcome to Redux Framework"
+msgstr "欢迎使用Redux Framework"
+
+#: ReduxCore/inc/welcome/welcome.php:196
+msgid "Redux Framework Changelog"
+msgstr "Redux Framework 更新日志"
+
+#: ReduxCore/inc/welcome/welcome.php:204
+#: class.redux-plugin.php:410
+msgid "Get Support"
+msgstr "获得支持"
+
+#: ReduxCore/inc/welcome/welcome.php:221
+msgid "The people that develop Redux Framework"
+msgstr "开发了Redux Framework的人"
+
+#: ReduxCore/inc/welcome/welcome.php:229
+msgid "Redux Framework Status"
+msgstr "Redux 框架状态"
+
+#: ReduxCore/inc/welcome/welcome.php:334
+msgid "What's New"
+msgstr "有什么新的"
+
+#: ReduxCore/inc/welcome/welcome.php:338
+msgid "Extensions"
+msgstr "扩展"
+
+#: ReduxCore/inc/welcome/welcome.php:342
+msgid "Changelog"
+msgstr "修订历史"
+
+#: ReduxCore/inc/welcome/welcome.php:346
+msgid "Credits"
+msgstr "鸣谢"
+
+#: ReduxCore/inc/welcome/welcome.php:350
+msgid "Support"
+msgstr "支持"
+
+#: ReduxCore/inc/welcome/welcome.php:354
+msgid "Status"
+msgstr "状态"
+
+#: ReduxCore/inc/welcome/welcome.php:511
+msgid "View %s"
+msgstr "查看%s"
+
+#: ReduxCore/templates/panel/footer.tpl.php:43
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: ReduxCore/templates/panel/footer.tpl.php:46
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr "重置选区"
+
+#: ReduxCore/templates/panel/footer.tpl.php:47
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr "全部重置"
+
+#: ReduxCore/templates/panel/footer.tpl.php:52
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr "处理中..."
+
+#: ReduxCore/templates/panel/header.tpl.php:18
+msgid "Developer Mode Enabled"
+msgstr "已启用开发模式"
+
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr "展开"
+
+#: class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux 开发框架有一个视频演示."
+
+#: class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr "点击此处启用演示配置文件."
+
+#: class.redux-plugin.php:407
+msgid "Docs"
+msgstr "文档"
+
+#: class.redux-plugin.php:408
+msgid "Repo"
+msgstr "协议"
+
+#: class.redux-plugin.php:409
+msgid "Builder"
+msgstr "生成器"
+
+#: class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr "停用演示模式"
+
+#: class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr "启用演示模式"
+
+#: tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr "必须在\"plugins_loaded\"动作后执行."
+
+#: tests/includes/class-tivwp-dm-controller.php:138
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr "%2$s 挂载的未知动作 \"%1$s\" "
+
+#: tests/includes/class-tivwp-dm-controller.php:143
+msgid "The unknown action has been replaced with \"%s\""
+msgstr "此位置的动作将会被  \"%s\" 代替"
+
+#: tests/includes/class-tivwp-dm-controller.php:158
+msgid "Automatic action performed: \"%s\""
+msgstr "自动动作: \"%s\""
+
+#: tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr "启用开发插件"
+
+#: tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr "停用开发插件"
+
+#: tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问该页面。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/redux-framework"
+msgstr "http://wordpress.org/plugins/redux-framework"
+
+#. Description of the plugin/theme
+msgid "Redux is a simple, truly extensible options framework for WordPress themes and plugins."
+msgstr "Redux是一个简洁,可扩展的Wordpress主题和插件的设置框架."
+
+#. Author of the plugin/theme
+msgid "Team Redux"
+msgstr "Team Redux"
+
+#. Author URI of the plugin/theme
+msgid "http://reduxframework.com"
+msgstr "http://reduxframework.com"
+
+#: ReduxCore/inc/welcome/views/status_report.php:412
+msgctxt "by author"
+msgid "by %s"
+msgstr "来自%s"
