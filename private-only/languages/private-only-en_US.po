@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Private Only\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/private-only\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/private-only/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-07-18 17:17:10+00:00\n"
+"PO-Revision-Date: 2017-09-20 07:47:47\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/settings-admin.php:33
+#: privateonly.php:84
+msgid "Private Only Custom Login"
+msgstr "Private Only Custom Login"
+
+#: admin/settings-admin.php:34
+msgid "Private Only Custom Login Settings"
+msgstr "Private Only Custom Login Settings"
+
+#: admin/settings-admin.php:90
+msgid "New Settings saved"
+msgstr "New Settings saved"
+
+#: admin/settings-admin.php:110
+msgid "Settings have been reset. Please refresh this page"
+msgstr "Settings have been reset. Please refresh this page"
+
+#: admin/settings-admin.php:139
+msgid "Do you really want to delete/reset the plugin settings?"
+msgstr "Do you really want to delete/reset the plugin settings?"
+
+#: admin/settings.php:18
+msgid "This is Private Only plugin for WordPress"
+msgstr "This is Private Only plugin for WordPress"
+
+#: admin/settings.php:20
+msgid "If you disable or enable feed, DO NOT FORGET TO REFRESH YOUR BROWSER CACHE AFTER ACTIVATE PRIVATE ONLY or DISABLE FEED"
+msgstr "If you disable or enable feed, DO NOT FORGET TO REFRESH YOUR BROWSER CACHE AFTER ACTIVATE PRIVATE ONLY or DISABLE FEED"
+
+#: admin/settings.php:62
+msgid "Custom Login"
+msgstr "Custom Login"
+
+#: admin/settings.php:71
+msgid "Public Page:"
+msgstr "Public Page:"
+
+#: admin/settings.php:86
+msgid "Define the public page"
+msgstr "Define the public page"
+
+#: admin/settings.php:99
+msgid "Logo:"
+msgstr "Logo:"
+
+#: admin/settings.php:103
+msgid "Upload an image with Media Library or FTP and put the full path here, http://yourdomainname.com/logo.jpg"
+msgstr "Upload an image with Media Library or FTP and put the full path here, http://yourdomainname.com/logo.jpg"
+
+#: admin/settings.php:104
+msgid "We do not provide upload tool here, because it is free for you upload it wherever you want to"
+msgstr "We do not provide upload tool here, because it is free for you upload it wherever you want to"
+
+#: admin/settings.php:109
+msgid "Logo Height:"
+msgstr "Logo Height:"
+
+#: admin/settings.php:113
+msgid "What is your logo height"
+msgstr "What is your logo height"
+
+#: admin/settings.php:126
+msgid "Use WordPress logo"
+msgstr "Use WordPress logo"
+
+#: admin/settings.php:131
+msgid "Check this box to use WordPress Logo, leave unchecked to disable it."
+msgstr "Check this box to use WordPress Logo, leave unchecked to disable it."
+
+#: admin/settings.php:136
+msgid "Change WordPress logo link"
+msgstr "Change WordPress logo link"
+
+#: admin/settings.php:140
+msgid "Change WordPress logo link from wordpress.org to your domain, http://yourdomainname.com"
+msgstr "Change WordPress logo link from wordpress.org to your domain, http://yourdomainname.com"
+
+#: admin/settings.php:146
+msgid "Your Custom Login Message"
+msgstr "Your Custom Login Message"
+
+#: admin/settings.php:150
+msgid "Change default login message to your own"
+msgstr "Change default login message to your own"
+
+#: admin/settings.php:156
+msgid "Remove Register and Lost Your Password? text"
+msgstr "Remove Register and Lost Your Password? text"
+
+#: admin/settings.php:161
+msgid "Check this box to remove Register and Lost Your Password? text on WP-Admin login, leave unchecked to disable it."
+msgstr "Check this box to remove Register and Lost Your Password? text on WP-Admin login, leave unchecked to disable it."
+
+#: admin/settings.php:166
+msgid "Remove Back to Blog link?"
+msgstr "Remove Back to Blog link?"
+
+#: admin/settings.php:171
+msgid "Check this box to remove Back to Blog link on WP-Admin login, leave unchecked to disable it."
+msgstr "Check this box to remove Back to Blog link on WP-Admin login, leave unchecked to disable it."
+
+#: admin/settings.php:183
+msgid "Use Custom CSS"
+msgstr "Use Custom CSS"
+
+#: admin/settings.php:188
+msgid "Check this box to use Custom CSS, leave unchecked to disable it. You should have custom css in your active theme"
+msgstr "Check this box to use Custom CSS, leave unchecked to disable it. You should have custom css in your active theme"
+
+#: disablefeed.php:14
+msgid "<strong>Error:</strong> Feed unavailable!"
+msgstr "<strong>Error:</strong> Feed unavailable!"
+
+#: privateonly.php:126
+msgid "Only registered and logged in users are allowed to view this site. Please login now"
+msgstr "Only registered and logged in users are allowed to view this site. Please login now"
+
+#: privateonly.php:129
+msgid "Visit our public page:"
+msgstr "Visit our public page:"
+
+#: privateonly.php:137
+msgid "Welcome,you need to be registered to see content"
+msgstr "Welcome,you need to be registered to see content"
+
+#. Plugin Name of the plugin/theme
+msgid "Private Only, Disable Feed"
+msgstr "Private Only, Disable Feed"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.pixert.com/"
+msgstr "http://www.pixert.com/"
+
+#. Description of the plugin/theme
+msgid "This sub plugin disable Feed"
+msgstr "This sub plugin disable Feed"
+
+#. Author of the plugin/theme
+msgid "Kate Mag (Pixel Insert)"
+msgstr "Kate Mag (Pixel Insert)"
+
+#. Author URI of the plugin/theme
+msgid "http://www.pixert.com"
+msgstr "http://www.pixert.com"
