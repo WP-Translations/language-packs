@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Meta Tags\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: eko ikhyar <ikhyar.com@gmail.com>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/apple-meta-tags/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-03-21 11:47+0100\n"
+"PO-Revision-Date: 2017-09-19 23:06:32\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:91
+msgid "WordPress Apple Tags Settings"
+msgstr "Pengaturan Tag WordPress Apple"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+msgid "Apple Tags"
+msgstr "Tag Apple"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:101
+msgid "Enable iOS Web-App Mode"
+msgstr "Aktifkan modus App iOS Web"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:104
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:140
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:160
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:196
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:241
+msgid "No"
+msgstr "Tidak"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:105
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:141
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:161
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:197
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:242
+msgid "Yes"
+msgstr "Ya"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:111
+msgid "Web App Status Bar Color"
+msgstr "Warna Status Bar Web App"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:114
+msgid "Default (Grey)"
+msgstr "Standar (Abu-abu)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:115
+msgid "Black"
+msgstr "Hitam"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:116
+msgid "Black Translucent"
+msgstr "Hitam Tembus pandang"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:122
+msgid "Web App Title"
+msgstr "Judul Web App"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:127
+msgid "Viewport"
+msgstr "Viewport"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:137
+msgid "Detect Telephone Numbers"
+msgstr "Mendeteksi Nomor Telepon"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:148
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:153
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:169
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:174
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:179
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:184
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:189
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:204
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:209
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:214
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:219
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:224
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:229
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:234
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:250
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:255
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:260
+msgid "Upload"
+msgstr "Unggah"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:157
+msgid "Touch Icon Precomposed"
+msgstr "Sentuh Ikon precomposed"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:163
+msgid "Use glossy bookmark icon."
+msgstr "Gunakan glossy ikon bookmark."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:168
+msgid "URL to iPod Touch Icon"
+msgstr "URL untuk Ikon Sentuh iPod"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:173
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:178
+msgid "URL to iPad Touch Icon"
+msgstr "URL untuk Ikon Sentuh iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:183
+msgid "URL to iPhone 4 Touch Icon"
+msgstr "URL untuk Ikon Sentuh iPhone 4"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:188
+msgid "URL to iPhone 5 Touch Icon"
+msgstr "URL untuk Ikon Sentuh iPhone 5"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:193
+msgid "Use Startup Screens"
+msgstr "Gunakan Layar Startup "
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:203
+msgid "URL to iPhone Portrait startup screen"
+msgstr "URL untuk layar startup iPhone Portrait"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:208
+msgid "URL to Retina Portrait iPhone startup screen"
+msgstr "URL ke layar startup iPhone Retina Portrait"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:213
+msgid "URL to 4-inch Portrait Retina iPhone startup screen"
+msgstr "URL untuk startup layar 4-inch iPhone Portrait Retina"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:218
+msgid "URL to iPad Portrait startup screen"
+msgstr "URL ke layar Potrait iPad Landscape"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:223
+msgid "URL to iPad Landscape startup screen"
+msgstr "URL ke layar startup iPad Landscape"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:228
+msgid "URL to Retina iPad Portrait startup screen"
+msgstr "URL ke layar Portrait startup Retina iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:233
+msgid "URL to Retina iPad Landscape startup screen"
+msgstr "URL ke layar Landscape startup Retina iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:238
+msgid "Use Smart App Banner (iOS6+)"
+msgstr "Penggunaan App Banner Pintar (iOS6+)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Safari has a Smart App Banner feature in iOS 6 and later that provides a standardized method of promoting apps on the App Store from your website."
+msgstr "Safari memiliki fitur App Banner Pintar di iOS 6 dan seterusnya yang menyediakan metode standar untuk mempromosikan aplikasi di App Store dari website Anda."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Read for more information"
+msgstr "Baca Untuk informasi lebih lanjut"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:249
+msgid "App Store ID"
+msgstr "ID App Store"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:254
+msgid "Affiliate ID"
+msgstr "ID afiliasi"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:259
+msgid "App Argument"
+msgstr "App Argumen"
