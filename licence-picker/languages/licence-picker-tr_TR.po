@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Licence Picker\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/licence-picker/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-28 07:08+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:05\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Translators: 1 is plugin name, 2 is version number
+#: admin/class-lp-admin.php:54
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s aktif değil"
+
+#. Translators: 1 is current WordPress version, 2 is required version
+#: admin/class-lp-admin.php:56
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "WordPress %1$s sürümünü kullanmaktasınız. Bu eklentiyi kullanabilmek için %2$s ya da daha güncel bir sürüm gerekmektedir ve eklenti etkisizleştirilmiştir. Lütfen WordPress 'inizi güncelleyip tekrar deneyin."
+
+#: admin/class-lp-admin.php:57
+msgid "Back to WordPress admin"
+msgstr "WordPress yönetimine geri dön"
+
+#: licence-picker.php:77
+#: licence-picker.php:78
+msgid "Licence picker"
+msgstr "Lisans seçici"
+
+#: licence-picker.php:79
+msgid "Search licences"
+msgstr "Lisans ara"
+
+#: licence-picker.php:80
+msgid "All licences"
+msgstr "Tüm lisanslar"
+
+#: licence-picker.php:81
+msgid "Parent licence"
+msgstr "Üst lisans"
+
+#: licence-picker.php:82
+msgid "Parent licence:"
+msgstr "Üst lisans:"
+
+#: licence-picker.php:83
+msgid "Edit licence"
+msgstr "Lisansı düzenle"
+
+#: licence-picker.php:84
+msgid "Update licence"
+msgstr "Lisansı güncelle"
+
+#: licence-picker.php:85
+msgid "Add New licence"
+msgstr "Yeni lisans ekle"
+
+#: licence-picker.php:86
+msgid "New licence"
+msgstr "Yeni lisans"
+
+#: licence-picker.php:87
+msgid "Licences"
+msgstr "Lisanslar"
+
+#. Translators: The term 'licensing' in English does not require plural; do as
+#. works best for your language
+#: public/class-lp-frontend.php:35
+msgid "Licensing"
+msgid_plural "Licensing"
+msgstr[0] "Lisanslama"
+msgstr[1] "Lisanslama"
