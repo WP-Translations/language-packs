@@ -1,0 +1,5988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Juris <juris.o@gmail.com>\n"
+"Language-Team: Latvian (http://www.transifex.com/wysija/wysija/language/lv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-09-22 15:22:56\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Pievienojiet izvēles rūtiņu klientiem izrakstīšanās lapā, lai viņi varētu pierakstīties MailPoet biļeteniem."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Izvēlieties kurus e-pastus jaunie klienti saņems automātiski, balstoties uz produktu, ko viņi iegādājušies. Šis ir WooCommerce Premium pielikums."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Pievienojiet jaunu lauku, ko pievienot Jūsu formām, lai Jūsu apmeklētāji var parakstīties uz Jūsu MailPoet biļeteniem."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Pievienojiet izvēles rūtiņu šī spraudņa reģistrēšanās formā, lai jaunie lietotāji varētu pievienoties sarakstam pēc Jūsu izvēles."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Pievienojiet izvēles rūtiņu Jūsu formās un izvēlieties kuram no sarakstiem lietotājs tiks pievienots."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Apturiet viltotās robotu pierakstīšanās ar WangGuard, bezmaksas servisu un spraudni."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Ja Jums ir šī problēma, tad šis ir risinājums. Arī pilnīgi bez maksas."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall ir Premium spraudnis, lai noliktu saturu aiz maksas sienas. Šis spraudnis pārvaldīs Jūsu abonentu pierakstīšanās."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Ievietot formu Jūsu vietnes augšas vai apakšas joslā vai arī jaukā kastītē starp Jūsu rakstiem ar GetConversion's bezmaksas spraudņiem. Pievienot tos pie MailPoet ar šo spraudni.<br/></br>Saņemt 30% atlaidi no Premium versijas spraudņiem klikšķinot <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">šeit</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Pamēģiniet to pats, mēs bijām pārsteigti par bezmaksas versiju."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Novietot pierakstīšanās formu iznirstošajā logā vai kājenē , lai pievienotu abonentus ar šo Premium spraudni."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Autori ir paveikuši neticamu darbu."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Premium lietotāji ar šo kuponu ietaupa 20%: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Šis Premium spraudnis ļauj pievienot MailPoet formu iznirstošajā logā."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Lai noformētu pēc savas gaumes, Jums nepieciešams pārvaldīt CSS."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Premium lietotāji ietaupa 25%, izmantojot šo kuponu: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Šis Premium spraudnis ļauj Jums pievienot MailPoet formas daudzās vietās, arī Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Ļoti spēcīgs ar vienkāršu saskarsmi."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Šis bezmaksas spraudnis ļauj jums izveidot un novietot veidlapu raksta sākumā vai beigās."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Tas ir bezmaksas un izrādījies populārs mūsu lietotāju vidū."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "Uznirstošie logi izejot no vietnes ne tikai ir \"modē\", tie iespējams paaugstina konversiju un tādejādi veicina mārketingu, pierakstīšanos un pārdošanu. wBounce parāda uznirstošos logus pirms lietotājs atstāj Jūsu vietni."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "Uznirstošie logi izejot no vietnes parādīsies, kad Jūsu kursors pametīs vietnes logu"
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Šis bezmaksas spraudnis atļauj novietot formu uznirstošajā logā."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Šī ir iespējām bagātākā Premium spraudņa bezmaksas versija."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Jūsu jaunā vietne vēl nav palaista? Izveidojiet Drīzumā lapu ar formu, lai ar šo Premium spraudni iegūtu e-pastus."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Labi dizainēts spraudnis vienkāršai idejai."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Premium lietotāji ar šo kuponu ietaupa 20%: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Šis bezmaksas spraudnis atļauj novietot formu uznirstošajā logā. Ne vairāk un ne mazāk."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Tiek pievienota izvēles rūtiņa, nodrošinot iespēju Jūsu klientiem pierakstīties uz Jūsu biļetenu, kamēr iepērkas Jūsu virtuālajā veikalā."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Ātri izveido biļetenu pierakstīšanās formas Jūsu MailPoet adresātu sarakstiem, izmantojot spēku un elastību, ko sniedz Ninja formas."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Mēs rekomendējam šo spraudni kā labu alternatīvu WPML daudzvalodu vietnēm. Tā ir racionāla, vienkārša un atstāj jūsu vietnes kodolu pamatā neskartu. Katrai valodai ir sava vietne jūsu WordPress vairākvietņu instalācijā. Lieliski strādā ar MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "nav aktivēts kā nepieciešams <strong><a href=\"%s\">%s</a></strong> būt vispirms instalētam."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Slēpt šo ziņu"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "tika aktivēts."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "tika deaktivēts."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet saka: "
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Vietne"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Iegādāties"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Instalēt no WordPress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktivēts"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Konfigurēt"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Neredziet spraudni, ko meklējāt? <a href=\"%s\">Dodiet ziņu</a> mūsu kontaktformā."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Šis lauks nesatur vērtības"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "Gads"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Mēnesis"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Diena"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Nevar piekļūt CSV failam. Pārbaudiet piekļuves tiesības direktorijai \"%1$s\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Liekas sarakstam, kuru Jūs taisieties importēt, ir kļūda."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Kļūda ievietojot e-pastu."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Kļūda ievietojot sarakstu."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Saraksts, ko ielīmējāt, ir parāk liels pārlūkprogrammai. <strong>Augšuplādēt</strong> neskatoties uz to."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Dati, ko cenšaties importēt, nav CSV formātā (ar komatu atdalītas vērtības)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Lasīt tālāk"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "CSV failā pirmajai līnijai jābūt kolonnu virsrakstiem : \"e-pasts\", \"uzvārds\", \"vārds\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "CSV failā otrajai rindai jāsatur vērtības : \"janis@domens.lv\", \"Ozols\", \"Jānis\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Failā pirmās divas rindas, ko Jūs augšupielādējāt, ir sekojošas:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Līnija ir tukša"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Pārbaudiet vēlreiz ko Jūs mēģiniet importēt."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Mēs nevaram atrast nevienu derīgu adresi pirmajās 10 rindās"
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Fails, ko importējāt, nav derīgs."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "%1$s ir atjaunojums (versija %2$s), <a href=\"%3$s\">klikšķināt šeit, lai atjaunotu</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Atjaunojiet lapu, kurā atrodieties!"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Atgriezties uz MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Atjaunot spraudni"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Izmantojiet e-pastu no Jūsu domēna, piemēram <strong>info@%s</strong>, lai izvairītos no mēstuļu mapes vai pat bloķēšanas."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Ja vēlaties izmantot Gmail adreses, Jums nepieciešams sūtīt ar Gmail. Pārbaudiet <a id=\"tip-send-with\" href=\"%s\">sūtīšanas iestatījumus</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Paldies!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Kažociņus, ko izvēlējāties, nevar uzstādīt."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Jūsu e-pastu nevar saglabāt"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Jūsu e-pasts saglabāts"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Stilus nevar saglabāt"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Stili saglabāti"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Attēls tika izdzēsts."
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Attēlu izvēle netika saglabāta."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Attēlu izvēle saglabāta."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Lūdzu izvēlieties rakstu."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Nav rakstu, kas atbilstu meklējuma pieprasījumam."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Jūsu e-pasta priekšskats nosūtīts uz %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Nav iespējams pieslēgties API, varbūt vietne uz mirkli nestrādā. Lūdzu mēģiniet vēlāk."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Kļūda Jūsu pieprasījumā"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Pieprasījums veiksmīgs"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Veiksmīgi pieslēdzies %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Jūsu pastkastē ir %1$s ziņas"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Nav atpakaļ atsūtītu ziņojumu, ko pašlaik apstrādāt!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Jums vajadzētu ieslēgt iespēju ON <i>Pašparakstīts sertifikāts</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Esiet pārliecināts, ka izvēlējaties pareizo portu? Variet atstāt tukšu, ja neziniet ko ierakstīt"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Jums jāizvēlas tips šim laukam"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Jums jānorāda nosaukums šim laukam"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Šis lauks neeksistē"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Saglabāts! Izmaiņas jau ir aktīvas Jūsu vidžetā."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Saglabāts! Pievienot formu [link_widget]vidžetam[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Jūsu forma netika saglabāta."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Jūsu forma saglabāta."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Lietotājs ir ievietots."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Lietotājs netika ievietots."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Lietotājs ir atjaunots."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Lietotājs netika atjaunots."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Ievietot pierakstīšanās formu"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Pirkt Premium versiju"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Ups. Jūs pārsniedzāt 2000 abonentu MailPoet bezmaksas versijas limitu (kopā %1$s). Sūtīšana ir atspējota. Lūdzu uzlabojiet Jūsu versiju uz [link]premium[/link], lai sūtītu bez ierobežojumiem."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Ups! Jūs esiet tuvu MailPoet bezmaksas versijas abonentu skaita limitam %1$s. Uzlabojiet uz [link]Premium[/link], lai sūtītu bez ierobežojumiem un vairāk."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elementi izdzēsti"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Elements izdzēsts."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Augšuplādēt"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Biļetena attēli"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "WordPress rakstu attēli"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Drošības problēmas pieprasījuma laikā"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Drošības problēma"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Iepazīšanās lapa!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Instalēt MailPoet biļetena Premium spraudni"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Pilnīgi jauns MailPoet. Lai prieks sākas."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Esiet lietas kursā! Pierakstieties uz mūsu biļetenu"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Mēs nosūtījām ikmēneša biļetenu ar sekojošo:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Svarīgi spraudņa atjaunojumi"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "Kuponi"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "Padomi Jums vai Jūsu klientiem"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Mēs strādājam"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "Ziņas no mums, mūsu komandas"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Pirmā reize? Redzēt darbībā"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Jūs variet sākt skatīties šo video, ko veidojis kāds no mūsu lietotājiem."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Koplietot jūsu datus"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Mēs zinām pārāk maz par saviem lietotājiem. Mēs meklējam [link]anonīmus datus[/link] lai veidotu labāku spraudni. [ajaxlink]Jā, pieskaitiet mani![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Mēs par saviem lietotājiem zinām ļoti maz. Mēs meklējam [link]anonīmus datus[/link], lai izveidotu labāku spraudni. Paldies Jums, ka dalieties!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Ko Jūs variet izdarīt"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minūšu ceļvedis"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "Jūsu MailPoet ir ar parauga biļetenu. Jūs to redzēsiet, kad aizvērsiet šo iepazīšanās lapu. Labojiet to, lai sāktu darboties ar to."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Palīdziet sev pats. Vai ļaujiet palīdzēt mums."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Mums [link]support.mailpoet.com[/link] ir dokumentācijas un biļešu sistēma. Mēs atbildēsim 24 stundu laikā."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Kas jauns?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Premium versija ir derīga jūsu vietnei."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Premium licence Jūsu vietnei neeksistē. Iegādāties [link]šeit[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Rinda ir tukša!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Solis %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Ievadiet [newsletter:total] lai parādītu rakstu skaitu, [newsletter:post_title] lai parādītu pēdēja raksta virsrakstu un [newsletter:number] lai parādītu izdevuma numuru."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Pirmā lieta, ko redzēs abonenti. Esiet kreatīvs!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Pirmais solis: galvenās detaļas"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "vienreiz dienā"
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "reizi nedēļā"
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "reizi mēnesī"
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "mēnesī katru"
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "nekavējoties."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "katrā WordPress lomā"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Kad šeit ir jauns saturs..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Kad kāds pierakstās sarakstā..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Jauns WorPress lietotājs pievienojies Jūsu vietnei..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "stundu(as) vēlāk."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "dienu(as) vēlāk."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "nedēļu(as) vēlāk."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "nekavējoties"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "stunda(s)"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "diena(s)"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "nedēļa(s)"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Saglabāt biļetenu..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Kļūda saglabājot biļetenu..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Biļetens saglabāts."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Sūtīt priekšskatu..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Spama pārbaudes rezultāti"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Otrais solis :  \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Sūtīšana ir apturēta."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Sūtīšana ir atsākta."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopija"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Biļetenam izveidots dublikāts."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s e-pasts katru %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Ar Jūsu sūtīšanas uzstādījumiem ([settings]) nav iespējams ātri nosūtīt [number] abonentiem. Iespējamas sūtīšanas aiztures. [link]Lasīt vairāk[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Pēdējais solis : pēdējās detaļas"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Izvēlieties datumu"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Saglabāt un aizvērt"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Sūtīt vēlāk"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Grafiks"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktivēt tagad"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Sūtīt"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Jūs gatavojieties nosūtīt biļetenu. Lūdzu apstipriniet."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Esiet pārliecināti, ka vēlaties ignorēt %1$s abonentus no saraksta %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Biļetens izdzēsts."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Biļeteni dzēsti."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Biļetenu nevar izdzēst."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Lasīt tālāk."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Autors:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategorijas:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Pēdējais saturs jau nosūtīts."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Rakstus zemāk mēs pievienojām ar spraudņa %sAutomatic latest content%s palīdzību"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sLai labotu%s, pārbrauciet pāri, lai zemāk redzētu labošanas pogu."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Solis 1:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "hei, spiediet uz šī teksta!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Lai labotu, vienkārši klikšķiniet uz šī tekta bloka."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Solis 2:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "darboties ar attēlu"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Novietojiet peli virs attēla pa kreisi."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Solis 3:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "nomest saturu šeit"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Aizvilkt un nomest %1$stekstu, rakstus, atdalītājus.%2$s Skatīt labā pusē!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Jūs variet izmantot piemēram šādas %1$ssociālās grāmatzīmes%2$s:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Solis 4:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "un kājene?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Nomainiet kājenes saturu MailPoet %1$sUzstādījumu%2$s lapā."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Biļetens izveidots."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Trūkst informācija"
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Googles kampaņas nosaukumā drīkst būt tikai burti, cipari, atstarpes un pieturzīmes!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Biļetens ir ieplānots."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Biļetens saglabāts kā šablons."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Biļeteni"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Lūdzu izvēlieties biļetenu."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Izdzēst šo biļetenu pavisam?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Izdzēst šos biļetenus pavisam?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Sūtīt e-pastu partiju..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Skatīt biļetenu"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Biļetens tiks deaktivēts, Jums to vajadzēs reaktivēt, līdzko vēlēsieties labot to. Vēlaties turpināt?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Saraksts izdzēsts."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Sūtīšana pārtraukta."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Nav biļetenu."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Statistika : %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Pēc Jūsu pieprasījuma nevar atgūt nevienu abonentu. Izmainiet filtrus!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "%1$s daļa"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Saraksts balstīts uz biļetena daļas."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Jauns saraksts \"%1$s\" izveidots ārpus šīs daļas."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Šī daļa tika atrakstīta no visiem sarakstiem."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Šī daļa izdzēsta no šī biļetena rindas."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Šī daļa tika atrakstīta no saraksta \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Šo daļu nevar atvienot no [IMPORT] saraksta."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Raksta izvēlēšanās"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Attēlošanas un ievietošanas opcijas"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Atpakaļ uz izvēli"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Lādējas rezultāti..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Ievietot izvēlētos rakstus..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "izvēlēts"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Augšupielādes kļūda, fails %1$s ir pārāk liels! (max: %2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Instalēt kažociņus"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Detaļas un PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Atpakaļ"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Lejuplādēt"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Pārinstalēt"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Fotošopa faili pieejami kā daļa no [link] Premium iespējām[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Rādīt visus kažociņus"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s balsis)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Jūsu balss pieskaitīta."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Jūsu balss nav pieskaitīta."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Uzmanību! Ja pārinstalēsiet šo kažociņu, visi faili, kas atrodas direktorijā:/wp-content/uploads/wysija/themes/%1$s tiks pārrakstīti. Tiešām vēlaties pārinstalēt?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Skatīt visus %1$s kažociņus"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Lejuplādēt oriģinālos fotošopa failus"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Lejuplādēt kā .zip failus"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Skatīt autora vietni"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Vidējais reitings: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Mans reitings: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Lejuplādes: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Birkas: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Pēdējie atjaunojumi: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Iekļauti: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Grāmatzīmes izvēle"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Atdalītāju izvēlēšanās"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Pievienot / Labot rakstu grupas"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Rādīt attēlošanas opcijas"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Slēpt attēlošanas opcijas"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Attēla parametri"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Dzēst attēlu visiem jaunajiem biļeteniem?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Šis attēls varētu būt rakstā. Vienalga dzēst?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Jūs vēlaties sarindot pārāk daudz failus."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s pārsniedz maksimālo augšuplādes izmēru šai vietnei."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Šis fails ir tukšs. Mēģiniet citu."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Šis failu tips nav atļauts. Mēģiniet citu."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Šis fails nav attēls. Mēģiniet citu."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Pārsniegts atmiņas apjoms. Mēģiniet mazāku failu."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Šis ir lielāks par pieļaujamo izmēru. Mēģiniet citu."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Kļūda augšupielādē. Lūdzu mēģiniet vēlāk."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Šeit ir konfigurācijas kļūda. Kontaktējaties ar administratoru."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Jums atļauts augšupielādēt 1 failu."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP kļūda."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Augšupielāde neizdevās."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Pamēģiniet augšuplādēt failu ar %1$spārlūkprogrammas augšuplādētāju%2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s pārsniedz pieļaujamo augšupielādes izmēru vairāku failu augšupielādē, kad izmantojat pārlūkprogrammu."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO kļūda."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Drošības kļūda."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Fails atcelts."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Augšupielāde apturēta."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Atbrīvot"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Krikšķis&hellip:"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "izmest miskastē."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; nevarēja augšupielādēt."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d fails(i) tika veiksmīgi augšuplādēti."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Saglabāts."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Biļetens neeksistē."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Sūtīt testa e-pastu"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Atgriezto ziņojumu apstrādes savienojuma testēšana"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Atgriezto ziņojumu apstrāde"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Abonentiem nepieciešams aktivēt e-pastā viņu pierakstīšanos, lai saņemtu biļetenus. Rekomendējošs uzstādījums."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Neapstiprinātie abonenti no šī brīža saņems biļetenus bez nepieciešamības aktivēt pierakstīšanos."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Notiek atgriezto ziņojumu apstrāde!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Kad uzstādiet atgriezto ziņu sistēmu, Jums nepieciešama cita adrese atgrieztajiem un pāradresētajiem e-pastiem "
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Tiešām vēlaties izdzēst šo formu?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Gandrīz viss ir kārtībā. Uzklikšķiniet uz šīs [link]saites[/link], lai aktivētu tikko iegādāto licenci."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Pārinstalēt MailPoet?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Jauna forma"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Šāda forma neeksistē"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopēt"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Forma ar vārdu \"%1$s\" izveidota."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Šī forma ir izdzēsta."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Forma ar vārdu \"%1$s\" izdzēsta."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Jauna forma"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Šī forma neeksistē."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Vidžeta uzstādījumi"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Jau esiet samaksājis? Klikšķiniet šeit lai aktivētu"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Pārbauda licenci"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Pēdējās 7 dienās"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Pēdējā mēnesī"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Pēdējās 30 dienas"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Pēdējās 90 dienas"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Pēdējās 180 dienas"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Pēdējās 365 dienas"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Pielāgoti datumi"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Abonents saglabāts."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Abonenti lapā:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Izvēlieties vismaz 1 abonentu!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Nav iespējams atrast nevienu abonentu."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Abonenti nav saglabāti."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Abonents izmainīts. [link]Labot atkal[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Abonents nav mainīts."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s abonenti tiks pievienoti \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s abonents tiks pievienots \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s abonenti tiks pārvietoti uz \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s abonents tiks pārvietots uz \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s abonenti tiks izdzēsti no visiem esošiem sarakstiem."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s abonents tiks izdzēsts no visiem esošiem sarakstiem."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s abonenti tiks izdzēsti no \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s abonents tiks izdzēsts no \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr " %1$s abonenti apstiprināti."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr " %1$s abonents apstiprināts."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Nav izsūtīti e-pasti."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "%d e-pasti tika nosūtīti neapstiprinātiem abonentiem."
+msgstr[1] "%d e-pasts tika nosūtīts neapstiprinātiem abonentiem."
+msgstr[2] "%d e-pasti tika nosūtīti neapstiprinātiem abonentiem."
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Labot sarakstus"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Labot sarakstu %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Jaunu sarakstu?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Saraksts \"%1$s\" tika dublēts."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Pievienot abonentu"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Abonents nav atrasts, iespējams ticis izdzēsts."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Labot"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Saraksts \"%1$s\" tika izdzēsts."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Saraksts neeksistē vai arī to nevar izdzēst."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Saraksts atjaunots."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Jūsu jaunais saraksts gaida pirmo abonetu."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Importēšana no spraudņa %1$s pabeigta."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Importēšana no spraudņa %1$s atcelta."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Importēt abonentus no spraudņiem"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Nav spraudņu, no kuriem importēt."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Importēt abonentus"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Izvēlētā vērtība jau sakrīt ar citu kolonnu."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Vai Jūs variet apstiprināt, ka importējamā kolonna norāda uz šo lauku?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "kurus Jūs ielīmējāt"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Atteikušies"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Neapstiprināts"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Pierakstījies"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Jums jāizvēlas vismaz viens saraksts."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s abonenti pievienoti %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s e-pasti Jūsu failā parādās vairāk kā vienu reizi : %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s e-pasts nav derīgs : %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Eksportēt abonentus"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr " %1$s abonenti dzēsti."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr " %1$s abonents dzēsts."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s abonenti eksportēti. Iegūt eksportēto failu [link]šeit[/link]."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Eksportēt %1$s abonentus"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Lapa neeksistē."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Lūdzu, pārbaudiet saiti uz šo lapu."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Jūs esiet atteicies!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Paldies par uzmanību, Jūs par mums vairāk nedzirdēsiet!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Jūs esiet atteicies."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Kļūdījāties? [link]Atcelt atteikšanos[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Jūs esiet pierakstījies!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Labot pierakstīšanos"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Labot Jūsu abonenta profilu %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "E-pasts %1$s jau eksistē."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Biļetena profils atjaunots."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Pierakstīšanās bez JavaScript ir izslēgta."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Izskatās, ka Jūsu spraudnis dzēsts no WordPress' [link]spraudņu apgabala[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Lādējas..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "Radās kļūda. [link]Rādīt sīkākas detaļas.[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Rādīt detaļas[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Reizi minūtē"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "Reizi divās minūtēs"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "Reizi piecās minūtēs"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "Reizi desmit minūtēs"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "Reizi piecpadsmit minūtēs"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "Reizi pusstundā"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "Reizi divās stundās"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Reizi nedēļā"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "Reizi 28 dienās"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet lapa"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "Jūsu PHP versija ir novecojusi. Ja Jūs drīzumā to neatjaunosiet, jaunā MailPoet versija nestradās."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]Izlasiet kā atjaunot Jūsu PHP versiju.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Atslēgt[/link] šo paziņojumu."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Kļūda validējot laukus"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Lauks \"%1$s\" nepieciešams tabulā \"%2$s\""
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Laukam \"%1$s\" nepieciešama derīga e-pasta adrese."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Nav statistikas ko ielādēt!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Jūsu servera konfigurācija neļauj mums pabeigt MailPoet instalāciju!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Lasīt tālāk ..."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Spiest šeit lai skatītu mēdijus.."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Filtrēt pēc tipa"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Raksti"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Lapas"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Kategorijas un birkas"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtrēt pēc statusa"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Jums nepieciešams aktivēt MailPoet premium spraudni."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Apstipriniet MailPoet Premium spraudņa aktivēšanu?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktivēt MailPoet Premium versiju"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Apsveicam, Jūsu premium licence ir aktīva. Vēl pēdējais solis..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Apstipriniet MailPoet Premium spraudņa instalēšanu?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Instalēt MailPoet Premium versiju"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Lejuplādēt Premium spraudni."
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Ne vienmēr viss strādā kā Jūs vēlētos, vai ne? Mums ir tam [link]veltīta atbalsta vietne[/link] ar dokumentāciju un biļešu sistēmu."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet Versija: "
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Abonenti"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Uzstādījumi"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Modulis"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Statistika"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Saņemt palīdzību!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Aiziet Premium!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Sazināties ar atbalstu"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Ielieciet savas [stars]  [link]wordpress.org[/link] lai uzturētu šo spraudni bezmaksas."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet Versija"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Lūdzu no sākuma veiciet izvēli!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Izdzēšot sarakstu abonenti netiks dzēsti."
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Vai vēlaties instalēt šo versiju?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Rezultāti nav atrasti"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Lūdzu, ievadiet <%= chars %> vairāk burtus<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Lūdzu, dzēsiet <%= chars %> burtus<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Jūs variet izvēlēties tikai <%= chars %> ierakstus<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Lādējas vairāk rezultāti..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Meklē..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Nākošais &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; Iepriekšējais"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Attēls"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "no"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Aizvērt"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Šai funkcijai nepieciešami iebūvēti rāmji (frames), kas Jūsu pārlūkam ir atslēgti vai netiek atbalstīti."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Atgriezto ziņojumu apstrāde"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Temats"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Mēs saņēmām %1$s ziņas no lietotāja %2$s"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Darbības tiks veiktas pēc %1$s ziņojumiem"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Nav ziņojumu"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Apsveicam, darbojas. Varat sūtīt e-pastus kaut uz mēnesi."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Jūs visu esiet uzstādījis! Esiet veiksmīgi nosūtījis ar Gmail."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Meklējat ātrāku veidu kā nosūtīt? [link]Lasīt tālāk[/link] par sūtīšanu ar profesionālu SMTP."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] strādā ar MailPoet"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Testa e-pasts veiksmīgi nosūtīts uz %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "PHP paplašinājums openssl nav ieslēgts uz Jūsu servera. Jautājiet Jūsu hostingam to ieslēgt, ja vēlaties lietot SSL savienojumu."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Atpakaļatgriezto e-pastu adresei \"%1$s\" patreizējā brīdī ir problēmas. Atstājiet šo lauku tukšu un mēģiniet vēlreiz."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Jūs norādījāt SMTP paroli, bet Jums nav nepieciešama autentifikācija, varbūt vēlieties ieslēgt SMTP autentifikāciju."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Jūsu hostingam nav pasta servera. Lai pārbaudītu, lūdzu izrakstieties ārā un klikšķiniet uz \"Pazaudējāt paroli?\" saiti ieiešanas lapā. Vai saņēmāt paroles atiestatīšanas e-pastu no Jūsu WordPress?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Saglabāt formu..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Saglabāt"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Labot attēlošanu"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Jums jāizvēlas vismaz 1 saraksts"
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Jūsu abonentam nepieciešamas vismaz 2 iespējas ko izvēlēties"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Jums nepieciešams noteikt vērtību izvēles rūtiņai"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Pievienot jaunu lauku"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Labot pielāgotu lauku"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Tiešām vēlaties izdzēst šo pielāgoto lauku?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "Janvāris"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "Februāris"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "Marts"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "Aprīlis"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "Maijs"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "Jūnijs"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "Jūlijs"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "Augusts"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "Septembris"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "Oktobris"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "Novembris"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "Decembris"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Pārbaudiet pastkasti vai mēstuļu mapi, lai apstiprinātu parakstīšanos."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "E-pasts"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Iesniegt"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Pierakstīties!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Atdalītājs"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Vārds"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Uzvārds"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Saraksta izvēle"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Izvēlēties sarakstu(s):"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Nejaušs teksts vai HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Pierakstieties uz mūsu biļetenu un pievienojieties mūsu [total_subscribers] abonentiem."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Pievienot jaunu lauku"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Labot lauku"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Dzēst lauku"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "MailPoet pierakstīšanās"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "reizi minūtē"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "reizi 2 minūtēs"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "reizi 5 minūtēs"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "reizi 10 minūtēs"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "reizi 15 minūtēs"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "reizi 30 minūtēs"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "reizi stundā"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "reizi 2 stundās"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Vizuāls"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Jūsu serveris neatbalsta attālinātu apmaiņu."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Sazinieties ar administratoru, lai to mainītu, tam jābūt konfigurējamam."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Uz Jūsu servera nevar darbināt MailPoet."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Jūsu serverim, lai darbotos kā paredzēts, trūkst viena vai vairākas svarīgas PHP funkcijas : %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Lūdzu kontaktējaties ar Jūsu hostingu vai servera administratoru, lai to izlabotu."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Mans pirmais saraksts"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Šis saraksts izveidots automātiski, instalējot MailPoet."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5 minūšu lietotāju gids"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Šīs tabulas netika izveidotas instalējot: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Lūdzu, norādiet vārdu"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Lūdzu, norādiet uzvārdu"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Pierakstīšanās apstiprināšana"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Pierakstīties uz mūsu biļetenu"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Izskatās, ka Jūsu vietnei nav licence! Ieejiet Jūsu [link]konta menedžerī[/link], lai pievienotu licenci šai vietnei."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Nav licences \"%1$s\". Ja Jūs esiet Premium, pievienojiet šo domēnu Jūsu [link]kontu pārvaldniekā[/link]."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "Atjaunot tagad."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Jūsu premium licence beigusies."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "Jūs variet pievienot šo domēnu Jūsu [link]kontu parvaldniekā[/link]."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Jūsu licence neatļauj vairāk domēnus. Uzlabojiet Jūsu [link]kontu pārvaldniekā[/link]."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Iegūstiet [link]MailPoet Premium[/link], lai redzētu saiti."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "Jūs nevarat izmantot DKIM paraksta opcijas..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "Šajā e-pasta vēstulē nav ne temata, ne satura."
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Kļūdas sūtīta ziņa <b><i>%s</i></b> to <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Veiksmīgi nosūtīts <b><i>%s</i></b>"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "E-pasta ID %s nav publicēts"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Abonents nav atrasts : <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr " Abonents <b><i>%s</i></b> nav apstiprināts"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "Atteikties"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "nepiegādāts"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "atgrieztie"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "neatvērts"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "atvērts"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "klikšķināts"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "atteicies"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Šodienas statistika"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Šodien esiet nosūtījis %1$s e-pastus"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s no kuriem bija %2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Šis ir atgriezto e-pastu saraksts."
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Sveiki, Jūsu MailPoet biļetenu spraudnis"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Jūsu ikdienas biļetenu statistika"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Biļetens Pro (Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "Biļetens (Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "WordPress lietotāji"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s's importēt sarakstu"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Saraksts izveidots automātiski, importējot spraudņa abonentus : \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" importēts no %1$s"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Saraksts eksistē \"%1$s\" un tiks importēts automātiski."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "%1$s e-pasts(i) gaida rindā"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "E-pasts tiks sūtīts %1$s %2$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Sūtīšanas process"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Kopējā partija"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Nākošais mēģinājums pēc %s minūtēm."
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Process atjaunojas, lai izbēgtu no laika limita.."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Process atjaunojas, lai izbēgtu no iespējama savienojuma zuduma."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Biļeteni jau ir nosūtīti. Jūsu pēdējie biļeteni tiks nosūtīt vēlāk."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Sūtīšanas process apturēts, jo bija pārāk daudz kļūdas."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Mēs paturam visus nenosūtītos e-pastus sarakstā, lai Jūs varētu atsākt sūtīšanas procesu vēlāk."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Pārbaudiet Jūsu e-pasta konfigurāciju un pārliecinieties, ka Jūs variet nosūtīt šo testa e-pastu."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Ja Jūs bieži un veiksmīgi sūtiet daudz e-pastus, šīs kļūdas varbūt ir saistītas ar Jūsu servera ierobežojumiem."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Jūsu serveris atsakās sūtīt vairāk e-pastus."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Pastkaste pilna"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Kad pastkaste pilna"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Pastkaste nav pieejama"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Kad pastkaste nav pieejama"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Ziņojums kavējas"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Kad ziņa kavējas"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Neizdodas pastāvīgi"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Kad neizdodas pastāvīgi"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Nepieciešama darbība"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Kad Jums nepieciešams apstiprināt, ka esat cilvēks, turpināt:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Bloķēts IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Kad Jūs atpakaļnākošajos e-pastos būsiet atzīmēts kā spameris"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Kad atpakaļatgrieztais ir dīvains un nav zināms ko darīt,  pārvirzīt uz:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Direktorijā \"%1$s\" nav iespējams ierakstīt, lūdzu nomainiet pieejas tiesības šai direktorijai, lai MailPoet varētu uzstādīties pareizi."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Lasīt dokumentāciju"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "MySQL lietotājam, kas uzstādīts Jūsu WordPress vietnei (wp-config.php), nav pietiekošu atļauju, lai izveidotu MySQL tabulas. Lūdzu labojiet šo lietotāju pats vai kontaktējaties ar vietnes administratoru, lai varētu pabeigt MailPoet instalāciju, mysql kļūda:(%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Galvene"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Kājene"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Direktorijā \"%1$s\" nav iespējams ierakstīt, lūdzu nomainiet pieejas tiesības šai direktorijai, lai MailPoet varētu sevi uzstādīt pilnībā."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Kažociņš %1$s jau eksistē. Lai viņu pārrakstītu, ieķeksējiet attiecīgajā vietā pirms augšupielādes."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Kažociņš %1$s tika instalēts Jūsu vietnē."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Jūs nevarat instalēt Jūsu kažociņu. Liekas, ka nav pareizs formāts."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Kažociņš %1$s dzēsts."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Kažociņu %1$s nevar izdzēst."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s gadi"
+msgstr[1] "%1$s gads"
+msgstr[2] "%1$s gadi"
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s nedēļas"
+msgstr[1] "%1$s nedēļa"
+msgstr[2] "%1$s nedēļas"
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s dienas"
+msgstr[1] "%1$s diena"
+msgstr[2] "%1$s dienas"
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s stundas"
+msgstr[1] "%1$s stunda"
+msgstr[2] "%1$s stundas"
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s minūtes"
+msgstr[1] "%1$s minūte"
+msgstr[2] "%1$s minūtes"
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s sekundes"
+msgstr[1] "%1$s sekunde"
+msgstr[2] "%1$s sekundes"
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "Pirmdiena"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "Otrdiena"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "Trešdiena"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "Ceturdiena"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "Piektdiena"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "Sestdiena"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "Svētdiena"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "1."
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2."
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3."
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "Pēdējais"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$s."
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet tika veiksmīgi pārinstalēts, izmantojot to pašu versiju. Uzstādījumi un dati tika izdzēsti."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet nevar pārinstalēt, jo direktorijai <em>wp-content/uploads/wysija</em> jābūt pieejamai rakstīšanai. Nomainiet Jūsu tiesības un pārinstalējiet."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet tika atinstalēts. Jūsu vietne tagad ir brīva no MailPoet."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Atjaunošanas procedūra uz MailPoet versiju \"%1$s\" neizdevās!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Nejaušs teksts vai instrukcijas"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "E-pasts nav derīgs!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Abonents jau eksistē. [link]Labot[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Ups! Jūs jau esiet pierakstījies."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Ups! Mēs nevaram Jūs pievienot!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Jauni %1$s abonenti"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Sveiki,\n"
+"\n"
+"Abonents %1$s tikko pierakstījās uz Jūsu sarakstu \"%2$s\".\n"
+"\n"
+"Visu labu,\n"
+"\n"
+"MailPoet spraudnis"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "%1$s viens abonents mazāk"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Sveiki,\n"
+"\n"
+"Abonents %1$s tikko atteicās no saraksta \"%2$s\".\n"
+"\n"
+"Visu labu,\n"
+"\n"
+"MailPoet spraudnis"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Saraksts \"%1$s\" sinhronizēts."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Saraksts neeksistē un nevar tikt sinhronizēts."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Lapa nav pieejama."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Jūsu apstiprināšanas saites derīgums ir beidzies, lūdzu abonējiet no jauna."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Jūs esiet pierakstījies uz: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Jūs esiet pievienots mūsu sarakstam. Drīzumā saņemsiet ziņas no mums."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Jūs esiet pierakstījies uz : %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Jūs esiet pierakstījies."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Nomest logo šajā galvenē."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Nomest kājenes attēlu šeit."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Ja atstāsiet šo lauku tukšu, viņš netiks rādīts, kad sūtīsiet savu e-pastu"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Klikšķināt, lai pievienotu virsrakstu vai tekstu."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Nolīdzināt pa kreisi"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Nolīdzināt pa centru"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Nolīdzināt pa labi"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Pievienot saiti / Alternatīvs teksts"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Dzēst saiti"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Dzēst attēlu"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Dzēst"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Labot tekstu"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Dzēst tekstu"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Virsraksti un teksts"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Horizontāla līnija"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Pielāgot horizontālo līniju"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "WordPress raksts"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Teksts"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Skatīt pārlūkā\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Virsraksts 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Virsraksts 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Virsraksts 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Saites"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "pasvītrots"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Kājenes teksts"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Kājenes fons"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Biļetens"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Fons"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Galvenes fons"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Sociālo sīkattēlu izvēle"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Atdalītāja izvēle"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Jūs taisieties dzēst kažociņu : %1$s. Tiešām vēlaties to darīt?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Pievienot saiti vai alternatīvu tekstu"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Ielikt ķeksīti, ja vēlaties caurspīdīgumu"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Ievadīt dinamiskus datus par Jūsu abonentiem, biļeteniem, šodienas datumu u.tml..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Izvēlēšanās uzstādījumi"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Automātiski labot pēdējo saturu"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Jūs variet pievienot vienu vidžetu, kad veidojiet raksta ziņojumu, ko sūtīt nekavējoties pēc raksta publicēšanas"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Priekšskatīt bez attēliem"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Abonents"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Vārds"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Uzvārds"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "E-pasta adrese"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "WordPress lietotāja segvārds"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Abonentu kopsumma"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Biļetena temats"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Rakstu ziņojumi"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Kopējais rakstu skaits lapā"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Pēdējā raksta virsraksts"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Izdošanas numurs"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Datums"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Patreizējais mēneša dienas numurs"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Patreizējā mēneša diena kā skaitlis, piem. 2., 3., utt."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Patreizējās dienas pilns nosaukums"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Patreizējā mēneša numurs"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Patreizējā mēneša nosaukums"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Atteikšanās saite"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Labot pierakstīšanās lapas saiti"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Skatīt saiti pārlūkā"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Pielāgotie lauki"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Saglabāt noklusēto stilu..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Noklusētais stils saglabāts."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Uzstādīt kā noklusēto stilu."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Ievietot bloku šeit"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Plānotais"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Apstipriniet Jūsu pierakstīšanos uz %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Sveiki!\n"
+"\n"
+"Apsveicam! Jūs esiet pierakstījies uz mūsu vietni.\n"
+"Nepieciešams, lai Jūs apstiprinātu pierakstīšanos uz sarakstu(iem): [lists_to_confirm] noklikšķinot saiti zemāk: \n"
+"\n"
+"[activation_link]Spiediet šeit, lai apstiprinātu pierakstīšanos.[/activation_link]\n"
+"\n"
+"Paldies,\n"
+"\n"
+" Komanda!\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Nevariet apskatīt ziņu? [link]Skatiet Jūsu pārlūkprogrammā.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Jā, pievienojiet mani Jūsu sūtījumu sarakstam."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Kurš var veidot biļetenus?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Kurš var pārvaldīt abonentus?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Kurš var mainīt MailPoet uzstādījumus?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Kurš redzēs kažociņu cilni vizuālajā redaktorā?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Kurš redzēs stilu cilni vizuālajā redaktorā?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "tukšs"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>No: e-pasts</strong> ko ievadījāt (%1$s) nav derīga adrese."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>Atbildēt uz</strong> e-pasta adrese (%1$s) nav derīga adrese."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Jūsu uzstādījumi saglabāti."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Tā vietā izmantojiet `view_in_browser_link` ."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Skats"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Jūsu pēdējais biļetens ir nosūtīts."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Jūsu auto biļeteni ir aktivēti."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Vārds"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Apraksts"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Kārtība"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Nav saraksta uz kurieni sūtīt."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Statuss"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Izveidots"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Klikšķiniet šeit lai atrakstītos"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Klikšķināt šeit, lai pierakstītos"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP adrese"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Parakstīšanās datums"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Arhīva lapas īskods"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Ielīmēt šo īskodu lapā, lai attēlotu pēdējo biļetenu sarakstu."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Ups! Nav biļetenu ko attēlot."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Priekšskatīt jaunā cilnē"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Ups! Kautkas notika ne tā aktivizējot Mailpoet cron."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Ups! Kautkas notika ne tā deaktivizējot Mailpoet cron."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Nesūtīt vēlāk"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com var apmeklēt Jūsu vietni ik pa 15 minūtēm, kā piemēram \"cron darbs\", lai pārliecinātos, ka Jūsu e-pasti ir nosūtīti laikā."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Premium lietotāji tiks apmeklēti katras 5 minūtes."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... vai tā vietā [link]iestatiet uz Jūsu servera cron darbu[/link]."
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Brīnums ir noticis..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Gaidīt pirmo apmeklējumu!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Skatīt detaļas."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Izslēgt to."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "Pēc pāris minūtēm Jūs redzēsiet pēdējā apmeklējuma laiku."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Servera puses cron iestatījumi"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Vispirms iestatiet komandu Jūsu serverī, lai apmeklētu mūsu ieplānoto darbu URL:"
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Šeit ir piemērs komandai, ko iestatīt Jūsu serverī:"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "Citu komandu piemēriem, pārbaudiet [link]šo rakstu[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "Labākai kontrolei, Jūs katram darbam variet iestatīt vienu cron"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Nosūtot"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Atteikumu apstrāde"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Ikdienas"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Iknedēļas"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Ikmēneša"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Nē, paldies!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "Ok, es to iestatīju"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Jāuzgaida līdz pirmā cron darba darbībai!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Pārbaudīt tagad."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Jūsu cron darbs darbojas!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Ups, kaut kas nogāja nepareizi."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Skatīt iestatīšanas instrukcijas"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Atpakaļ uz iestatījumu lapu"
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Mēs pateris nevaram savienoties ar MailPoet serveri. Vai nu mums ir problēmas, vai arī Jūs atrodieties aiz proxy vai ugunsmūra."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Pēdējais apmeklējums bija pirms dažām sekundēm."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Pēdējais apmeklējums bija pirms %1$s minūtēm."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Pedējais apmeklējums bija pirms %1$s minūtes."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Ir problēma! MailPoet nevar apmeklēt Jūsu vietni, jo:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Jūs esiet intranetā. Jums nepieciešams iestatīt Jūsu pašu cron darbu."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "Jūsu .htaccess, ugunsmūris vai serveris bloķē mūsu IP (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Tā vietā iestatiet [link]Jūsu pašu cron[/link]."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "Vai jautājiet mūsu tīmekļa pārzinim palīdzību!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Pārsūtīšanas darbība sāksies:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Atteikumu apstrādes darbība sāksies:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Ikdienas darbība sāksies:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Iknedēļas darbība sāksies:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Ikmēneša darbība sāksies:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Aktivēts!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "Rindā"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Nav vēl nosūtīts"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Atgriestie"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Sūtīt"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Tikai atvērts"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Atvērts un uzklikšķināts"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Atvēris un atteicies"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Vērtējums"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Top saites"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Saite"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Unikālie klikšķi"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Kopā klikšķi"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Patreiz apskata"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Skatīt abonentus"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Dubultot"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Nosūtīts"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Saraksti"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "No"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Atbildēt uz"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Atgrieztie"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Abonents atvēra %1$s no %2$s e-pastiem"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Abonents atvēra %1$s no %2$s e-pastiem"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Klikšķi"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Ierīce"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Atvēršanas datums"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Nosūtīšanas datums"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Dzēst"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Masu darbības"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Pielietot"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Lapa %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "no %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Sadalīt abonentus %1$s lapās."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Cik abonentus rādīt lapā:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Mainīt"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Pievienot"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Visi biļeteni"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Meklēt biļetenus"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Izveidot jaunu e-pastu"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "... vai dublicēt kādu, lai izmantotu noformējumu."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Viss"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Melnraksts"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Apturēts"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Standarta biļetens"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Auto biļeteni"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Rādīt visus mēnešus"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Skatīt pēc saraksta"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filtrs"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Visi nosūtīti"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "Rindā"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Nenosūtījās"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Nav atvērts"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Atvērts"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Uzklikšķināts"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Ar šo daļu"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Izņemt no rindas"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Izveidot jaunu sarakstu"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Atrakstīties no visiem sarakstiem"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Atrakstīties no saraksta: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Eksportēt uz CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Atvēra, klikšķi, atteicās"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Pārveidots"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Nosūtīts"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Nosūtīts %1$s no %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s no %2$s nosūtīts."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Plānots nosūtīt %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Plānots nosūtīt %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Priekšskatīt"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Statistika"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Nākošā sūtīšana %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Nākošā sūtīšana %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Sūtīt katru dienu %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Sūtīt katru nedēļu %1$s %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Sūtīt katru mēnesi %1$s %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Sūtīt katru mēnesi %1$s %2$s %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "ja nav jauna satura"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "apturēt"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Nav aktīvs."
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Atsākt"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Nav vēl nosūtīts."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Sūtīt nekavējoties."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Sūtīt nekavējoties līdzko kāds pierakstījies sūtījumu sarakstam %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Sūtīt %2$s līdzko kāds pierakstījies uz sarakstu %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "jebkura loma"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Sūtīt nekavējoties, ja jauns lietotājs pievienojies jūsu vietnei %1$s."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Sūtīt %2$s, ja jauns lietotājs pievienojies Jūsu vietnei kā %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Sūtīt pēc pasākumiem"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Sūtīt %1$s abonentiem."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Pēdējā e-pastu partija tiks sākta sūtīt automātiski tuvākajās minūtēs."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Laiks atlicis: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s e-pastu saraksts."
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Pēdējā partija tika nosūtīta pirms %1$s."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Negaidīt, sūtīt tūlīt."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Lai atsāktu sūtīt [link]Iegūt premium[/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "skatīt saites ar [link]Premium licenci[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Meklēt adresātus"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "E-pasta statuss"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Abonenta statuss"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Noklikšķināts"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Pierakstījies"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Skatīt statistiku vai labot"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Kāds biļetena tips ir šis?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Automātiski nosūtīts..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Tēmas līnija"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Šī ir e-pasta tēma. Esiet kreatīvs, jo šī ir pirmā lieta, ko redzēs abonents."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Ups! Jūsu pārlūkprogramma laikam netiek atbalstīta. Iegūstiet pēdējās versijas [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] vai [linksafari]Safari[/linksafari]. Liekas ka strādā?[link_ignore]Atcelt[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Saglabāt un reaktivēt"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Nākošais solis"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Saturs"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Attēli"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Stili"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Kažociņi"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Aizvilkt rīkus zemāk uz Jūsu biļetenu."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Automātiski pēdējais saturs"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Sociālās grāmatzīmes"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Pievienot attēlus"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Pievienot vairāk kažociņus"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Mūsu rīkjoslu nevar ielādēt?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konflikts"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Jābūt kādam trešās puses spraudnim vai kažociņam, kas sabojā mūsu interfeisu. [link]Lasīt vairāk.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Sūtīt priekšskatu"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Saglabāt izmaiņas"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "iet atpakaļ uz Soli 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Ja Jūs apstiprināsiet kažociņa maiņu, tiks pārrakstīti galvene, kājene, atdalītāji un stili"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Esiet kreatīvs! Tā ir pirmā lieta, ko redzēs abonents. Ieinteresējiet viņu atvērt Jūsu e-pastu."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Kad..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Abonentu saraksts, kas tiks lietots šajā kampaņā."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Sūtītājs"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Jūsu vai Jūsu kompānijas vārds un e-pasts."
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "ATBILDĒT-UZ  vārds un e-pasts"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Ja abonents nospiež \"atbildēt\", šis adresāts saņems viņa e-pastu."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Ieplānot"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ignorēt patreizējos abonentus"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Nesūtīt esošajiem abonentiem, tikai jaunajiem abonentiem."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Saglabāt kā melnrakstu un aizvērt"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "vai vienkārši [link]iet atpakaļ formēt[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Vietējais laiks ir <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Standarta biļetens"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Automātisks biļetens"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Pievienots"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Adrese:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Alternatīvs teksts:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Šis teksts attēlosies, kad e-pasta klients (programma) bloķēs attēlu, kā tas parasti notiek."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Augšuplādēt kažociņu (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Ceļvedis[/link], kā izveidot savu kažociņu."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Bezmaksas"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "max. faila augšupielādes izmērs : %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Ja kažociņs ar tādu pašu vārdu jau eksistē, pārrakstīt to."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Meklēt"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Ievietot izvēlēto"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Kuru konspektu lietos? [link]Lasīt tālāk[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Attēlot..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "konspekts"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "pilns raksts"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "tikai virsraksts"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Virsraksta formāts"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "virsraksts 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "virsraksts 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "virsraksts 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "skatīt kā sarakstu"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Virsraksta pozīcija"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "teksta blokā"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "virs teksta bloka un attēla"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Virsraksta nolīdzināšana"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "pa kreisi"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "centrā"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "pa labi"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Attēls nolīdzināts"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "aizstājējs pa kreisi un labi"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "nav attēla"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Attēla platums"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Iekļaut autoru"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "nē"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "saturs augstāk"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "saturs zemāk"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Priekšgājējs:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Iekļaut kategorijas"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"Lasīt vairāk\" teksts"
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Fona krāsa"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Masveida ievietošanas opcijas"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Šķirot pēc"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "jaunākais"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "vecākais"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Rādīt atdalītāju starp rakstiem"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "jā"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Fona krāsa ar alternatīvu"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Darīts"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Raksta tips"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Rakstu daudzums, ko rādīt"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "Kā arī taksonomijas..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Izvēlēties..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Izmērs:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "mazs"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "vidējs"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Ar Jūsu ierīces pārlūkprogrammu nav iespējams augšuplādēt failus. Jūs variet lietot tās vietā <a href=\"http://wordpress.org/extend/mobile/\">programmu Jūsu ierīcei</a>."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Atvainojiet, Jūs esiet piepildīijis pieļaujamo apjomu (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Pieļaujamie faili"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Nomest failus šeit"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "vai"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Izvēlēties failus"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Augšuplādējamā faila max. izmērs: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Augšuplādējot lielus failus ar multi-failu augšuplādētāju, Jūsu pārlūkam ir ierobežojumi. Failiem virs 100MB lietojiet pārlūkprogrammas augšuplādētāju."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Lūdzu atjaunojiet WordPress uz pēdējo versiju, lai varētu izmantot jaunāko augšuplādēšanas sistēmu."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Izvēlēties failus augšupielādei"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Atcelt augšupielādi"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Maksimālais augšuplādēšanas faila izmērs: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Ja vēlaties izmantot visas augšuplādētāja iespējas, kā piem. augšuplādēt vairākus failus kā vienu, lūdzu uzlabojieties līdz lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Šī cilne tiks piepildīta ar attēliem no Jūsu patreizējiem un iepriekšējiem biļeteniem."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Šī cilne tiks piepildīta ar attēliem no Jūsu WordPress rakstiem."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Laipni lūgti %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Paldies! Tagad uz MailPoet."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "Jūs esiet %s MailPoet lietotājs"
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Paldies, ka esiet daļa no mums tik ilgi."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Esat atjaunots! Tas ir kā saņemt jaunu ierīci, pie tam vēl labāku."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Viens ātrs jautājums..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Abonēt mūsu biļetenus"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Uzturēt šo spraudni kā bezmaksas"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Patīk kaķēni?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "Mums patīk zvaigznes..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Katru reizi, kad kāds lietotājs aizmirst uzrakstīt atsauksmi, kaķītis mirst. Tas ir bēdīgi un salauž mūsu sirdis. [link]Pievienojiet Jūsu atsauksmi[/link] un izglābiet kaķīti šodien."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Sekojiet mums un nepalaidiet neko garām!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Slēpt!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Izmaiņu saraksts"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Jūs esiet atjaunots uz %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Mums ir ātrs jautājums Jums:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Ja Jūs apstiprināsiet šo, visi Jūsu esošie MailPoet dati tiks dzēsti (biļeteni, kažociņi, statistika, saraksti, abonenti utt.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Apstiprināt pārinstalāciju"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Šī iespēja nevar darboties, jo darbojas spraudņa JetPack iespēja \"Komentāri\"."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Šajā vietnē reģistrēšanās ir atcelta."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Abonenti var izvēlēties no šādiem sarakstiem :"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Es uzstādīšu cron job uz sava servera, lai darbinātu ar tādu frekvenci, ar kādu vēlos. Lasīt par [link]uzstādīt cron job pašam[/link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Lietot šo URL Jūsu cron job: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Nē, paldies, man vietnē pietiek apmeklētāju. Viņu vizītes izraisīs MailPoet vēstuļu izsūtīšanu automātiski."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Es esmu premium lietotājs, MailPoet.com pārliecināsies, ka mani e-pasti tiks nosūtīti laikā."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Ja es vēlos, es pie sevis varu [link]izveidot papildus cron darbu[/link], lai palielinātu izsūtīšanas biežumu."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Ja es vēlos, es varu [link]izveidot papildus cron darbu[/link], lai palielinātu izsūtīšanas biežumu."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Konfigurējiet Jūsu DNS, pievienojot atslēgu/vērtību ierakstu TXT kā parādīts zemāk."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Lasīt vairāk"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Atslēga"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Vērtība"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Jūs lietojiet vecāku DKIM atslēgu, ko neatbalsta Gmail."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Ja Jūs uzlabojiet, Jums nepieciešams atjaunot Jūsu DNS."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Uzlabot DKIM atslēgu"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domēns"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Lomas un atļaujas"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Skatīt visu"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Kad kāds pierakstās"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Kad kāds atsakās"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Ikdienas nosūtīto e-pastu daudzums"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Nē"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Jā"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Pamati"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Formas"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Pierakstīšanās apstiprināšana"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Sūtīt ar..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Papildus"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Spraudņi"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Saglabāt uzstādījumus"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Jūsu kompānijas adrese"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Adrese tiks pievienota jūsu biļetena kājenei. Tas palīdzēs izvairīties no spama filtra."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "E-pasta paziņojumi"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Ievadiet e-pasta adreses, kas saņems paziņojumus (atdalītas ar komatu)."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Paziņojumu sūtītājs"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Izvēlieties NO KĀ vārdu un e-pasta adresi ziņojumu e-pastiem."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Pieteikties komentāros"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Apmeklētāji, kas atstāj rakstam komentāru, var ielikt ķeksīti, lai pierakstītos."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Pierakstīties reģistrācijas formā"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Atļaut lietotājiem, kuri reģistrējas Jūsu vietnē, pierakstīties uz Jūsu izvēlēto sarakstu."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Saite uz pārlūka versiju"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Attēlojas Jūsu biļetena augšpusē. Neaizmirstiet iekļaut saites birku, piemēram: [link]Saite[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "\"Atteikšanās\" saites teksts"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Šeit var izmainīt atteikšanās saites nosaukumu Jūsu biļetena apakšā."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Atteikšanās lapa"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Abonents pēc uzspiešanas uz atteikšanās saites biļetena apakšā tiek pārvirzīts uz lapu pēc Jūsu izvēles."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Iekļaut parakstīšanās apstiprināšanu"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Novērst negribētu cilvēku pierakstīšanos, šī opcija turēs \"tīru\" Jūsu sarakstu."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Uzzināt vairāk."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "E-pasta temats"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "E-pasta saturs"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Neaizmirstiet iekļaut: <br><br>[activation_link]Apstipriniet Jūsu abonēšanu.[/activation_link]. <br><br>Kā opcija: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Apstiprināšanas lapa"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Kad abonenti klikšķina uz aktivācijas saiti, viņi tiek pāradresēti uz lapu pēc Jūsu izvēles."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Tīkla metode"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Metodi noteicis tīkla administrators."
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Nav konfigurēts!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Jūsu pašu mājaslapa"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Vienkāršākais risinājums maziem sarakstiem. Esiet sasniedzis dienā izsūtāmo e-pastu limitu."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Cits provaiders"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Sūtīt ar profesionālu SMTP provaideri, lieliska izvēle gan maziem, gan lieliem sarakstiem. Mums ir Jums sagatavoti piedāvājumi ar dažiem provaideriem."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Piegādes metode"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Nosūtiet sev vairākus testa e-pastus, lai saprastu, kura metode labāk strādā ar Jūsu serveri."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Šis e-pasta dzinis strādā ar 95&#37; serveriem"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Šī metode strādā uz 5&#37; serveriem"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail ceļš"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Izmantojiet to pašu metodi, ko lietojiet Jūsu WP vietnei."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP hosta vārds"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "piemēram: smtp.mansdomains.lv"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Logins"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Parole"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktivēt, ja Jūsu SMTP porti ir bloķēti."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP porti"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Drošs savienojums"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Autentifikācija"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Atstājiet šo opciju uz Jā. Tikai ļoti nedaudzi SMTP servisi prasa, lai autentifikācija būtu izslēgta."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Testa metode"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Sūtīt testa e-pastu"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Sūtīt..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Jūsu hostingam ir ierobežojumi. Mēs piedāvājam 70 e-pastus stundā, lai būtu droši. [link]Uzzināt vairāk[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "e-pasti"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Tas ir ātri!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Mēs iesakam Jums uzstādīt CRON. [link]Lasīt vairāk[/link] support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "API atslēga"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Jūs variet nomainīt noklusēto ATBILDĒT-UZ vārdu un e-pastu biļeteniem. Tāpat šis uzstādījums tiek lietots aktivācijas e-pastos un administratora ziņojumos (cilnē Pamati)"
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Atgriestie e-pasti"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Kādā adresē jānonāk visiem atgrieztajiem e-pastiem? Saņemiet [link]Premium versiju[/link], lai to automatizētu."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Iegādāties premium versiju."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Abonenti var labot savus profilus"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Pievienot saiti biļetena kājenē, lai abonenti varētu rediģēt savus profilus un sarakstus. [link]Skatīt Jūsu abonenta profila lapu.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Priekšskatīt lapu"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Abonenta profila lapa"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Izvēlēties lapu, lai attēlotu abonenta profilu."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Atļaut HTML labošanu"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Atļaut Jums labot teksta bloku HTML vizuālajā redaktorā."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Koplietot anonīmus datus"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Koplietojiet anonīmi Jūsu datus un palīdziet mums uzlabot spraudni. [link]Lasīt vairāk[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "citi"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "māksla"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "bizness"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "izglītība"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "e-komercija"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "pārtika"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "apdrošināšana"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "valdība"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "veselība un sports"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "rūpniecība"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "mārketings un mediji"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "bezpeļņas"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotogrāfija"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "ceļošana"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "nekustamie īpašumi"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "reliģija"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "tehnoloģijas"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "Industrija"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Izvēlieties savu industriju"
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "īskods, lai attēlotu abonentu kopskaitu"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Ielīmējiet šo īskodu, lai attēlotu apstiprināto abonentu skaitu rakstā vai lapā."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Kodējums"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Nepareizi attēlojas teksts jūsu e-pastos? Izvēlieties pareizo kodējumu Jūsu valodai."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Ieslēgt MailPoet`s Cron"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Neviens e-pasts, kas bija rindā, nav nosūtīts? Tad aktivējiet šo opciju."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Kļūdu novēršanas režīms"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Ieslēgt šo, lai rādītu MailPoet kļūdas. Mūsu atbalsta grupa varētu lūgt Jūs ieslēgt šo opciju, ja lūgsiet viņiem palīdzību."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Darīt vai nē. Nav mēģinājumu."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Nedaudz pārspīlētas iespējas"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Pārslēgt pārspīlētās opcijas"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Slēpt"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Rādīt"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Pārinstalēt no sākuma"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Vēlaties sākt visu no sākuma? Šādi tiks notīrīta visa patreizējā informācija un instalēts MailPoet no jauna."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Pārinstalēt tagad..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Ņemt Jūsu izvēlēto konfigurāciju?"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Viena konfigurācija visām vietnēm"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Piespiest visas vietnes sūtīt ar unikālu NO e-pasta adresi. Jums tikai vienreiz vajadzīgs nokonfigurēt automātisko atpakaļatgriešanas apstrādi (Premium), SPF un DKIM."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Lietotāji joprojām var izmainīt ATBILDĒT-UZ adresi saviem biļeteniem. Tīkla administratori joprojām var labot sūtīšanas metodi katrai vietnei."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Konfigurēt katru vietni manuāli"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Konfigurēt SPF un DKIM katrai vietnei neatkarīgi."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Konfigurēšana un atļaujas"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Atļaut vietnes administratoriem mainīt sūtīšanas metodi"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Atļaut vietnes administratoriem atcelt parakstīšanās apstiprināšanu"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Tīkla noklusētā sūtīšanas metode"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF un DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Jūsu SPF ieraksts"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "NO e-pasta adrese visām vietnēm, izmantojot šo metodi"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Izveidot jaunu formu"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Nav noteikts saraksts"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Lietotāja izvēle %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Labot formu"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Lai labotu formu, Jums jābūt vismaz vienam sarakstam."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Pievienot sarakstu"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Labot vārdu"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Formu saraksts"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Šī forma pievienos abonentus šiem sarakstiem:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Izvēlēties sarakstu"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Pēc iesniegšanas..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "rādīt ziņu"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "iet uz lapu"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Jūs varat viegli pievienot šo formu Jūsu kažociņa [link]spraudņu laukā[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] un [link_shortcode]īskodu[/link_shortcode] versijas arī ir pieejamas."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Teksta ievade"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Teksta lauks"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Pogas"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Izvēles rūtiņa"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Izvēlēties"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Izvēlēties lauka tipu:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Lauka nosaukums:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Automātiski pievienot paragrāfus"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Līniju skaits:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "%d līnijas"
+msgstr[1] "%d līnija"
+msgstr[2] "%d līnijas"
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Izvēlieties sarakstu, ko vēlaties pievienot:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Gads, mēnesis, diena"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Gads, mēnesis"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Mēnesis (Janvāris, Februāris, ...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Datuma tips:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Pievienot vienumu"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Apzīmējums:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Rādīt lauka nosaukumu ievades laukā:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Kārtība:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Pāriestatīt šodienas datumu:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Šis lauks ir obligāts?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Tikai cipari"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Tikai burti"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Burti cipari"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Tālrunis (atļauti arī +, -, # un tukšumi)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Derīgs:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Nekas"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Mūsu Premium labākā pieredze"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Visa Jūsu statistika vienā instrumentu panelī"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Skatīt pilnu ekrānšāviņu"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Lai prieks uzlabot"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Skatīt Jūsu top biļetenus, abonentus, sarakstus un domēnus vienā ekrānā. Vai variet pārspēt iepriekšējos biļetenus?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Palielināt abonentu skaitu"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Vai mana sānu josla man dod vairāk abonentus nekā kājene? Pienācis laiks to uzzināt."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Salīdzināt pagātni un tagadni"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Vai Jūs darbojieties labāk kā 3 mēnešus iepriekš? Izvēlieties laika intervālu lai atklātu izmaiņas Jūsu rezultātos."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Sasniedz viņu pastkastes"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Iegūstiet Jūsu spama rezultātu ar 1 klikšķi, kamēr veidojiet Jūsu biļetenu, pateicoties [link]vēstuļu-testerim[/link], mūsu pašu populārajam rīkam."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Spama filtriem patīk DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Pievienojiet DKIM parakstu Jūsu biļeteniem, lai palielinātu biļetenu piegādajamību. [link]Lasīt uzstādīšanas palīgu.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Ļaujiet mums to konfigurēt"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Mūsu starptautiskā un draudzīgā komanda palīdzēs Jums optimizēt iestatījumus un pārliecināsies, ka viss ir kārtībā. Vidēji uz jautājumiem mēs atbildam 10h laikā. Diezgan ātri!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatizēt apnicīgās darbības"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Ļaujiet spraudnim dzēst <strong>nederīgās adreses</strong> automātiski. [link]Skatīt palīgu.[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Vēl vairāk, MailPoet katras 15 minūtes pārbaudīs Jūsu vietni, <strong>gluži kā \"cron\" darbs</strong>, lai pārliecinātos, ka jūsu e-pasti tiek nosūtīti laikā. Nav nepieciešams iestatīt!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 dienu naudas atgriešana"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Lielisks veids izmēģināt Premium. Neviens netiks bloķēts."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Kaķēni tikai aizpilda tukšo vietu. Izskatās izsalkuši, vai ne? Mums patīk kaķēni."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Nekādu 2000 abonentu ierobežojumu"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Bezmaksas versija bloķē Jūsu biļetenu sūtīšanu, kad Jūs sasniedzat 2000 apstiprinātus abonentus. Premium noņem šos ierobežojumus."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "Un vairāk..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Uzziniet, ko abonents dara, kad nonāk Jūsu vietnē, pateicoties Google Analytics kampaņu izsekošanai"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Sīkāka statistika katram abonentam"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Katra biļetena klikšķināto saišu statistika"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Blogeris"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Pašnodarbinātais"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Aģentūra"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "gadā"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Viena vietne"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Četras vietnes"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Neierobežots vietņu skaits"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Gatavs multivietnēm."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Pirkt tagad"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Jau samaksāts?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Ir jautājumi par pārdošanu? [link]Kontaktējieties[/link]"
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Kontrolēt visu ar sīkāku statistiku"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Meklējiet atbildes? Kāpēc tā vai cita kampaņa darbojas tik labi? Kura ir visefektīvākā parakstīšanās forma? Iegūstiet skaidru skatu ar mūsu jauno statistikas instrumentu paneli! [link]Iegūt Premium statistikas instrumentu paneli.[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Automātiski iztīrīt Jūsu adresātu sarakstu"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Sūtīt kā PRO un turēt Jūsu servera sūtīšanas reputāciju augstu. Pateicoties mūsu modernajam saraksta tīrīšanas instrumentam, Jūs beidzot variet izvairīties no sūtīšanas uz vecām vai nederīgām e-pasta adresēm. [link]Turēt tīru Jūsu sarakstu ar Premium.[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Sūtīt biežāk"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Vai zinājāt? Labāk ir sūtīt mazāk e-pastus, bet biežāk. Kļūstiet Premium un mēs pārbaudīsim Jūsu vietni katras 15 minūtes, lai pārliecinātos, ka Jūsu e-pasti ar šo biežumu sūtās nevainojami. [link]Sūtīt labāk ar Premium.[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Aizmirstiet par ierobežojumiem"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Noņemiet bezmaksas versijas 2000 abonentu limitu un sūtiet tik daudz abonentiem, cik vēlaties. [link]Atbrīvoties no ši ierobežojuma![/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Noskaidrojiet Jūsu top abonentus"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Uzziniet, uz kurām saitēm tiek visvairāk klikšķināts Jūsu biļetenos. Uzziniet, kuri abonenti ir vislielākie Jūsu fani un uzziniet papildus informāciju par viņiem. [link]Iegūt vairāk datus ar Premium.[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Saņemt ātrāku atbalsu"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Izlaist rindu, iet tieši uz mūsu prioritāro pastkasti. [link]Iegūt ātrāku atbalstu ar Premium.[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Saņemt vairāk kažociņus"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Neesat labs krāsu saskaņošanā? Neuztraucieties, mēs strādājam ar labākajiem dizaineriem, lai piedāvātu daudzus kažociņus, jaunākie pieejami tikai Premium. [link]Saņemt vairāk kažociņus ar Premium.[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Sekojiet Jūsu lasītājiem ar Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Pārbaudiet, ko dara Jūsu abonenti pēc ierašanās Jūsu vietnē un uzlabojiet Jūsu uzturēšanās reitingu (retention rate). [link]Sekojiet Jūsu lasītājam ar GA Premium.[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 dienu laimes garantija"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Jums joprojām ir šaubas par mūsu komandu? Nekas, mēs Jums dosim 30 dienas to izmēģināt. Mēs atgriezīsim līdzekļus, ja nebūsiet laimīgs. [link]Kļūstiet par Premium lietotāju bez stresa![/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Esiet produktīvs pateicoties Premium!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Mums ir 3 dažādas licences, lai apmierinātu Jūsu vajadzības:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Par %s gadā, saņemsiet Premium vienai vietnei."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Saņemt tagad!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Pašnodarbinātais"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Par %s gadā, saņemsiet Premium 4 vietnēm."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Par %s gadā, saņemsiet Premium visām Jūsu vietnēm."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Izlasiet mūsu vienkāršos [link]noteikumus un nosacījumus.[/link]"
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Statistikas instrumentu panelis"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Uz"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Jums ir atsauksme par šo statistiku? [link]Sazinieties ar mums[/link], lai nodotu mums ziņu."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Saraksti un abonenti"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Meklēt abonentus"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Atpakaļ uz sarakstiem"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Labot sarakstus"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Importēt"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Eksportēt"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Nav sarakstā"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Nekad nav atvērts vai klikšķināts"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Izdzēst šo lietotāju pavisam?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Izdzēst šos lietotājus pavisam?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Pārvietot uz sarakstu"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Pievienot sarakstam"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Dzēst no saraksta"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Dzēst no visiem sarakstiem"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Dzēst abonentus"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Apstiprināt neapstiprinātos abonentus"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Atkārtoti nosūtīt apstiprinājuma e-pastu"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Skatīt visus sarakstus"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Abonenti bez sarakstiem"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Pēdējais atvērts"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Pēdējais klikšķis"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Visi šīs lapas abonenti iezīmēti."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Iezīmēt visus %1$s abonentus."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Visi %1$s abonenti iezīmēti."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Attīrīt izvēli"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Saraksti, kuros pierakstīts abonents."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Izvēlēties sarakstu"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Formāts"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV fails"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel priekš Windows"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Eksportēt tikai apstiprinātos abonentus"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Lauku saraksts, kuri jāeksportē"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Atrakstījies no %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Piezīme: Uzziniet ko abonents atver un klikšķina ar mūsu [link]Premium versiju.[/link]"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Izveidošanas datums"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Atjaunot"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Iegūt visus MS lietotājus"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Jūsu pašu lietošanai, un nekad nerādiet abonentiem."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Atjaunot sarakstu"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Pievienot sarakstu"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Kā vēlaties importēt?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Kopēt un ielīmēt teksta laukā"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Augšupielādēt failu"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Importēt no %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Tad ielīmējiet Jūsu sarakstu šeit!"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Šim jābūt CSV stilā vai arī vienkārši ielīmētam no Gmail, Hotmail vai Yahoo. Skatīt [link]piemērus atbalsta lapā[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Šim jābūt CSV formātā. Skatīt [link]piemērus atbalsta lapā[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Vai šie abonenti vēlējās būt Jūsu sarakstā?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Ja atbilde ir \"nē\", uzskatiet sevi par spameri."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Lasīt tālāk support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Saskaņoti datus"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Ignorēt kolonnu..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Importēt kā \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Importēt \"%1$s\" kā datuma lauku"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Pārbaudiet, vai datumi zilā krāsā sakrīt ar oriģinālu."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Nesakrīt ar 'datumu lauku', ja lielākai daļa rindu šai kolonnai rāda šo pašu kļūdu."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Kļūdas datums."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Iezīmēt vienu vai vairākus sarakstus"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Iezīmējiet sarakstus, kuros vēlaties importēt tos abonentus."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Jauns saraksts"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Ievadiet jaunā saraksta nosaukumu"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Piezīme:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "abonenti pēc importēšanas saņems \"%1$s\"."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Importēt %1$s abonentus no spraudņa: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Ievietot formu"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Jūsu saraksti"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet pierakstīšanās forma"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Pierakstīšanās forma Jūsu biļeteniem."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Pārbaudiet savu pastkasti, lai apstiprinātu pierakstīšanos."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Jūs esat veiksmīgi pierakstījies."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Virsraksts:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Lai pierakstītos uz mūsu lielisko biļetenu, vienkārši zemāk ievadiet Jūsu e-pastu. Jums tiks nosūtīts apstiprināšanas e-pasts!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Ļaut abonentiem izvēlēties viņu sarakstus:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Jautāt:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Ievadot attēlot apzīmējumus"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Pogas apzīmējums:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Sekmju ziņojums:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe versija"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Izvēlieties formu:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet Newsletters"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "Izveido un sūta biļetenus vai automātiskus e-pastus. Iegūst abonentus ar vidžeta palīdzību. Importē un pārvalda Jūsu sarakstus. MailPoet ir spraudnis, ko attīsta un atbalsta <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">paliela komanda</a>."
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
