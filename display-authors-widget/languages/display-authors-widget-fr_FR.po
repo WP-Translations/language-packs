@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Display Authors Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/display-authors-widget\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/display-authors-widget/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-21 15:03:30+00:00\n"
+"PO-Revision-Date: 2017-10-10 15:35:56\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: display-authors-widget.php:44
+msgid "Displays authors by role."
+msgstr "Affiche les auteurs par rôles."
+
+#: display-authors-widget.php:57
+msgctxt "Name of the widget in widget area."
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget"
+
+#: display-authors-widget.php:134
+msgid "(%d)"
+msgstr "(%d)"
+
+#: display-authors-widget.php:189
+msgid "Authors"
+msgstr "Auteurs"
+
+#: display-authors-widget.php:206
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+#: display-authors-widget.php:211
+msgid "Role:"
+msgstr "Rôle&nbsp;:"
+
+#: display-authors-widget.php:221
+msgid "Display Post Count?"
+msgstr "Afficher le nombre d’article ?"
+
+#: display-authors-widget.php:226
+msgid "Display Author Bio?"
+msgstr "Afficher la bio de l’auteur ?"
+
+#: display-authors-widget.php:231
+msgid "Display Author Gravatar?"
+msgstr "Afficher le Gravatar de l’auteur ?"
+
+#: display-authors-widget.php:236
+msgid "Display Author Name?"
+msgstr "Afficher le nom de l’auteur ?"
+
+#: display-authors-widget.php:240
+msgid "Gravatar Size:"
+msgstr "Taille du Gravatar : "
+
+#: display-authors-widget.php:245
+msgid "Gravatar Alignment:"
+msgstr "Alignement du Gravatar :"
+
+#: display-authors-widget.php:247
+msgid "None"
+msgstr "Aucun"
+
+#: display-authors-widget.php:247
+msgid "Left"
+msgstr "À gauche"
+
+#: display-authors-widget.php:247
+msgid "Right"
+msgstr "À droite"
+
+#: display-authors-widget.php:255
+msgid "Limit the number of authors displayed:"
+msgstr "Limiter le nombre d’auteurs affiché :"
+
+#. Plugin Name of the plugin/theme
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxnet-themes.fi/downloads/display-authors-widget/"
+msgstr "https://foxnet-themes.fi/downloads/display-authors-widget/"
+
+#. Description of the plugin/theme
+msgid "Register widget to display authors by role in a sidebar."
+msgstr "Widget pour afficher les auteurs par rôle dans la colonne latérale."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "http://foxnet.fi/en"
+msgstr "http://foxnet.fi/en"
