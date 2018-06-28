@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Paid Memberships Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/mailpoet-paid-memberships-pro-add-on/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-25 05:47+0100\n"
+"PO-Revision-Date: 2018-01-02 08:48:34\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:38
+#: mailpoet-paid-memberships-pro-addon.php:171
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:41
+msgid "Thank you for using MailPoet Paid Memberships Pro Add-on :) Should you need help using MailPoet Paid Memberships Pro Add-on please read the documentation."
+msgstr "Merci d'utiliser MailPoet Paid Memberships Pro Add-on :) Si vous avez besoin d'aide pour l'utiliser, veuillez lire la documentation."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:43
+msgid "MailPoet Paid Memberships Pro Add-on Documentation"
+msgstr "MailPoet Paid Memberships Pro Add-on Documentation"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:49
+msgid "Support"
+msgstr "Aide"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "Après la <a href=\"%s\">lecture de la documentation</a>, pour plus d'aide, vous pouvez utiliser le <a href=\"%s\"> forum de la communauté</a>."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:54
+msgid "Community Support"
+msgstr "Forum de la communauté"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Vous avez trouvé un bug ?"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:63
+#, php-format
+msgid "If you find a bug within MailPoet Paid Memberships Pro you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Si vous trouvez un bug dans MailPoet Paid Memberships Pro, vous pouvez créer un ticket via les <a href=\"%s\">issues de GitHub</a>. Assurez-vous d'avoir lu le <a href=\"%s\">guide de la contribution</a> avant d'envoyer votre rapport. Soyez aussi descriptif que possible."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:65
+msgid "Report a bug"
+msgstr "Signaler un bug"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:70
+msgid "For more information:"
+msgstr "Pour plus d'informations :"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:71
+msgid "Project on WordPress.org"
+msgstr "Projet sur WordPress.org"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-help.php:72
+msgid "Project on Github"
+msgstr "Projet sur GitHub"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-menus.php:32
+msgid "MailPoet Paid Memberships Pro Settings"
+msgstr "Réglages de MailPoet Paid Memberships Pro"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-menus.php:32
+msgid "MailPoet PMPro"
+msgstr "MailPoet PMPro"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-profile.php:42
+msgid "Subscribe to MailPoet"
+msgstr "S'abonner par MailPoet"
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-profile.php:43
+msgid "If checked, you are subscribed to the newsletters provided by this site."
+msgstr "Si coché, vous êtes abonné aux newsletters fournies par ce site."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-settings.php:47
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Échec. Veuillez rafraîchir la page et réessayer."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-admin-settings.php:55
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont bien été enregistrés."
+
+#: includes/admin/class-mailpoet-paid-memberships-pro-addon-install.php:125
+msgid "What's new:"
+msgstr "Quoi de neuf :"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:25
+#: mailpoet-paid-memberships-pro-addon.php:150
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:40
+msgid "General"
+msgstr "Généraux"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:41
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:59
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:164
+msgid "Lists"
+msgstr "Listes"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:61
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:155
+msgid "Here you can assign the customer to the lists you enable when they subscribe. Simply tick the lists you want your customers to subscribe to and press \"Save Changes\"."
+msgstr "Ici, vous pouvez assigner aux clients aux listes que vous activez lorsqu'ils s'abonnent. Il suffit de cocher les listes auxquelles vous voulez que vos clients s'abonnent, puis d'appuyer sur \"Enregistrer les modifications\"."
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:78
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:80
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet. Simple setup your settings below and press \"Save Changes\"."
+msgstr "Maintenant vos clients peuvent s'abonner aux newsletters que vous avez créés avec MailPoet. Simplement configurer vos réglages ci-dessous et appuyez sur « Enregistrer les modifications  »."
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:85
+msgid "Enable subscribe on checkout"
+msgstr "Activer l'abonnement sur le panier"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:86
+msgid "Add a subscribe checkbox to your checkout page."
+msgstr "Ajouter une case à cocher pour s'abonner sur la page du panier."
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:93
+msgid "Checkbox label"
+msgstr "Libellé du texte de la case à cocher"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:94
+msgid "Enter a message to place next to the checkbox."
+msgstr "Saisissez un message à placer à côté de la case à cocher."
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:96
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Oui, s'il vous plaît vous abonner moi à votre newsletter."
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:154
+msgid "MailPoet Lists"
+msgstr "Listes MailPoet"
+
+#: includes/admin/settings/class-mailpoet-paid-memberships-pro-addon-settings.php:163
+msgid "Enabled"
+msgstr "Activé"
+
+#: includes/admin/views/html-admin-settings.php:20
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/admin/views/html-notice-update.php:5
+#, php-format
+msgid "<strong>%s Data Update Required</strong> &#8211; We just need to update your install to the latest version"
+msgstr "<strong>Mises à jour des données nécessaires de %s</strong> &#8211; Nous devons mettre à jour votre installation avec la dernière version."
+
+#: includes/admin/views/html-notice-update.php:6
+msgid "Run the updater"
+msgstr "Lancer la mise à jour"
+
+#: includes/admin/views/html-notice-update.php:10
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Il est fortement recommandé de sauvegarder votre base de données avant de procéder. Êtes-vous certain(e) de vouloir exécuter la mise à jour maintenant ?"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:18
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:27
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:157
+msgid "Subscribe to our Newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:50
+msgid "Please complete all required fields."
+msgstr "Merci de remplir tous les champs obligatoires."
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:134
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:167
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:180
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:135
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:168
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:183
+msgid "No"
+msgstr "Non"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:170
+msgid "Subscribed to Newsletter"
+msgstr "Abonné à la newsletter"
+
+#: includes/mailpoet-paid-memberships-pro-addon-functions.php:186
+msgid "Newsletter Subscription"
+msgstr "Abonnement à la newsletter"
+
+#: mailpoet-paid-memberships-pro-addon.php:245
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Désolé, <strong>%s</strong> nécessite WordPress"
+
+#: mailpoet-paid-memberships-pro-addon.php:256
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Paid Memberships Pro for this plugin to work. Please install and activate <strong><a href=\"%s\">Paid Memberships Pro</a></strong> first."
+msgstr "Désolé, <strong>%s</strong> nécessite Paid Memberships Pro pour que cette extension fonctionne. Veuillez installer et activer <strong><a href=\"%s\">Paid Memberships Pro</a></strong> en premier."
+
+#: mailpoet-paid-memberships-pro-addon.php:267
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Désolé, <strong>%s</strong> nécessite MailPoet Newsletters pour que cette extension fonctionne. Veuillez installer et activer <strong><a href=\"%s\">MailPoet Newsletters</a></strong> en premier."
