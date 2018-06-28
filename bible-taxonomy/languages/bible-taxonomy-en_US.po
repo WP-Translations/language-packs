@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bible Taxonomy\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Júlio Reis <webmaster@arocha.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/bible-taxonomy/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-07 17:21+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:01\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translators: first placeholder for plugin name, second for version number
+#: bible-taxonomy.php:60
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s not activated"
+
+#. Translators: first placeholder for current WordPress version, second for
+#. required version
+#: bible-taxonomy.php:62
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+
+#: bible-taxonomy.php:63
+msgid "Back to WordPress admin"
+msgstr "Back to WordPress admin"
+
+#: bible-taxonomy.php:80
+#: bible-taxonomy.php:81
+msgid "Bible taxonomy"
+msgstr "Bible taxonomy"
+
+#: bible-taxonomy.php:82
+msgid "Search Bible references"
+msgstr "Search Bible references"
+
+#: bible-taxonomy.php:83
+msgid "All Bible references"
+msgstr "All Bible references"
+
+#: bible-taxonomy.php:84
+msgid "Parent Bible reference"
+msgstr "Parent Bible reference"
+
+#: bible-taxonomy.php:85
+msgid "Parent Bible reference:"
+msgstr "Parent Bible reference:"
+
+#: bible-taxonomy.php:86
+msgid "Edit Bible reference"
+msgstr "Edit Bible reference"
+
+#: bible-taxonomy.php:87
+msgid "Update Bible reference"
+msgstr "Update Bible reference"
+
+#: bible-taxonomy.php:88
+msgid "Add New Bible reference"
+msgstr "Add New Bible reference"
+
+#: bible-taxonomy.php:89
+msgid "New Bible reference"
+msgstr "New Bible reference"
+
+#: bible-taxonomy.php:90
+msgid "Bible Taxonomy"
+msgstr "Bible Taxonomy"
