@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Jigoshop Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Lukasz <translate@proton.org.pl>\n"
+"Language-Team: Polish (Poland) (http://www.transifex.com/wysija/mailpoet-jigoshop-add-on/language/pl_PL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-25 02:51+0100\n"
+"PO-Revision-Date: 2017-09-19 23:05:56\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "Włączony"
+
+#: include/settings-newsletters.php:20
+#: include/settings.php:46
+msgid "Newsletters"
+msgstr "Newslettery"
+
+#: include/settings.php:13
+#: mailpoet-jigoshop-addon.php:103
+msgid "MailPoet Newsletter"
+msgstr "Biuletyn MailPoet"
+
+#: include/settings.php:15
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet. Simple setup your settings below and press \"Save Changes\"."
+msgstr "Teraz Twoi klienci mogą prenumerować biuletyn, który stworzyłeś w MailPoet. Po prostu wybierz swoje ustawienia poniżej i naciśnij \"Zapisz zmiany\""
+
+#: include/settings.php:20
+#: mailpoet-jigoshop-addon.php:110
+msgid "Enable subscribe on checkout"
+msgstr "Włącza subskrypcję na stronie podsumowania płatności"
+
+#: include/settings.php:21
+#: mailpoet-jigoshop-addon.php:111
+msgid "Add a subscribe checkbox to your checkout page."
+msgstr "Dodaje opcję subskrypcji na stronie podsumowania płatności."
+
+#: include/settings.php:28
+msgid "Checkout Label"
+msgstr "Etykieta na stronie podsumowania płatności"
+
+#: include/settings.php:29
+#: mailpoet-jigoshop-addon.php:119
+msgid "Enter a message to place next to the checkbox."
+msgstr "Wpisz wiadomość, która zostanie wyświetlona pod polem subskrypcji."
+
+#: include/settings.php:33
+#: mailpoet-jigoshop-addon.php:61
+#: mailpoet-jigoshop-addon.php:123
+msgid "Yes, add me to your mailing list"
+msgstr "Tak, dodaj mnie do listy mailingowej."
+
+#: include/settings.php:48
+#: mailpoet-jigoshop-addon.php:158
+msgid "Here is the list of newsletters you can assign the customer to when they subscribe. Simply tick the newsletters you want your customers to subscribe to and press \"Save Changes\"."
+msgstr "Tutaj znajduje się lista wszystkich kampanii, do których można przypisać klientów. Po prostu zaznacz te, do których chcesz by dopisywali się klienci. Po wyborze naciśnij przycisk \"Zapisz zmiany\"."
+
+#: mailpoet-jigoshop-addon.php:105
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet. Simple setup your settings below and press \"Save MailPoet Changes\"."
+msgstr "Teraz klienci mogą dopisywać się do list dystrybucyjnych. Ustaw poniższe opcje i naciśnij przycisk \"Zapisz zmiany\""
+
+#: mailpoet-jigoshop-addon.php:118
+msgid "Checkbox label"
+msgstr "Etykieta pola checkbox"
+
+#: mailpoet-jigoshop-addon.php:131
+#: mailpoet-jigoshop-addon.php:156
+msgid "MailPoet Lists"
+msgstr "Listy dystrybucyjne"
+
+#: mailpoet-jigoshop-addon.php:150
+msgid "Settings saved"
+msgstr "Ustawienia zaostały zapisane"
+
+#: mailpoet-jigoshop-addon.php:171
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: mailpoet-jigoshop-addon.php:252
+#, php-format
+msgid "MailPoet Jigoshop Add-On requires Jigoshop. Please install and activate <a href=\"%s\">Jigoshop</a> first."
+msgstr "Przykro nam, Jigoshop Add-On wymaga wtyczki Jigoshop, która musi być zainstalowana i aktywowana. Proszę najpierw <a href=\"%s\">zainstalować Jigoshop</a>."
