@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Expound\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/expound\n"
+"Last-Translator: Elektra M. <safiragon@yahoo.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/wp-translations/expound/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-04 21:42:13+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:48:36\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ουπς! Αυτή η σελίδα δεν βρέθηκε."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Στην τοποθεσία αυτή δεν βρέθηκε τίποτα. Μήπως να δοκιμάσετε έναν από τους παρακάτω συνδέσμους ή την αναζήτηση;"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Κοινότερες Κατηγορίες"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Δοκιμάστε την αναζήτηση στα μηνιαία αρχεία. %1$s"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] "%1$s σκέψεις στο &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "← Παλαιότερα σχόλια"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια →"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν κλείσει."
+
+#: content-page.php:18
+#: content-single.php:20
+#: image.php:94
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: featured-content.php:19
+#: featured-content.php:50
+#: related-content.php:22
+msgid "Permalink to %s"
+msgstr "Μόνιμος σύνδεσμος του %s"
+
+#: featured-content.php:24
+msgid "Continue reading &rarr;"
+msgstr "Συνέχεια &rarr;"
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: functions.php:77
+msgid "Social Menu"
+msgstr "Μενού Κοινωνικών Δικτύων"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Πλευρικό πάνελ"
+
+#: functions.php:264
+msgid "Proudly powered by %s"
+msgstr "Κατασκευασμένο με %s"
+
+#: functions.php:266
+msgid "Theme: %1$s by %2$s"
+msgstr "Θέμα: %1$s by %2$s"
+
+#: header.php:36
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "Μετάβαση σε περιεχόμενο"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Δημοσιεύτηκε <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> στο <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> σε <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Προηγούμενη"
+
+#: image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Επόμενη <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:103
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Δημοσιεύστε ένα σχόλιο</a> ή αφήστε μία παράθεση: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">URL Παράθεσης</a>."
+
+#: image.php:105
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Τα σχόλια είναι απενεργοποιημένα, αλλά μπορείτε να αφήσετε μία παράθεση: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">URL Παράθεσης</a>."
+
+#: image.php:107
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Οι παραθέσεις είναι απενεργοποιημένες, αλλά μπορείτε να <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">δημοσιεύσετε ένα σχόλιο</a>."
+
+#: image.php:109
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Και τα δύο σχόλια και παραθέσεις είναι προσωρινά απενεργοποιημένα."
+
+#: inc/extras.php:70
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Πλοήγηση άρθρων"
+
+#: inc/template-tags.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:48
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Προηγούμενα άρθρα"
+
+#: inc/template-tags.php:52
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Επόμενα άρθρα <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Πίνγκμπακ:"
+
+#: inc/template-tags.php:75
+#: inc/template-tags.php:96
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: inc/template-tags.php:85
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "Ο/Η %s <span class=\"says\">λέει:</span>"
+
+#: inc/template-tags.php:88
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας αναμένει έγκριση."
+
+#: inc/template-tags.php:94
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: who, 2: when
+#: inc/template-tags.php:132
+msgid "%1$s / %2$s"
+msgstr "%1$s / %2$s"
+
+#. translators: min=minute
+#: inc/template-tags.php:161
+msgid "%s min ago"
+msgid_plural "%s mins ago"
+msgstr[0] "%s λεπτό πριν"
+msgstr[1] "%s λεπτά πριν"
+
+#: inc/template-tags.php:166
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s ώρα πριν"
+msgstr[1] "%s ώρες πριν"
+
+#: inc/template-tags.php:171
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s ημέρα πριν"
+msgstr[1] "%s ημέρες πριν"
+
+#: inc/template-tags.php:176
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "%s βδομάδα πριν"
+msgstr[1] "%s βδομάδες πριν"
+
+#: inc/template-tags.php:181
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] "%s μήνα πριν"
+msgstr[1] "%s μήνες πριν"
+
+#: inc/template-tags.php:186
+msgid "%s year ago"
+msgid_plural "%s years ago"
+msgstr[0] "%s έτος πριν"
+msgstr[1] "%s έτη πριν"
+
+#: inc/template-tags.php:198
+msgid "ago"
+msgstr "πριν "
+
+#. translators: 1: when, 2: where (category)
+#: inc/template-tags.php:208
+#: inc/template-tags.php:214
+msgid "%1$s in %2$s."
+msgstr "%1$s σε %2$s."
+
+#: inc/template-tags.php:220
+msgid "Tags: "
+msgstr "Ετικέτες:"
+
+#: index.php:23
+msgid "%s"
+msgstr "%s "
+
+#: index.php:26
+msgid "Tag Archives: %s"
+msgstr "Αρχείο ετικέτας %s"
+
+#: index.php:33
+msgid "Author Archives: %s"
+msgstr "Αρχείο συντάκτη %s"
+
+#: index.php:41
+msgid "Daily Archives: %s"
+msgstr "Αρχείο ημέρας %s"
+
+#: index.php:43
+msgid "Monthly Archives: %s"
+msgstr "Αρχείο μηνός %s"
+
+#: index.php:45
+msgid "Yearly Archives: %s"
+msgstr "Αρχείο έτους %s"
+
+#: index.php:47
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: index.php:49
+msgid "Archives"
+msgstr "Αρχείο"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Κανένα αποτέλεσμα"
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Η αναζήτηση δεν βρήκε κάτι με τους όρους που θέσατε. Παρακαλώ ξαναδοκιμάστε με διαφορετικές λέξεις-κλειδιά."
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: related-content.php:10
+msgid "Related posts"
+msgstr "Σχετικά άρθρα"
+
+#: searchform.php:9
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Αναζήτηση…"
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#. Theme Name of the plugin/theme
+msgid "Expound"
+msgstr "Expound"
+
+#. Description of the plugin/theme
+msgid "An awesome magazine theme for your WordPress site. Responsive layout, post thumbnails support, featured posts, an easy-to-use social menu and much more."
+msgstr "Ένα υπέροχο θέμα περιοδικού για τον WordPress ιστότοπό σας. Ευαίσθητο στήσιμο, υποστήριξη δημοσίευσης μικρογραφιών, προβεβλημένα άρθρα, ένα εύκολο στη χρήση μενού κοινωνικών δικτύων και πολλά άλλα."
+
+#. Author of the plugin/theme
+msgid "Konstantin Kovshenin"
+msgstr "Konstantin Kovshenin "
+
+#. Author URI of the plugin/theme
+msgid "http://kovshenin.com"
+msgstr "http://kovshenin.com "
+
+#. Template Name of the plugin/theme
+msgid "Full-width Template"
+msgstr "Πρότυπο πλήρους πλάτους "
