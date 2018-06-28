@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Gravity Forms Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Indrek Univer <indrekuni@gmail.com>\n"
+"Language-Team: Estonian (http://www.transifex.com/wysija/mailpoet-gravity-forms-add-on/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 15:33+0100\n"
+"PO-Revision-Date: 2017-09-19 23:43:22\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:38
+msgid "Documentation"
+msgstr "dokumentatsioon"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:41
+#, php-format
+msgid "Thank you for using %s :) Should you need help using %s please read the documentation."
+msgstr "Täname teid, et kasutasite %s :) Kui vajate abi kasutada veel %s, palun loe dokumendatsiooni."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:43
+#, php-format
+msgid "%s Documentation"
+msgstr "%s dokumentatsioon"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:49
+msgid "Support"
+msgstr "Tugi"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "Pärast <a href=\"%s\">dokumendatsiooni lugemist </a>, kui tekivad lisaküsimused, võid pöörduda<a href=\"%s\">autori foorumi</a> poole."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:54
+msgid "Community Support"
+msgstr "Ühiskondlik tugi"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Leidsid vea?"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:63
+#, php-format
+msgid "If you find a bug within <strong>%s</strong> you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Kui leidsid vea <strong>%s</strong> jooksul, saate luua pileti <a href=\"%s\">Github probleemid</a> kaudu. Kindlasti loe <a href=\"%s\">juhendit</a> enne aruande esitamist. Ole kirjeldav kui võimalik."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:65
+msgid "Report a bug"
+msgstr "Teavita veast"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:70
+msgid "For more information:"
+msgstr "Lisateave:"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:72
+msgid "Project on WordPress.org"
+msgstr " WordPress.org projektid"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:73
+msgid "Project on Github"
+msgstr "Github projektid"
+
+#: includes/admin/class-mailpoet-gravity-forms-install.php:103
+msgid "What's new:"
+msgstr "Mis on uut:"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:119
+msgid "Subscriber fields"
+msgstr "Liituja väljad"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:123
+msgid "Use First Name from Field ID"
+msgstr "Kasuta eesnime väljal ID"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:129
+msgid "Use Last Name from Field ID"
+msgstr "Kasuta Perekonnanime väljal ID"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:135
+msgid "Use Email Address from Field ID"
+msgstr "Kasuta Emaili aadressi väljal ID"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:142
+msgid "Enable multiselect"
+msgstr "Luba multiselect"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:146
+msgid "No"
+msgstr "Ei"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:147
+msgid "Yes"
+msgstr "Jah"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:153
+msgid "MailPoet lists"
+msgstr "MailPoet listid"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:171
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:182
+msgid "Single checkbox label"
+msgstr "Ühe checkboxi pealkiri"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:183
+msgid "This is ignored when multiselect is enabled."
+msgstr "Seda eiratakse kui multiselect on lubatud."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:184
+msgid "Default: Yes, please subscribe me to your newsletter."
+msgstr "Vaikimisi: Jah, palun lisa mind uudiskirja listi."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:185
+msgid "Custom Fields"
+msgstr "Tavalised väljad"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:186
+msgid "You need to tell MailPoet from which Gravity Forms Fields it should take the users name and email address from."
+msgstr "Määra MailPoet pluginale õiged Gravity Forms Fields väljad, kus ta saab kasutada ära kasutajanime ja emaili välju."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Enable Multiselect"
+msgstr "Luba multiselect"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Let the user select multiple lists."
+msgstr "Luba kasutajal valida mitme listi vahel."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "MailPoet Lists"
+msgstr "MailPoet listid"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "Select which lists the user should be able to subscribe to."
+msgstr "Vali listid kuhu kasutaja saaks liituda."
+
+#: includes/admin/views/view-html-settings.php:27
+msgid "Your settings have been saved."
+msgstr "Sätted salvestatud"
+
+#: includes/admin/views/view-html-settings.php:37
+msgid "MailPoet Gravity Forms Add-on Settings"
+msgstr "MailPoet Gravity Forms Add-on sätted"
+
+#: includes/admin/views/view-html-settings.php:39
+msgid "This setting is used only if you are using single checkbox option in the \"MailPoet\" field settings of the form editor."
+msgstr "Need sätted on kasutusel ainult siis kui te kasutate checkbox valikut \"MailPoet\"  väljade sätetes ja vormi redigeerijas."
+
+#: includes/admin/views/view-html-settings.php:40
+msgid "Simply select the lists you want your subscribers to subscribe to and press \"Save Settings\"."
+msgstr "Lihtsalt vali listid millega soovitad liitujatel liituda ja vajuta \"Salvesta sätted\"."
+
+#: includes/admin/views/view-html-settings.php:63
+msgid "Save Settings"
+msgstr "Salvesta sätted"
+
+#: includes/mailpoet-gravity-forms-core-functions.php:32
+#: includes/mailpoet-gravity-forms-core-functions.php:47
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Jah, palun lisa mind uudiskirja listi."
+
+#: mailpoet-gravity-forms-addon.php:229
+msgid "Settings"
+msgstr "Sätted"
+
+#: mailpoet-gravity-forms-addon.php:289
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Vabandust, <strong>%s</strong> nõuab WordPress "
+
+#: mailpoet-gravity-forms-addon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms. Activate it now or <a href=\"%s\" target=\"_blank\">purchase it today!</a>"
+msgstr "Vabandust, <strong>%s</strong> on nõutud Gravity Forms. Aktiveeri kohe <a href=\"%s\" target=\"_blank\">tellides selle täna!</a>"
+
+#: mailpoet-gravity-forms-addon.php:311
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms "
+msgstr "Vabandust, <strong>%s</strong> nõuab Gravity Forms "
+
+#: mailpoet-gravity-forms-addon.php:322
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Vabandust, <strong>%s</strong> nõuab MailPoet Newsletters et see plugin töötaks. Palun installi ja aktiveeri <strong><a href=\"%s\">MailPoet Newsletters</a></strong> esimesena."
