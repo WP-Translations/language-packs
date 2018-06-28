@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP Affiliate Banners Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/wp-translations/affiliatewp-affiliate-banners-widget/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-05-15 13:21+0100\n"
+"PO-Revision-Date: 2017-09-23 19:51:58\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: affiliatewp-banners-widget.php:128
+msgid "Documentation"
+msgstr "Documentação"
+
+#: affiliatewp-banners-widget.php:175
+#, php-format
+msgid "Sorry, %s requires WordPress "
+msgstr "Desculpe, %s requer o WordPress"
+
+#: includes/widget.php:30
+#, php-format
+msgid "Display a banner of your choice that links to your %s referral link."
+msgstr "Exibe uma faixa à sua escolha que liga à sua hiperligação %s de referência."
+
+#: includes/widget.php:32
+msgid "Affiliate Banner"
+msgstr "Faixa Afiliada"
+
+#: includes/widget.php:38
+msgid "Title"
+msgstr "Título"
+
+#: includes/widget.php:42
+msgid "Affiliate URL"
+msgstr "URL Afiliado"
+
+#: includes/widget.php:46
+msgid "Open link in a new window ?"
+msgstr "Abrir hiperligação numa nova janela?"
+
+#: includes/widget.php:54
+#: includes/widget.php:55
+msgid "Get Started"
+msgstr "Iniciar"
+
+#: includes/widget.php:54
+msgid "Red Ad"
+msgstr "An. Vermelho"
+
+#: includes/widget.php:55
+msgid "White Ad"
+msgstr "An. Branco"
+
+#: includes/widget.php:60
+msgid "Size"
+msgstr "Tamanho"
