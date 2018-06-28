@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite Clone Duplicator\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/multisite-clone-duplicator/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-07-18 14:29+0100\n"
+"PO-Revision-Date: 2017-09-21 23:00:16\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ../include\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+#: ../include/lang.php:6
+msgid "Sorry, you don't have permissions to use this page."
+msgstr "Sorry, you don't have permissions to use this page."
+
+#: ../include/lang.php:7
+msgid "Sorry, there is no site available for duplication."
+msgstr "Sorry, there is no site available for duplication."
+
+#: ../include/lang.php:8
+msgid "The log file cannot be written"
+msgstr "The log file cannot be written"
+
+#: ../include/lang.php:9
+msgid "The log file cannot be written to location"
+msgstr "The log file cannot be written to location"
+
+#: ../include/lang.php:10
+msgid "To enable logging, change permissions on log directory"
+msgstr "To enable logging, change permissions on log directory"
+
+#: ../include/lang.php:15
+#: ../include/lang.php:59
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: ../include/lang.php:16
+msgid "Duplication"
+msgstr "Duplication"
+
+#: ../include/lang.php:17
+msgid "Duplicable"
+msgstr "Duplicable"
+
+#: ../include/lang.php:18
+msgid "Customize"
+msgstr "Customize"
+
+#: ../include/lang.php:19
+msgid "Yes"
+msgstr "Yes"
+
+#: ../include/lang.php:20
+msgid "No"
+msgstr "No"
+
+#: ../include/lang.php:25
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../include/lang.php:26
+msgid "Visit"
+msgstr "Visit"
+
+#: ../include/lang.php:27
+msgid "View log"
+msgstr "View log"
+
+#: ../include/lang.php:28
+msgid "Missing fields"
+msgstr "Missing fields"
+
+#: ../include/lang.php:29
+msgid "Missing or invalid title"
+msgstr "Missing or invalid title"
+
+#: ../include/lang.php:30
+#, php-format
+msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names : <code>%s</code>"
+msgstr "The following words are reserved for use by WordPress functions and cannot be used as blog names : <code>%s</code>"
+
+#: ../include/lang.php:31
+msgid "Missing or invalid site address"
+msgstr "Missing or invalid site address"
+
+#: ../include/lang.php:32
+msgid "Missing admin email address"
+msgstr "Missing admin email address"
+
+#: ../include/lang.php:33
+msgid "Invalid admin email address"
+msgstr "Invalid admin email address"
+
+#: ../include/lang.php:34
+msgid "Missing or invalid log directory path"
+msgstr "Missing or invalid log directory path"
+
+#: ../include/lang.php:35
+msgid "New site was created"
+msgstr "New site was created"
+
+#: ../include/lang.php:36
+msgid "There was an error creating the user."
+msgstr "There was an error creating the user."
+
+#: ../include/lang.php:37
+#, php-format
+msgid "Failed to copy files : check permissions on <strong>%s</strong>"
+msgstr "Failed to copy files : check permissions on <strong>%s</strong>"
+
+#: ../include/lang.php:42
+msgid "Duplicate Site"
+msgstr "Duplicate Site"
+
+#: ../include/lang.php:43
+msgid "Original site to copy"
+msgstr "Original site to copy"
+
+#: ../include/lang.php:44
+msgid "New Site - Address"
+msgstr "New Site - Address"
+
+#: ../include/lang.php:45
+msgid "Only lowercase letters (a-z) and numbers are allowed."
+msgstr "Only lowercase letters (a-z) and numbers are allowed."
+
+#: ../include/lang.php:46
+msgid "New Site - Title"
+msgstr "New Site - Title"
+
+#: ../include/lang.php:47
+msgid "New Site - Admin Email"
+msgstr "New Site - Admin Email"
+
+#: ../include/lang.php:48
+msgid "A new user will be created if the above email address is not in the database."
+msgstr "A new user will be created if the above email address is not in the database."
+
+#: ../include/lang.php:49
+msgid "The username and password will be mailed to this email address."
+msgstr "The username and password will be mailed to this email address."
+
+#: ../include/lang.php:50
+msgid "Show advanced options"
+msgstr "Show advanced options"
+
+#: ../include/lang.php:51
+msgid "Hide advanced options"
+msgstr "Hide advanced options"
+
+#: ../include/lang.php:52
+msgid "Files"
+msgstr "Files"
+
+#: ../include/lang.php:53
+msgid "Duplicate files from duplicated site upload directory"
+msgstr "Duplicate files from duplicated site upload directory"
+
+#: ../include/lang.php:54
+msgid "Users and roles"
+msgstr "Users and roles"
+
+#: ../include/lang.php:55
+msgid "Keep users and roles from duplicated site"
+msgstr "Keep users and roles from duplicated site"
+
+#: ../include/lang.php:56
+msgid "Log"
+msgstr "Log"
+
+#: ../include/lang.php:57
+msgid "Generate log file"
+msgstr "Generate log file"
+
+#: ../include/lang.php:58
+msgid "Log directory"
+msgstr "Log directory"
+
+#: ../include/lang.php:60
+msgid "Edit duplicable sites list"
+msgstr "Edit duplicable sites list"
+
+#: ../include/lang.php:65
+msgid "Dublicable websites"
+msgstr "Dublicable websites"
+
+#: ../include/lang.php:66
+msgid "Allow duplication of all sites of the network"
+msgstr "Allow duplication of all sites of the network"
+
+#: ../include/lang.php:67
+msgid "Allow duplication of following sites only :"
+msgstr "Allow duplication of following sites only :"
