@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Plugins\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/hide-plugins\n"
+"Last-Translator: Stefan Meier <hello@stefanmeier.net>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/hide-plugins/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-05 15:05:21+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:48:22\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: hide-plugins.php:142
+msgid "Show this plugin"
+msgstr "Dieses Plugin anzeigen"
+
+#: hide-plugins.php:142
+msgid "Show"
+msgstr "Anzeigen"
+
+#: hide-plugins.php:144
+msgid "Hide this plugin"
+msgstr "Dieses Plugin ausblenden"
+
+#: hide-plugins.php:144
+msgid "Hide"
+msgstr "Ausblenden"
+
+#: hide-plugins.php:155
+#: hide-plugins.php:169
+#: hide-plugins.php:178
+#: hide-plugins.php:192
+msgid "Plugin file does not exist."
+msgstr "Die Plugin-Datei existiert nicht."
+
+#. Plugin Name of the plugin/theme
+msgid "Hide Plugins"
+msgstr "Hide Plugins"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/hide-plugins/"
+msgstr "http://wordpress.org/plugins/hide-plugins/"
+
+#. Description of the plugin/theme
+msgid "Hide installed plugins from all other users."
+msgstr "Verstecke installierte Plugins vor allen anderen Benutzern."
+
+#. Author of the plugin/theme
+msgid "ThemeBoy"
+msgstr "ThemeBoy"
+
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com/"
+msgstr "http://themeboy.com/"
