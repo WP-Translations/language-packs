@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Gravity Forms Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: Albanian (http://www.transifex.com/wysija/mailpoet-gravity-forms-add-on/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 15:33+0100\n"
+"PO-Revision-Date: 2017-11-30 09:34:44\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:38
+msgid "Documentation"
+msgstr "Dokumentim"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:41
+#, php-format
+msgid "Thank you for using %s :) Should you need help using %s please read the documentation."
+msgstr "Faleminderit që përdorni %s :) Nëse ju duhet ndihmë lidhur me përdorimin e %s, ju lutemi, lexoni dokumentimin për të."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:43
+#, php-format
+msgid "%s Documentation"
+msgstr "Dokumentim i %s"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:49
+msgid "Support"
+msgstr "Asistencë"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "Pasi <a href=\"%s\">të lexoni dokumentimin</a>, për asistencë të mëtejshme mund të përdorni <a href=\"%s\">forumin e bashkësisë</a>."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:54
+msgid "Community Support"
+msgstr "Asistencë Nga Bashkësia "
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Gjetët një të metë?"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:63
+#, php-format
+msgid "If you find a bug within <strong>%s</strong> you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Nëse gjeni një të metë tek <strong>%s<strong>, mund të hapni një çështje përmes <a href=\"%s\">çështjeve në Github</a>. Sigurohuni se e lexuat <a href=\"%s\">udhërrëfyesin mbi  kontributet</a>, përpara se të parashtroni njoftimin tuaj. Jini sa më përshkrues që mundet."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:65
+msgid "Report a bug"
+msgstr "Njoftoni një të metë"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:70
+msgid "For more information:"
+msgstr "Për më tepër të dhëna:"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:72
+msgid "Project on WordPress.org"
+msgstr "Projekti në WordPress.org"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:73
+msgid "Project on Github"
+msgstr "Projekti në Github"
+
+#: includes/admin/class-mailpoet-gravity-forms-install.php:103
+msgid "What's new:"
+msgstr "Ç’ka të re:"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:119
+msgid "Subscriber fields"
+msgstr "Fusha pajtimtari"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:123
+msgid "Use First Name from Field ID"
+msgstr "Përdor Emrin e ID-së së Fushës"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:129
+msgid "Use Last Name from Field ID"
+msgstr "Përdor Mbiemrin e ID-së së Fushës"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:135
+msgid "Use Email Address from Field ID"
+msgstr "Përdor Adresën Email të ID-së së Fushës"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:142
+msgid "Enable multiselect"
+msgstr "Aktivizoni multi-përzgjedhjen"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:146
+msgid "No"
+msgstr "Jo"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:147
+msgid "Yes"
+msgstr "Po"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:153
+msgid "MailPoet lists"
+msgstr "Lista MailPoet"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:171
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:182
+msgid "Single checkbox label"
+msgstr "Etiketë kutize njëshe"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:183
+msgid "This is ignored when multiselect is enabled."
+msgstr "Kjo anashkalohet, kur është aktive multi-përzgjedhja."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:184
+msgid "Default: Yes, please subscribe me to your newsletter."
+msgstr "Parazgjedhje: Po, ju lutem, pajtomëni te buletini juaj."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:185
+msgid "Custom Fields"
+msgstr "Fusha të Përshtatura"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:186
+msgid "You need to tell MailPoet from which Gravity Forms Fields it should take the users name and email address from."
+msgstr "Lypset t’i tregoni MailPoet-it prej cilave fusha të Gravity Forms duhet t’i marrë emrat e përdoruesve dhe adresat email."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Enable Multiselect"
+msgstr "Aktivizo Multi-përzgjedhjen"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Let the user select multiple lists."
+msgstr "Lejojuni përdoruesve të përzgjedhin disa lista njëherësh."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "MailPoet Lists"
+msgstr "Lista MailPoet"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "Select which lists the user should be able to subscribe to."
+msgstr "Përzgjidhni te cilat lista do të mund të pajtohej përdoruesi."
+
+#: includes/admin/views/view-html-settings.php:27
+msgid "Your settings have been saved."
+msgstr "Rregullimet tuaja u ruajtën."
+
+#: includes/admin/views/view-html-settings.php:37
+msgid "MailPoet Gravity Forms Add-on Settings"
+msgstr "Rregullime për shtesën Formularë Gravity për MailPoet"
+
+#: includes/admin/views/view-html-settings.php:39
+msgid "This setting is used only if you are using single checkbox option in the \"MailPoet\" field settings of the form editor."
+msgstr "Ky rregullim përdoret vetëm nëse përdorni mundësitë e kutizave njëshe te rregullimet për zërin \"MailPoet\" të përpunuesit të formularëve."
+
+#: includes/admin/views/view-html-settings.php:40
+msgid "Simply select the lists you want your subscribers to subscribe to and press \"Save Settings\"."
+msgstr "Thjesht përzgjidhni listat te të cilat doni që të pajtohen përdoruesit tuaj dhe shtypni \"Ruaji Rregullimet\"."
+
+#: includes/admin/views/view-html-settings.php:63
+msgid "Save Settings"
+msgstr "Ruaji Rregullimet"
+
+#: includes/mailpoet-gravity-forms-core-functions.php:32
+#: includes/mailpoet-gravity-forms-core-functions.php:47
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Po, pajtomëni te buletini juaj."
+
+#: mailpoet-gravity-forms-addon.php:229
+msgid "Settings"
+msgstr "Rregullime"
+
+#: mailpoet-gravity-forms-addon.php:289
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Na ndjeni, <strong>%s</strong> lyp WordPress-in "
+
+#: mailpoet-gravity-forms-addon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms. Activate it now or <a href=\"%s\" target=\"_blank\">purchase it today!</a>"
+msgstr "Na ndjeni, <strong>%s</strong> lyp Gravity Forms. Aktivizojeni ose <a href=\"%s\" target=\"_blank\">blijeni që tani!</a>"
+
+#: mailpoet-gravity-forms-addon.php:311
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms "
+msgstr "Na ndjeni, <strong>%s</strong> lyp Gravity Forms"
+
+#: mailpoet-gravity-forms-addon.php:322
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Na ndjeni, që kjo shtojcë të funksionojë, <strong>%s</strong> lyp MailPoet Newsletters. Ju lutemi, së pari instaloni dhe aktivizoni <strong><a href=\"%s\">MailPoet Newsletters</a></strong>."
