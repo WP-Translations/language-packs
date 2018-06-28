@@ -1,0 +1,5988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Frode Håkonsen <hakonzen@gmail.com>\n"
+"Language-Team: Norwegian Bokmål (Norway) (http://www.transifex.com/wysija/wysija/language/nb_NO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2018-04-10 14:45:04\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Legg en avmerkingsboks på betalingssiden slik kundene kan abonnere på ditt MailPoet nyhetsbrev."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Velg hvilke emailer en ny kunde får automatisk, basert på hvilket produkt de akkurat har kjøpt. Dette er en Premium add-on for WooCommerce."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Legg til nye felt til finne former så besøkende kan abbonere på dine MailPoet nyhetsbrev."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Legg til en avkryssningsboks i registrerings formen til denne pluginen slik ar nte brukere kan registrere seg på en liste du velger."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Legg til en avkryssningsboks i dine former, for å belge hvilken liste brukeren blir lagt til i."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Stopp falske signaturer av roboter med WangGuard, en gratis hvitelistings tjeneste og utvidelse."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Om du har dette problemet, da er dette din løsning. Helt gratis også."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall er en premium utvidelse for å legge innhold bak en \"betalings-vegg\". Dette tillegget administrerer dine kunders kunder medlemsskap."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Legg et skjema i top- eller bunnbar av siden din, eller i en fin boks i innleggende dine med GetConversion's gratis utvidelse. Koble den til MailPoet med dette tillegget.<br/></br>Få 30 prosent avslag på premium versjonen av deres tillegg ved å klikke <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">her</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Prøv selv. Vi ble imponert av de gratis versjonene."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Legg til en tegningsblankett i et popup-vindu, footer eller skyv-inn for å legge til abonnenter med denne Premium utvidelsen."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Forfatterne har gjort en ganske fantastisk jobb."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Permium brukere sparer 20% med denne kupongen: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Denne Permium pluginen tilatter deg å legge til en MailPoet registreingsskjema i et popup-vindu."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Du må kunne CSS for å endre designet til å matche din egen stil."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Premium brukere sparer opptil 25% med denne kupongen: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Denne Premium utvidelsen gir deg lov til å legge til MailPoets skjemaer mange plasser, også i Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Svært kraftig, om ikke quirky brukergrensesnitt."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Denne gratis utvidelsen tillater deg til å designe og legge et skjema i begynnelsen eller slutten av et innlegg."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Det er gratis, og har bevist seg å være populært hos våre brukere."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "Exit popups (melding som kommer når man skal forlate en nettside) er nå mye brukt for å øke effekten av markedføring, innmeldinger og salg. wBounce legger til en slik funksjon på ditt nettsted."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "Exit popup vil vises når muspekeren flyttes utenfor nettleser vinduet."
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Denne gratis utvidelsen tillater deg til å legge til et skjema i en popup, det er det."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Dette er gratisversjonen av en mer kraftig Premium versjon."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Er din nye side ikke ennå lansert? Legg til en \"kommer snart\"-side med et skjema for å fange opp e-poster med denne Premium utvidelsen."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "En god designet utvideslse for en enkel idè."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Premium brukere sparer 20% med denne kupongen: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Denne Premium utvidelsen tillater deg til å legge til et pent skjema rett ved siden av \"header\"-posisjonen. Ingenting mer, ingenting mindre."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "En sjekkboks er lagt til som et alternativ for dine kunder for å registrere seg i ditt nyhetsbrev, mens de kjøper noe fra nettbutikken."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Lag enkelt nyhetsbrev registreringsskjema for dine MailPoet mailingslister ved bruk av Ninja Forms, som er kraftig og fleksibelt."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Dette tillegget anbefales som et alternativt til WPML for flerspråkelige nettsteder. Tillegget er enkelt, brukervennlig og har liten innvirkning på nettstedets kjerne. Hvert språk kjøres som et selvstendig nettsted i Wordpress Multisite installasjonen. Fungerer sammen med MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "var ikke aktivert fordi den krever <strong><a href=\"%s\">%s</a></strong> å være installert og aktiv først."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Skjul denne beskjeden."
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "har blitt aktivert."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "har blitt deaktivert."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet sier:"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Webside"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Kjøp"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Installert fra WordPress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktiver"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Konfigurer"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Finner du ikke tillegget du leter etter? <a href=\"%s\">Send inn</a> via vår kontaktskjema."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Feltet inneholder ingen verdier"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "År"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Månde"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Dag"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Ingen tilgang til CSV-fil. Sjekk rettighetene til mappen \"%1$s\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Det ser ut til å være et problem med listen du prøver å importere."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Feil ved innsetting av epost."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Feil ved innsetting av liste."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Listen du har limt inn er for stor for nettleseren. <strong>Last opp filen</strong> istedefor."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Dataene du prøver å importere viser seg å ikke være i CSV format (Comma Separated Values)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Les mer"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "Den første linjen av en CSV fil skal være kolonneoverskrifter: \"e-post\",\"etternavn\",\"fornavn\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr ""
+"Den andre linjen i en CSV fil skal være faktiske verdier:\n"
+"\"joeeg@example.com\",\"Average\",\"Joe\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "De to første linjene i filen du lastet opp er følgende:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Linjen er tom"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Sjekk igjen det du prøver å importere."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Vi kunne ikke finne noen gyldige adresser i de 10 første radene."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Importfilen er ugyldig."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "Hei! %1$s har en oppdatering (versjon %2$s), <a href=\"%3$s\">klikk her for å oppdatere</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Oppdatér denne nettsiden."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Tilbake til MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Oppdater utvidelse"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Bruk en gyldig e-post fra ditt domene, f.eks. <strong>info@%s</strong> for å unngå spamfilteret, eller å bli blokkert."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Om du ønsker å bruke en Gmail adresse, trenger du å sende med Gmail. Sjekk <a id=\"tip-send-with\" href=\"%s\"> sendingsinnstillinger</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Takk!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Temaet du valgte kunne ikke lastes inn."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "E-postadressen din kunne ikke lagres"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "E-postadressen din har blitt lagret"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Stiler kunne ikke lagres"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Stiler har blitt lagret"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Bilde har blitt slettet"
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Valg av bilde er ikke lagret."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Valg av bilde er lagret."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Vennligst velg en artikkel."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Ingen innlegg passer søket."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Forhåndsvisningen av e-post har blitt sendt til  %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Vi klarte ikke koble til API-et, siden kan være nede. Vennligst forsøk igjen senere."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Din forespørsel feilet"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Forespørsel vellykket"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Koblet til  %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Det er  %1$s meldinger i e-postboksen din"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Det er ingen automatisk returnerte meldinger å behandle akkurat nå"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Du må kanskje slå PÅ alternativet <i>Selv-signerte-sertifikater</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Er du sikker på at du valgte riktig port? Du kan la feltet være tomt hvis du ikke vet hva du skal skrive"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Du trenger å velge en type for dette feltet"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Du trenger å spesifisere et navn for dette feltet"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Dette feltet eksisterer ikke"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Lagret. Endringene er allerede aktive i din utvidelse."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Lagret! Legg til skjemaet til [link_widget]en widget[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Skjemaet ditt kunne ikke lagres."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Skjemaet ditt har blitt lagret."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Bruker har blitt satt inn."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Bruker har ikke blitt satt inn."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Bruker har blitt oppdatert."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Bruker har ikke blitt oppdatert."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Skriv inn abonnement skjema"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Skaff deg premium nå"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Yikes. Du er over grensen på 2000 abonnenter for gratisversjonen av MailPoet (%1$s i total). Sending er skrudd av. Vennligst oppgrader din versjon til [link]premium[/link] for å sende uten grenser."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Yikes! Du er nær grensen av %1$s abonnenter for MailPoet sin gratis versjon. Oppgrader til [link]Premium[/link] for å sende uten grenser, og mye mer."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elementer slettet"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Element har blitt slettet"
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Last opp"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Bilder til nyhetsbrev"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "Bilder til Wordpressinlegg"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Forespørselen feilet av sikkerhetsgrunner."
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Sikkerhetsproblem"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Velkommen side!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Innstaller MailPoet Nyhetsbrev Premium Utvidelse"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "En helt ny MailPoet. La moroa begynne."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Hold deg oppdatert! Abonner på vårt nyhetsbrev"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Vi sender ut månedlig nyhetsbrev med følgende innhold:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Viktig oppdatering tilgjengelig for tillegget"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "Kuponger"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "Tips for deg, eller dine kunder"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Hva vi jobber med"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "Nyheter fra oss, teamet"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Første gang? Se hvordan det virker"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Du kan starte med å se denne videoen av en av våre brukere."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Del dine data"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Vi vet for lite om våre brukere. Vi ser etter [link]anonyme data[/link] for å bygge en bedre utvidelse. [ajaxlink]Ja, regn med meg![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Vi vet for lite om våre brukere. Vi ser etter [link]anonyme data[/link] for å bygge en bedre utvidelse. Takk, du deler allerede!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Hva Du Kan Gjøre"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minutters nybegynner manual."
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "I MailPoet medfølger et eksempel på nyhetsbrev. Du ser det når du lukker denne velkomstsiden. Endre den for å begynne å leke med den."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Vel bekomme. Eller la oss hjelpe deg."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Vi har dokumentasjon og et billett system på [link]support.mailpoet.com[/link]. Vi svarer innen 24 timer."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Hva er nytt?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Premiumlisens for din side er gyldig"
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Det finnes ingen premiumlisens for din side. Kjøp det [link]here[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Køen er tom!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Steg  %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Legg inn [newsletter:total] for å vise antall innlegg, [newsletter:post_title] for å vise tittelen for siste innlegg & [newsletter:number] for å vise utgavenummer."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Det første dine abonnenter ser. Vær kreativ!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Første steg: hovedinformasjon"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "en gang om dagen …"
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "ukentlig på …"
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "månedlig den …"
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "månedlig hver …"
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "omgående."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "i hvilken somhelst WordPress rolle"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Når nytt innhold er lagt til..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Når noen oppretter et abonnement på lista"
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Når en ny bruker av WordPress legges til siden..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "time(r) etter."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "dag(er) etter."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "uke(r) etter."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "omgående"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "time(r)"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "dag(er)"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "uke(r)"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Lagrer nyhetsbrev …"
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Feil oppsto under lagring av nyhetsbrev …"
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Nyhetsbrev har blitt lagret."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Sender forhåndsvisning …"
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Resultat av søppelposttest"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Andre steg: \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Utsendelse er nå pauset."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Utsendelse har blitt aktivert."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopi av"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Nyhetsbrevet har blitt duplisert."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s e-poster hvert %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Sendingsinstilling ([settings]) kan ikke sendes raskt til [number] abonnenter. Du må forvente enn viss forsinkelse. [link]Les mer[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Siste steg: siste detaljer"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Velg en dato"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Lagre og lukk"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Send senere"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Planlagt"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktiver nå"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Send"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Du er i ferd med å sende dette nyhetbrevet. Vennligst bekreft"
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Er du sikker på du vil ignorere %1$s abonnenter av %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Nyhetsbrev slettet."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Nyhetsbrev slettet."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Nyhetsbrev kan ikke slettes."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Les mer."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Skrevet av:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategorier:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Siste innhold er allerede sendt."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Innleggene nedenfor ble lagt til med widget %sAutomatisk siste innhold%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sFor å redigere%s, hold musen over for å se rediger-knappen under."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Steg 1:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "Hei, klikk på denne teksten!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Bare klikk på denne teksten for å redigere."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Steg 2:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "lek med dette bildet"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Plassér muspilen over bildet til venstre."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Steg 3:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "slipp innhold her"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Dra og slipp %1$stekst, innlegg, skillevegger.%2$s Se på høyresiden!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Du kan også %1$ssosiale bokmerker%2$s som desse:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Steg 4:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "og bunnteksten?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Endre footers innlegg i MailPoets %1$sInnstillinger%2$s side."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Nyhetsbrev opprettet."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Informasjon mangler."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Din Google Kampanje kan bare innholde latin bokstaver, nummer, mellomrom og bindestrek!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Nyhetsbrev har blitt planlagt for utsendelse"
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Nyhetsbrev har blitt lagret som et utkast."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Nyhetsbrev"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Vennligst velg et nyhetsbrev."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Slette dette nyhetsbrevet for alltid?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Slette desse nyhetsbrevene for alltid?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Sender e-poster …"
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Vis nyhetsbrev"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Nyhetsbrevet vil bli deaktivert. Du må aktivere det på nytt når du er ferdig med å redigere. Vil du fortsette?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Listen har blitt slettet."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Sending opphevet."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Det er ingen nyhetsbrev"
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Statistikk:  %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Din forespørsel kan ikke motta noen abonnenter. Du må endre dine filtre!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "Del av  %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Listen er laget basert på et nyhetsbrevsegment."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "En ny liste \"%1$s\" har blitt lagret av dette segmentet."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Segmentet har blitt utmeldt fra alle mailing lister."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Segmentet har blitt fjernet fra køen av disse nyhetsbrevene."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Segmentet har blitt avmeldt fra listen \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Segmentet kan ikke avmeldes fra en [IMPORT] liste."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Post utvalg"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Vis og sett inn innstillinger"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Tilbake til valg"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Henter resultat..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Setter inn valge innlett..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "sett inn valgte"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Opplastingsfeil, fil %1$s er for stor! (MAKS:%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Installér tema"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Detaljer & PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Tilbake"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Last ned"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Installér på nytt"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Photoshop fil tilgjengelig som en del av [link]Premium funksjoner[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Vis alle tema"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s stemmer)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Din stemmer har blitt lagret."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Din stemme kunne ikke bli lagret."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Se opp! Hvis du installerer dette temaet på nytt, vil alle filer som er i mappen:/wp-content/uploads/wysija/themes/%1$s bli overskrevet. Er du sikker på at du vil installere på nytt?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Vis alle temaer av %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Last ned original Photoshop fil"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Last ned som .zip"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Vis forfatters nettside"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Gjennomsnittlig vurdering: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Min vurdering: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Nedlastinger: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Knagger: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Sist oppdatert: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Inkluderer: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Bokmerkeutvalg"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Velg skillestrek"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Legg til / Endre gruppe av innlegg"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Vis visningsinnstillinger"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Skjul visningsinnstillinger"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Bildeparametre"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Slette bildet i alle nyhetsbrev?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Dette bildet er muligens i en artikkel. Slette uansett?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Du har lagt til for mange filer i køen."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s overskrider maksimum opplastingsstørrelse for denne siden."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Filen er tom. Vennligst prøv en annen."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Denne filtypen er ikke lov å bruke. Vennligst prøv en annen."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Denne filtypen er ikke et bilde. Vennligst prøv en annen."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Minne overskredet. Vennligst prøv en mindre fil."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Dette er større enn tillatt maksimal størrelse. Vennligst prøv en annen."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "En feil oppstod ved opplasting. Vennligst prøv igjen senere."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Det oppstod en konfigurasjonfeil. Vennligst kontakt server administrator."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Du kan bare laste opp 1 fil."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP feil."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Feil ved opplasting."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Prøv å laste opp denne filen med %1$snettleser opplasteren%2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s overstiger maksimal størrelse som kan lastes opp gjennom din nettleser."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO feil."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Sikkerhetsfeil"
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Fil avbrutt."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Opplasting stoppet."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Avvis"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Crunching&hellip;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "flyttet til søppelkurv."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "Opplasting av &#8220;%s&#8221; feilet"
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d fil(er) er lastet opp."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Lagret."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Nyhetsbrevet eksisterer ikke."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Send en test epost"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Bounce-håndtering tilkoblingstest"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Bounce-håndtering igangsatt"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Abonnenten må nå aktivere sitt abonnement via epost for å motta nyhetsbrevet. Dette er anbefalt."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Ubekreftede abonnenter vil motta ditt nyhetsbrev uten å måtte aktiveres sitt abonnement."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Start bounce-håndtering nå!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Når du setter opp bounce-systemet, må du ha en annen adresse for bounce e-post og videresendingsadresse"
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Er du sikker på at du vil slette dette skjemaet?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Du er nesten der. Klikk denne [link]link[/link] for å aktivere lisensen du nettopp har kjøpt."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Installer MailPoet på nytt?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Nytt skjema"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Dette skjemaet eksisterer ikke"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopier"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Skjemaet \"%1$s\" har blitt lagret."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Dette skjemaet er allerede slettet."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Skjemaet med navnet \"%1$s\" er slettet."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Nytt skjema"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Skjemaet eksisterer ikke."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Instillinger for Widget"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Allerede betalt? Klikk her for å aktivere"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Sjekker lisens"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Siste 7 dager"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Siste måned"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Siste 30 dager"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Siste 90 dager"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Siste 180 dager"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Siste 365 dager"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Tilpassede datoer"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Abonnent har blitt lagret."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Abonnenter per side:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Velg minst 1 abonnent!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Ops! Finner ingen abonnenter."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Abonnent har ikke blitt lagret."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Abonnent er endret. [link]Rediger på nytt[/link]"
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Abonnent har ikke blitt endret"
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s abonnenter har blitt lagt til \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s abonnenter har blitt lagt til \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s abonnenter har blitt flyttet til \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s abonnenter har blitt flyttet til \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s abonnenter har blitt fjernet fra alle eksisterende lister."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s abonnenter har blitt fjernet fra alle eksisterende lister."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s abonnenter har blitt fjernet fra \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s abonnenter har blitt fjernet fra \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s abonnenter er bekreftet."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s abonnenter er bekreftet."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Ingen epost er sendt."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "En e-post har blitt sendt."
+msgstr[1] "%d e-poster har blitt sent til ubekreftede abonnenter."
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Rediger lister"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Redigerer liste %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Hva med en ny liste?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Listen \"%1$s\" er duplisert."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Legg til abonnent"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Ingen abonnent funnet. Abonnenten er mest sannynlig slettet."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Redigere"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Listen \"%1$s\" er slettet."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Listen finnes ikke eller kan ikke slettes."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Listen har blitt oppdatert."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Din helt nye liste venter på sin første abonnent."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Import fra utvidelse %1$s er fullført."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Import fra utvidelse %1$s ar avbrutt."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Importer abonnenter fra utvidelse"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Det er ingen utvidelse å importere fra."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Importer abonnenter"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Den valgte verdien er allerede koblet mot en annen kolonne."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Kan du bekrefte at denne kolonnen samsvarer med dette feltet?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "som du har limt inn"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Avsluttet abonnement"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Ubekreftet"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Abonnert"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Du må velge minst 1 liste."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s abonnenter lagt til %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s e-postadresser er oppført mer enn én gang i: %2$s"
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s e-postadresser er ikke gyldige: %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Eksporter abonnenter"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s abonnenter er slettet."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s abonnent er slettet."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s abonnenter ble eksportert. Last ned den eksporterte filen [link]her[/link]"
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Eksporterer %1$s abonnenter"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Side eksisterer ikke."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Vennligst verifiser din lenke til denne siden."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Du er avmeldt!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Takk, du vil ikke motta flere eposter fra oss!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Oops! Du har allerede meldt avbud."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Kanskje dette var feil? [link]Klikk for å angre[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Du er påmeldt!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Rediger ditt abonnement"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Rediger din abonnement profile: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "Epost %1$s finnes allerede."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Nyhetsbrev profil er blitt oppdatert."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Abonnering uten JavaScript er skrudd av."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Ser ut som din widget er slettet fra WordPress' [link]widgets område[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Laster..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "En feil oppstod. [link]Vis detaljer.[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Vis flere detaljer.[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "En gang hvert minutt."
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "En gang per 2 minutter."
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "En gang per 5 minutter."
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "En gang per 10 minutter."
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "En gang per 15 minutter."
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "En gang per 30 minutter."
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "En gang per 2 timer."
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "En gang per uken"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "En gang per 28 dag"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet-side"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "Din versjon av PHP er utdatert. Hvis du ikke oppgraderer snart, vil nyere versjoner av MailPoet slutte å fungere."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]Les om hvordan du kan oppgradere din versjon av PHP.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Forkast[/link] denne beskjeden."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Feil ved validering av feltene"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Felter \"%1$s\" er påkrevde \"%2$s\"."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Felt \"%1$s\" må være en gyldig epost."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Det finnes ingen statistikk å laste inn!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Ditt serveroppsett tillater oss ikke å fullføre innstallasjonen av MailPoet!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Les på nettet."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Klikk her for å se media."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Sortér på type"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Innlegg"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Sider"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Kategorier og stikkord"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtrer på status"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Du må aktivere MailPoet Premium utvidelsen."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Bekreft aktivering av MailPoet Premium utvidelse?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktiver MailPoet Premium versjon"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Gratulerer, din Premium lisens er aktivert. Et siste steg..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Bekreft aktivering av MailPoet Premium utvidelse?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Installerer MailPoet Premium versjon"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Last ned Premium utvidelsen."
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Det virker ikke alltid slik vi vil, gjør det vel? Vi har en [link]egen supportside[/link] med dokumentasjon og et helpdesksystem."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet versjon:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Abonnenter"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Modul"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Statistikk"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Få hjelp!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Skaff Premium!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Kontakt kundeservice"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Legg til din [stars] på [link}wordpress.org[/link] og behold denne utvidelsen i hovedsak gratis."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet versjon:"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Vennligst gjør et valg først!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Sletting av en liste vil ikke slette noen av abonnentene."
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Vil du installere den versjonen?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Ingen resultater ble funnet"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Vennligst skriv inn <%= chars %> flere tegn<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Vennligst slett <%= chars %> tegn<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Du kan kun plukke ut <%= chars %> valg<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Laster inn flere resultater..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Søker..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Neste &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; Forrige"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Bilde"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "av"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Lukk"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Denne funksjonen krever iframes. Du har iframes deaktivert eller nettleseren din støtter ikke disse."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Bouncehåndtering"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Emne"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Vi mottok %1$s meldinger fra brukeren %2$s"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Handlingene blir utført etter %1$s meldinger"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Det er ingen meldinger"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Dette virker fint! Du kan nå starte å sende ut eposter."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Vellykket oppsett! Du kan nå sende med Gmail."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Ser du etter en raskere måte å sende på? [link]Les mer[/link]  SMTP."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] fungerer med MailPoet"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Test eposten er nå sendt til %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "PHP Extension OpenSSL er ikke aktivert på serveren din. Be din leverandør av netthotell om å aktivere den hvis du ønsker å bruke en SSL-tilkobling."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Bounce e-postadresse \"%1$s\" kan ha forårsaket problemet. La feltet stå tomt, og prøv igjen."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Du har angitt et SMTP-passord, men du trenger ingen godkjenning, det kan være lurt å slå SMTP-autentisering PÅ."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Det kan være at din server ikke har mail server installert. For å sjekke dette kan du logge deg ut å klikke \"Glemt passord\". Fikk du resett passord epost fra din wordpress nå?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Lagrer skjema..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Lagre"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Rediger visning"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Du må velge minst 1 liste."
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Dine abonnenter trenge i det minste 2 muligheter å velge mellom"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Du må angi en verdi for avkrysningsboksen din"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Legge til nytt felt"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Rediger egendefinert felt"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Er du sikker på at du ønsker å slette dette egendefinerte feltet?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "januar"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "februar"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "mars"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "april"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "mai"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "juni"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "juli"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "august"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "september"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "oktober"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "november"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "desember"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Sjekk innboksen din eller søppelbøtta nå for å bekrefte ditt abonnement."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "E-post"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Send inn"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Abonner!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Deler"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Fornavn"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Etternavn"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Valg av lister"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Velg liste(r):"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Tilfeldig tekst eller HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Abonnér på vårt nyhetsbrev og bli en av våre [total_subscribers] abonnenter."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Legge til nytt felt"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Endre felt"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Slett felt"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "Abonnement på MailPoet"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "hvert minutt"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "hvert 2 minutt"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "hvert 5 minutt"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "hvert 10 minutt"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "hvert 15 minutt"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "hvert 30 minutt"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "hver time"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "hver 2 time"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Visuell"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Din server støtter ikke ekstern utveksling."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Ta kontakt med din administrator for å endre dette. Det skal være mulig å konfigurere."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Din server kan ikke kjøre MailPoet."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Din server mangler en eller flere viktige PHP funksjoner for å kunne kjøre: %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Vennligst kontakt din hosting administrator for å ordne dette."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Min første liste"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Listen ble opprettet automatisk da MailPoet ble installert."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5-minutters brukerveiledning"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Disse tabellene skulle ikke vært opprettet ved installering: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Vennligst skriv fornavn"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Vennligst skriv etternavn"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Abonnement bekreftelse"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Abonner på vårt nyhetsbrev"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Ditt nettsted ser ikke ut til å ha en lisens! Logg inn på din [link]account manager[/link] for å legge til en lisens for dette nettstedet."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Det er ingen lisense for \"%1$s\".Er du Premium så legg til domene til  [link]din konto[/link]."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "Fornye nå."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Din Premium lisens er utløpt."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "Du kan legge dette domene til [link]din konto[/link]."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Lisensen din tillater ikke flere domener. Oppgrader fra din [link]account manager[/link]."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Få [link]MailPoet Premium[/link] til å se lenken."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "Du kan ikke bruke DKIM signatur alternativ..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "Eposten mangler emne eller innhold."
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Feil ved sending av epost <b><i>%s</i></b> to <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Sending til <b><i>%s</i></b> var vellykket."
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "E-post id-en %s er ikke publisert"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Abonnent ikke funnet : <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr " Abonnent <b><i>%s</i></b> er ikke bekreftet"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "Avslutt abonnement"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "Ikke levert"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "Ikke levert"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "uåpnet"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "åpnet"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "klikket"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "avmeldt"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Dagens statistikk"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Idag har du sendt %1$s eposter"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s av dem som var %2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Her er liste over nyhetsbrev som ikke kunne leveres"
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Velkommen, din MailPoet nyhetsbrev utvidelse"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Daglig nyhetsbrev statistikk"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Nyhetsbrev Pro (av Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "Nyhetsbrev"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "WordPress brukere"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s's importeringsliste"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Listen ble opprettet automatisk under importering av utvidelsens abonnenter : \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" importert fra %1$s"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Listen eksisterte i \"%1$s\" og har blitt importert automatisk."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "Det ligger %1$s e-post(er) på vent"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Epost vil bli sent til %1$s at %2$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Utsendelse"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Totalt i utsending"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Neste forsøk %s minutter."
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Prosessen blir oppdatert for å unngå tidsbegrensning."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Prosessen blir oppdatert for å unngå et mulig tap av tilkobling."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Sending av nyhetsbrev pågår. Ditt siste nyhetsbrev vil bli sent etterpå."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Utsendelesen stoppet fordi det oppsto for mange feil."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Vi har beholdt alle e-poster som ikke ble levert i kø, slik at du kan gjenoppta utsendingen senere."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Vennligst bekreft dine epost innstillinger og pass på at du sender en test epost."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Dersom du har sendt ut masse eposter, kan disse feilene være server Begrensninger."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Det kan se ut som din server nekter å sende flere eposter."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Innboks Full"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Dersom mailboksen er full"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Postkasse ikke tilgjengelig"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Når postkassen ikke er tilgjenglig"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Melding forsinket"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Når melding er forsinket"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Feilet permanent"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Når feilen er permanent"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Handling påkrevd"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Når du må bekrefte at du er et menneske, gå til:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Blokkert IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Når du er flagget som en spammer videresend bounce-meldingen til"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Når bounce er merkelig, og du ikke er sikker på hva du skal gjøre, videresend til:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Mappen \"%1$s\" er ikke skrivbar, vennligst endre tilgangsrettighetene til denne mappen, slik at MailPoet kan konfigurere seg skikkelig."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Les dokumentasjon"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "MySQL-brukeren du har opprettet på ditt WordPress nettsted (wp-config.php) har ikke nok rettigheter til å opprette MySQL tabeller. Vennligst endre denne brukeren selv eller ta kontakt med administrator av nettstedet ditt for å fullføre MailPoet installasjonen. mysql feil: (%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Overskrift"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Bunn"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Mappen \"%1$s\" er ikke skrivbar, vennligst endre tilgangsrettighetene til denne mappen, slik at Mailpoet kan konfigurere seg riktig."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Et tema som heter %1$s finnes allerede. For å overskrive det, merker den tilsvarende  boksen før opplasting."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Temaet %1$s har blitt installert på nettstedet ditt."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Vi kunne ikke installere temaet ditt. Det ser ut som det ikke er i riktig format."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Temaet %1$s har blitt slettet."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Temaet %1$s kunne ikke bli slettet."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s år"
+msgstr[1] "%1$s år"
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s uke"
+msgstr[1] "%1$s uker"
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s dag"
+msgstr[1] "%1$s dager"
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s time"
+msgstr[1] "%1$s timer"
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s minutt"
+msgstr[1] "%1$s minutter"
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s sekund"
+msgstr[1] "%1$s sekunder"
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "Mandag"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "Fredag"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "Søndag"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "Første"
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "Andre"
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "Tredje"
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "Siste"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "Nummer %1$s"
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet har blitt reinstallert ved hjelp av den samme versjonen. Innstillinger og data er slettet."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet kan ikke bli reinstallert fordi mappen <em>wp-content/uploads/wysija</em> må være skrivbar. Endre tillatelser og reinstaller."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet er avinstallert. Ditt nettsted er nå ryddet for MailPoet."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Oppdateringsprosedyre for MailPoet versjon \"%1$s\" feilet!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Tilfeldig tekst eller instruksjoner"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Eposten er ikke gyldig!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Abonnent eksisterer allerede. [link]Klikk for å redigere[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Oops! Du har allerede meldt deg på."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Beklager, vi kunne ikke legge deg til!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Ny abonnent til %1$s"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Hei,\n"
+"\n"
+"\n"
+"Abonnent %1$s har akkurat abonnert på liste '%2$s' \n"
+"\n"
+"\n"
+"Hilsen,\n"
+"\n"
+"MailPoet Utvidelsen"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "En mindre abonnet til %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Hei,\n"
+"\n"
+"Abonnent %1$s har akkurat meldt seg av listen '%2$s'\n"
+"\n"
+"Hilsen\n"
+"\n"
+"MailPoet Utvidelsen"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Liste \"%1$s\" har blitt synkronisert."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Listen eksisterer ikke eller kan ikke synkroniseres."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Side er ikke tilgjengelig."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Din bekreftelseslenke er utgått, vennligst abonnér igjen."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Du abonnerer nå på: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Takk, du vil nå motta nyheter fra oss!"
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Du har allerede meldt deg på: %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Du er allerede abonnent."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Legg til din logo here"
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Legg inn bilde til bunnteksten her."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Hvis du lar dette området stå tomt vil det ikke bli vist når du sender e-posten"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Klikk her for å legge til en tittel eller tekst."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Venstrejuster"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Midtstill"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Høyrejustert"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Legg til link / Alternativ tekst"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Fjern lenke"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Fjern bilde"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Fjern"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Rediger tekst"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Fjern tekst"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Tittel & Tekst"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Horisontal linje"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Tilpasset horisontal linje"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "WordPress post"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Tekst"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Se i nettleser\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Overskrift 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Overskrift 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Overskrift 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Lenker"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "Underlinje"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Bunntekst"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Bunn Bakgrunn"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Overskrift bakgrunn"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Velg Sosial Bokmerke"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Velg skillestrek"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Du er i ferd med å slette temaet : %1$s. Vil du virkelig gjøre det?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Legg til Link & Alternativ Tekst"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Huk av dette feltet hvis du vil ha gjennomsiktighet"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Sett inn dynamiske data om dine abonnenter, nyhetsbrev, dagens dato, etc..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Valg muligheter"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Rediger automatisk siste innhold"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Du kan bare legge til én widget når du designer en innleggsmelding sendt umiddelbart etter at et innlegg er publisert"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Forhåndsvis uten bilder"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Abonnent"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Fornavn"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Etternavn"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Epostadresse"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "WordPress bruker visningsnavn"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Total antall abonnenter"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Nyhetsbrev emne"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Innleggsvarslinger"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Totalt antall innlegg eller sider"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Tittel på siste innlegg"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Utgavenummer"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Dato"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Nummer for gjeldende dag i måneden"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Gjeldende dag i måneden i ordenstall, f.eks. 2., 3., etc."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Fullt navn på gjeldende dag"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Nummer på gjeldende måned"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Fullt navn på gjeldende måned"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Lenke for å avslutte abonnement"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Endre lenke til side for opprettelse av abonnement"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Vis i nettleser link"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Definerte felter"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Lagrer standard utseende..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Standard utseende lagret."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Angi som standard utseende."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Sett inn blokk her"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Planlagt"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Bekreft ditt abonnement til %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Hei,\n"
+"\n"
+"Gratulerer, du har meldt deg på nyhetsbrevet vårt!\n"
+"Du må aktivere ditt abonnement til listen(e) [lists_to_confirm] ved å klikke på linken under:\n"
+"\n"
+"[activation_link]Klikk her for å bekrefte ditt abonnement[/activation_link]\n"
+"\n"
+"Takk,\n"
+"Teamet\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Klarer du ikke å se eposten? [link]Se nyhetsbrevet i nettleseren din.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Ja, legg meg til i din epostliste"
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Hvem kan opprette nyhetsbrev?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Hvem kan administrere abonnenter?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Hvem kan forandre MailPoets instillinger?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Hvem kan se tema-fanen i visuell editor?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Hvem kan se utseende-fanen i visuell editor?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "tom"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "Fra <strong>eposten</strong> du har lagt inn (%1$s) er ikke en gyldig eposteadresse."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "Svar <strong>eposten</strong> du har lagt inn (%1$s) er ikke en gyldig epostadresse."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Dine innstillinger er lagret"
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Bruk 'view_in_browser_link' isteden."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Vis"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Ditt nyeste nyhetsbrev blir sendt."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Ditt automatiske nyhetsbrev har blitt aktivert."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Navn"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Sortering"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Det er ingen lister å sende til."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Status"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Opprettet"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Klikk her for å avslutte abonnementet"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Klikk for å abonnere"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP adresse"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Abonnent dato"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Kortkode for arkivside"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Lim inn denne kortkoden på siden for å vise en liste av publiserte nyhetsbrev."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Beklager, det er ingen nyhetsbrev å vise."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Forhåndsvis i ny fane"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Beklager, noe går galt når du aktiverer MailPoet cron."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Beklager, noe går galt når du deaktiverer Mailpoet cron."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Ikke send sent"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com kan besøke ditt nettsted hvert 15. minutt, akkurat som en \"cron jobb\", for å sørge for at e-posten blir sendt i tide."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Premium brukere får besøk hvert 5. minutt."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... eller [link]oppsett en cron jobb på din server[/link] i stedet."
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Magien skjer..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Venter på første besøk!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Vis detaljer."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Deaktiver den."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "Om noen få minutter, vil du se tidspunktet for vårt siste besøk her."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Opprettelse av cron-jobb på server"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Først, sett opp en kommando på serveren din for å besøke våre planlagte rutiner URL:"
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Her er et eksempel på en kommando for å sette opp din server."
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "For andre kommandoeksempler, sjekk [link]this article[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "For bedre kontroll, kan du sette opp en cron jobb per rutine"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Sender"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Bounce håndtering"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Daglig"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Ukentlig"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Månedsvis"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Nei, takk!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "Ok, jeg har satt det opp"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Venter på det første besøket av din cron jobb!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Sjekk nå."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Din cron jobb funker!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Beklager, noe gikk galt."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Vis oppsettinstruksjonene"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Tilbake til \"Oppsett\"-siden"
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Beklager, vi klarer ikke å koble til MailPoets server akkurat nå. Vi kan være nede eller du kan være bak en proxy eller brannmur."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Siste besøk var for noen sekunder siden."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Siste besøk var for %1$s minutter siden."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Siste besøk var for %1$s minutt siden."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Det er et problem! MailPoet.com kunne ikke å besøke nettstedet ditt, fordi:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Du er på et intranett. Du må sette opp din egen cron jobb."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "Din .htaccess, brannmur eller server blokkerer vår IP (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Sett opp [link]your own cron job[/link] i stedet."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "Eller spør din nettadministrator om hjelp!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Senderutine starter om:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Bounce håndtering rutine starter om:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Daglig rutine starter om:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Ukentlig rutine starter om:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Månedlig rutine starter om:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "I/R"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Aktivert!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "I kø"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Ikke sendt"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Ikke levert"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Sent"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Kun åpnet"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Åpnet og klikket"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Åpnet og avsluttet abonnement"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Sats"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Topp lenker"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Kobling"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Unike klikk"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Totale klikk"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Viser for øyeblikket"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Se abonnenter"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Dupliser"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Sendt den"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Lister"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "Fra"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Svar-til"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Bounce"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Abonnenter åpnet %1$s av %2$s eposter"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Abonnenter åpnet %1$s av %2$s epost"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Klikk"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Enheten"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Åpnet dato"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Utsendelsesdato"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Slett"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Bulk handling"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Svar"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Side %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "av %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Splitt abonnenter inn i %1$s sider."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Antall abonnenter per side:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Endre"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Legg til"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Alle nyhetsbrev"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Søk nyhetsbrev"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Tilbake"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Lag ny epost"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "... eller velg en i lista nedenfor og ta kopi av designet."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Alle"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Utkast"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Pauset"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Standard nyhetsbrev"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Automatiske nyhetsbrev"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Vis alle måneder"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Visninger pr liste"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filter"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Alle sendt"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "I kø"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Kunne ikke sende"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Uåpnet"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Åpnet"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Klikket"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Med dette segmentet"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Fjern fra køen"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Lag ny liste"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Meld avbud på alle lister"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Meld avbud fra liste: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Eksporter til CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Åpne, klikk, avsluttede"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Endret den"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Send den"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Sendt %1$s ut av %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s ut av %2$s sendt."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Planlagt til å bli sendt den %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Planlagt utsending den %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Statistikk"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Neste utsending om %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Neste utsendelse: %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Sendes daglig kl %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Sendes ukentlig på %1$s kl %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Sendes månedlig den %1$s kl %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Sendes månedlig den %1$s %2$s kl %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "hvis nytt innhold er lagt til"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pause"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Ikke aktiv."
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Fortsett"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Ikke sendt ennå."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Send omgående."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Sendes omgående når noen oppretter et abonnement på lista %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Sendes %2$s når noen oppretter et abonnement på lista %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "enhver rolle"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Sendes omgående når en ny bruker blir lagt til siden, med rolle som %1$s"
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Sendes %2$s etter at en ny bruker blir lagt til siden, med rolle som %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Utsendelse per hendelse"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Sendt til %1$s abonnenter."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Det siste partiet e-poster skal begynne å sende automatisk i løpet av de neste minuttene."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Tid som gjenstår: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s e-post(er) planlagt."
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Det siste partiet ble sendt for %1$s siden."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Ikke vent. Send nå."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "For å fortsette utsendelsen, [link]Skaff deg premium-versjonen nå![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "se lenkene med en [link]Premium lisens[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Søk mottakere"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Epost status"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Abonnent status"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Klikket på"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Abonnert på"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Se statistikk elle endre"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Hvilken type nyhetsbrev er dette?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Automatisk sendt..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Emne linje"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Dette er emnet i eposten. Vær kreativ siden dette er det første abonnenten får se."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr ""
+"Ops! Nettleseren din støttes kanskje ikke. Skaff deg siste versjon av  [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] eller [linksafari]Safari[/linksafari].\n"
+"Ser det ut til å virke? \n"
+"[link_ignore]Ignorér[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Lagre og reaktivér"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Neste steg"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Innhold"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Bilder"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Stil"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Temaer"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Dra widgetene under inn i nyhetsbrevet."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Legg til nyeste innhold automatisk"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Knapper for sosiale nettverk"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Legg til bilder"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Legg til flere temaer"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Vår verktøylinje lastes ikke opp?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konflikt"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Det må være en aktiv 3. parts utvidelse eller tema som bryter vårt grensesnitt. [link]Les mer.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Send forhåndsvisning"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "gå tilbake til steg 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Hvis du bekrefter temabryttet, vil det overstyre header, footer, skillelinjer og stiler"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Vær kreativ! Det er det første dine abonnenter ser. Frist dem til å åpne din e-post."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Når..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Abonnementslisten som vil bli benyttet i denne kampanjen."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Avsender"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Navn og e-postadresse til deg eller ditt firma"
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Svar-til navn og e-postadresse"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Når mottaker klikker \"svar\" er dette eposten som mottar."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Planlegg"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ignorer abonneneter"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Ikke send til eksisterende abonnenter, kun til nye."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Lagre som utkast og lukk"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "eller bare [link]gå tilbake til utseende[/link]"
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Lokal tid er <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Standard nyhetsbrev"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Automatisk nyhetsbrev"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Lagt til"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Adresse:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Alternativ tekst:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Denne teksten er synlig når epostklienter blokkerer bilder, som er mesteparten av tiden."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Last opp temaet (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Guide[/link] for å lage ditt eget tema."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Gratis"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "maks størrelse total opplastingsfil : %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Hvis et tema med samme navn eksisterer, overskriv det."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Søk"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "sett inn valgte"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Hvilket utdrag benyttes? [link]Les mer[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Vis..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "utdrag"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "hele innlegget"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "kun tittel"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Format på tittel"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "overskrift 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "overskrift 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "overskrift 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "vis som liste"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Tittelposisjon"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "i tekstblokk"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "over tekstblokk og bilde"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Sidestilling for tittel"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "venstre"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "senter"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "høyre"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Bildejustering"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "Alternative Venstre & Høyre"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "ingen bilde"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Bilde bredde"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Inkluder forfatter"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "nei"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "Over innhold"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "Under innhold"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Opprettet av:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Inkluder kategorier"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"les mer\" tekst"
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Partiets innleggingsmuligheter"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Sorter etter"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "nyeste"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "eldste"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Vis mellomrom mellom postene"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "ja"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Bakgrunnsfarge med alternativ"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Ferdig"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Innleggstype"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Maksimalt antall innlegg som vises"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "Og dessuten taksonomier..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Velg..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Størrelse:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "liten"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "medium"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Nettleseren på enheten kan ikke brukes til å laste opp filer. Du kan være i stand til å bruke <a href=\"http://wordpress.org/extend/mobile/\">innfødt app for enheten</a> i stedet."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Beklager, du har brukt din lagringskapasitet (% MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Tillat filer"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Slipp filer her"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "eller"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Velg filer"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Slett"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Maksimal størrelse på fil som lastes opp: %d%s"
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Nettleseren din begrenser opplasting av store filer med multifilopplasteren. Vennligst bruk nettleseropplasteren til filer over 100MB."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Vennligst oppdater Wordpress til seneste versjon for å få det seneste opplastingssystemet."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Velg file"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Avbryt opplasting"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Maksimal filstørrelse for opplasting: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Hvis du vil bruke alle funksjonene opplasteren tilbyr, som å laste opp flere filer samtidig, vennligst oppgrader til lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Denne fanen vil bli fylt med bilder fra dine nåværende og tidligere nyhetsbrev."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Denne fanen vil bli fylt med bilder fra dine WordPress-innlegg."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Velkommen til %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Takk! Gå videre til MailPoet."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "Du har vært en Mailpoet-bruker i %s."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Wow! Takk for at du har vært en del av fellesskapet vårt så lenge."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Du oppdaterte! Det er som å ha den nyeste dingsen, bare bedre!"
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Et raskt spørsmål ..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Abonner på vårt nyhetsbrev"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Behold denne utvidelsen i hovedsak gratis."
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Elsker kattunger?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "Vi elsker stjerner..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Hver gang en av våre brukere glemmer å skrive en anmeldelse, så dør en kattunge. Det er trist og knuser våre hjerter. [link]Legg til din anmeldelse[/link] og redd en kattunge i dag."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Følg oss og ikke gå glipp av noe!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Skjul!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Endringslogg"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Du har oppdatert til %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Hei! Vi har et raskt spørsmål til deg: "
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Dersom du bekrefter dette, Vil all MailPoet data bli slettet (nyhetsbrev, themes, statistikker, lister, abonnenter, etc.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Bekreft re-innstallering"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Denne funksjonen kan ikke virke fordi «Kommentarer»-funksjonen til JetPack-utvidelsen er aktivert."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Registrering er slått av på denne siden."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Abonnenter kan velge fra disse listene:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Jeg skal sette opp en cron-jobb på serveren min for utførelse etter hyppigheten jeg ønsker. Les om [link]oppsett av cron-jobb[/link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Bruk denne linken til din cron job: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Nei, takk! Jeg har nok besøkende på siden min. Besøkene vil utløse Mailpoets cron automatisk."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Jeg er en Premium bruker. Mailpoet.com skal sørge for at e-postene mine blir sendt i tide."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Hvis jeg vil kan jeg [link]lage enda en cron-jobb[/link] for å øke sendingshyppigheten. "
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Hvis jeg vil kan jeg [link]lage enda en cron-jobb[/link] for å øke hyppigheten."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Konfigurer din DNS ved å legge til en key/value record i TXT som vist nedenfor."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Les mer"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Nøkkel"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Verdi"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Du bruker en eldre DKIM key som ikke er støttet av Gmail."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Du må oppdatere din DNS hvis du oppgraderer."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Oppgrader DKIM key"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domene"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Roller og tillatelser"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Se alle"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Når noen oppretter et abonnement"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Når noen avslutter et abonnement"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Daglig oversikt over antall e-poster som er sendt"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Nei"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Ja"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Grunnleggende"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Skjema"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Bekreftelse på abonnement"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Send med..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Avansert"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Tillegg"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Lagre innstillinger"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Ditt firmas adresse"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Adressen blir lagt til i bunnen av nyhetsbrevet. Dette hjelper for å unngå søppelpostfiltre."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "Epost-varsling"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Skriv inn e-postadressene som skal motta varsler (separer med komma)."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Avsender"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Velg navn og e-postadresse til avsender."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Abonner i kommentarer"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Besøkende som kommenterer på et innlegg kan trykke i en avmerkingsboks for å abonnere."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Abonner i registreringsskjema"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "La brukere som registrerer seg på siden din abonnere på en liste du velger."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Lenke til nettleserversjon"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Vises øverst i nyhetsbrevene dine. Husk å inkludere lenketaggene før og etter teksten: [link]TEKST[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Teksten til avmeldingslenken"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Vises nederst i nyhetsbrevene dine. Teksten i dette feltet blir lenken abonnenter trykker for å melde seg av nyhetsbrevet."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Side for avslutting av abonnement"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Abonnenten videresendes til en side du velger etter at abonnementet er avsluttet."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Aktiver påmeldingsbekreftelse"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Hvis dette er aktivert sendes en e-post med en lenke som må trykkes før e-posten legges til en liste. Dette sørger for at kun de som vil abonnere gjør det."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Les mer."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "Epost emne"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "Epost innhold"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Husk å inkludere lenketaggene før og etter den delen av teksten som trykkes for å bekrefte abonnementet: [activation_link]TEKST[/activation_link]. <br><br>Valgfritt: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Side for bekreftelse av abonnement"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Abonnenten videresendes til en side du velger etter at abonnementet er bekreftet."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Nettverkets metode"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Metode satt av nettverksadmin."
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Ikke konfigurert!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Din nettside"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Den enkleste løsningen for små lister. Nettverten din setter en daglig e-postgrense."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "3 parti"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Send med en profesjonell SMTP-leverandør. Dette er et bra valg for både store og små lister. Vi har fremforhandlet tilbud med noen leverandører for deg."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Leveringsmetode"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Send noen e-poster for å teste hvilken metode som fungerer best med din server."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Denne metoden fungerer på 95 % av servere"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Denne metoden fungerer på 5 &#37; av servere"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail path"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Bruk samme metode som brukes av WP."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP hostname"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "f.eks: smtp.mydomain.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Logg inn"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Passord"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktiver dersom din SMTP port er blokkert."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP port"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Sikker tilkobling"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Autentisering"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "La dette valget være på Ja. Bare et fåtall SMTP-tjenester spør om at autentisering skrus av."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Testmetode"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Send en test epost"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Send..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Nettverten din har grenser. Vi foreslår 70 e-poster per time, for å være sikker. [link]Les mer[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "eposter"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Dette er fort!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Vi foreslår at du setter opp en cron-jobb. [link]Les mer[/link] på support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "API Key"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Du kan endre forhåndsvalgt svar-til-navn og -e-post for dine nyhetsbrev. Dette valget brukes også for de andre e-postene brukere mottar."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Ikke-levert e-post"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Til hvilken adresse skal alle ikke-leverte e-poster sendes? Få [link]Premium-versjonen[/link] for å håndtere disse automatisk."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Kjøp Premium versjon."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Abonnenter kan redigere profilen sin"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Legg til en lenke i bunnen av alle nyhetsbrev slik at abonnenter kan redigere profilen sin. [link]Se din egen profilside[/link]."
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Forhåndsvis side"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Profilside for abonnent"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Velg side som skal vise abonnentens profil."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Tillat HTML redigering"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Lar deg endre HTML i tekstblokker i den visuelle tekstredigereren."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Del anonyme data"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Del anonyme data og hjelp og å forbedre utvidelsen. [link]Les mer[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "andre"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "kunst"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "forretning"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "utdannelse"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "e-handel"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "mat"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "forsikring"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "regjering"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "helse og sport"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "produksjon"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "markedsføring og media"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "ideell organisasjon"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotografering"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "reise"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "eiendom"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "religion"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "teknologi"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "Bransje"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Velg din bransje."
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Kortkode for å vise antall abonnenter"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Lim inn denne kortkoden for å vise antall bekreftede abonnenter i innlegg eller på side."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Charset"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Vises firkanter eller merkelige tegn i e-postene dine? Velg kodifikasjonen for ditt språk."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Aktiver Mailpoets cron."
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Har ingen av e-postene i køen blitt sendt? Aktiver i så fall dette valget."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Debug-modus"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Aktiver denne for å se feil i Mailpoet. Hvis du kontakter brukerstøtte kan de be deg om å aktivere denne."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Do or do not. There is no try."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Nerdete valg"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Vis"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Gjem"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Vis"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Re-Installer på nytt"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Starte help på om igjen? Dette vil slette MailPoet og installere på nytt"
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Re-installer nå..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Velg din foretrukne konfigurasjon"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "En konfigurasjon for alle sider"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Tving alle sider til å sende med en unik FRA-e-postadresse. Du trenger bare å konfigurere den automatiske bounce-håndteringen (Premium), SPF og DKMI en gang."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Brukere kan fremdeles endre sin svar-til-adresse for nyhetsbrevet sitt. Sideadministratorer kan redigere utsendelsesmetode for hver side."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Konfigurer hver side manuelt"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Konfigurer SPF og DKIM uavhengig for hver side."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Konfigurasjon og tillatelser"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "La sideadministratorer endre utsendelsesmetode"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "La sideadministratorer deaktivere påmeldingsbekreftelse"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Nettverkets forhåndsvalgte utsendelsesmetode"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF og DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Ditt SPF-record"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "FRA-e-postadresse for sider som bruker denne metoden"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Lag nytt skjema"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Ingen liste spesifisert"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Brukervalg: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Rediger skjema"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Uff da! For å redigere et skjema må du ha minst én liste."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Legg til liste"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Rediger navn"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Liste over skjema"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Dette skjemaet legger abonnenter til disse listene:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Velg en liste"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Etter send inn..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "Vis melding"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "Gå til side"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Det er lett å legge skjemaet til i en [link]Widget[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] og [link_shortcode]kortkode[/link_shortcode] versjoner er også tilgjengelige."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Tekst-inndata"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Tekstområde"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Radioknapper"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Avmerkingsboks"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Velg"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Velg en felttype:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Feltets navn:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Legg til paragrafer automatisk"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Antall linjer:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "1 linje"
+msgstr[1] "%d linjer"
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Velg listen du vil legge til:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "År, måned, dag"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "År, måned"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Måned (januar, februar, …)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Datotype:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Legg til gjenstand"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Merkelapp:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Vis merkelapp inni inndata:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Rekkefølge:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Forhåndsvelg dagens dato:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Er dette feltet påkrevd?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Kun nummer"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Kun bokstaver"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Alfanumerisk"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Telefonnummer, (+,-,#,(,) og mellomrom tillatt)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Valider for:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Ingenting"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Den bedre opplevelsen med vår Premium"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "All statistikken din samlet på en plass"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Vis fullt skjermbilde"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Ha det gøy med å forbedre"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Se dine beste nyhetsbrev, abonnenter, lenker, lister og domener på en skjerm. Kan du slå dine tidligere nyhetsbrev?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Øk antall abonnenter"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Får skjemaet mitt i sidekolonnen flere abonnenter enn det nederst på siden? Det er på tide å finne ut."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Sammenlign tidligere og nåværende"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Gjør du det bedre nå enn for 3 måneder siden? Velg en tidsperiode for å avdekke endringer i resultatene dine."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Nå innboksen deres"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Få søppelpostvurderingen med 1 trykk mens du designer dine nyhetsbrev, takket være vår populære [link]mail-tester[/link]."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Søppelpostfiltre elsker DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Legg til en DKIM-signatur i dine nyhetsbrev for å øke leveringsraten. [link]Les oppsettsguiden[/link]."
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "La oss konfigurere det"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Vårt internasjonale og vennlige team hjelper deg med å optimalisere innstillingene dine, og sørger for at alt er i orden. Vi svarer på spørsmål innen 10 timer i gjennomsnitt. Ganske raskt!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatiser de kjedelige tingene"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "La utvidelsen fjerne <strong>ikke-leverte og ugyldige adresser</strong> automatisk. [link]Se guiden[/link]."
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Dessuten sjekker Mailpoet siden din hvert 15. minutt, <strong>akkurat som en «cron-jobb»</strong>, for å sørge for at e-postene dine blir sendt i tide. Ingen oppsett er involvert."
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "Prøv gratis i 30 dager"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "En bra måte å prøve Premium på. Ingen bindingstid, noensinne."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Kattungen er bare for å fylle tomrommet. Han ser sulten ut, ikke sant? Vi elsker kattunger."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Ikke lenger en begrensning på 2 000 abonnenter"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Gratisversjonen blokkerer utsendelse av nyhetsbrev når du har 2 000 bekreftede abonnenter. Med Premium fjernes denne grensen."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "Og mer "
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Finn ut hva som skjer med abonnentene dine når de besøker siden din, takket være Google Analytics campaign tracking"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Detaljert statistikk for hver abonnent"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Statistikk over trykte lenker for hvert nyhetsbrev"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Blogger"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Freelance"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Agency"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "Per år"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Én side"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Fire sider"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Ubegrenset"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Klar for Multisite"
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Kjøp nå"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Allerede betalt?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Har du et kjøpsspørsmål? [link]Kontakt oss[/link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Overvåk alt med mer statistikk"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Ser du etter svar? Hvorfor en bestemt kampanje fungerte så bra? Hvilket påmeldingsskjema er mest effektivt? Få et klart bilde med vår helt nye statistikkoversikt! [link]Få tilgang med Premium[/link]."
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Hold orden i e-postlisten din automatisk"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Send som en profesjonell og behold din servers høye utsendelsesrykte. Takket være vårt avanserte verktøy kan du endelig unngå utsendelser til gamle eller ugyldige e-postadresser. [link]Få tilgang med Premium[/link]."
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Send med en høyere hyppighet"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Visste du at det er bedre å sende færre e-poster med en høyere hyppighet? Få Premium, og vi pinger siden din hvert 15. minutt for å sørge for at e-postene dine sendes jevnt med denne hyppigheten. [link]Send bedre med Premium[/link]."
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Glem grenser"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Fjern grensen på 2 000 abonnenter i gratisversjonen, og send til så mange abonnenter du vil. [link]Bli kvitt grensen[/link]!"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Undersøk dine beste abonnenter"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Finn ut hvilke lenker som er de beste i hvert nyhetsbrev. Se hvilke abonnenter som er dine størst fans, og få avanserte detaljer om dem. [link]Få mer informasjon med Premium[/link]."
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Få raskere brukerstøtte"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Gå forbi køen, direkte til vår prioritetsinnboks. [link]Få raskere hjelp med Premium[/link]."
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Få flere temaer"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Er du ikke så flink til å finne passende farger? Vi samarbeider med flinke designere for å kunne tilby deg massevis av temaer, og de nyeste er kun for Premium-kunder.[link]Få flere temaer med Premium[/link]."
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Spor leserne dine inni Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Bekreft hva abonnentene dine gjør når de besøker siden din, og forbedre brukerlojalitetsraten. [link]Spor leserne dine inni Google Analytics med Premium[/link]."
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "Prøv gratis i 30 dager"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Er du fremdeles usikker på om produktet eller teamet vårt på 9 holder mål? Slapp av, for vi gir deg 30 dager til å bestemme deg. Du får pengene tilbake hvis du ikke er fornøyd. [link]Prøv Premium i 30 dager[/link]."
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Vær produktiv takket være Premium!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Vi tilbyr 3 forskjellige lisenser for å tilpasse oss dine behov:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "For %s per år får du Premium på 1 side."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Få det nå"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Freelancer"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "For %s per år får du Premium på 4 sider."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "For %s per år får du ubegrenset bruk av Premium."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Les våre enkle [link]brukervilkår[/link]."
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Statistikkoversikt"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Til"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Har du en tilbakemelding angående denne statistikken? [link]Kontakt oss[/link] direkte og la oss få vite."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Lister og Abonnenter"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Søk abonnent"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Tilbake til liste"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Rediger liste"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Importer"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Eksporter"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "U-listet"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Aldri åpnet eller trykket"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Vil du slette denne abonnenten for alltid?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Vil du slette disse abonnentene for alltid?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Flytt til liste"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Legg til liste"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Fjern fra liste"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Fjern fra alle lister"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Slett abonnenter"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Bekreft ubekreftede abonnenter"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Send påmeldingsbekreftelse på ny"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Se alle lister"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Abonnenter i ingen lister"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Sist åpnet"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Siste trykk"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Alle abonnenter på siden er valgt."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Velg alle %1$s abonnenter."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Alle %1$s abonnenter er valgt."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Fjern valg"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Liste over hvor abonnenter abonnerer."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Velg en liste"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Format"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV fil"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel for Windows"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Eksporter bare bekreftede abonnenter"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Liste over felter for eksportering"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Avmeldt den %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "NB: Finn ut hva denne abonnenten åpnet og trykket på med vår [link]Premium-versjon[/link]."
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Dato opprettet"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Oppdater"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Få alle MS-brukere"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "For ditt bruk, vises ikke til abonnenter"
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Oppdatert liste"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Legg til liste"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Hvordan vil du importere?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Lim inn i tekstboks"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Last opp en fil"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Importer fra %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "kopier inn listen din her"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Dette må være i CSV-stil eller en enkel klipp-og-lim fra Gmail, Hotmail eller Yahoo. [link]Se eksempler her[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Dette må være i CSV-stil. [link]Se eksempler her[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Har disse abonnentene spurt om å få være på listen din?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Hvis ikke kan du anse deg selv som en spammer."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Les mer på support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Samsvar data"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Ignorer kolonne …"
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Importer som «%1$s"
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Importer «%1$s» som datofelt"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Bekreft at datoen i blått samsvarer med den originale."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Ikke samsvar som et «datofelt» hvis mesteparten av rekkene i den kolonnen returnerer samme feilen."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Feil samsvarsdato"
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Velg en eller flere lister"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Velg listen du ønsker å importere abonnentene til."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Ny liste"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Skriv navnet på fin nye liste"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Notat:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "Abonnenter vil motta «%1$s» etter import."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Importer de %1$s abonnentene fra utvidelsen: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Sett inn skjema"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Dine lister"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoets skjema for abonnement"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Abonnentskjema for nyhetsbrev."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Sjekk din innboks nå for å bekrefte ditt abonnement."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Du er vellykket lagt til listen vår."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Tittel:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Legg inn e-postadressen din nedenfor for å abonnere på vårt nyhetsbrev. Du vil motta en e-post som bekrefter abonnementet."
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "La abonnenter velge liste:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Spør etter:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Vis merkelapper i inndata"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Knappmerkelapp:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Vellykket melding:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "Iframe versjon"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Velg et skjema:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "Mailpoet nyhetsbrev"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "Lag og send nyhetsbrev eller automatiske e-poster. Få abonnenter med en widget. Importer og administrer listene dine. MailPoet er en herlig utvidelse opprettholdt og støttet med kjærlighet av <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">\"a team of a dozen\"</a>."
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr ""
+"MailPoet\n"
+"team of a dozen\"</a>.\""
