@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jackmail Newsletters\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: fxbenard pour WP-Translations.pro <fx@wp-translations.pro>\n"
+"Language-Team: fxbenard pour WP-Translations.pro <fx@wp-translations.pro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-11-23 14:22+0100\n"
+"PO-Revision-Date: 2017-11-23 16:54:22\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: jackmail-newsletters.php\n"
+
+#. Short description.
+msgid "Create and send responsive newsletter with a professional routing platform and a lot of features: automated emails and newsletters, statistics, email  &hellip;"
+msgstr "Create and send responsive newsletter with a professional routing platform and a lot of features: automated emails and newsletters, statistics, email  &hellip;"
+
+#. Plugin name.
+msgid "Jackmail Newsletters"
+msgstr "Jackmail Newsletters"
+
+#. Found in description paragraph.
+msgid ""
+"By default, the Jackmail will guide you to a dashboard, letting you see the last newsletter you sent, and how to set a new one.\n"
+"Right under this menu, here are the differents sections you'll find:"
+msgstr ""
+"By default, the Jackmail will guide you to a dashboard, letting you see the last newsletter you sent, and how to set a new one.\n"
+"Right under this menu, here are the differents sections you'll find:"
+
+#. Found in description list item.
+msgid "Avoid titles containing trigger words. There is no magic keyword to enhance deliverability but limiting some of them could help you not land in spam folder."
+msgstr "Avoid titles containing trigger words. There is no magic keyword to enhance deliverability but limiting some of them could help you not land in spam folder."
+
+#. Found in description list item.
+msgid "Settings: Change language, edit connectors, customize domains, trackings… This sections offers you more freedom."
+msgstr "Settings: Change language, edit connectors, customize domains, trackings… This sections offers you more freedom."
+
+#. Found in description list item.
+msgid "Account: Everything about your account will be right here. From your details account (contact information, bills etc)  to your subscription package with Jackmail."
+msgstr "Account: Everything about your account will be right here. From your details account (contact information, bills etc)  to your subscription package with Jackmail."
+
+#. Found in description list item.
+msgid "Statistics: What's better but to know if your newsletter have an impact? You'll know who opened and clicked on each mail you have sent."
+msgstr "Statistics: What's better but to know if your newsletter have an impact? You'll know who opened and clicked on each mail you have sent."
+
+#. Found in description list item.
+msgid "Templates: Find you templates, and a gallery of free newsletters templates we've made for you. Use them as long as you need."
+msgstr "Templates: Find you templates, and a gallery of free newsletters templates we've made for you. Use them as long as you need."
+
+#. Found in description list item.
+msgid "Lists: Create lists of contacts and manage them in this section."
+msgstr "Lists: Create lists of contacts and manage them in this section."
+
+#. Found in description list item.
+msgid "Campaigns: All the campaigns (newsletters) you have sent are stored here. You can start from scratch or edit a previous one and launch it again. Or configure automatic newsletters with triggers you have decided."
+msgstr "Campaigns: All the campaigns (newsletters) you have sent are stored here. You can start from scratch or edit a previous one and launch it again. Or configure automatic newsletters with triggers you have decided."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>What should I do to ensure my newsletter get delivered?</strong>\n"
+"Even if Jackmail has its own powerful SMTP servers, there are tips you need to know in order to not get stucked in spam.\n"
+"Follow theses tips, and your newsletters should avoid spambox:"
+msgstr ""
+"<strong>What should I do to ensure my newsletter get delivered?</strong>\n"
+"Even if Jackmail has its own powerful SMTP servers, there are tips you need to know in order to not get stucked in spam.\n"
+"Follow theses tips, and your newsletters should avoid spambox:"
+
+#. Found in description paragraph.
+msgid "<em>“This is a wonderful plugin for free, it's just great!”</em> - <strong>WordPress on a Budget</strong>"
+msgstr "<em>“This is a wonderful plugin for free, it's just great!”</em> - <strong>WordPress on a Budget</strong>"
+
+#. Found in description paragraph.
+msgid "<em>“If you want to send newsletters for your WordPress posts, this is one of the easiest ways I've ever seen”</em> - <strong>WP Lift</strong>"
+msgstr "<em>“If you want to send newsletters for your WordPress posts, this is one of the easiest ways I've ever seen”</em> - <strong>WP Lift</strong>"
+
+#. Found in description paragraph.
+msgid "<em>“The Emailbuilder is disconcerting of ease, even enthusiatic about efficiency”</em> - <strong>WPNormandie</strong>"
+msgstr "<em>“The Emailbuilder is disconcerting of ease, even enthusiatic about efficiency”</em> - <strong>WPNormandie</strong>"
+
+#. Found in description paragraph.
+msgid "<em>“Jackmail is a real treat”</em> - <strong>Arobase.org</strong>"
+msgstr "<em>“Jackmail is a real treat”</em> - <strong>Arobase.org</strong>"
+
+#. Found in description paragraph.
+msgid "<em>“Jackmail, THE WordPress newsletter plugin which dust off the genus”</em> - <strong>WPFormation</strong>"
+msgstr "<em>“Jackmail, THE WordPress newsletter plugin which dust off the genus”</em> - <strong>WPFormation</strong>"
+
+#. Found in description paragraph.
+msgid ""
+"<strong>Marketing automation for everyone</strong>\n"
+"Jackmail allows you to set automatic newsletters to your subscribers. Pick a trigger, frequency and let it go! You want to share your latest post? Easy! Want to boost a product in particular? Consider it done!"
+msgstr ""
+"<strong>Marketing automation for everyone</strong>\n"
+"Jackmail allows you to set automatic newsletters to your subscribers. Pick a trigger, frequency and let it go! You want to share your latest post? Easy! Want to boost a product in particular? Consider it done!"
+
+#. Found in description paragraph.
+msgid "<strong>Send newsletters with confidence through the jackmail smtp platform</strong>"
+msgstr "<strong>Send newsletters with confidence through the jackmail smtp platform</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>A full newsletter plugin suite into your wordpress dashboard</strong>"
+msgstr "<strong>A full newsletter plugin suite into your wordpress dashboard</strong>"
+
+#. Found in description paragraph.
+msgid "<strong>A very easy-to-use emailbuilder</strong>"
+msgstr "<strong>A very easy-to-use emailbuilder</strong>"
+
+#. Found in description paragraph.
+msgid "http://www.youtube.com/watch?v=-IbuC00X01U"
+msgstr "http://www.youtube.com/watch?v=-IbuC00X01U"
+
+#. Found in description list item.
+msgid "SMTP Servers Last, but not least, you shouldn't use your own smtp server to send emails. Your hosting service won't allow you to send mass emails even if it's a newsletter, and it will limit your bandwitch. It would be a waste to apply all theses tips, and ruin it with servers that are not intended for newsletters. That's why Jackmail has routing plateform in its offer."
+msgstr "SMTP Servers Last, but not least, you shouldn't use your own smtp server to send emails. Your hosting service won't allow you to send mass emails even if it's a newsletter, and it will limit your bandwitch. It would be a waste to apply all theses tips, and ruin it with servers that are not intended for newsletters. That's why Jackmail has routing plateform in its offer."
+
+#. Found in description list item.
+msgid "Unsubscribe link Golden rule: never forget the unsubscribe link. It's the start of every newsletter. No need to argue since it's a legal obligation and spam filters will knock you hard if you forget it."
+msgstr "Unsubscribe link Golden rule: never forget the unsubscribe link. It's the start of every newsletter. No need to argue since it's a legal obligation and spam filters will knock you hard if you forget it."
+
+#. Found in description list item.
+msgid "Don't wait too long between 2 campaigns Every spam filter will check your e-reputation and needs to see you to know you. If you send a newsletter 1 or 2 times a year, it won't be enough to build your e-reputation."
+msgstr "Don't wait too long between 2 campaigns Every spam filter will check your e-reputation and needs to see you to know you. If you send a newsletter 1 or 2 times a year, it won't be enough to build your e-reputation."
+
+#. Found in description list item.
+msgid "Opt-in forms: Having the best quality list for your newsletters is a key to success. In order to get it, use opt-in forms to collect emails. There's no better way!"
+msgstr "Opt-in forms: Having the best quality list for your newsletters is a key to success. In order to get it, use opt-in forms to collect emails. There's no better way!"
+
+#. Found in description list item.
+msgid "Purchased, rented or scraped lists. If you have ever wanted to send a newsletter and to be in spam, just give a purchased list a try. 100% Guaranteed. There's no better way to go to spam as trying rented, purchased or even scraped lists. But why? There are lots of spamtraps in purchased lists and spam filters know them. As soon as they see some of these sneaky emails, you can be sure you will be in spam. Considering these lists are the highest risk of being spammed/blacklisted, Jackmail will not route a campaign to any of these lists with our servers."
+msgstr "Purchased, rented or scraped lists. If you have ever wanted to send a newsletter and to be in spam, just give a purchased list a try. 100% Guaranteed. There's no better way to go to spam as trying rented, purchased or even scraped lists. But why? There are lots of spamtraps in purchased lists and spam filters know them. As soon as they see some of these sneaky emails, you can be sure you will be in spam. Considering these lists are the highest risk of being spammed/blacklisted, Jackmail will not route a campaign to any of these lists with our servers."
+
+#. Found in description list item.
+msgid "DON'T USE CAPS AND EXCLAMATION POINTS IN THE SUBJECT!!!!!!! BECAUSE IT'S USELESS!!!!!!!! Seriously, spam filters treat messages with a lot of caps and exclamation points like spam, especially when they're in the subject line. And in modern web-society, caps looks like yelling. So relax 🙂"
+msgstr "DON'T USE CAPS AND EXCLAMATION POINTS IN THE SUBJECT!!!!!!! BECAUSE IT'S USELESS!!!!!!!! Seriously, spam filters treat messages with a lot of caps and exclamation points like spam, especially when they're in the subject line. And in modern web-society, caps looks like yelling. So relax 🙂"
+
+#. Found in description list item.
+msgid "Don't use attachments. Sending an email with an attachment to someone who's expecting it from you is OK. You probably receive a lot from people you trust. But spam often comes with attachments, so spam filters remove emails with attachments since they're sent to a lot of recipients.If you really want to add a file, rather add a link and host it somewhere (e.g. dropbox, hubic or your website).You'll see the benefits of tracking links, and you won't go to spam, which is what we want 🙂"
+msgstr "Don't use attachments. Sending an email with an attachment to someone who's expecting it from you is OK. You probably receive a lot from people you trust. But spam often comes with attachments, so spam filters remove emails with attachments since they're sent to a lot of recipients.If you really want to add a file, rather add a link and host it somewhere (e.g. dropbox, hubic or your website).You'll see the benefits of tracking links, and you won't go to spam, which is what we want 🙂"
+
+#. Found in description list item.
+msgid "Text/Image ratio.  The best practice here is to have 60/40 text-to-image ratio in your email. If your recipient kept images off, what's left ? Only red crosses. Therefore, having text will help ISPs to scan your content and read keywords."
+msgstr "Text/Image ratio.  The best practice here is to have 60/40 text-to-image ratio in your email. If your recipient kept images off, what's left ? Only red crosses. Therefore, having text will help ISPs to scan your content and read keywords."
+
+#. Found in description list item.
+msgid "Clean your email list. Segment your contact list and send the right message to the right people. Never forget to clean your list by excluding bad email or unsubscribes."
+msgstr "Clean your email list. Segment your contact list and send the right message to the right people. Never forget to clean your list by excluding bad email or unsubscribes."
+
+#. Found in description list item.
+msgid "Get on whitelist. Asking your recipients to whitelist you by adding your sender or domain name to their trusted list might help you. With Jackmail, you can personalize your domain name as a sender as well as tracking URLS with your own domain name. This means that others will be unable to use the same domain as it is unique to you."
+msgstr "Get on whitelist. Asking your recipients to whitelist you by adding your sender or domain name to their trusted list might help you. With Jackmail, you can personalize your domain name as a sender as well as tracking URLS with your own domain name. This means that others will be unable to use the same domain as it is unique to you."
+
+#. Found in faq paragraph.
+msgid ""
+"You want to contact us? You have questions or want a little help for your newsletters? Here are the ways to reach us:\n"
+"- Contact form through our website: <a href=\"https://www.jackmail.com/contact\">www.jackmail.com/contact</a>\n"
+"- A webchat on our website and in Jackmail ( from 9am to 6pm, Mon/Fri, GMT+2)\n"
+"- You could also call us at the same hours: +33 328 328 058"
+msgstr ""
+"You want to contact us? You have questions or want a little help for your newsletters? Here are the ways to reach us:\n"
+"- Contact form through our website: <a href=\"https://www.jackmail.com/contact\">www.jackmail.com/contact</a>\n"
+"- A webchat on our website and in Jackmail ( from 9am to 6pm, Mon/Fri, GMT+2)\n"
+"- You could also call us at the same hours: +33 328 328 058"
+
+#. Found in faq paragraph.
+msgid "Jackmail is available in English and in French . We're still looking for more languages to improve the user experience."
+msgstr "Jackmail is available in English and in French . We're still looking for more languages to improve the user experience."
+
+#. Found in faq paragraph.
+msgid "Jackmail lets you collect emails for your newsletters through its native widget, but can also be connected with others plugins like Contact Forms 7, Ninja Forms, Gravity Forms, Bloom and more !"
+msgstr "Jackmail lets you collect emails for your newsletters through its native widget, but can also be connected with others plugins like Contact Forms 7, Ninja Forms, Gravity Forms, Bloom and more !"
+
+#. Found in faq paragraph.
+msgid "Jackmail's EmailBuilder lets you create 100% responsive newsletters and guarantees a perfect display on all email web service."
+msgstr "Jackmail's EmailBuilder lets you create 100% responsive newsletters and guarantees a perfect display on all email web service."
+
+#. Found in faq paragraph.
+msgid "To send your newsletters, you need email “credits”. A credit is worth an email sent to one recipient. Jackmail allows you to consult the number of credits you have and add more if needed."
+msgstr "To send your newsletters, you need email “credits”. A credit is worth an email sent to one recipient. Jackmail allows you to consult the number of credits you have and add more if needed."
+
+#. Found in faq paragraph.
+msgid ""
+"There are lots of newsletters tools inside and outside the WordPress environment. WordPress tools are fully integrated but lack of email servers. Outside tools have their email servers but aren't integrated with WordPress (or not enough).\n"
+"Jackmail unites both to send your newsletters. A fully integrated WordPress tool, with all functions, and an email server.\n"
+"Jackmail is the perfect solution for your beloved CMS."
+msgstr ""
+"There are lots of newsletters tools inside and outside the WordPress environment. WordPress tools are fully integrated but lack of email servers. Outside tools have their email servers but aren't integrated with WordPress (or not enough).\n"
+"Jackmail unites both to send your newsletters. A fully integrated WordPress tool, with all functions, and an email server.\n"
+"Jackmail is the perfect solution for your beloved CMS."
+
+#. Found in faq header.
+msgid "I'd like to be helped with Jackmail"
+msgstr "I'd like to be helped with Jackmail"
+
+#. Found in faq header.
+msgid "In which languages is Jackmail available?"
+msgstr "In which languages is Jackmail available?"
+
+#. Found in faq header.
+msgid "Is Jackmail compatible with opt-in-forms plugins?"
+msgstr "Is Jackmail compatible with opt-in-forms plugins?"
+
+#. Found in faq header.
+msgid "Can I create responsive newsletters with Jackmail?"
+msgstr "Can I create responsive newsletters with Jackmail?"
+
+#. Found in faq header.
+msgid "Why do I need a Jackmail account?"
+msgstr "Why do I need a Jackmail account?"
+
+#. Found in faq header.
+msgid "Why should I use Jackmail in WordPress to create and send my newsletters?"
+msgstr "Why should I use Jackmail in WordPress to create and send my newsletters?"
+
+#. Found in description paragraph.
+msgid ""
+"<strong>What does Jackmail do to avoid my newsletter being delivered in spam?</strong>\n"
+"At Jackmail, we are taking SPAM very seriously. Our goal is to adjust the performance and reputation of our servers to ensure your newsletters gets delivered.\n"
+"Since what you’re paying for is deliverability, your newsletter sent with Jackmail has to be inbox. It’s our duty to prevent mails going to spam.\n"
+"We maximize your chances of success with cutting-edge technology and a trusted sender reputation. We are constantly in communications with Internet Service Providers throughout the world to preserve our reputation.\n"
+"And most of all, we provide a manual monitoring of each newsletter to ensure the highest levels of deliverability for your newsletters and make sure we match anti-spam compliance and other email best practices."
+msgstr ""
+"<strong>What does Jackmail do to avoid my newsletter being delivered in spam?</strong>\n"
+"At Jackmail, we are taking SPAM very seriously. Our goal is to adjust the performance and reputation of our servers to ensure your newsletters gets delivered.\n"
+"Since what you’re paying for is deliverability, your newsletter sent with Jackmail has to be inbox. It’s our duty to prevent mails going to spam.\n"
+"We maximize your chances of success with cutting-edge technology and a trusted sender reputation. We are constantly in communications with Internet Service Providers throughout the world to preserve our reputation.\n"
+"And most of all, we provide a manual monitoring of each newsletter to ensure the highest levels of deliverability for your newsletters and make sure we match anti-spam compliance and other email best practices."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>Send and schedule your newsletter</strong>\n"
+"You picked your contact list, you've done your message, it's time now to check and send your newsletter.\n"
+"On the last screen Jackmail allows you to check if everything's ok and suggest you to correct in case if something's missing.\n"
+"Everything's alright? Try to send (or to your coworkers) a test!\n"
+"And then, choose to send it right away or to schedule the campaign for tomorrow. It's up to you."
+msgstr ""
+"<strong>Send and schedule your newsletter</strong>\n"
+"You picked your contact list, you've done your message, it's time now to check and send your newsletter.\n"
+"On the last screen Jackmail allows you to check if everything's ok and suggest you to correct in case if something's missing.\n"
+"Everything's alright? Try to send (or to your coworkers) a test!\n"
+"And then, choose to send it right away or to schedule the campaign for tomorrow. It's up to you."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>Create your newsletter</strong>\n"
+"Jackmail have an easy-to-go, EmailBuilder. All you have to do is to drag and drop content and blocks on the right side, to your editor on the center page.\n"
+"Its builder allows you to create from predefined (and customizable) templates made by Jackmail or to create from scratch, your own, like a grown-up adult!\n"
+"Enjoy creating beautiful newsletters without having to code responsive settings, cause it's all in!"
+msgstr ""
+"<strong>Create your newsletter</strong>\n"
+"Jackmail have an easy-to-go, EmailBuilder. All you have to do is to drag and drop content and blocks on the right side, to your editor on the center page.\n"
+"Its builder allows you to create from predefined (and customizable) templates made by Jackmail or to create from scratch, your own, like a grown-up adult!\n"
+"Enjoy creating beautiful newsletters without having to code responsive settings, cause it's all in!"
+
+#. Found in description paragraph.
+msgid ""
+"<strong>How to create and send my first newsletter?</strong>\n"
+"When you want to send a newsletter, select the “Send a campaign” button, and let you drive through our extension. Then, pick a name for your campaign.\n"
+"At this point, you now have to import your contact (List, manual entry, copy/paste or import a file). This step can be done before in the “List” menu.\n"
+"Jackmail can be connected to plugins like Ninja Form, or can be plugged to your WordPress contact list.\n"
+"All your lists will be cleaned by our plugin (badmail, duplicates, misspelled…) so don't bother with that anymore.\n"
+"Now that you have your contact list, we just have to go through our EmailBuilder."
+msgstr ""
+"<strong>How to create and send my first newsletter?</strong>\n"
+"When you want to send a newsletter, select the “Send a campaign” button, and let you drive through our extension. Then, pick a name for your campaign.\n"
+"At this point, you now have to import your contact (List, manual entry, copy/paste or import a file). This step can be done before in the “List” menu.\n"
+"Jackmail can be connected to plugins like Ninja Form, or can be plugged to your WordPress contact list.\n"
+"All your lists will be cleaned by our plugin (badmail, duplicates, misspelled…) so don't bother with that anymore.\n"
+"Now that you have your contact list, we just have to go through our EmailBuilder."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>How to start</strong>\n"
+"Once the plugin is installed, a new menu will be available, simply called “Jackmail”. From this menu, you'll find everything you need in order to launch your 1st campaign."
+msgstr ""
+"<strong>How to start</strong>\n"
+"Once the plugin is installed, a new menu will be available, simply called “Jackmail”. From this menu, you'll find everything you need in order to launch your 1st campaign."
+
+#. Found in description paragraph.
+msgid ""
+"<strong>What is required for Jackmail?</strong>\n"
+"Jackmail works on any WordPress version above 4.xx"
+msgstr ""
+"<strong>What is required for Jackmail?</strong>\n"
+"Jackmail works on any WordPress version above 4.xx"
+
+#. Found in description paragraph.
+msgid ""
+"<strong>What is Jackmail?</strong>\n"
+"Jackmail is a WordPress plugin used to send newsletters to your contacts.\n"
+"It includes a contact manager, EmailBuilder, behavioral tracking and a professional SMTP server."
+msgstr ""
+"<strong>What is Jackmail?</strong>\n"
+"Jackmail is a WordPress plugin used to send newsletters to your contacts.\n"
+"It includes a contact manager, EmailBuilder, behavioral tracking and a professional SMTP server."
+
+#. Found in description paragraph.
+msgid "<em>“The interface is damn ergonomic and intuitive, there are so many features which is nice for a free plugin”</em> - <strong>momofr.net</strong>"
+msgstr "<em>“The interface is damn ergonomic and intuitive, there are so many features which is nice for a free plugin”</em> - <strong>momofr.net</strong>"
+
+#. Found in description paragraph.
+msgid "We are constantly in communications with Internet Service Providers throughout the world to preserve our reputation. You'll appreciate this reputation during the delivery process when your newsletters make it to the inbox instead of the junk folder."
+msgstr "We are constantly in communications with Internet Service Providers throughout the world to preserve our reputation. You'll appreciate this reputation during the delivery process when your newsletters make it to the inbox instead of the junk folder."
+
+#. Found in description paragraph.
+msgid ""
+"Jackmail relies on a cutting- edge technology and the trusted server reputation of a major emailing company, Sarbacane Software, which sends millions of emails a day all over the world for 10,000 customers.\n"
+"Deliverability is a major stake and requires real expertise because there are lots of rules in emailing and you have to match them to reach the inbox."
+msgstr ""
+"Jackmail relies on a cutting- edge technology and the trusted server reputation of a major emailing company, Sarbacane Software, which sends millions of emails a day all over the world for 10,000 customers.\n"
+"Deliverability is a major stake and requires real expertise because there are lots of rules in emailing and you have to match them to reach the inbox."
+
+#. Found in description paragraph.
+msgid "You won't have to leave your friendly wp-admin area to send your newsletters. Jackmail has been developed for WordPress. It isn't a frame based plugin. You'll have access to everything you need like statistics, templates, settings, right into your WordPress dashboard.  Everything will be stored and saved on your website."
+msgstr "You won't have to leave your friendly wp-admin area to send your newsletters. Jackmail has been developed for WordPress. It isn't a frame based plugin. You'll have access to everything you need like statistics, templates, settings, right into your WordPress dashboard.  Everything will be stored and saved on your website."
+
+#. Found in description paragraph.
+msgid ""
+"Realize your newsletters in a few clicks\n"
+"Drag &amp; drop, it's easy!\n"
+"You don't need coding skills, you just have to let your imagination drive you and you will create nice newsletters effortless.\n"
+"You're lacking imagination? We provide free templates for a good start."
+msgstr ""
+"Realize your newsletters in a few clicks\n"
+"Drag &amp; drop, it's easy!\n"
+"You don't need coding skills, you just have to let your imagination drive you and you will create nice newsletters effortless.\n"
+"You're lacking imagination? We provide free templates for a good start."
+
+#. Found in description paragraph.
+msgid "Our philosophy is that you don't have to be a graphic designer or a developer to send nice newsletters. Everyone should be able to."
+msgstr "Our philosophy is that you don't have to be a graphic designer or a developer to send nice newsletters. Everyone should be able to."
+
+#. Found in description paragraph.
+msgid "No more queues, no spambox. With Jackmail, creating and sending newsletters has never been so easy!"
+msgstr "No more queues, no spambox. With Jackmail, creating and sending newsletters has never been so easy!"
+
+#. Found in description paragraph.
+msgid "Jackmail is the first WordPress Newsletter Plugin that helps you create a full email campaign suite into your WordPress dashboard and send it with a built-in SMTP service."
+msgstr "Jackmail is the first WordPress Newsletter Plugin that helps you create a full email campaign suite into your WordPress dashboard and send it with a built-in SMTP service."
+
+#. Found in description paragraph.
+msgid "You want to create beautiful newsletters for your subscribers right from WordPress, and you need it to be sent super fast without having to fiddle with complicated settings?"
+msgstr "You want to create beautiful newsletters for your subscribers right from WordPress, and you need it to be sent super fast without having to fiddle with complicated settings?"
+
+#. Found in description paragraph.
+msgid "Sending newsletters can be harsh: sometimes you have to use external tools, it might be quite expensive and lack WP integration, and sometimes you have to use WordPress plugins but they don't own their own SMTP and ask you to plug it yourself."
+msgstr "Sending newsletters can be harsh: sometimes you have to use external tools, it might be quite expensive and lack WP integration, and sometimes you have to use WordPress plugins but they don't own their own SMTP and ask you to plug it yourself."
+
+#. Found in description list item.
+msgid "More to come"
+msgstr "More to come"
+
+#. Found in description list item.
+msgid "Send in a flash, or schedule the campaign"
+msgstr "Send in a flash, or schedule the campaign"
+
+#. Found in description list item.
+msgid "Professional sending platform"
+msgstr "Professional sending platform"
+
+#. Found in description list item.
+msgid "Detailed statistics (openings, clicks, average read time, devices etc)"
+msgstr "Detailed statistics (openings, clicks, average read time, devices etc)"
+
+#. Found in description list item.
+msgid "Automatic newsletters based on triggers"
+msgstr "Automatic newsletters based on triggers"
+
+#. Found in description list item.
+msgid "WooCommerce compatibility"
+msgstr "WooCommerce compatibility"
+
+#. Found in description list item.
+msgid "Import static articles from your WordPress website"
+msgstr "Import static articles from your WordPress website"
+
+#. Found in description list item.
+msgid "Free newsletter template gallery"
+msgstr "Free newsletter template gallery"
+
+#. Found in description list item.
+msgid "Drag&amp;Drop Emailbuilder, with responsive mode"
+msgstr "Drag&amp;Drop Emailbuilder, with responsive mode"
+
+#. Found in description list item.
+msgid "Segmentize and customize contents"
+msgstr "Segmentize and customize contents"
+
+#. Found in description list item.
+msgid "We're working on CaptainForms, Optin Monster and Easy Digital Download."
+msgstr "We're working on CaptainForms, Optin Monster and Easy Digital Download."
+
+#. Found in description list item.
+msgid "Connected with other optin forms such as NinjaForms, Gravity Forms, Contact Form 7, Formidable Forms, Bloom."
+msgstr "Connected with other optin forms such as NinjaForms, Gravity Forms, Contact Form 7, Formidable Forms, Bloom."
+
+#. Found in description list item.
+msgid "Optin forms"
+msgstr "Optin forms"
+
+#. Found in description list item.
+msgid "Easily import contact"
+msgstr "Easily import contact"
+
+#. Found in description header.
+msgid "How to create and send my first newsletter?"
+msgstr "How to create and send my first newsletter?"
+
+#. Found in description header.
+msgid "The wordpress sphere speaks of jackmail"
+msgstr "The wordpress sphere speaks of jackmail"
+
+#. Found in description header.
+msgid "A lot of features"
+msgstr "A lot of features"
+
+#. Found in description paragraph.
+msgid "We offer free credits for send your newsletter in exchange of your help for translating Jackmail !"
+msgstr "We offer free credits for send your newsletter in exchange of your help for translating Jackmail !"
+
+#. Found in description paragraph.
+msgid "See more informations on <a href=\"https://www.jackmail.com\">www.jackmail.com</a>"
+msgstr "See more informations on <a href=\"https://www.jackmail.com\">www.jackmail.com</a>"
+
+#. Found in description list item.
+msgid "Unsubscribe template page"
+msgstr "Unsubscribe template page"
+
+#. Found in description list item.
+msgid "Connected to other plugins"
+msgstr "Connected to other plugins"
+
+#. Found in description list item.
+msgid "Collect form Widget"
+msgstr "Collect form Widget"
+
+#. Found in description list item.
+msgid "HTML &amp; plain-text mode"
+msgstr "HTML &amp; plain-text mode"
+
+#. Found in description list item.
+msgid "Segment your campaign result"
+msgstr "Segment your campaign result"
+
+#. Found in description list item.
+msgid "Personalize your content, blocks, colours"
+msgstr "Personalize your content, blocks, colours"
+
+#. Found in description list item.
+msgid "Your newsletter as the same look on each devices"
+msgstr "Your newsletter as the same look on each devices"
+
+#. Found in description list item.
+msgid "Schedule your newsletter"
+msgstr "Schedule your newsletter"
+
+#. Found in description list item.
+msgid "API Contact List"
+msgstr "API Contact List"
+
+#. Found in description list item.
+msgid "Free images library"
+msgstr "Free images library"
+
+#. Found in description list item.
+msgid "Work as a team on your newsletter"
+msgstr "Work as a team on your newsletter"
+
+#. Found in description list item.
+msgid "Send newsletter to your WordPress users"
+msgstr "Send newsletter to your WordPress users"
+
+#. Found in faq header.
+msgid "Installation Instructions"
+msgstr "Installation Instructions"
+
+#. Found in description list item.
+msgid "French"
+msgstr "French"
+
+#. Found in description list item.
+msgid "English"
+msgstr "English"
+
+#. Found in description header.
+msgid "Translation"
+msgstr "Translation"
+
+#. Found in faq paragraph.
+msgid "Visit our <a href=\"http://docs.jackmail.com\">support site</a>."
+msgstr "Visit our <a href=\"http://docs.jackmail.com\">support site</a>."
+
+#. Found in faq header.
+msgid "Got questions?"
+msgstr "Got questions?"
+
+#. Found in installation paragraph, faq paragraph.
+msgid "There are 2 ways to install this plugin:"
+msgstr "There are 2 ways to install this plugin:"
+
+#. Found in installation list item, faq list item.
+msgid "Activate the plugin"
+msgstr "Activate the plugin"
+
+#. Found in installation list item, faq list item.
+msgid "Upload the .zip file you just downloaded"
+msgstr "Upload the .zip file you just downloaded"
+
+#. Found in installation list item, faq list item.
+msgid "Select the tab \"Upload\""
+msgstr "Select the tab \"Upload\""
+
+#. Found in installation list item, faq list item.
+msgid "Download the plugin (.zip file) on the right column of this page"
+msgstr "Download the plugin (.zip file) on the right column of this page"
+
+#. Found in installation list item, faq list item.
+msgid "A new menu <code>Jackmail</code> will appear in your Admin"
+msgstr "A new menu <code>Jackmail</code> will appear in your Admin"
+
+#. Found in installation list item, faq list item.
+msgid "Click to install and activate the plugin"
+msgstr "Click to install and activate the plugin"
+
+#. Found in installation list item, faq list item.
+msgid "Search for <code>Jackmail</code>"
+msgstr "Search for <code>Jackmail</code>"
+
+#. Found in installation list item, faq list item.
+msgid "In your Admin, go to menu Plugins &gt; Add"
+msgstr "In your Admin, go to menu Plugins &gt; Add"
+
+#. Found in installation header, faq header.
+msgid "Difficult"
+msgstr "Difficult"
+
+#. Found in installation header, faq header.
+msgid "Simple"
+msgstr "Simple"
+
+#. Screenshot description.
+msgid "View statistics"
+msgstr "View statistics"
+
+#. Screenshot description.
+msgid "Manage contacts"
+msgstr "Manage contacts"
+
+#. Screenshot description.
+msgid "Import contacts"
+msgstr "Import contacts"
+
+#. Screenshot description.
+msgid "Automated Workflow"
+msgstr "Automated Workflow"
+
+#. Screenshot description.
+msgid "Template Gallery"
+msgstr "Template Gallery"
+
+#. Screenshot description.
+msgid "Emailbuilder"
+msgstr "Emailbuilder"
+
+#. Screenshot description.
+msgid "Overview"
+msgstr "Overview"
