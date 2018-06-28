@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Gravity Forms Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Csaba Orban <vicsabi@gmail.com>\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/wysija/mailpoet-gravity-forms-add-on/language/hu_HU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 15:33+0100\n"
+"PO-Revision-Date: 2017-09-23 19:32:47\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:38
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:41
+#, php-format
+msgid "Thank you for using %s :) Should you need help using %s please read the documentation."
+msgstr "Köszönjük, hogy a %s használod :) Ha segítségre van szükséged a %s-hez kérlek olvasd el a dokumentációt."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:43
+#, php-format
+msgid "%s Documentation"
+msgstr "%s Dokumentáció"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:49
+msgid "Support"
+msgstr "Támogatás"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "Miután <a href=\"%s\">elolvastad a dokumentációt</a>, további segítségként használhatod a <a href=\"%s\">közösségi fórumot</a>."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:54
+msgid "Community Support"
+msgstr " Támogató közösség"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Találtál egy hibát?"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:63
+#, php-format
+msgid "If you find a bug within <strong>%s</strong> you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Ha találsz hibát a <strong>%s</strong>-ben, akkor létrehozhatsz egy jegyzetet a <a href=\"%s\">Github kiadvány</a>-on keresztül. Győződj meg róla, olvasd el az <a href=\"%s\">a közreműködési útmutatót</a> még a jelentés benyújtása előtt. Legyen annyira részletes, amennyire csak lehetséges."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:65
+msgid "Report a bug"
+msgstr "Hiba jelentése"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:70
+msgid "For more information:"
+msgstr "További információ:"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:72
+msgid "Project on WordPress.org"
+msgstr "Projekt a WordPress.org-n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:73
+msgid "Project on Github"
+msgstr "Projekt a Github-on"
+
+#: includes/admin/class-mailpoet-gravity-forms-install.php:103
+msgid "What's new:"
+msgstr "Újdonságok:"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:119
+msgid "Subscriber fields"
+msgstr "Feliratkozó mezők"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:123
+msgid "Use First Name from Field ID"
+msgstr "Használd a keresztnevet a mező ID-ból"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:129
+msgid "Use Last Name from Field ID"
+msgstr "Használd a vezetéknevet a mező ID-ból"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:135
+msgid "Use Email Address from Field ID"
+msgstr "Használd az e-mail címet a mező ID-ból"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:142
+msgid "Enable multiselect"
+msgstr "Többszörözés bekapcsolása"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:146
+msgid "No"
+msgstr "Nem"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:147
+msgid "Yes"
+msgstr "Igen"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:153
+msgid "MailPoet lists"
+msgstr "MailPoet listák"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:171
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:182
+msgid "Single checkbox label"
+msgstr "Egyszerű jelölőnégyzet"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:183
+msgid "This is ignored when multiselect is enabled."
+msgstr "Ezt figyelmen kívül hagyja, ha a multiselect engedélyezve van."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:184
+msgid "Default: Yes, please subscribe me to your newsletter."
+msgstr "Alapbeállítás: Igen, kérem írass fel engem a hírleveledre."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:185
+msgid "Custom Fields"
+msgstr "Egyéni mezők"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:186
+msgid "You need to tell MailPoet from which Gravity Forms Fields it should take the users name and email address from."
+msgstr "Meg kell mondanod, hogy a MailPoet melyik Gravity Forms mezőből vegye a felhasználó nevét és az e-mail címet."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Enable Multiselect"
+msgstr "Többszörözés bekapcsolása"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Let the user select multiple lists."
+msgstr "A felhasználó kiválaszthatja a többszörös listát."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "MailPoet Lists"
+msgstr "MailPoet listák"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "Select which lists the user should be able to subscribe to."
+msgstr "A listák kiválasztása, amelyekre a feliratkozók fel tudnak iratkozni."
+
+#: includes/admin/views/view-html-settings.php:27
+msgid "Your settings have been saved."
+msgstr "A beállítások mentésre kerültek."
+
+#: includes/admin/views/view-html-settings.php:37
+msgid "MailPoet Gravity Forms Add-on Settings"
+msgstr "MailPoet Gravity Forms bővítmény Beállítások"
+
+#: includes/admin/views/view-html-settings.php:39
+msgid "This setting is used only if you are using single checkbox option in the \"MailPoet\" field settings of the form editor."
+msgstr "Ezt a beállítást csak akkor tudod használni, ha használod a jelölőnégyzet opciót a \"MailPoet\" mező beállításainál az űrlap szerkesztőben."
+
+#: includes/admin/views/view-html-settings.php:40
+msgid "Simply select the lists you want your subscribers to subscribe to and press \"Save Settings\"."
+msgstr "Egyszerűen válaszd ki azokat a listákat, amelyekre az ügyfelek feliratkozhatnak, és nyomd meg a \"Beállítások mentése\"-t."
+
+#: includes/admin/views/view-html-settings.php:63
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: includes/mailpoet-gravity-forms-core-functions.php:32
+#: includes/mailpoet-gravity-forms-core-functions.php:47
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Igen, kérem írass fel engem a hírleveledre."
+
+#: mailpoet-gravity-forms-addon.php:229
+msgid "Settings"
+msgstr "Beállítások"
+
+#: mailpoet-gravity-forms-addon.php:289
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Elnézést, a <strong>%s</strong> a WordPress-t igényli."
+
+#: mailpoet-gravity-forms-addon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms. Activate it now or <a href=\"%s\" target=\"_blank\">purchase it today!</a>"
+msgstr "Elnézést, a <strong>%s</strong> a Gravity Forms-t igényli. Aktiváld most, vagy <a href=\"%s\" target=\"_blank\">vásárold meg még ma!</a>"
+
+#: mailpoet-gravity-forms-addon.php:311
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms "
+msgstr "Elnézést, a <strong>%s</strong> a Gravity Forms-t igényli."
+
+#: mailpoet-gravity-forms-addon.php:322
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Elnézést, a <strong>%s</strong> a MailPoet Hírleveleket igényli, mert ez a plugin csak így képes működni. Kérlek először telepítsd és aktiváld a <strong><a href=\"%s\">MailPoet Hírlevelek</a></strong>-et."
