@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/graphy\n"
+"Last-Translator: hsiyuano <hsiyuano@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/wp-translations/graphy/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:00+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:43:07\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "该页无法找到"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: archive.php:21
+msgid "Category: "
+msgstr "分类"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "标签"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "作者: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年m月"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "边注"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "相册"
+
+#: archive.php:54
+msgid "Images"
+msgstr "图像"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "视频"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:63
+msgid "Links"
+msgstr "链接"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "状态"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "音频"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "聊天"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "归档"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "%1$s 回应"
+
+#: comments.php:34
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:35
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:36
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr "未找到满足你搜索的条目。请尝试使用不同关键字搜索。"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:21
+msgid "Pages:"
+msgstr "页码："
+
+#: content.php:20
+#: content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">继续阅读 &rarr;</span>"
+
+#: footer.php:17
+msgid "Powered by "
+msgstr ""
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "边栏"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "脚注 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "脚注 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "脚注 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "脚注 4"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "开"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "开"
+
+#: header.php:45
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: inc/customizer.php:25
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Logo"
+msgstr "标志"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "上传标志"
+
+#: inc/customizer.php:47
+msgid "Replace Title"
+msgstr "替换题目"
+
+#: inc/customizer.php:56
+msgid "Add Border Radius"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: inc/customizer.php:76
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Hide Serach"
+msgstr "隐藏搜索"
+
+#: inc/customizer.php:92
+msgid "Article"
+msgstr "文章"
+
+#: inc/customizer.php:99
+msgid "Display"
+msgstr "展示"
+
+#: inc/customizer.php:104
+msgid "Summary"
+msgstr "摘要"
+
+#: inc/customizer.php:105
+msgid "Full text"
+msgstr "全文"
+
+#: inc/customizer.php:112
+msgid "Hide Author"
+msgstr "隐藏作者"
+
+#: inc/customizer.php:121
+msgid "Hide Categories"
+msgstr "隐藏分类"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "第%s页"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 早期文章"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "前一篇日志"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%标题"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "后一篇日志"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%标题"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "发表在"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "由"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:117
+#: inc/template-tags.php:125
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr "于%1$s发表"
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "标签为 %1$s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "无边栏"
