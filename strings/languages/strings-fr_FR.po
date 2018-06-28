@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Secondary Title\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/secondary-title/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-05-27 19:42+0100\n"
+"PO-Revision-Date: 2017-09-23 19:56:19\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: secondary-title.php\n"
+
+#: includes/admin.php:35
+msgid "Enter secondary title here"
+msgstr "Saisissez le second titre ici"
+
+#: includes/hooks.php:87
+msgid "Secondary title"
+msgstr "Second titre"
+
+#: includes/hooks.php:230
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/settings.php:40
+msgid "Are you sure you want to reset all settings?"
+msgstr " Voulez-vous vraiment réinitialiser tous les réglages ?"
+
+#: includes/settings.php:50
+msgid "The settings have been successfully updated."
+msgstr "Les réglages ont bien été mis à jour."
+
+#: includes/settings.php:57
+msgid "The settings have been successfully reset."
+msgstr "Les réglages ont bien été réinitialisés."
+
+#: includes/settings.php:65
+#: includes/settings.php:300
+msgid "Collapse/expand section"
+msgstr "Réduire/Étendre la section"
+
+#: includes/settings.php:67
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/settings.php:71
+msgid "This section lets you change the most basic settings about how Secondary Title is supposed to behave."
+msgstr "Cette section vous permet de modifier les réglages et le comportement de base de Secondary Title."
+
+#: includes/settings.php:78
+msgid "Auto show"
+msgstr "Affichage auto"
+
+#: includes/settings.php:84
+#: includes/settings.php:173
+#: includes/settings.php:317
+msgid "On"
+msgstr "Oui"
+
+#: includes/settings.php:87
+#: includes/settings.php:176
+#: includes/settings.php:322
+msgid "Off"
+msgstr "Non"
+
+#: includes/settings.php:91
+msgid "Automatically merges the secondary title with the standard title."
+msgstr "Fusionner automatiquement le deuxième titre avec le titre standard."
+
+#: includes/settings.php:96
+#, php-format
+msgid "To manually insert the secondary title in your theme, use %s or %s. See the <a href=\"%s\" title=\"See official documentation\" target=\"_blank\" >official documentation</a> for additional parameters."
+msgstr "Pour insérer manuellement le titre secondaire dans votre thème, utilisez %s ou %s. Voir la <a href=\"%s\" title=\"Voir la doc officielle\" target=\"_blank\" >documentation officielle</a> pour plus de paramètres."
+
+#: includes/settings.php:105
+msgid "Title format"
+msgstr "Format du titre"
+
+#: includes/settings.php:110
+msgid "E.g.: %secondary_title%: %title%"
+msgstr "p.ex.: %secondary_title%: %title%"
+
+#: includes/settings.php:113
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: includes/settings.php:117
+#, php-format
+msgid "Replaces the default title with the given format. Use %s for the main title and %s for the secondary title."
+msgstr "Remplace le titre par défaut avec le format désiré. Utiliser %s pour le titre principal et %s pour le titre secondaire."
+
+#: includes/settings.php:117
+msgid "Add title to title format input"
+msgstr "Ajouter un titre à l'entrée de format du titre"
+
+#: includes/settings.php:117
+msgid "Add secondary title to title format input"
+msgstr "Ajouter un deuxième titre à l'entrée de format du titre"
+
+#: includes/settings.php:145
+#, php-format
+msgid "<b>Note:</b> To style the output, use the <a href=\"%s\" title=\"See an explanation on w3schools.com\" target=\"_blank\">style HTML attribute</a>, e.g.:<br />%s"
+msgstr "<b>Remarque :</b> Pour styliser la sortie, utiliser l'<a href=\"%s\" title=\"Voir l'explication sur w3schools.com\" target=\"_blank\">attribut de style HTML</a>, p.ex.:<br />%s"
+
+#: includes/settings.php:145
+msgid "Add code to title format input"
+msgstr "Ajouter du code à l'entrée de format du titre"
+
+#: includes/settings.php:158
+msgid "Display Rules"
+msgstr "Règles d’affichage"
+
+#: includes/settings.php:162
+msgid "These options let you specify where the secondary title is allowed to be displayed and where not. Unselecting all fields deactivates the limit completely."
+msgstr "Ces options vous permettent de spécifier l’emplacement du titre secondaire. Désélectionner tous les champs désactive complètement toutes les limitations."
+
+#: includes/settings.php:168
+msgid "Only show in main post"
+msgstr "N’afficher que sur l’article principal"
+
+#: includes/settings.php:179
+msgid "Only displays the secondary title if the post is a main post and <strong>not</strong> within a widget etc."
+msgstr "Afficher le titre secondaire uniquement si l’article est un article en avant et <strong>pas</strong> dans un widget etc. "
+
+#: includes/settings.php:186
+msgid "Post types"
+msgstr "Types d'article"
+
+#: includes/settings.php:226
+msgid "Only displays the secondary title if post among the selected post types."
+msgstr "Afficher le titre secondaire uniquement si l’article appartient aux types de contenus sélectionnés. "
+
+#: includes/settings.php:233
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/settings.php:252
+#, php-format
+msgid "There are %s posts in %s"
+msgstr "Il y a %s articles dans %s"
+
+#: includes/settings.php:267
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+#: includes/settings.php:272
+msgid "Unselect all"
+msgstr "Tout déselectionner"
+
+#: includes/settings.php:277
+msgid "Displays the secondary title only if post is among the selected categories."
+msgstr "Afficher le titre secondaire uniquement si l’article appartient aux catégories sélectionnées. "
+
+#: includes/settings.php:286
+msgid "Post IDs"
+msgstr "ID de l’article"
+
+#: includes/settings.php:290
+msgid "E.g. 13, 71, 33"
+msgstr "P.ex. 13, 71, 33"
+
+#: includes/settings.php:292
+msgid "Only uses the secondary title if post is among the entered post IDs. Use commas to separate multiple IDs."
+msgstr "Afficher le titre secondaire uniquement si l’article appartient aux ID d’articles saisies. Utiliser des virgules pour séparer les ID."
+
+#: includes/settings.php:302
+msgid "Miscellaneous Settings "
+msgstr "Réglages divers"
+
+#: includes/settings.php:310
+msgid "Include in search"
+msgstr "Inclure dans la recherche"
+
+#: includes/settings.php:326
+msgid "Makes the secondary title searchable."
+msgstr "Rendre le deuxième titre recherchable."
+
+#: includes/settings.php:334
+msgid "Input field position"
+msgstr "Position du champ de saisie"
+
+#: includes/settings.php:340
+msgid "Above standard title"
+msgstr "Au-dessus du titre standard"
+
+#: includes/settings.php:343
+msgid "Below standard title"
+msgstr "Sous le titre standard"
+
+#: includes/settings.php:345
+#, php-format
+msgid "Defines whether input field for the secondary title should be displayed above or below<br />the standard title <strong>within the add/edit post/page area</strong> on the admin Dashboard.<br />See the <a href=\"%s\" title=\"See the FAQ\" target=\"_blank\">FAQ</a> if you want to apply the same effect on your front end."
+msgstr "Définit si le champ de saisie pour le titre secondaire doit être affiché au-dessus ou en dessous<br />du titre standard <strong>dans la zone d'ajout/modification d'article/page </strong> dans l'interface d'admin.<br />Voir la <a href=\"%s\" title=\"Voir la FAQ\" target=\"_blank\"> FAQ</a> si vous souhaitez appliquer le même effet sur votre front-end."
+
+#: includes/settings.php:352
+msgid "Column position"
+msgstr "Position de la colonne"
+
+#: includes/settings.php:359
+msgid "Left of primary title"
+msgstr "À gauche du premier titre"
+
+#: includes/settings.php:364
+msgid "Right of primary title"
+msgstr "À droite du premier titre"
+
+#: includes/settings.php:368
+#, php-format
+msgid "Specifies the position of the secondary title in regard to the primary title on <a href=\"%s\">post overview</a> pages within the Dashboard."
+msgstr "Spécifier la position du deuxième titre en fonction du premier titre sur la page d’<a href=\"%s\">aperçu de l’article</a> du Tableau de bord."
+
+#: includes/settings.php:381
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/settings.php:386
+msgid "Reset Settings"
+msgstr "Réinitialiser les réglages"
+
+#: includes/settings.php:394
+#, php-format
+msgid "Found an error? Help making Secondary Title better by <a href=\"%s\" title=\"Click here to report a bug\" target=\"_blank\">quickly reporting the bug</a>."
+msgstr "Vous avez trouvé une erreur ? Aider à améliorer Secondary Title en <a href=\"%s\" title=\"Cliquez ici pour envoyer un rapport de bug\" target=\"_blank\">envoyant un rapide rapport de bug</a>."
+
+#. Plugin Name of the plugin/theme
+msgid "Secondary Title"
+msgstr "Secondary Title"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
+msgstr "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
+
+#. Description of the plugin/theme
+msgid "Adds a secondary title to posts, pages and custom post types."
+msgstr "Ajoutez un titre secondaire à vos articles, pages et types de contenu personnalisés."
+
+#. Author of the plugin/theme
+msgid "Kolja Nolte"
+msgstr "Kolja Nolte"
+
+#. Author URI of the plugin/theme
+msgid "http://www.koljanolte.com"
+msgstr "http://www.koljanolte.com"
