@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Licence Picker\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/licence-picker/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-28 07:08+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:05\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#. Translators: 1 is plugin name, 2 is version number
+#: admin/class-lp-admin.php:54
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s не активирован"
+
+#. Translators: 1 is current WordPress version, 2 is required version
+#: admin/class-lp-admin.php:56
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "Вы рабротаете на WordPress версии %1$s. Этот плагин деактивирован, так как он требует версию %2$s и выше! Обновите WordPress и попробуйте ещё раз."
+
+#: admin/class-lp-admin.php:57
+msgid "Back to WordPress admin"
+msgstr "Вернуться в административную панель WordPress"
+
+#: licence-picker.php:77
+#: licence-picker.php:78
+msgid "Licence picker"
+msgstr "Licence picker"
+
+#: licence-picker.php:79
+msgid "Search licences"
+msgstr "Поиск лицензий"
+
+#: licence-picker.php:80
+msgid "All licences"
+msgstr "Все лицензии"
+
+#: licence-picker.php:81
+msgid "Parent licence"
+msgstr "Родительская лицензия"
+
+#: licence-picker.php:82
+msgid "Parent licence:"
+msgstr "Родительская лицензия:"
+
+#: licence-picker.php:83
+msgid "Edit licence"
+msgstr "Изменить лицензию"
+
+#: licence-picker.php:84
+msgid "Update licence"
+msgstr "Обновить лицензию"
+
+#: licence-picker.php:85
+msgid "Add New licence"
+msgstr "Добавить новую лицензию"
+
+#: licence-picker.php:86
+msgid "New licence"
+msgstr "Новая лицензия"
+
+#: licence-picker.php:87
+msgid "Licences"
+msgstr "Лицензии"
+
+#. Translators: The term 'licensing' in English does not require plural; do as
+#. works best for your language
+#: public/class-lp-frontend.php:35
+msgid "Licensing"
+msgid_plural "Licensing"
+msgstr[0] "Лицензия"
+msgstr[1] "Лицензии"
+msgstr[2] "Лицензий"
+msgstr[3] "Лицензий"
