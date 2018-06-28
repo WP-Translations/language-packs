@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Licence Picker\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Kolja Nolte <inactive+thaikolja@transifex.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/licence-picker/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-28 07:08+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:05\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translators: 1 is plugin name, 2 is version number
+#: admin/class-lp-admin.php:54
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s ist nicht aktiviert."
+
+#. Translators: 1 is current WordPress version, 2 is required version
+#: admin/class-lp-admin.php:56
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "Du benutzt zurzeit WordPress in der Version %1$s. Dieses Plugin erfordert jedoch %2$s oder höher und wurde deshalb deaktiviert. Bitte installiere eine neuere WordPress-Version und versuche es nochmal."
+
+#: admin/class-lp-admin.php:57
+msgid "Back to WordPress admin"
+msgstr "Zurück zum WordPress-Adminbereich"
+
+#: licence-picker.php:77
+#: licence-picker.php:78
+msgid "Licence picker"
+msgstr "Lizenzwähler"
+
+#: licence-picker.php:79
+msgid "Search licences"
+msgstr "Lizenz suchen"
+
+#: licence-picker.php:80
+msgid "All licences"
+msgstr "Alle Lizenzen"
+
+#: licence-picker.php:81
+msgid "Parent licence"
+msgstr "Übergeordnete Lizenz"
+
+#: licence-picker.php:82
+msgid "Parent licence:"
+msgstr "Übergeordnete Lizenz:"
+
+#: licence-picker.php:83
+msgid "Edit licence"
+msgstr "Lizenz bearbeiten"
+
+#: licence-picker.php:84
+msgid "Update licence"
+msgstr "Lizenz aktualisieren"
+
+#: licence-picker.php:85
+msgid "Add New licence"
+msgstr "Neue Lizenz erstellen"
+
+#: licence-picker.php:86
+msgid "New licence"
+msgstr "Neue Lizenz"
+
+#: licence-picker.php:87
+msgid "Licences"
+msgstr "Linzenzen"
+
+#. Translators: The term 'licensing' in English does not require plural; do as
+#. works best for your language
+#: public/class-lp-frontend.php:35
+msgid "Licensing"
+msgid_plural "Licensing"
+msgstr[0] "Lizenzierung"
+msgstr[1] "Lizenzierungen"
