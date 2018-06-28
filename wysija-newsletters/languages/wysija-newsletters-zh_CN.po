@@ -1,0 +1,4914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: http://support.mailpoet.com/\n"
+"Last-Translator: Robert Sim <contact@robertsky.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/wysija/wysija/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 12:46:02+00:00\n"
+"PO-Revision-Date: 2018-06-12 17:43:22\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:12
+#: wysija-newsletters/add-ons/add-ons-list.php:44
+#: wysija-newsletters/add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "在付费页面添加一个复选框，让客户可以订阅时事通讯。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "以客户购买的产品为基础，决定客户自动接收邮件的信箱。此功能仅限高级版本使用。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "在表单中加入一个新字段，以便访问人可定阅时事通讯。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "在注册表单上添加这个插件的复选框，以便您的新用户加入您所选择的订阅组。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "在表单中添加一个复选框，并选择用户要加入的订阅组。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "用WangGuard的免费白名单服务以及插件来防止机器人假冒定阅。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "如果有这个问题，那么这就是解决方案。完全免费。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall是一个付费插件，用来在付费区放置内容。这个附件功能管理客户的客户订阅。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:152
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "在网站的顶部或底部的条形区域里，或在用GetConversion的免费插件的文章里的一个方格里面放入一个表单。用这个附件把它们和MailPoet联系起来。<br/></br>请点击这里取得他们附件高级版本30% off的折扣 <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+
+#: wysija-newsletters/add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "自己试试印象深刻的免费版本。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "使用这个付费插件在弹出框，尾部条或滑动块中放置订阅表单，可增加订阅人。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "作者已经做了很了不起的工作。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "付费用户使用优惠券：MP20，可节省20%。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "这个付费插件允许在弹出窗中加入一个MailPoet表单。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "需要学习CSS来按自己的意愿设计它。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "付费用户使用优惠券：mailpoet25，可节省25%。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "这个付费插件允许在很多地方，以及Facebook中加入MailPoet的表单。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "非常强大，如果不是一个古怪的用户界面。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "这个免费插件允许在文章的开始或结尾处设计和放置一个表单。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "它是免费的，已经证明受用户的欢迎。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "退出弹窗不仅是“流行”，它可有效的提高了转换率，从而提高市场份额，注册和销售。用户离开你的网站之前wBounce会显示一个弹窗。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "当你的光标离开窗口弹窗将会消失"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "这个免费插件允许在弹出窗中放置一个表单，就这样。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "这是一个更强大的付费版的免费版本。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "新网站还没有推出吗？可用这个付费插件放置一个带有用来获取邮件地址表单的速成页面。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "一个想法简单，设计良好的插件。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "付费用户使用优惠券：MAILPOET20，可节省20%。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "这个付费插件允许正好在头部下面放置一个漂亮的表单，仅此而已。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "为客户添加了一个复选框选项，在网上商店购买的通时可以选中订阅时事通讯。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "利用Ninja Forms的强大和灵活，快速为邮件列表创建订阅时事通讯的表单。"
+
+#: wysija-newsletters/add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "对WPML多语言网站来说，我们推荐这个插件，它是很好的选择之一。精益，简单，对你的网站的核心部分基本上没有触及。WordPress多站点安装的每种语言都能与MailPoet很好的融合。"
+
+#: wysija-newsletters/add-ons/add-ons.php:90
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "没有激活，因为它需要先安装并激活<strong><a href=\"%s\">%s</a></strong>。"
+
+#: wysija-newsletters/add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "隐藏这条消息"
+
+#: wysija-newsletters/add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "已激活。"
+
+#: wysija-newsletters/add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "已去激活。"
+
+#: wysija-newsletters/add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet说："
+
+#: wysija-newsletters/add-ons/add-ons.php:207
+msgid "Website"
+msgstr "网站"
+
+#: wysija-newsletters/add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "购买"
+
+#: wysija-newsletters/add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "从WordPress.org安装"
+
+#: wysija-newsletters/add-ons/add-ons.php:230
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:221
+#: wysija-newsletters/views/back/campaigns.php:657
+msgid "Activate"
+msgstr "激活"
+
+#: wysija-newsletters/add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "配置"
+
+#: wysija-newsletters/add-ons/add-ons.php:246
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "看不到你要的附加功能？在联系表单中<a href=\"%s\">提交它</a>。"
+
+#: wysija-newsletters/classes/WJ_FieldRender.php:88
+#: wysija-newsletters/classes/WJ_FieldRender.php:113
+#: wysija-newsletters/classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "此字段没有内容"
+
+#: wysija-newsletters/classes/WJ_FieldRender.php:185
+#: wysija-newsletters/helpers/form_engine.php:45
+#: wysija-newsletters/helpers/wj_engine.php:112
+#: wysija-newsletters/views/back/config.php:2424
+msgid "Year"
+msgstr "年"
+
+#: wysija-newsletters/classes/WJ_FieldRender.php:204
+#: wysija-newsletters/helpers/form_engine.php:46
+msgid "Month"
+msgstr "月份"
+
+#: wysija-newsletters/classes/WJ_FieldRender.php:223
+#: wysija-newsletters/helpers/form_engine.php:47
+#: wysija-newsletters-premium/helpers/extend_config.php:221
+msgid "Day"
+msgstr "日"
+
+#: wysija-newsletters/classes/WJ_Import.php:77
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "不能访问CSV文件，请检查目录\"%1$s\"的访问权限。"
+
+#: wysija-newsletters/classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "您尝试导入的订阅组可能有错误。"
+
+#: wysija-newsletters/classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "插入email时出错。"
+
+#: wysija-newsletters/classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "插入订阅组时出错。"
+
+#: wysija-newsletters/classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "对浏览器来说，你贴入的订阅组太大。请用<strong>文件上传</strong>。"
+
+#: wysija-newsletters/classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "尝试导入的数据不是CSV格式(逗号分隔的值)。"
+
+#: wysija-newsletters/classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "详细内容"
+
+#: wysija-newsletters/classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "CSV文件的第一行应当为列头：\"email\"，\"lastname\"，\"firstname\"。"
+
+#: wysija-newsletters/classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "CSV文件的第二行应当为值：\"joeeg@example.com\"，\"Average\"，\"Joe\"。"
+
+#: wysija-newsletters/classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "你上传文件的前两行是："
+
+#: wysija-newsletters/classes/WJ_Import.php:726
+#: wysija-newsletters/classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "是空行"
+
+#: wysija-newsletters/classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "再检查一遍想导入的东西。"
+
+#: wysija-newsletters/classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "在前10行中找不到任何有效的地址。"
+
+#: wysija-newsletters/classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "导入的文件无效。"
+
+#: wysija-newsletters/classes/WJ_Upgrade.php:64
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "嗨！%1$s已有更新(版本%2$s)，<a href=\"%3$s\">点击这来更新</a>。"
+
+#: wysija-newsletters/classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "刷新你的当前页"
+
+#: wysija-newsletters/classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "返回MailPoet"
+
+#: wysija-newsletters/classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "更新插件"
+
+#: wysija-newsletters/classes/WJ_Utils.php:60
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "使用你的域名邮箱，如<strong>info@%s</strong>，可避免转到垃圾邮件目录，甚至被屏蔽。"
+
+#: wysija-newsletters/classes/WJ_Utils.php:61
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "如果想用Gmail地址，需要用Gmail发送，检查<a id=\"tip-send-with\" href=\"%s\">发送设置</a>。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "谢谢！"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "你选择的主题不能加载。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "你的邮件不能保存"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "你的邮件已保存"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "样式不能保存"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "样式已保存"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:173
+#: wysija-newsletters/controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "图片已删除"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "选择的图片没保存。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "选择的图片已保存。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "请选择一篇文章。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:316
+#: wysija-newsletters/controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "查询不到相应的文章。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:427
+msgid "Your email preview has been sent to %1$s"
+msgstr "你的邮件预览已发送到%1$s"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:641
+#: wysija-newsletters/controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "API无法连接，站点可能宕机。稍后在试。"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "你的请求失败"
+
+#: wysija-newsletters/controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "请求成功"
+
+#: wysija-newsletters/controllers/ajax/config.php:70
+#: wysija-newsletters/helpers/bounce.php:889
+msgid "Successfully connected to %1$s"
+msgstr "成功连接到%1$s"
+
+#: wysija-newsletters/controllers/ajax/config.php:71
+#: wysija-newsletters/helpers/bounce.php:898
+msgid "There are %1$s messages in your mailbox"
+msgstr "你的收件箱中有%1$s封邮件"
+
+#: wysija-newsletters/controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "现在没有要处理的退信通知！"
+
+#: wysija-newsletters/controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "可能需要打开<i>自签名证书</i>选项"
+
+#: wysija-newsletters/controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "确信选择了正确的端口？如果不知道怎么设置，可以留空"
+
+#: wysija-newsletters/controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "需要为这个字段选择一个类型"
+
+#: wysija-newsletters/controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "需要为这个字段指定一个名称"
+
+#: wysija-newsletters/controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "这个字段不存在"
+
+#: wysija-newsletters/controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "已保存！变化已经在widget中生效。"
+
+#: wysija-newsletters/controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "已保存！把这个表单加到[link_widget]widget[/link_widget]里。"
+
+#: wysija-newsletters/controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "表单不能保存。"
+
+#: wysija-newsletters/controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "表单已保存。"
+
+#: wysija-newsletters/controllers/ajax/subscribers.php:17
+#: wysija-newsletters/controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "用户已插入。"
+
+#: wysija-newsletters/controllers/ajax/subscribers.php:20
+#: wysija-newsletters/controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "用户没有插入。"
+
+#: wysija-newsletters/controllers/ajax/subscribers.php:21
+#: wysija-newsletters/controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "用户已更新。"
+
+#: wysija-newsletters/controllers/ajax/subscribers.php:22
+#: wysija-newsletters/controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "用户未更新。"
+
+#: wysija-newsletters/controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "插入订阅窗口"
+
+#: wysija-newsletters/controllers/back/campaigns.php:39
+#: wysija-newsletters/core/controller.php:64
+#: wysija-newsletters/core/controller.php:73
+msgid "Security failure during request"
+msgstr "请求期间安全故障"
+
+#: wysija-newsletters/controllers/back/campaigns.php:39
+#: wysija-newsletters/core/controller.php:64
+#: wysija-newsletters/core/controller.php:73
+msgid "Security Problem"
+msgstr "安全问题"
+
+#: wysija-newsletters/controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "欢迎页面！"
+
+#: wysija-newsletters/controllers/back/campaigns.php:92
+#: wysija-newsletters/controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "正在安装MailPoet时事通讯付费版插件"
+
+#: wysija-newsletters/controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "一个全新的MailPoet。开始享受吧。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "订阅我们的电子邮件，以得到最新咨询。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:121
+#: wysija-newsletters/views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "我们的月度电子邮件包含以下内容："
+
+#: wysija-newsletters/controllers/back/campaigns.php:123
+#: wysija-newsletters/views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "重要插件更新"
+
+#: wysija-newsletters/controllers/back/campaigns.php:124
+#: wysija-newsletters/views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "打折券"
+
+#: wysija-newsletters/controllers/back/campaigns.php:125
+#: wysija-newsletters/views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "为您或客户提供的小技巧"
+
+#: wysija-newsletters/controllers/back/campaigns.php:126
+#: wysija-newsletters/views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "我们目前工作进展"
+
+#: wysija-newsletters/controllers/back/campaigns.php:127
+#: wysija-newsletters/views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "来自我们团队的新闻"
+
+#: wysija-newsletters/controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "第一次？看看指南"
+
+#: wysija-newsletters/controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "观看视频，学习如何开始。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:153
+#: wysija-newsletters/controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "分享你的数据"
+
+#: wysija-newsletters/controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "我们对我们的用户了解不够。我们需要 [link]匿名数据[/link] 来把插件做的更好。 [ajaxlink]好吧，算我一个！[/ajaxlink]"
+
+#: wysija-newsletters/controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "我们对我们的用户了解不够。我们需要 [link]匿名数据[/link] 来把插件做的更好。谢谢，你已经共享了。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "你能做什么"
+
+#: wysija-newsletters/controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5分钟新手指南"
+
+#: wysija-newsletters/controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoet带有一个样例时事通讯。关闭欢迎页面后，会看到它。编辑它来开始使用这个插件。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "自己解决。或让我们帮助你。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "[link]support.mailpoet.com[/link]上有文档和帮助系统。24小时回答问题。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "有什么新东西？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:216
+#: wysija-newsletters/helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "你的站点可用付费版了。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "你的站点没有付费版许可证。[link]这里[/link]购买它。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:260
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:30
+msgid "Queue is empty!"
+msgstr "队列是空的！"
+
+#: wysija-newsletters/controllers/back/campaigns.php:294
+#: wysija-newsletters/controllers/back/campaigns.php:454
+#: wysija-newsletters/controllers/back/campaigns.php:497
+#: wysija-newsletters/controllers/back/campaigns.php:713
+msgid "Step %1$s"
+msgstr "步骤 %1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:299
+#: wysija-newsletters/views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "加入[newsletter:total] 可显示文章的数量，[newsletter:post_title]可显示最新文章的标题，以及[newsletter:number]来显示版本号。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "订阅人首先看到的东西。请创建以增加打开率!"
+
+#: wysija-newsletters/controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "第一步：主要内容"
+
+#: wysija-newsletters/controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "一天一次在..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "每周在..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "每月在..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "每月每..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:322
+#: wysija-newsletters/controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "马上。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "任何WordPress角色"
+
+#: wysija-newsletters/controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "当有新内容时..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "当有人订阅这个订阅组时..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "当网站加入了一个新的用户时..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "小时之后。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "天之后。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "周之后。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "马上"
+
+#: wysija-newsletters/controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "小时"
+
+#: wysija-newsletters/controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "天"
+
+#: wysija-newsletters/controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "周"
+
+#: wysija-newsletters/controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "正在保存时事通讯..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "保存时事通讯...时错误"
+
+#: wysija-newsletters/controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "时事通讯已保存。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:480
+#: wysija-newsletters/controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "正在发送阅览..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "垃圾邮件检测结果"
+
+#: wysija-newsletters/controllers/back/campaigns.php:496
+msgid "Second step:  \"%1$s\""
+msgstr "第二步：\"%1$s\""
+
+#: wysija-newsletters/controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "发送现在已暂停。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "发送已经恢复。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:550
+#: wysija-newsletters/controllers/back/campaigns.php:556
+#: wysija-newsletters/controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "复制于"
+
+#: wysija-newsletters/controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "时事通讯已被复制。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:630
+msgid "%1$s emails every %2$s"
+msgstr "%1$s封邮件每%2$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "发送设置([settings])不能很快地给 [number]个订阅人发送。预计发送会延迟。[link]详细内容[/link]"
+
+#: wysija-newsletters/controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "最后一步：最后的细节"
+
+#: wysija-newsletters/controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "选日期"
+
+#: wysija-newsletters/controllers/back/campaigns.php:658
+#: wysija-newsletters/views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "保存并关闭"
+
+#: wysija-newsletters/controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "稍后发送"
+
+#: wysija-newsletters/controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "时间表"
+
+#: wysija-newsletters/controllers/back/campaigns.php:689
+#: wysija-newsletters/helpers/back.php:216
+#: wysija-newsletters/views/back/campaigns.php:1591
+#: wysija-newsletters/views/back/campaigns.php:1592
+#: wysija-newsletters/views/back/premium.php:186
+msgid "Activate now"
+msgstr "现在激活"
+
+#: wysija-newsletters/controllers/back/campaigns.php:693
+#: wysija-newsletters/views/back/campaigns.php:1597
+#: wysija-newsletters/views/back/campaigns.php:1598
+msgid "Send"
+msgstr "发送"
+
+#: wysija-newsletters/controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "准备发送该时事通讯，请确认。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:707
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "确实要忽略list %2$s中的%1$s个订阅人？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:748
+#: wysija-newsletters/controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "时事通讯不能删除。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "时事通讯已删除。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:878
+#: wysija-newsletters/controllers/back/campaigns.php:900
+#: wysija-newsletters/controllers/back/campaigns.php:2267
+#: wysija-newsletters/controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "详细内容。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:883
+#: wysija-newsletters/controllers/back/campaigns.php:905
+#: wysija-newsletters/controllers/back/campaigns.php:2272
+#: wysija-newsletters/controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "作者："
+
+#: wysija-newsletters/controllers/back/campaigns.php:885
+#: wysija-newsletters/controllers/back/campaigns.php:907
+#: wysija-newsletters/controllers/back/campaigns.php:2274
+#: wysija-newsletters/controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "分类："
+
+#: wysija-newsletters/controllers/back/campaigns.php:886
+#: wysija-newsletters/controllers/back/campaigns.php:908
+#: wysija-newsletters/controllers/back/campaigns.php:2275
+#: wysija-newsletters/controllers/back/campaigns.php:2544
+#: wysija-newsletters/helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "最新内容已发送。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:934
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "用小工具%s自动最新内容%s添加下列文章"
+
+#: wysija-newsletters/controllers/back/campaigns.php:950
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%s要编辑%s，移上鼠标以便在下面显示编辑按钮。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1035
+#: wysija-newsletters/helpers/install.php:248
+msgid "Step 1:"
+msgstr "步骤 1："
+
+#: wysija-newsletters/controllers/back/campaigns.php:1035
+#: wysija-newsletters/helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "点击该文字！"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1035
+#: wysija-newsletters/helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "要编辑，只需点击该文字块。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1051
+#: wysija-newsletters/helpers/install.php:263
+msgid "Step 2:"
+msgstr "步骤 2："
+
+#: wysija-newsletters/controllers/back/campaigns.php:1051
+#: wysija-newsletters/helpers/install.php:263
+msgid "play with this image"
+msgstr "使用这张图片"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1061
+#: wysija-newsletters/helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "向左移动图片上的鼠标。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1082
+#: wysija-newsletters/helpers/install.php:294
+msgid "Step 3:"
+msgstr "步骤 3："
+
+#: wysija-newsletters/controllers/back/campaigns.php:1082
+#: wysija-newsletters/helpers/install.php:294
+msgid "drop content here"
+msgstr "在这里放入内容"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1083
+#: wysija-newsletters/helpers/install.php:295
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "拖放%1$s文本，文章，分隔线。%2$s看看右边!"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1084
+#: wysija-newsletters/helpers/install.php:296
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "可用的%1$s社会化书签%2$s："
+
+#: wysija-newsletters/controllers/back/campaigns.php:1125
+#: wysija-newsletters/helpers/install.php:337
+msgid "Step 4:"
+msgstr "步骤 4："
+
+#: wysija-newsletters/controllers/back/campaigns.php:1125
+#: wysija-newsletters/helpers/install.php:337
+msgid "and the footer?"
+msgstr "还有底部呢？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1126
+#: wysija-newsletters/helpers/install.php:338
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "在MailPoet的%1$s设置%2$s页面，修改尾部内容。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "时事通讯已成功创建。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "信息丢失。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Google Campaign仅能包含拉丁字符，数字，空格和连字符！"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1243
+#: wysija-newsletters/models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "时事通讯已排进计划。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "时事通讯已保存为草稿。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1555
+#: wysija-newsletters/helpers/back.php:460
+#: wysija-newsletters/helpers/back.php:530
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:74
+msgid "Newsletters"
+msgstr "时事通讯"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "请选择一封时事通讯。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1559
+#: wysija-newsletters/views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "永久删除该时事通讯？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1560
+#: wysija-newsletters/views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "彻底删除这些时事通讯？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "批量发送邮件..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "查看时事通讯"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "时事通讯将会失效，需要重新激活它，一旦编辑它即可激活。想要继续吗?"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "订阅组已被删除。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "发送暂停。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "没有时事通讯。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:1896
+msgid "Stats : %1$s"
+msgstr "统计：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "请求不能获取任何订阅人。改变过滤条件！"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2149
+msgid "Segment of %1$s"
+msgstr "%1$s的段落"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "基于一个时事通讯段落创建了列表"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2162
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "用这部分创建了新列表\"%1$s\"。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "这部分已从所有订阅组中退订。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "这部分已从该时事通讯的队列中删除。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2227
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "这部分已从订阅组\"%1$s\"中退订。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "这部分不能从一个[IMPORT]订阅组中退订。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2236
+#: wysija-newsletters/helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "选择文章"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2248
+#: wysija-newsletters/views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "显示和插入选项"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2249
+#: wysija-newsletters/views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "返回选择区"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "加载结果..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "插入选择的文章..."
+
+#: wysija-newsletters/controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "已选择"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2346
+#: wysija-newsletters/controllers/back/subscribers.php:835
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "上传错误，文件%1$s太大！(最大：%2$s)"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "安装主题"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "详细和PSD"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2367
+#: wysija-newsletters/views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<<返回"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "下载"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "重新安装"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2370
+#: wysija-newsletters/helpers/back.php:349
+#: wysija-newsletters/views/back/campaigns.php:1945
+#: wysija-newsletters-premium/helpers/premium.php:427
+msgid "Premium"
+msgstr "付费版"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Photoshop文件可用是[link]付费版功能[/link]。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "显示所有主题"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2386
+msgid "(%1$s votes)"
+msgstr "(%1$s 投票)"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "投票已记录。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "投票不能记录。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2389
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "注意！如果重装该主题，目录：/wp-content/uploads/wysija/themes/%1$s中所有文件将重写。确实要重装？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2392
+msgid "View all themes by %1$s"
+msgstr "查看所有%1$s的主题"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "下载原始Photoshop文件"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "已.zip下载"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "查看作者的网站"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2396
+msgid "Average rating: %1$s"
+msgstr "平均评级：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2397
+msgid "My rating: %1$s"
+msgstr "我的评级：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2398
+msgid "Downloads: %1$s"
+msgstr "下载：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2399
+msgid "Tags: %1$s"
+msgstr "标签：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2400
+msgid "Last updated: %1$s"
+msgstr "最后更新：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2401
+msgid "Includes: %1$s"
+msgstr "包括：%1$s"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "书签选择"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "分隔选择"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "添加 / 编辑文字组"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2521
+#: wysija-newsletters/views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "显示展示选项"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "隐藏展示选项"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "图片参数"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "删除所有时事通讯的图片？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "这张图片可能在一篇文章中。一定要删除吗？"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "太多文件在排队了。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2628
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s 超出了该网站最大的上传大小。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "这个文件是空的，请试另外一个。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "不允许这个文件的类型。请试另外一个。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "这个文件不是一张图片。请试另外一个。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "内存溢出。请试试另一个小一点的文件。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "这比最大的大小还大。请试另外一个。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "上传时发生错误。请稍后重试。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "有一个配置错误。请联系服务器管理员。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "可以仅上传1个文件。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP错误。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "上传失败。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2639
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "请使用浏览器%1$s的%2$s上传工具来上传这个文件。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2640
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "在使用你的浏览器的多文件上传工具时%s超出了最大的上传大小。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO错误。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "安全错误。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "文件已取消。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "上传已停止。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "取消"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "捣鼓&hellip;"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "移至垃圾桶。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2648
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; 上传失败。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2649
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d文件上传成功。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "已保存。"
+
+#: wysija-newsletters/controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "该时事通讯不存在。"
+
+#: wysija-newsletters/controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "发送测试邮件"
+
+#: wysija-newsletters/controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "退信处理连接测试"
+
+#: wysija-newsletters/controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "正在处理退信操作"
+
+#: wysija-newsletters/controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "订阅人现在需要通过邮件来激活他们的订阅，以便能收到你的时事通讯。推荐这么做。"
+
+#: wysija-newsletters/controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "未确认的订阅人从现在开始将收到你的时事通讯，而不需要激活他们的订阅。"
+
+#: wysija-newsletters/controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "现在处理退信操作！"
+
+#: wysija-newsletters/controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "在设置退信系统时，需要一个不同的退信邮件地址，并发至地址"
+
+#: wysija-newsletters/controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "确实要删除这个表单吗？"
+
+#: wysija-newsletters/controllers/back/config.php:80
+#: wysija-newsletters/controllers/back.php:351
+#: wysija-newsletters/controllers/back.php:358
+#: wysija-newsletters/helpers/links.php:23
+#: wysija-newsletters/views/back/campaigns.php:859
+#: wysija-newsletters/views/back/subscribers.php:648
+#: wysija-newsletters-premium/helpers/premium.php:348
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:149
+msgid "Get Premium now"
+msgstr "马上获取付费版"
+
+#: wysija-newsletters/controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "就快完成了。点击这个[link]链接[/link]来激活刚刚购买的许可证。 "
+
+#: wysija-newsletters/controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "重新安装MailPoet？"
+
+#: wysija-newsletters/controllers/back/config.php:163
+#: wysija-newsletters/helpers/update.php:789
+msgid "New Form"
+msgstr "新表单"
+
+#: wysija-newsletters/controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "这个表单不存在"
+
+#: wysija-newsletters/controllers/back/config.php:202
+msgid "Copy"
+msgstr "复制"
+
+#: wysija-newsletters/controllers/back/config.php:208
+msgid "The form named \"%1$s\" has been created."
+msgstr "名称为\"%1$s\"的表单已创建。"
+
+#: wysija-newsletters/controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "这个表单已删除。"
+
+#: wysija-newsletters/controllers/back/config.php:235
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "名称为\"%1$s\"的表单已删除。"
+
+#: wysija-newsletters/controllers/back/config.php:259
+msgid "New form"
+msgstr "新表单"
+
+#: wysija-newsletters/controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "这个表单不存在。"
+
+#: wysija-newsletters/controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Widget设置"
+
+#: wysija-newsletters/controllers/back/premium.php:23
+#: wysija-newsletters/controllers/back/premium.php:28
+#: wysija-newsletters/controllers/back/premium.php:33
+#: wysija-newsletters/views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "已经付过钱了？点击这里来激活"
+
+#: wysija-newsletters/controllers/back/premium.php:24
+#: wysija-newsletters/controllers/back/premium.php:29
+#: wysija-newsletters/controllers/back/premium.php:34
+#: wysija-newsletters/helpers/back.php:532
+msgid "Checking license"
+msgstr "正在检查许可证"
+
+#: wysija-newsletters/controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "最近7天"
+
+#: wysija-newsletters/controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "上个月"
+
+#: wysija-newsletters/controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "最近30天"
+
+#: wysija-newsletters/controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "最近90天"
+
+#: wysija-newsletters/controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "最近180天"
+
+#: wysija-newsletters/controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "最近365天"
+
+#: wysija-newsletters/controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "自定义日期"
+
+#: wysija-newsletters/controllers/back/subscribers.php:215
+#: wysija-newsletters/controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "订阅人已保存。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "每页的订阅人数："
+
+#: wysija-newsletters/controllers/back/subscribers.php:237
+#: wysija-newsletters/views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "至少选择1个订阅人！"
+
+#: wysija-newsletters/controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "呀！找不到任何订阅人。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:357
+#: wysija-newsletters/helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "订阅人未保存。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "订阅人已修改。 [link]再编辑[/link]。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "订阅人未修改。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:403
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s个订阅人已加到\"%2$s\"里。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:405
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s个订阅人已加到\"%2$s\"里。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:428
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s个订阅人已移到\"%2$s\"里。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:430
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s个订阅人已移到\"%2$s\"里。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:463
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s个订阅人已从所有存在的订阅组中删除。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:465
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s个订阅人已从所有存在的订阅组中删除。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:486
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s个订阅人已从\"%2$s\"里删除。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:488
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s个订阅人已从\"%2$s\"里删除。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:507
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s个订阅人已确认。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:509
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s个订阅人已确认。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:548
+#: wysija-newsletters/helpers/user.php:606
+msgid "No email sent."
+msgstr "邮件未发送"
+
+#: wysija-newsletters/controllers/back/subscribers.php:550
+#: wysija-newsletters/helpers/user.php:608
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "%d 电子邮件已发送到未确认的订阅者。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "编辑订阅组"
+
+#: wysija-newsletters/controllers/back/subscribers.php:572
+msgid "Editing list %1$s"
+msgstr "编辑订阅组%1$s"
+
+#: wysija-newsletters/controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "新的订阅组怎么样？"
+
+#: wysija-newsletters/controllers/back/subscribers.php:604
+msgid "List \"%1$s\" has been duplicated."
+msgstr "已复制订阅组\"%1$s\"。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:613
+#: wysija-newsletters/views/back/subscribers.php:34
+#: wysija-newsletters/views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "增加订阅人"
+
+#: wysija-newsletters/controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "没找到订阅人，很有可能因为他已被删除了。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:653
+#: wysija-newsletters/views/back/campaigns.php:15
+#: wysija-newsletters/views/back/campaigns.php:490
+#: wysija-newsletters/views/back/campaigns.php:514
+#: wysija-newsletters/views/back/campaigns.php:536
+#: wysija-newsletters/views/back/campaigns.php:1215
+#: wysija-newsletters/views/back/config.php:190
+#: wysija-newsletters/views/back/config.php:1768
+#: wysija-newsletters/views/back/config.php:1810
+#: wysija-newsletters/views/back/subscribers.php:16
+#: wysija-newsletters/views/back/subscribers.php:748
+#: wysija-newsletters/views/back.php:18
+msgid "Edit"
+msgstr "编辑"
+
+#: wysija-newsletters/controllers/back/subscribers.php:692
+msgid "List \"%1$s\" has been deleted."
+msgstr "已删除订阅组\"%1$s\"。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "订阅组不存在或不能删除。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "已更新订阅组。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "崭新的订阅组等待它的第一个订阅人。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:776
+msgid "Import from plugin %1$s has been completed."
+msgstr "从插件%1$s中导入已完成。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:778
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "从插件%1$s中导入已取消。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "从插件中导入订阅人。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "没有可导入的插件。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:816
+#: wysija-newsletters/controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "导入订阅人"
+
+#: wysija-newsletters/controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "选中的值已经匹配到另一列。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "确认这列对应于该字段？"
+
+#: wysija-newsletters/controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "粘贴的是"
+
+#: wysija-newsletters/controllers/back/subscribers.php:849
+#: wysija-newsletters/views/back/campaigns.php:977
+#: wysija-newsletters/views/back/subscribers.php:81
+#: wysija-newsletters/views/back/subscribers.php:316
+#: wysija-newsletters/views/back/subscribers.php:523
+#: wysija-newsletters/views/back/subscribers.php:528
+#: wysija-newsletters/views/back/subscribers.php:725
+#: wysija-newsletters/views/front/confirm.php:88
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:34
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:36
+msgid "Unsubscribed"
+msgstr "已退订"
+
+#: wysija-newsletters/controllers/back/subscribers.php:850
+#: wysija-newsletters/views/back/campaigns.php:977
+#: wysija-newsletters/views/back/subscribers.php:78
+#: wysija-newsletters/views/back/subscribers.php:316
+#: wysija-newsletters/views/back/subscribers.php:523
+#: wysija-newsletters/views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "未确认"
+
+#: wysija-newsletters/controllers/back/subscribers.php:850
+#: wysija-newsletters/controllers/back/subscribers.php:851
+#: wysija-newsletters/views/back/campaigns.php:977
+#: wysija-newsletters/views/back/subscribers.php:84
+#: wysija-newsletters/views/back/subscribers.php:316
+#: wysija-newsletters/views/back/subscribers.php:523
+#: wysija-newsletters/views/back/subscribers.php:528
+#: wysija-newsletters/views/back/subscribers.php:716
+#: wysija-newsletters/views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "已订阅"
+
+#: wysija-newsletters/controllers/back/subscribers.php:876
+#: wysija-newsletters/helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "需要选择至少一个订阅组。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:897
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s个订阅人添加到%2$s。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:911
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "文件：%2$s中，%1$s邮件出现多于一次。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:915
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s邮件无效：%2$s。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "导出订阅人"
+
+#: wysija-newsletters/controllers/back/subscribers.php:973
+msgid " %1$s subscribers have been deleted."
+msgstr "已删除%1$s个订阅人。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:975
+msgid " %1$s subscriber have been deleted."
+msgstr "已删除%1$s个订阅人。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:1000
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "已导出%1$s个订阅人。在[link]这里[/link]获取导出的文件。"
+
+#: wysija-newsletters/controllers/back/subscribers.php:1027
+msgid "Exporting %1$s subscribers"
+msgstr "正导出%1$s个订阅人"
+
+#: wysija-newsletters/controllers/back.php:352
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "呀！你已经超过了免费版MailPoet 2000个订阅人的限制(共%1$s个)。现在发送不可用了。要无限制的发送请升级到[link]付费版[/link]。"
+
+#: wysija-newsletters/controllers/back.php:359
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "呀！你已接近MailPoet免费版%1$s个订阅人的限制了。要无限制地发送，请升级到[link]付费版[/link]，还有更多功能。"
+
+#: wysija-newsletters/controllers/back.php:484
+msgid "Elements deleted"
+msgstr "元素已删除"
+
+#: wysija-newsletters/controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "元素已经被删除"
+
+#: wysija-newsletters/controllers/back.php:567
+#: wysija-newsletters/controllers/back.php:570
+#: wysija-newsletters/views/back/campaigns.php:1970
+#: wysija-newsletters/views/back/campaigns.php:2536
+#: wysija-newsletters/views/back/campaigns.php:2538
+#: wysija-newsletters/views/back/campaigns.php:2699
+#: wysija-newsletters/views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "上传"
+
+#: wysija-newsletters/controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "时事通讯图片"
+
+#: wysija-newsletters/controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "WP文章图片"
+
+#: wysija-newsletters/controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "页面不存在。"
+
+#: wysija-newsletters/controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "请验证这个页面的链接。"
+
+#: wysija-newsletters/controllers/front/confirm.php:58
+#: wysija-newsletters/models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "你已退订！"
+
+#: wysija-newsletters/controllers/front/confirm.php:61
+#: wysija-newsletters/models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "你不会再收到我们的邮件了！"
+
+#: wysija-newsletters/controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "你已经退订了。"
+
+#: wysija-newsletters/controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "是不是误操作？[link]取消退订[/link]。"
+
+#: wysija-newsletters/controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "你已订阅！"
+
+#: wysija-newsletters/controllers/front/confirm.php:120
+#: wysija-newsletters/models/config.php:220
+#: wysija-newsletters/models/config.php:654
+msgid "Edit your subscription"
+msgstr "编辑你的订阅"
+
+#: wysija-newsletters/controllers/front/confirm.php:138
+msgid "Edit your subscriber profile: %1$s"
+msgstr "编辑订阅人资料：%1$s"
+
+#: wysija-newsletters/controllers/front/confirm.php:180
+msgid "Email %1$s already exists."
+msgstr "邮件%1$s已经存在。"
+
+#: wysija-newsletters/controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "时事通讯资料已更新。"
+
+#: wysija-newsletters/controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "无JavaScript的订阅不可用。"
+
+#: wysija-newsletters/controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "好像widget已从WP的 [link]小工具区[/link]删除。"
+
+#: wysija-newsletters/controllers/front/subscribers.php:132
+#: wysija-newsletters/helpers/backloader.php:188
+#: wysija-newsletters/helpers/form_engine.php:823
+#: wysija-newsletters/helpers/wj_engine.php:87
+#: wysija-newsletters/widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "加载中..."
+
+#: wysija-newsletters/core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "产生一个错误， [link]显示更多信息。[/link]"
+
+#: wysija-newsletters/core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]查看更多信息。[/link]"
+
+#: wysija-newsletters/core/base.php:715
+msgid "Once every minute"
+msgstr "每分钟一次"
+
+#: wysija-newsletters/core/base.php:719
+msgid "Once every two minutes"
+msgstr "每两分钟一次"
+
+#: wysija-newsletters/core/base.php:723
+msgid "Once every five minutes"
+msgstr "每5分钟一次"
+
+#: wysija-newsletters/core/base.php:727
+msgid "Once every ten minutes"
+msgstr "每10分钟一次"
+
+#: wysija-newsletters/core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "每15分钟一次"
+
+#: wysija-newsletters/core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "每30分钟一次"
+
+#: wysija-newsletters/core/base.php:739
+msgid "Once every two hours"
+msgstr "每2小时一次"
+
+#: wysija-newsletters/core/base.php:743
+msgid "Once a week"
+msgstr "每周一次"
+
+#: wysija-newsletters/core/base.php:747
+msgid "Once every 28 days"
+msgstr "每28天一次"
+
+#: wysija-newsletters/core/base.php:903
+#: wysija-newsletters/core/base.php:904
+#: wysija-newsletters/views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet页面"
+
+#: wysija-newsletters/core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "你的PHP版本过低，如果不及时更新，将不支持最新版本的MailPoet 。"
+
+#: wysija-newsletters/core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]阅读如何更新您的PHP版本。[/link]"
+
+#: wysija-newsletters/core/base.php:1631
+#: wysija-newsletters-premium/helpers/premium.php:268
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]消除[/link]此提示。"
+
+#: wysija-newsletters/core/model.php:643
+msgid "Error Validating the fields"
+msgstr "验证字段时错误"
+
+#: wysija-newsletters/core/model.php:743
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "表\"%2$s\"中字段\"%1$s\"是必须的。"
+
+#: wysija-newsletters/core/model.php:751
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "字段\"%1$s\"需要一个有效的Email。"
+
+#: wysija-newsletters/core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "没有数据加载！"
+
+#: wysija-newsletters/core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "服务器的配置不允许完成MailPoet的安装！"
+
+#: wysija-newsletters/helpers/articles.php:31
+msgid "Read online."
+msgstr "在线阅读。"
+
+#: wysija-newsletters/helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "点击这里查看媒体。"
+
+#: wysija-newsletters/helpers/articles.php:383
+#: wysija-newsletters/views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "根据类型过滤"
+
+#: wysija-newsletters/helpers/articles.php:385
+msgid "Posts"
+msgstr "文章"
+
+#: wysija-newsletters/helpers/articles.php:386
+msgid "Pages"
+msgstr "页面"
+
+#: wysija-newsletters/helpers/articles.php:397
+#: wysija-newsletters/views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "目录和标签"
+
+#: wysija-newsletters/helpers/articles.php:407
+msgid "Filter by status"
+msgstr "用状态过滤"
+
+#: wysija-newsletters/helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "需要激活MailPoet付费版插件。"
+
+#: wysija-newsletters/helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "确认激活MailPoet付费版插件？"
+
+#: wysija-newsletters/helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "激活MailPoet付费版插件"
+
+#: wysija-newsletters/helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "恭喜，付费版许可证可用。最后一步..."
+
+#: wysija-newsletters/helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "确认安装MailPoet付费版插件？"
+
+#: wysija-newsletters/helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "安装MailPoet付费版插件"
+
+#: wysija-newsletters/helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "下载付费版插件。"
+
+#: wysija-newsletters/helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "它并不是一直按照我们想要的方式工作，不是吗？我们有一个[link]专门的支持网站[/link]，提供文档和一个计票系统。"
+
+#: wysija-newsletters/helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet版本："
+
+#: wysija-newsletters/helpers/back.php:347
+#: wysija-newsletters/helpers/back.php:447
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions_view.php:52
+msgid "Subscribers"
+msgstr "订阅人"
+
+#: wysija-newsletters/helpers/back.php:348
+#: wysija-newsletters/helpers/back.php:455
+#: wysija-newsletters-premium/helpers/extend_config.php:144
+msgid "Settings"
+msgstr "设置"
+
+#: wysija-newsletters/helpers/back.php:350
+msgid "Module"
+msgstr "模块"
+
+#: wysija-newsletters/helpers/back.php:451
+#: wysija-newsletters-premium/helpers/premium.php:372
+#: wysija-newsletters-premium/helpers/premium.php:378
+msgid "Statistics"
+msgstr "统计"
+
+#: wysija-newsletters/helpers/back.php:473
+msgid "Get Help!"
+msgstr "获得帮助！"
+
+#: wysija-newsletters/helpers/back.php:513
+msgid "Go Premium!"
+msgstr "成为高级会员！"
+
+#: wysija-newsletters/helpers/back.php:585
+msgid "Contact Support"
+msgstr "联系支持人员"
+
+#: wysija-newsletters/helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "在[link]wordpress.org[/link]上加[stars]，保持这个插件基本版免费。"
+
+#: wysija-newsletters/helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet版本"
+
+#: wysija-newsletters/helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "请先做选择！"
+
+#: wysija-newsletters/helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "删除订阅组不会删除任何订阅人。"
+
+#: wysija-newsletters/helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "想安装那个版本？"
+
+#: wysija-newsletters/helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "找不到"
+
+#: wysija-newsletters/helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "请输入<%= chars %>更多字符<%= plural %>"
+
+#: wysija-newsletters/helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "请删除<%= chars %>字符<%= plural %>"
+
+#: wysija-newsletters/helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "仅选择<%= chars %>条目<%= plural %>"
+
+#: wysija-newsletters/helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "加载更多结果..."
+
+#: wysija-newsletters/helpers/backloader.php:234
+msgid "Searching..."
+msgstr "查询..."
+
+#: wysija-newsletters/helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "下一页&gt;"
+
+#: wysija-newsletters/helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; 上一页"
+
+#: wysija-newsletters/helpers/backloader.php:286
+msgid "Image"
+msgstr "图片"
+
+#: wysija-newsletters/helpers/backloader.php:287
+msgid "of"
+msgstr "属于"
+
+#: wysija-newsletters/helpers/backloader.php:288
+msgid "Close"
+msgstr "关闭"
+
+#: wysija-newsletters/helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "此功能需要内嵌框架。iframe已禁用或浏览器不支持它们。"
+
+#: wysija-newsletters/helpers/bounce.php:316
+#: wysija-newsletters/helpers/bounce.php:319
+#: wysija-newsletters-premium/helpers/extend_config.php:49
+msgid "Bounce Handling"
+msgstr "退信处理"
+
+#: wysija-newsletters/helpers/bounce.php:355
+msgid "Subject"
+msgstr "标题"
+
+#: wysija-newsletters/helpers/bounce.php:583
+msgid "We received %1$s messages from the user %2$s"
+msgstr "收到%1$s封来自用户%2$s的邮件"
+
+#: wysija-newsletters/helpers/bounce.php:583
+msgid "Actions will be executed after %1$s messages"
+msgstr "%1$s封邮件后将执行动作"
+
+#: wysija-newsletters/helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "没有邮件"
+
+#: wysija-newsletters/helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "是的，它能工作了。你可以开始狂发邮件到月球了。"
+
+#: wysija-newsletters/helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "完成了所有的设置！使用Gmail已经成功地发送了。"
+
+#: wysija-newsletters/helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "正在找更快的发送方法？关于使用专业SMTP发送的[link]详细内容[/link]。"
+
+#: wysija-newsletters/helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method]可和MailPoet一起运行"
+
+#: wysija-newsletters/helpers/email.php:102
+msgid "Test email successfully sent to %s"
+msgstr "测试邮件已成功地发送给 %s"
+
+#: wysija-newsletters/helpers/email.php:108
+#: wysija-newsletters/helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "你的服务器上PHP扩展openssl不可用。如果想用SSL链接，要求空间提供商开启它。"
+
+#: wysija-newsletters/helpers/email.php:110
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "退信邮件地址\"%1$s\"也许是导致这个问题的真正原因。留空这个字段再试。"
+
+#: wysija-newsletters/helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "你设置了一个SMTP密码，但你没有要求认证，你可能需要把SMTP认证打开。"
+
+#: wysija-newsletters/helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "你的本地机器可能没有邮件服务器。要验证，请登出，并在登录页面点击\"忘记密码？\"链接。收到WP发出的重置密码邮件吗？"
+
+#: wysija-newsletters/helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "正保存表单..."
+
+#: wysija-newsletters/helpers/form_engine.php:37
+#: wysija-newsletters/views/back/campaigns.php:1902
+#: wysija-newsletters/views/back/campaigns.php:1920
+#: wysija-newsletters/views/back/config.php:1877
+#: wysija-newsletters/views/back/subscribers.php:473
+#: wysija-newsletters/views/back.php:794
+#: wysija-newsletters/views/front/confirm.php:157
+msgid "Save"
+msgstr "保存"
+
+#: wysija-newsletters/helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "编辑显示"
+
+#: wysija-newsletters/helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "必须至少选择1个订阅组"
+
+#: wysija-newsletters/helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "订阅人需要至少2个选项来选择"
+
+#: wysija-newsletters/helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "需要为复选框指定一个值"
+
+#: wysija-newsletters/helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "添加新字段"
+
+#: wysija-newsletters/helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "编辑自定义字段"
+
+#: wysija-newsletters/helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "确认要删除这个自定义字段吗？"
+
+#: wysija-newsletters/helpers/form_engine.php:65
+msgid "January"
+msgstr "一月"
+
+#: wysija-newsletters/helpers/form_engine.php:66
+msgid "February"
+msgstr "二月"
+
+#: wysija-newsletters/helpers/form_engine.php:67
+msgid "March"
+msgstr "三月"
+
+#: wysija-newsletters/helpers/form_engine.php:68
+msgid "April"
+msgstr "四月"
+
+#: wysija-newsletters/helpers/form_engine.php:69
+msgid "May"
+msgstr "五月"
+
+#: wysija-newsletters/helpers/form_engine.php:70
+msgid "June"
+msgstr "六月"
+
+#: wysija-newsletters/helpers/form_engine.php:71
+msgid "July"
+msgstr "七月"
+
+#: wysija-newsletters/helpers/form_engine.php:72
+msgid "August"
+msgstr "八月"
+
+#: wysija-newsletters/helpers/form_engine.php:73
+msgid "September"
+msgstr "九月"
+
+#: wysija-newsletters/helpers/form_engine.php:74
+msgid "October"
+msgstr "十月"
+
+#: wysija-newsletters/helpers/form_engine.php:75
+msgid "November"
+msgstr "十一月"
+
+#: wysija-newsletters/helpers/form_engine.php:76
+msgid "December"
+msgstr "十二月"
+
+#: wysija-newsletters/helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "马上检查你的收件箱或垃圾箱，确认你的订阅。"
+
+#: wysija-newsletters/helpers/form_engine.php:240
+#: wysija-newsletters/helpers/form_engine.php:244
+#: wysija-newsletters/helpers/update.php:716
+#: wysija-newsletters/helpers/update.php:736
+#: wysija-newsletters/helpers/update.php:740
+#: wysija-newsletters/models/user_field.php:19
+#: wysija-newsletters/views/back/campaigns.php:936
+#: wysija-newsletters/views/back/subscribers.php:273
+#: wysija-newsletters/views/back/subscribers.php:488
+#: wysija-newsletters/views/back/subscribers.php:969
+#: wysija-newsletters/views/front/confirm.php:54
+#: wysija-newsletters/views/front/widget_nl.php:255
+#: wysija-newsletters/views/front/widget_nl.php:328
+#: wysija-newsletters/widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "邮件"
+
+#: wysija-newsletters/helpers/form_engine.php:249
+#: wysija-newsletters/helpers/update.php:775
+msgid "Submit"
+msgstr "提交"
+
+#: wysija-newsletters/helpers/form_engine.php:253
+#: wysija-newsletters/helpers/update.php:770
+#: wysija-newsletters/widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "订阅！"
+
+#: wysija-newsletters/helpers/form_engine.php:316
+#: wysija-newsletters/views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "分隔符"
+
+#: wysija-newsletters/helpers/form_engine.php:321
+#: wysija-newsletters/helpers/install.php:592
+#: wysija-newsletters/helpers/update.php:709
+#: wysija-newsletters/models/user_field.php:20
+#: wysija-newsletters/views/back/subscribers.php:497
+#: wysija-newsletters/views/back/subscribers.php:970
+#: wysija-newsletters/views/front/confirm.php:65
+#: wysija-newsletters/views/front/widget_nl.php:256
+#: wysija-newsletters/views/front/widget_nl.php:326
+msgid "First name"
+msgstr ""
+"姓\n"
+""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "每周工作开始："
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "月度常规开始于："
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:390
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:124
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:166
+msgid "N/A"
+msgstr "N/A"
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "激活！"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:29
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:35
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:37
+msgid "In queue"
+msgstr "在队列中"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:30
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:36
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:38
+msgid "Not sent"
+msgstr "没发送"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: wysija-newsletters/views/back/campaigns.php:222
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:37
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:39
+msgid "Bounced"
+msgstr "已退回"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: wysija-newsletters/views/back/campaigns.php:109
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:33
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:35
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:63
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:65
+msgid "Sent"
+msgstr "已发送"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:33
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:32
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:34
+msgid "Opened only"
+msgstr "仅已打开"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:34
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:31
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:33
+msgid "Opened & Clicked"
+msgstr "已打开和已点击"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "已打开和已退订"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:222
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:139
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:143
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:101
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:105
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:135
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:139
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:179
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:183
+msgid "Rate"
+msgstr "等级"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:55
+msgid "Top links"
+msgstr "热门链接"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:63
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:97
+msgid "Link"
+msgstr "链接"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "独立点击次数"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "总共点击次数"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "当前正在浏览"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: wysija-newsletters/views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "查看订阅人"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: wysija-newsletters/views/back/campaigns.php:15
+#: wysija-newsletters/views/back/campaigns.php:504
+#: wysija-newsletters/views/back/campaigns.php:526
+#: wysija-newsletters/views/back/campaigns.php:551
+#: wysija-newsletters/views/back/config.php:1771
+#: wysija-newsletters/views/back/subscribers.php:16
+#: wysija-newsletters/views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "复制"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google分析"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:71
+msgid "Sent on"
+msgstr "发送于"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: wysija-newsletters/views/back/campaigns.php:340
+#: wysija-newsletters/views/back/campaigns.php:940
+#: wysija-newsletters/views/back/campaigns.php:1088
+#: wysija-newsletters/views/back/campaigns.php:1526
+#: wysija-newsletters/views/back/config.php:1702
+#: wysija-newsletters/views/back/subscribers.php:274
+#: wysija-newsletters/views/back/subscribers.php:550
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:75
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:70
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:20
+msgid "Lists"
+msgstr "订阅组"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: wysija-newsletters/views/back/statistics.php:47
+msgid "From"
+msgstr "从"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "回复到"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "退信"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "订阅人打开了%2$s封邮件中的%1$s封"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "订阅人打开了%2$s封邮件中的%1$s封"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:68
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:66
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:71
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:67
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:18
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:98
+msgid "Clicks"
+msgstr "点击"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:99
+msgid "Device"
+msgstr "设备"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: wysija-newsletters/views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "打开日期"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "数据已发送"
+
+#: wysija-newsletters/views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "所有时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "查找时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:15
+#: wysija-newsletters/views/back/campaigns.php:507
+#: wysija-newsletters/views/back/campaigns.php:529
+#: wysija-newsletters/views/back/campaigns.php:554
+#: wysija-newsletters/views/back/config.php:1774
+#: wysija-newsletters/views/back/subscribers.php:16
+#: wysija-newsletters/views/back/subscribers.php:756
+#: wysija-newsletters/views/back.php:18
+#: wysija-newsletters/views/back.php:20
+msgid "Delete"
+msgstr "删除"
+
+#: wysija-newsletters/views/back/campaigns.php:54
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Back"
+msgstr "返回"
+
+#: wysija-newsletters/views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "创建新邮件"
+
+#: wysija-newsletters/views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "...或复制下面的一个来使用它的设计。"
+
+#: wysija-newsletters/views/back/campaigns.php:106
+#: wysija-newsletters/views/back/campaigns.php:204
+#: wysija-newsletters/views/back/subscribers.php:75
+msgid "All"
+msgstr "所有"
+
+#: wysija-newsletters/views/back/campaigns.php:115
+#: wysija-newsletters/views/back/campaigns.php:365
+#: wysija-newsletters/views/back/campaigns.php:444
+msgid "Draft"
+msgstr "草稿"
+
+#: wysija-newsletters/views/back/campaigns.php:118
+#: wysija-newsletters/views/back/campaigns.php:442
+msgid "Paused"
+msgstr "已暂停"
+
+#: wysija-newsletters/views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "标准时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "自动时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "显示所有月份"
+
+#: wysija-newsletters/views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "通过订阅组查看"
+
+#: wysija-newsletters/views/back/campaigns.php:192
+#: wysija-newsletters/views/back/statistics.php:49
+#: wysija-newsletters/views/back/subscribers.php:224
+msgid "Filter"
+msgstr "过滤"
+
+#: wysija-newsletters/views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "所有已发送"
+
+#: wysija-newsletters/views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "在队列中"
+
+#: wysija-newsletters/views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "发送失败"
+
+#: wysija-newsletters/views/back/campaigns.php:216
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:114
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:141
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:276
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:183
+msgid "Unopened"
+msgstr "未打开"
+
+#: wysija-newsletters/views/back/campaigns.php:219
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:110
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:137
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:265
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:179
+msgid "Opened"
+msgstr "已打开"
+
+#: wysija-newsletters/views/back/campaigns.php:225
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:144
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:133
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:252
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:175
+msgid "Clicked"
+msgstr "已点击"
+
+#: wysija-newsletters/views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "使用这部分"
+
+#: wysija-newsletters/views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "从队列中删除"
+
+#: wysija-newsletters/views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "创建新订阅组"
+
+#: wysija-newsletters/views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "从所有订阅组中退订"
+
+#: wysija-newsletters/views/back/campaigns.php:282
+msgid "Unsubscribe from list: %1$s"
+msgstr "从订阅组：%1$s 退订"
+
+#: wysija-newsletters/views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "导出到CSV"
+
+#: wysija-newsletters/views/back/campaigns.php:290
+#: wysija-newsletters/views/back/subscribers.php:178
+#: wysija-newsletters/views/back.php:209
+msgid "Apply"
+msgstr "应用"
+
+#: wysija-newsletters/views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "打开，点击，已退订"
+
+#: wysija-newsletters/views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "修改于"
+
+#: wysija-newsletters/views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "发送于"
+
+#: wysija-newsletters/views/back/campaigns.php:365
+msgid "Sent to %1$s out of %2$s"
+msgstr "已发送至%2$s个订阅人中的%1$s人"
+
+#: wysija-newsletters/views/back/campaigns.php:365
+msgid "%1$s out of %2$s sent."
+msgstr "%2$s个订阅人中的%1$s人已发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:427
+msgid "Scheduled to be sent in %1$s"
+msgstr "已排程于%1$s发送"
+
+#: wysija-newsletters/views/back/campaigns.php:430
+msgid "Scheduled to be sent on %1$s"
+msgstr "已排程于%1$s发送"
+
+#: wysija-newsletters/views/back/campaigns.php:478
+#: wysija-newsletters/views/back/config.php:189
+msgid "Preview"
+msgstr "预览"
+
+#: wysija-newsletters/views/back/campaigns.php:497
+#: wysija-newsletters/views/back/campaigns.php:520
+#: wysija-newsletters/views/back/campaigns.php:544
+msgid "Stats"
+msgstr "统计"
+
+#: wysija-newsletters/views/back/campaigns.php:595
+msgid "Next send out in %1$s"
+msgstr "下一次在%1$s发出"
+
+#: wysija-newsletters/views/back/campaigns.php:598
+msgid "Next send out on %1$s"
+msgstr "下一次于%1$s发出"
+
+#: wysija-newsletters/views/back/campaigns.php:605
+msgid "Sent daily at %1$s."
+msgstr "每日发送在%1$s运行。"
+
+#: wysija-newsletters/views/back/campaigns.php:608
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "每周发送在%1$s的%2$s运行"
+
+#: wysija-newsletters/views/back/campaigns.php:611
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "每月发送在%1$s的%2$s运行"
+
+#: wysija-newsletters/views/back/campaigns.php:614
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "每月发送在%1$s %2$s的%3$s运行"
+
+#: wysija-newsletters/views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "如果有新内容"
+
+#: wysija-newsletters/views/back/campaigns.php:649
+msgid "Pause"
+msgstr "暂停"
+
+#: wysija-newsletters/views/back/campaigns.php:657
+#: wysija-newsletters/views/back/campaigns.php:672
+msgid "Not active."
+msgstr "未激活。"
+
+#: wysija-newsletters/views/back/campaigns.php:660
+msgid "Resume"
+msgstr "继续"
+
+#: wysija-newsletters/views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "还未发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "马上发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:735
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "有人订阅邮件列表%1$s后立即发送"
+
+#: wysija-newsletters/views/back/campaigns.php:737
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "有人订阅邮件列表%1$s后发送%2$s"
+
+#: wysija-newsletters/views/back/campaigns.php:744
+msgid "any role"
+msgstr "任何角色"
+
+#: wysija-newsletters/views/back/campaigns.php:748
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "新用户作为%1$s加入网站后立即发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:751
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "新用户作为%1$s加入网站后发送%2$s。"
+
+#: wysija-newsletters/views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "每事件发送"
+
+#: wysija-newsletters/views/back/campaigns.php:788
+msgid "Sent to %1$s subscribers."
+msgstr "已发送给%1$s个订阅人。"
+
+#: wysija-newsletters/views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "最后一批邮件将在几分钟内自动开始发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:810
+msgid "Time remaining: %1$s"
+msgstr "剩余时间：%1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:843
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s封邮件已排程。"
+
+#: wysija-newsletters/views/back/campaigns.php:847
+msgid "Latest batch was sent %1$s ago."
+msgstr "最后一批在%1$s之前已发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "不用等，马上发送。"
+
+#: wysija-newsletters/views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "要继续发送[link]马上变成高级会员！[/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "查看有[link]付费版许可证[/link]的链接。"
+
+#: wysija-newsletters/views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "查找收件人"
+
+#: wysija-newsletters/views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "邮件状态"
+
+#: wysija-newsletters/views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "订阅人状态"
+
+#: wysija-newsletters/views/back/campaigns.php:949
+#: wysija-newsletters/views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "点击"
+
+#: wysija-newsletters/views/back/campaigns.php:959
+#: wysija-newsletters/views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "订阅在"
+
+#: wysija-newsletters/views/back/campaigns.php:1000
+#: wysija-newsletters/views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "查看状态或编辑"
+
+#: wysija-newsletters/views/back/campaigns.php:1065
+#: wysija-newsletters/views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "这是什么类型的时事通讯？"
+
+#: wysija-newsletters/views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "自动发送..."
+
+#: wysija-newsletters/views/back/campaigns.php:1079
+#: wysija-newsletters/views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "标题行"
+
+#: wysija-newsletters/views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "这是邮件的标题。要填写是因为它是订阅人首先看到的东西。"
+
+#: wysija-newsletters/views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "呀！你的浏览器可能不支持，获取最新的[linkchrome]Chrome[/linkchrome]，[linkff]Firefox[/linkff]，[linkie]Internet Explorer[/linkie]或[linksafari]Safari[/linksafari]。可以工作吗？[link_ignore]取消[/link_ignore]。"
+
+#: wysija-newsletters/views/back/campaigns.php:1125
+#: wysija-newsletters/views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "保存并重新激活"
+
+#: wysija-newsletters/views/back/campaigns.php:1127
+#: wysija-newsletters/views/back/campaigns.php:1313
+#: wysija-newsletters/views/back/subscribers.php:948
+msgid "Next step"
+msgstr "下一步"
+
+#: wysija-newsletters/views/back/campaigns.php:1196
+#: wysija-newsletters/views/back/config.php:1900
+msgid "Content"
+msgstr "内容"
+
+#: wysija-newsletters/views/back/campaigns.php:1198
+msgid "Images"
+msgstr "图片"
+
+#: wysija-newsletters/views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "样式"
+
+#: wysija-newsletters/views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "主题"
+
+#: wysija-newsletters/views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "拖拽下面的widget到时事通讯中。"
+
+#: wysija-newsletters/views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "最新自动内容"
+
+#: wysija-newsletters/views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "社会化书签"
+
+#: wysija-newsletters/views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "添加图片"
+
+#: wysija-newsletters/views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "添加更多主题"
+
+#: wysija-newsletters/views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "工具栏不能加载？"
+
+#: wysija-newsletters/views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "冲突"
+
+#: wysija-newsletters/views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "肯定是在用的第3方插件或主题破坏了界面。[link]详细内容。[/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:1302
+#: wysija-newsletters/views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "发送预览"
+
+#: wysija-newsletters/views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "保存变更"
+
+#: wysija-newsletters/views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "返回第 1 步"
+
+#: wysija-newsletters/views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "如果确认切换主题，将覆盖头部，尾部，分隔符和样式"
+
+#: wysija-newsletters/views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "创建后，它是订阅人首先看到的东西。可引导他们打开邮件。"
+
+#: wysija-newsletters/views/back/campaigns.php:1505
+msgid "When..."
+msgstr "何时..."
+
+#: wysija-newsletters/views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "这个活动将使用的订阅人列表。"
+
+#: wysija-newsletters/views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "发送人"
+
+#: wysija-newsletters/views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "自己的或公司的名字和邮件"
+
+#: wysija-newsletters/views/back/campaigns.php:1543
+#: wysija-newsletters/views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "回复人的名字和邮件"
+
+#: wysija-newsletters/views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "订阅人点击“回复”时，谁将收到他们的邮件。"
+
+#: wysija-newsletters/views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "为它排程"
+
+#: wysija-newsletters/views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "忽略当前的订阅人"
+
+#: wysija-newsletters/views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "不发送给已有的订阅人，仅发给后订阅人"
+
+#: wysija-newsletters/views/back/campaigns.php:1593
+#: wysija-newsletters/views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "保存为草稿并关闭"
+
+#: wysija-newsletters/views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "或仅[link]返回设计[/link]。"
+
+#: wysija-newsletters/views/back/campaigns.php:1745
+msgid "Local time is <code>%1$s</code>"
+msgstr "本地时间是<code>%1$s</code>"
+
+#: wysija-newsletters/views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "标准时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "自动时事通讯"
+
+#: wysija-newsletters/views/back/campaigns.php:1882
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:34
+msgid "Added"
+msgstr "已增加"
+
+#: wysija-newsletters/views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "地址："
+
+#: wysija-newsletters/views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "替代文字："
+
+#: wysija-newsletters/views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "这些文字在邮件客户端屏蔽图片时显示，屏蔽图片在大多数时间会发生。"
+
+#: wysija-newsletters/views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "上传主题(.zip)"
+
+#: wysija-newsletters/views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "创建自己的主题的[link]指南[/link]。"
+
+#: wysija-newsletters/views/back/campaigns.php:1944
+msgid "Free"
+msgstr "免费"
+
+#: wysija-newsletters/views/back/campaigns.php:1967
+#: wysija-newsletters/views/back/subscribers.php:928
+msgid "total max upload file size : %1$s"
+msgstr "总共最大上传文件的大小：%1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "如果存在同样名字的主题，覆盖它。"
+
+#: wysija-newsletters/views/back/campaigns.php:2005
+msgid "Search"
+msgstr "查询"
+
+#: wysija-newsletters/views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "插入已选"
+
+#: wysija-newsletters/views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "它使用哪一个摘要？[link]详细内容[/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "显示..."
+
+#: wysija-newsletters/views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "摘要"
+
+#: wysija-newsletters/views/back/campaigns.php:2044
+msgid "full post"
+msgstr "整篇文章"
+
+#: wysija-newsletters/views/back/campaigns.php:2045
+msgid "title only"
+msgstr "仅标题"
+
+#: wysija-newsletters/views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "标题格式"
+
+#: wysija-newsletters/views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "标题1"
+
+#: wysija-newsletters/views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "标题2"
+
+#: wysija-newsletters/views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "标题3"
+
+#: wysija-newsletters/views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "列表显示"
+
+#: wysija-newsletters/views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "标题位置"
+
+#: wysija-newsletters/views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "在文字块"
+
+#: wysija-newsletters/views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "在文章块和图片之上"
+
+#: wysija-newsletters/views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "标题对齐"
+
+#: wysija-newsletters/views/back/campaigns.php:2067
+#: wysija-newsletters/views/back/campaigns.php:2083
+msgid "left"
+msgstr "左边"
+
+#: wysija-newsletters/views/back/campaigns.php:2068
+#: wysija-newsletters/views/back/campaigns.php:2084
+msgid "center"
+msgstr "中间"
+
+#: wysija-newsletters/views/back/campaigns.php:2069
+#: wysija-newsletters/views/back/campaigns.php:2085
+msgid "right"
+msgstr "右边"
+
+#: wysija-newsletters/views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "图片对齐"
+
+#: wysija-newsletters/views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "交替左边和右边"
+
+#: wysija-newsletters/views/back/campaigns.php:2086
+msgid "no image"
+msgstr "无图"
+
+#: wysija-newsletters/views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "图片宽度"
+
+#: wysija-newsletters/views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "包含作者"
+
+#: wysija-newsletters/views/back/campaigns.php:2107
+#: wysija-newsletters/views/back/campaigns.php:2122
+#: wysija-newsletters/views/back/campaigns.php:2162
+msgid "no"
+msgstr "不"
+
+#: wysija-newsletters/views/back/campaigns.php:2108
+#: wysija-newsletters/views/back/campaigns.php:2123
+msgid "above content"
+msgstr "在内容之上"
+
+#: wysija-newsletters/views/back/campaigns.php:2109
+#: wysija-newsletters/views/back/campaigns.php:2124
+msgid "below content"
+msgstr "在内容之下"
+
+#: wysija-newsletters/views/back/campaigns.php:2112
+#: wysija-newsletters/views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "前面加："
+
+#: wysija-newsletters/views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "包含分类"
+
+#: wysija-newsletters/views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"详细内容\" 文字"
+
+#: wysija-newsletters/views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "背景颜色"
+
+#: wysija-newsletters/views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "批量插入选项"
+
+#: wysija-newsletters/views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "排序方式"
+
+#: wysija-newsletters/views/back/campaigns.php:2154
+msgid "newest"
+msgstr "最新"
+
+#: wysija-newsletters/views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "最久"
+
+#: wysija-newsletters/views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "文章间显示分隔符"
+
+#: wysija-newsletters/views/back/campaigns.php:2161
+msgid "yes"
+msgstr "是"
+
+#: wysija-newsletters/views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "交替背景颜色"
+
+#: wysija-newsletters/views/back/campaigns.php:2197
+#: wysija-newsletters/views/back/campaigns.php:2279
+#: wysija-newsletters/views/back/campaigns.php:2317
+#: wysija-newsletters/views/back/campaigns.php:2352
+#: wysija-newsletters/views/back/config.php:2225
+msgid "Done"
+msgstr "完成"
+
+#: wysija-newsletters/views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "文章类型"
+
+#: wysija-newsletters/views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "显示文章的最大数"
+
+#: wysija-newsletters/views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "和分类..."
+
+#: wysija-newsletters/views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "选择..."
+
+#: wysija-newsletters/views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "大小："
+
+#: wysija-newsletters/views/back/campaigns.php:2307
+msgid "small"
+msgstr "小"
+
+#: wysija-newsletters/views/back/campaigns.php:2308
+msgid "medium"
+msgstr "中"
+
+#: wysija-newsletters/views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: wysija-newsletters/views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: wysija-newsletters/views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "你的设备上的网络浏览器不能用来上传文件。可使用<a href=\"http://wordpress.org/extend/mobile/\">为你的设备准备的本机应用程序</a>。"
+
+#: wysija-newsletters/views/back/campaigns.php:2471
+#: wysija-newsletters/views/back/campaigns.php:2627
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "对不起，存储空间用完了(%s MB)。"
+
+#: wysija-newsletters/views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "允许的文件"
+
+#: wysija-newsletters/views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "这里放入文件"
+
+#: wysija-newsletters/views/back/campaigns.php:2527
+#: wysija-newsletters/views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "选择文件"
+
+#: wysija-newsletters/views/back/campaigns.php:2544
+#: wysija-newsletters/views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "取消"
+
+#: wysija-newsletters/views/back/campaigns.php:2549
+msgid "Maximum upload file size: %d%s."
+msgstr "最大上传文件大小：%d%s。"
+
+#: wysija-newsletters/views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "浏览器使用多文件上传工具上传大文件有一些限制。超过100MB时请使用浏览器上传工具。"
+
+#: wysija-newsletters/views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "为使用最新的上传系统，请更新WordPress至最新版本。"
+
+#: wysija-newsletters/views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "选择上传文件"
+
+#: wysija-newsletters/views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "取消上传"
+
+#: wysija-newsletters/views/back/campaigns.php:2691
+#: wysija-newsletters/views/back/campaigns.php:2708
+msgid "Maximum upload file size: %d%s"
+msgstr "最大上传文件的大小：%d%s"
+
+#: wysija-newsletters/views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "如果想使用上传工具的所有功能，如一次上传多个文件，请升级到lighttp 1.5。"
+
+#: wysija-newsletters/views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "这个选项卡将用来自当前和上一个时事通讯的图片填充。"
+
+#: wysija-newsletters/views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "这个选项卡将用来自WordPress文章的图片填充。"
+
+#: wysija-newsletters/views/back/campaigns.php:2817
+msgid "Welcome to %1$s"
+msgstr "欢迎来到%1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:2875
+#: wysija-newsletters/views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "谢谢！马上让我使用MailPoet。"
+
+#: wysija-newsletters/views/back/campaigns.php:2902
+msgid "You have been a MailPoet user for %s."
+msgstr "您已使用MailPoet%s。"
+
+#: wysija-newsletters/views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "哇，谢谢长期参与我们的社区。"
+
+#: wysija-newsletters/views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "你已更新！它用于下面的小变动，确实更好了。"
+
+#: wysija-newsletters/views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "一个快速提问..."
+
+#: wysija-newsletters/views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "订阅我们的电子报"
+
+#: wysija-newsletters/views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "保持这个插件基本上是免费的"
+
+#: wysija-newsletters/views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "喜欢小猫吗？"
+
+#: wysija-newsletters/views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "我们喜欢标记..."
+
+#: wysija-newsletters/views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "用户每次忘记写评论时，会死一只小猫。这很难过也很伤心。 [link]添加自己的评论[/link] 来救一只小猫吧。"
+
+#: wysija-newsletters/views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "关注我们将不会错过任何事情！"
+
+#: wysija-newsletters/views/back/campaigns.php:2967
+#: wysija-newsletters/views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "隐藏！"
+
+#: wysija-newsletters/views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "变更日志"
+
+#: wysija-newsletters/views/back/campaigns.php:2992
+msgid "You've updated to %1$s"
+msgstr "已更新至%1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:3132
+#: wysija-newsletters/views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "你好，我有个问题简单地问一下您:"
+
+#: wysija-newsletters/views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "如果确认这个，当前MailPoet的所有数据将擦除(时事通讯，主题，统计，订阅组，订阅人，等等。)"
+
+#: wysija-newsletters/views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "确认重装"
+
+#: wysija-newsletters/views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "这个功能不能用是引文JetPack插件的\"Comments\"功能可用。"
+
+#: wysija-newsletters/views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "该网站的注册功能不可用。"
+
+#: wysija-newsletters/views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "订阅人可以从这些订阅组中挑选："
+
+#: wysija-newsletters/views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "我会在我的服务器上按我想要的频率设置一个cron job。阅读相关的 [link]自己设置一个cron job[/link]。"
+
+#: wysija-newsletters/views/back/config.php:216
+#: wysija-newsletters/views/back/config.php:245
+#: wysija-newsletters/views/back/config.php:255
+#: wysija-newsletters-premium/helpers/extend_config.php:338
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "在cron job使用这个URl：[cron_url]"
+
+#: wysija-newsletters/views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "不，谢谢！网站有足够多的访问人。他们的访问会自动触发MailPoet的Cron。"
+
+#: wysija-newsletters/views/back/config.php:244
+#: wysija-newsletters-premium/helpers/extend_config.php:337
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "我是一个付费用户，MailPoet.com将确保按时发送我的电子邮件。"
+
+#: wysija-newsletters/views/back/config.php:245
+#: wysija-newsletters-premium/helpers/extend_config.php:338
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "如果想在服务器上[link]创建一个另外的cron job[/link]，以增加发送频率。"
+
+#: wysija-newsletters/views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "如果想在服务器上[link]创建一个另外的cron job[/link]，以增加频率。"
+
+#: wysija-newsletters/views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "配置你的DNS，添加如下所示的key/value文本记录。"
+
+#: wysija-newsletters/views/back/config.php:331
+#: wysija-newsletters/views/back/config.php:828
+msgid "Read more"
+msgstr "详细内容"
+
+#: wysija-newsletters/views/back/config.php:334
+msgid "Key"
+msgstr "键"
+
+#: wysija-newsletters/views/back/config.php:334
+msgid "Value"
+msgstr "值"
+
+#: wysija-newsletters/views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "正在使用Gmail不支持的较老的DKIM密钥。"
+
+#: wysija-newsletters/views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "如果升级，需要更新DNS。"
+
+#: wysija-newsletters/views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "升级DKIM密钥"
+
+#: wysija-newsletters/views/back/config.php:345
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:60
+msgid "Domain"
+msgstr "域名"
+
+#: wysija-newsletters/views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "角色和权限"
+
+#: wysija-newsletters/views/back/config.php:430
+msgid "View all"
+msgstr "查看所有"
+
+#: wysija-newsletters/views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "当有人订阅时"
+
+#: wysija-newsletters/views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "当有人退订时"
+
+#: wysija-newsletters/views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "每天发送邮件的概况"
+
+#: wysija-newsletters/views/back/config.php:477
+#: wysija-newsletters/views/back/config.php:725
+#: wysija-newsletters/views/back/config.php:1001
+#: wysija-newsletters/views/back/config.php:1026
+#: wysija-newsletters/views/back/config.php:1045
+#: wysija-newsletters/views/back/config.php:1167
+#: wysija-newsletters/views/back/config.php:1174
+#: wysija-newsletters/views/back/config.php:1602
+#: wysija-newsletters/views/back/config.php:1626
+#: wysija-newsletters/views/back/config.php:2584
+#: wysija-newsletters/views/back/config.php:2660
+#: wysija-newsletters/views/back/config.php:2679
+#: wysija-newsletters/views/back/subscribers.php:1262
+#: wysija-newsletters-premium/helpers/extend_config.php:191
+msgid "No"
+msgstr "不"
+
+#: wysija-newsletters/views/back/config.php:486
+#: wysija-newsletters/views/back/config.php:725
+#: wysija-newsletters/views/back/config.php:1035
+#: wysija-newsletters/views/back/config.php:1054
+#: wysija-newsletters/views/back/config.php:1167
+#: wysija-newsletters/views/back/config.php:1174
+#: wysija-newsletters/views/back/config.php:1635
+#: wysija-newsletters/views/back/config.php:2583
+#: wysija-newsletters/views/back/config.php:2659
+#: wysija-newsletters/views/back/config.php:2678
+#: wysija-newsletters/views/back/subscribers.php:1261
+#: wysija-newsletters-premium/helpers/extend_config.php:191
+msgid "Yes"
+msgstr "是"
+
+#: wysija-newsletters/views/back/config.php:593
+#: wysija-newsletters/views/back/config.php:603
+#: wysija-newsletters/views/back/config.php:612
+#: wysija-newsletters/views/back/config.php:623
+#: wysija-newsletters/views/back/config.php:1389
+#: wysija-newsletters-premium/helpers/extend_config.php:130
+msgid "Save settings"
+msgstr "保存设置"
+
+#: wysija-newsletters/views/back/config.php:648
+msgid "Your company's address"
+msgstr "你的公司地址"
+
+#: wysija-newsletters/views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "这个地址将加到时事通讯的尾部。这对避免垃圾过滤有帮助。"
+
+#: wysija-newsletters/views/back/config.php:655
+msgid "Email notifications"
+msgstr "邮件通知"
+
+#: wysija-newsletters/views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "输入将收到通知的邮件地址(用逗号分隔)。"
+
+#: wysija-newsletters/views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "通知发送人"
+
+#: wysija-newsletters/views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "为通知邮件选择发件人名称和邮件地址。"
+
+#: wysija-newsletters/views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "在评论中订阅"
+
+#: wysija-newsletters/views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "在文章里提交评论的访问人可以选中选择框来订阅。"
+
+#: wysija-newsletters/views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "在注册表单中订阅"
+
+#: wysija-newsletters/views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "允许在网站注册的用户订阅你选择的订阅组。"
+
+#: wysija-newsletters/views/back/config.php:692
+msgid "Link to browser version"
+msgstr "到浏览器版本的链接"
+
+#: wysija-newsletters/views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "在时事通讯顶部显示。不要忘记包含链接标签，如：[link]The link[/link]"
+
+#: wysija-newsletters/views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "“退订”链接的文字"
+
+#: wysija-newsletters/views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "这会改变时事通讯尾部的退订链接的标签。"
+
+#: wysija-newsletters/views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "退订页面"
+
+#: wysija-newsletters/views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "订阅人在点击时事通讯底部的退订链接后，会导航到你选择的页面。"
+
+#: wysija-newsletters/views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "启用订阅确认"
+
+#: wysija-newsletters/views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "阻止不愿意订阅的人，此选项可确保保持一个干净的订阅组。"
+
+#: wysija-newsletters/views/back/config.php:727
+msgid "Learn more."
+msgstr "了解更多。"
+
+#: wysija-newsletters/views/back/config.php:735
+msgid "Email subject"
+msgstr "邮件标题"
+
+#: wysija-newsletters/views/back/config.php:740
+msgid "Email content"
+msgstr "邮件内容"
+
+#: wysija-newsletters/views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "不要忘记需包含<br><br>[activation_link]确认你的订阅[/activation_link]. <br><br>可选：[lists_to_confirm]。"
+
+#: wysija-newsletters/views/back/config.php:746
+msgid "Confirmation page"
+msgstr "确认页面"
+
+#: wysija-newsletters/views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "订阅人点击激活链接时，会导航到你选择的页面。"
+
+#: wysija-newsletters/views/back/config.php:793
+msgid "Network's Method"
+msgstr "网络的方法"
+
+#: wysija-newsletters/views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "网络管理员设置的方法。"
+
+#: wysija-newsletters/views/back/config.php:796
+msgid "Not Configured!"
+msgstr "没有配置！"
+
+#: wysija-newsletters/views/back/config.php:812
+#: wysija-newsletters/views/back/config.php:1417
+msgid "Your own website"
+msgstr "自己的网站"
+
+#: wysija-newsletters/views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "小订阅组最简单的方案。网站主机可设置每天邮件的限制。"
+
+#: wysija-newsletters/views/back/config.php:827
+#: wysija-newsletters/views/back/config.php:1430
+msgid "Third party"
+msgstr "第三方"
+
+#: wysija-newsletters/views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "用专业的SMTP提供商来发送，对小的和大的订阅组来说都是很棒的选择。我们已经与几个提供商协商给你优惠了。"
+
+#: wysija-newsletters/views/back/config.php:837
+#: wysija-newsletters/views/back/config.php:1455
+msgid "Delivery method"
+msgstr "发送方法"
+
+#: wysija-newsletters/views/back/config.php:838
+#: wysija-newsletters/views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "发一些测试邮件给自己来确认服务器用哪种方法工作。"
+
+#: wysija-newsletters/views/back/config.php:855
+#: wysija-newsletters/views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "这个邮件引擎工作在服务器的95&#37; 端口"
+
+#: wysija-newsletters/views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "这个方法工作在服务器的5&#37; 端口"
+
+#: wysija-newsletters/views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail的路径"
+
+#: wysija-newsletters/views/back/config.php:884
+#: wysija-newsletters/views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "和WP站点使用同一个方法。"
+
+#: wysija-newsletters/views/back/config.php:898
+#: wysija-newsletters/views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP主机名"
+
+#: wysija-newsletters/views/back/config.php:899
+#: wysija-newsletters/views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "例如：smtp.mydomain.com"
+
+#: wysija-newsletters/views/back/config.php:916
+#: wysija-newsletters/views/back/config.php:1517
+#: wysija-newsletters-premium/helpers/extend_config.php:175
+msgid "Login"
+msgstr "用户名"
+
+#: wysija-newsletters/views/back/config.php:933
+#: wysija-newsletters/views/back/config.php:1107
+#: wysija-newsletters/views/back/config.php:1535
+#: wysija-newsletters-premium/helpers/extend_config.php:179
+msgid "Password"
+msgstr "密码"
+
+#: wysija-newsletters/views/back/config.php:951
+#: wysija-newsletters/views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "如果SMTP端口被屏蔽，请激活。"
+
+#: wysija-newsletters/views/back/config.php:973
+#: wysija-newsletters/views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP端口"
+
+#: wysija-newsletters/views/back/config.php:993
+#: wysija-newsletters/views/back/config.php:1595
+msgid "Secure connection"
+msgstr "安全连接"
+
+#: wysija-newsletters/views/back/config.php:1010
+#: wysija-newsletters/views/back/config.php:1611
+msgid "Authentication"
+msgstr "认证"
+
+#: wysija-newsletters/views/back/config.php:1011
+#: wysija-newsletters/views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "保持这个选项为是。仅很少一部分SMTP服务不需要认证。"
+
+#: wysija-newsletters/views/back/config.php:1064
+#: wysija-newsletters/views/back/config.php:1646
+msgid "Test method"
+msgstr "测试方法"
+
+#: wysija-newsletters/views/back/config.php:1068
+#: wysija-newsletters/views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "发送测试邮件"
+
+#: wysija-newsletters/views/back/config.php:1075
+#: wysija-newsletters/views/back/config.php:1658
+msgid "Send..."
+msgstr "发送..."
+
+#: wysija-newsletters/views/back/config.php:1077
+#: wysija-newsletters/views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "网站主机的限制。为了安全，建议每小时70封邮件。[link]信息驿站[/link]。"
+
+#: wysija-newsletters/views/back/config.php:1089
+#: wysija-newsletters/views/back/config.php:1669
+msgid "emails"
+msgstr "封邮件"
+
+#: wysija-newsletters/views/back/config.php:1097
+#: wysija-newsletters/views/back/config.php:1676
+msgid "This is fast!"
+msgstr "这真快呀！"
+
+#: wysija-newsletters/views/back/config.php:1097
+#: wysija-newsletters/views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "建议设置一个cron job。在support.mailpoet.com上[link]了解更多[/link]。"
+
+#: wysija-newsletters/views/back/config.php:1106
+msgid "API Key"
+msgstr "API密钥"
+
+#: wysija-newsletters/views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "可以为时事通讯变更默认的回复人名称和邮件。这个选项也适用于激活邮件和管理员通知(在基本设置里)。"
+
+#: wysija-newsletters/views/back/config.php:1143
+#: wysija-newsletters-premium/helpers/extend_config.php:165
+msgid "Bounce Email"
+msgstr "退信邮件地址"
+
+#: wysija-newsletters/views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "所有退回邮件要发往的地址。 [link]付费版[/link]会自动处理这些。"
+
+#: wysija-newsletters/views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "购买付费版。"
+
+#: wysija-newsletters/views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "订阅人可以编辑他们的资料"
+
+#: wysija-newsletters/views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "在所有的时事通讯尾部添加链接，以便订阅人可以编辑他们的资料和订阅组。[link]查看自己的订阅资料页面。[/link]"
+
+#: wysija-newsletters/views/back/config.php:1155
+#: wysija-newsletters-premium/helpers/extend_config.php:90
+msgid "Preview page"
+msgstr "阅览页面"
+
+#: wysija-newsletters/views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "订阅人资料页面"
+
+#: wysija-newsletters/views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "选择显示订阅人资料的页面。"
+
+#: wysija-newsletters/views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "运行编辑HTML"
+
+#: wysija-newsletters/views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "这允许在可视化编辑器中修改文字块的HTML。"
+
+#: wysija-newsletters/views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "分享匿名数据"
+
+#: wysija-newsletters/views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "分享匿名数据可帮助我们改进这个插件。 [link]详细内容[/link]。"
+
+#: wysija-newsletters/views/back/config.php:1184
+msgid "other"
+msgstr "其他"
+
+#: wysija-newsletters/views/back/config.php:1185
+msgid "art"
+msgstr "艺术"
+
+#: wysija-newsletters/views/back/config.php:1186
+msgid "business"
+msgstr "商业"
+
+#: wysija-newsletters/views/back/config.php:1187
+msgid "education"
+msgstr "教育"
+
+#: wysija-newsletters/views/back/config.php:1188
+msgid "e-commerce"
+msgstr "电子商务"
+
+#: wysija-newsletters/views/back/config.php:1189
+msgid "food"
+msgstr "美食"
+
+#: wysija-newsletters/views/back/config.php:1190
+msgid "insurance"
+msgstr "保险"
+
+#: wysija-newsletters/views/back/config.php:1191
+msgid "government"
+msgstr "政务"
+
+#: wysija-newsletters/views/back/config.php:1192
+msgid "health and sports"
+msgstr "健康和运动"
+
+#: wysija-newsletters/views/back/config.php:1193
+msgid "manufacturing"
+msgstr "制造业"
+
+#: wysija-newsletters/views/back/config.php:1194
+msgid "marketing and media"
+msgstr "市场营销和媒体"
+
+#: wysija-newsletters/views/back/config.php:1195
+msgid "non profit"
+msgstr "非营利"
+
+#: wysija-newsletters/views/back/config.php:1196
+msgid "photography"
+msgstr "摄影"
+
+#: wysija-newsletters/views/back/config.php:1197
+msgid "travel"
+msgstr "旅游"
+
+#: wysija-newsletters/views/back/config.php:1198
+msgid "real estate"
+msgstr "房地产"
+
+#: wysija-newsletters/views/back/config.php:1199
+msgid "religious"
+msgstr "宗教"
+
+#: wysija-newsletters/views/back/config.php:1200
+msgid "technology"
+msgstr "技术"
+
+#: wysija-newsletters/views/back/config.php:1202
+msgid "Industry"
+msgstr "工业"
+
+#: wysija-newsletters/views/back/config.php:1203
+msgid "Select your industry."
+msgstr "选择行业。"
+
+#: wysija-newsletters/views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "显示订阅人总数的短代码（Shortcode）"
+
+#: wysija-newsletters/views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "在文章或页面中粘贴这个shartcode，可显示已确认的订阅人数量。"
+
+#: wysija-newsletters/views/back/config.php:1221
+msgid "Charset"
+msgstr "字符集"
+
+#: wysija-newsletters/views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "您的电子邮件能显示方块字或奇怪的字符吗？选择语言编码。"
+
+#: wysija-newsletters/views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "启用MailPoet的Cron"
+
+#: wysija-newsletters/views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "排队的电子邮件没有一封发送成功？那么激活这个选项。"
+
+#: wysija-newsletters/views/back/config.php:1234
+msgid "Debug mode"
+msgstr "调试模式"
+
+#: wysija-newsletters/views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "启用这个，可显示MailPoet的错误。如果你要我们的支持人员帮助，他们可能要你启用这个。"
+
+#: wysija-newsletters/views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "做或不做。不能尝试。"
+
+#: wysija-newsletters/views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "让人讨厌的选项"
+
+#: wysija-newsletters/views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "切换让人讨厌的选项"
+
+#: wysija-newsletters/views/back/config.php:1260
+msgid "Hide"
+msgstr "隐藏"
+
+#: wysija-newsletters/views/back/config.php:1260
+#: wysija-newsletters/views/back/statistics.php:10
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:105
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:136
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:154
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:68
+msgid "Show"
+msgstr "显示"
+
+#: wysija-newsletters/views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "从零开始重新安装"
+
+#: wysija-newsletters/views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "想所有的都重新来一遍？这将彻底清除MailPoet并重装一个新的。"
+
+#: wysija-newsletters/views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "现在重装..."
+
+#: wysija-newsletters/views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "选择你的优先配置?"
+
+#: wysija-newsletters/views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "一次配置，所有站点使用"
+
+#: wysija-newsletters/views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "强制所有网站使用单一的发件人电子邮件地址发送。仅需一次性配置自动退信处理(付费版)，SPF和DKIM。"
+
+#: wysija-newsletters/views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "用户仍然可以为其时事通讯更改回复人的地址。网络管理员仍可以编辑每个网站的发送方法。"
+
+#: wysija-newsletters/views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "手动配置每个站点"
+
+#: wysija-newsletters/views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "为每个站点独立配置SPF和DKIM。"
+
+#: wysija-newsletters/views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "配置和权限"
+
+#: wysija-newsletters/views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "允许站点管理员更改发送方法"
+
+#: wysija-newsletters/views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "允许站点管理员禁用订阅确认"
+
+#: wysija-newsletters/views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "网络的默认发送方法"
+
+#: wysija-newsletters/views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF和DKIM"
+
+#: wysija-newsletters/views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "SPF记录"
+
+#: wysija-newsletters/views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "使用这个方法的站点的发件人邮件地址"
+
+#: wysija-newsletters/views/back/config.php:1710
+#: wysija-newsletters/widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "创建新表单"
+
+#: wysija-newsletters/views/back/config.php:1750
+msgid "No list specified"
+msgstr "没有指定的订阅组"
+
+#: wysija-newsletters/views/back/config.php:1755
+msgid "User choice: %s"
+msgstr "用户选择：%s"
+
+#: wysija-newsletters/views/back/config.php:1803
+msgid "Edit form"
+msgstr "编辑表单"
+
+#: wysija-newsletters/views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "要编辑表单，需要至少1个订阅组。"
+
+#: wysija-newsletters/views/back/config.php:1806
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Add List"
+msgstr "添加订阅组"
+
+#: wysija-newsletters/views/back/config.php:1815
+msgid "Edit name"
+msgstr "编辑名称"
+
+#: wysija-newsletters/views/back/config.php:1816
+msgid "List of forms"
+msgstr "表单列表"
+
+#: wysija-newsletters/views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "这个表单添加订阅者到这些订阅组："
+
+#: wysija-newsletters/views/back/config.php:1849
+msgid "Choose a list"
+msgstr "选择一个订阅组"
+
+#: wysija-newsletters/views/back/config.php:1866
+msgid "After submit..."
+msgstr "提交之后..."
+
+#: wysija-newsletters/views/back/config.php:1868
+msgid "show message"
+msgstr "显示邮件"
+
+#: wysija-newsletters/views/back/config.php:1869
+msgid "go to page"
+msgstr "前往页面"
+
+#: wysija-newsletters/views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "可简单地在主题的[link]Widget区域[/link]加入这个表单。"
+
+#: wysija-newsletters/views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] 及 [link_shortcode]shortcode[/link_shortcode] 版本有效."
+
+#: wysija-newsletters/views/back/config.php:2154
+msgid "Text Input"
+msgstr "文本输入框"
+
+#: wysija-newsletters/views/back/config.php:2155
+msgid "Text Area"
+msgstr "文本区"
+
+#: wysija-newsletters/views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "单选框"
+
+#: wysija-newsletters/views/back/config.php:2157
+msgid "Checkbox"
+msgstr "复选框"
+
+#: wysija-newsletters/views/back/config.php:2158
+msgid "Select"
+msgstr "选择"
+
+#: wysija-newsletters/views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "选择一个字段类型："
+
+#: wysija-newsletters/views/back/config.php:2211
+msgid "Field's name:"
+msgstr "字段的名称："
+
+#: wysija-newsletters/views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "自动添加段落"
+
+#: wysija-newsletters/views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "行数："
+
+#: wysija-newsletters/views/back/config.php:2302
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "%d 线"
+
+#: wysija-newsletters/views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "选择想加入的订阅组："
+
+#: wysija-newsletters/views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "年，月，日"
+
+#: wysija-newsletters/views/back/config.php:2422
+msgid "Year, month"
+msgstr "年，月"
+
+#: wysija-newsletters/views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "月份(一月，二月，...)"
+
+#: wysija-newsletters/views/back/config.php:2434
+msgid "Type of date:"
+msgstr "日期类型："
+
+#: wysija-newsletters/views/back/config.php:2530
+msgid "Add item"
+msgstr "添加条目"
+
+#: wysija-newsletters/views/back/config.php:2565
+msgid "Label:"
+msgstr "标签："
+
+#: wysija-newsletters/views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "在输入框内显示标签："
+
+#: wysija-newsletters/views/back/config.php:2619
+msgid "Order:"
+msgstr "排序："
+
+#: wysija-newsletters/views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "预选择今天的日期："
+
+#: wysija-newsletters/views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "这个字段是必须的吗？"
+
+#: wysija-newsletters/views/back/config.php:2723
+msgid "Numbers only"
+msgstr "仅数字"
+
+#: wysija-newsletters/views/back/config.php:2724
+msgid "Letters only"
+msgstr "仅文字"
+
+#: wysija-newsletters/views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "字母数字混合"
+
+#: wysija-newsletters/views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "电话号码，(允许+,-,#,(,)和空格)"
+
+#: wysija-newsletters/views/back/config.php:2732
+msgid "Validate for:"
+msgstr "验证："
+
+#: wysija-newsletters/views/back/config.php:2734
+msgid "Nothing"
+msgstr "无"
+
+#: wysija-newsletters/views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "付费版体验更好"
+
+#: wysija-newsletters/views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "所有统计在单一的面板里"
+
+#: wysija-newsletters/views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "查看全部截图"
+
+#: wysija-newsletters/views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "体验提高"
+
+#: wysija-newsletters/views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "一屏查看热门时事通讯，热门订阅人，热门链接，热门订阅组和热门域名。掌握发送过的时事通讯的情况。"
+
+#: wysija-newsletters/views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "增加订阅人"
+
+#: wysija-newsletters/views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "sidebar表单比尾部的表单获得了更多的订阅人吗？现在查查看。"
+
+#: wysija-newsletters/views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "比较过去和现在"
+
+#: wysija-newsletters/views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "现在是不是比3个月前做的更好呢？选择一个日期范围，揭示变化的结果。"
+
+#: wysija-newsletters/views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "到达他们的收件箱"
+
+#: wysija-newsletters/views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "在设计时事通讯时考虑受欢迎的内部工具[link]mail-tester[/link]，可1键获得垃圾邮件分数。"
+
+#: wysija-newsletters/views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "垃圾邮件过滤喜爱DKIM"
+
+#: wysija-newsletters/views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "时事通讯中添加一个DKIM签名可增加时事通讯的可信度。[link]阅读安装指南。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "配置它"
+
+#: wysija-newsletters/views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "我们的国际化的友好团队将帮助您优化设置中的细节，并确保所有都好运行。我们平均在10小时内回答问题。蛮快的！"
+
+#: wysija-newsletters/views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "自动化枯燥的东西"
+
+#: wysija-newsletters/views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "让插件自动删除<strong>退件和无效的地址</strong>。[link]查看指南。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "此外，MailPoet每15分钟检查网站，<strong>就像一个“cron” job</strong>，以确保电子邮件按时发送。不需要设置！"
+
+#: wysija-newsletters/views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30天退款"
+
+#: wysija-newsletters/views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "一个很棒的方法是尝试使用付费版。从来不会有人被锁定。"
+
+#: wysija-newsletters/views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "小猫就填补了这一空白。它看起来饿了，不是吗？我们喜欢小猫。"
+
+#: wysija-newsletters/views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "不再限制2000个订阅人"
+
+#: wysija-newsletters/views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "当确认的订阅人达到2000时，免费版会屏蔽时事通讯的发送。付费版没有这个限制。"
+
+#: wysija-newsletters/views/back/premium.php:116
+msgid "And more..."
+msgstr "以及更多..."
+
+#: wysija-newsletters/views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "想掌握订阅人一旦进入网站后发生了什么，可考虑Google分析活动跟踪"
+
+#: wysija-newsletters/views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "每个订阅人的详细统计"
+
+#: wysija-newsletters/views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "每封时事通讯里点击过的链接统计"
+
+#: wysija-newsletters/views/back/premium.php:132
+#: wysija-newsletters/views/back/premium.php:286
+msgid "Blogger"
+msgstr "写博客的人"
+
+#: wysija-newsletters/views/back/premium.php:135
+msgid "Freelance"
+msgstr "自由作家"
+
+#: wysija-newsletters/views/back/premium.php:138
+#: wysija-newsletters/views/back/premium.php:296
+msgid "Agency"
+msgstr "代理"
+
+#: wysija-newsletters/views/back/premium.php:148
+#: wysija-newsletters/views/back/premium.php:152
+#: wysija-newsletters/views/back/premium.php:156
+msgid "per year"
+msgstr "每年"
+
+#: wysija-newsletters/views/back/premium.php:162
+msgid "Single Site"
+msgstr "单站点"
+
+#: wysija-newsletters/views/back/premium.php:165
+msgid "Four Sites"
+msgstr "4个站点"
+
+#: wysija-newsletters/views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "无限站点"
+
+#: wysija-newsletters/views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "多站点已准备好了。"
+
+#: wysija-newsletters/views/back/premium.php:182
+msgid "Buy Now"
+msgstr "现在购买"
+
+#: wysija-newsletters/views/back/premium.php:186
+msgid "Already paid?"
+msgstr "已经付费？"
+
+#: wysija-newsletters/views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "销售有问题？[link]直接联系[/link]。"
+
+#: wysija-newsletters/views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "更多的统计监控每一件事情"
+
+#: wysija-newsletters/views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "想知道答案吗？为什么这样或那样的活动运作得非常好？哪个是最有效的订阅表单？通过全新的统计仪表板可获取清晰的画面！ [link]获取付费版的统计仪表板。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "自动清理邮件列表"
+
+#: wysija-newsletters/views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "想象付费版一样发送，并保持服务器高效率地发送。可考虑我们的高级列表清理工具，你完全可以避免发送到旧的或无效的电子邮件地址。 [link]用付费版让你的列表干净。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "更高频率发送"
+
+#: wysija-newsletters/views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "你知道吗？使用更高的频率发送更少的电子邮件更好。加入付费会员，我们将每15分钟ping一次你的网站，确保你的电子邮件都用这个频率顺利送出。 [link]使用付费版更好的发送。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "忘记限制"
+
+#: wysija-newsletters/views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "去除免费版中的2000个订阅人限制，并想发给多少订阅人就发给多少订阅人。 [link]摆脱限制！[/link]"
+
+#: wysija-newsletters/views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "研究热门订阅人"
+
+#: wysija-newsletters/views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "发现每个通讯里哪个链接排名靠前。找出哪些用户是你的头号粉丝，并获得关于它们的更多细节。[link]用付费版获取更多的数据。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:238
+msgid "Get faster support"
+msgstr "更快的支持"
+
+#: wysija-newsletters/views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "跳过排队，直接到我们的优先收件箱。[link]用付费版获得更快的支持[/link]"
+
+#: wysija-newsletters/views/back/premium.php:245
+msgid "Get more themes"
+msgstr "更多的主题"
+
+#: wysija-newsletters/views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "不擅长配色？别担心，我们与顶尖的设计师合作，为您提供充足的题材，最新的都是付费版独家拥有。[link]付费版中更多主题。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "在Google分析中跟踪读者"
+
+#: wysija-newsletters/views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "一旦把订阅人带到网站，要看看他们在做什么并提高保留率。[link]使用付费版中GA来跟踪读者。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30天体验保证"
+
+#: wysija-newsletters/views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "仍然对我们的产品和9人团队有顾虑？放心，我们很自信地让你试用30天。如果你不爽，我们马上退款。[link]放心地成为付费会员。[/link]"
+
+#: wysija-newsletters/views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "要产品化，考虑付费版！"
+
+#: wysija-newsletters/views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "我们有3中不同的许可证来满足你的需求："
+
+#: wysija-newsletters/views/back/premium.php:287
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "1个站点的付费版，每年%s。"
+
+#: wysija-newsletters/views/back/premium.php:288
+#: wysija-newsletters/views/back/premium.php:292
+#: wysija-newsletters/views/back/premium.php:298
+msgid "Get it now!"
+msgstr "现在得到它！"
+
+#: wysija-newsletters/views/back/premium.php:290
+msgid "Freelancer"
+msgstr "自由作家"
+
+#: wysija-newsletters/views/back/premium.php:291
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "4个站点的付费版，每年%s。"
+
+#: wysija-newsletters/views/back/premium.php:297
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "无限制站点的付费版，每年%s。"
+
+#: wysija-newsletters/views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "阅读简易的[link]条款和条件[/link]。"
+
+#: wysija-newsletters/views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "统计面板"
+
+#: wysija-newsletters/views/back/statistics.php:48
+msgid "To"
+msgstr "到"
+
+#: wysija-newsletters/views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "对这些统计有要反馈的吗？直接[link]联系我们[/link] 。"
+
+#: wysija-newsletters/views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "订阅组和订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "查找订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "返回列表"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "编辑订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+#: wysija-newsletters/views/back/subscribers.php:1235
+#: wysija-newsletters/views/back/subscribers.php:1270
+msgid "Import"
+msgstr "导入"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+#: wysija-newsletters/views/back/subscribers.php:166
+#: wysija-newsletters/views/back/subscribers.php:465
+msgid "Export"
+msgstr "导出"
+
+#: wysija-newsletters/views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "取消订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "从未打开或点击"
+
+#: wysija-newsletters/views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "彻底删除这个订阅人？"
+
+#: wysija-newsletters/views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "彻底删除这些订阅人？"
+
+#: wysija-newsletters/views/back/subscribers.php:119
+#: wysija-newsletters/views/back.php:202
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: wysija-newsletters/views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "移至订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "加到订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "从订阅组中删除"
+
+#: wysija-newsletters/views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "从所有的订阅组中删除"
+
+#: wysija-newsletters/views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "删除订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "确认未确认的订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "再次发送确认邮件"
+
+#: wysija-newsletters/views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "查看所有的订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "不在任何订阅组中的订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:277
+msgid "Last open"
+msgstr "最后打开"
+
+#: wysija-newsletters/views/back/subscribers.php:278
+msgid "Last click"
+msgstr "最后点击"
+
+#: wysija-newsletters/views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "本页上的所有订阅人都选中。"
+
+#: wysija-newsletters/views/back/subscribers.php:297
+msgid "Select all %1$s subscribers."
+msgstr "选择所有%1$s个订阅人。"
+
+#: wysija-newsletters/views/back/subscribers.php:300
+msgid "All %1$s subscribers are selected."
+msgstr "所有%1$s个订阅人都选中。"
+
+#: wysija-newsletters/views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "清除选择"
+
+#: wysija-newsletters/views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "这个订阅人订阅的订阅组。"
+
+#: wysija-newsletters/views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "选择一个订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:414
+msgid "Format"
+msgstr "格式"
+
+#: wysija-newsletters/views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV文件"
+
+#: wysija-newsletters/views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Windows版的Excel"
+
+#: wysija-newsletters/views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "仅导出已确认的订阅人"
+
+#: wysija-newsletters/views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "要导出的字段列表"
+
+#: wysija-newsletters/views/back/subscribers.php:587
+#: wysija-newsletters/views/front/confirm.php:140
+msgid "Unsubscribed on %1$s"
+msgstr "退订%1$s"
+
+#: wysija-newsletters/views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "注意：用[link]付费版[/link]可看到这个订阅人打开和点击了什么。"
+
+#: wysija-newsletters/views/back/subscribers.php:727
+msgid "Date created"
+msgstr "创建日期"
+
+#: wysija-newsletters/views/back/subscribers.php:764
+msgid "Update"
+msgstr "更新"
+
+#: wysija-newsletters/views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "获取所有MS用户"
+
+#: wysija-newsletters/views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "自己使用，不要展示给订阅人。"
+
+#: wysija-newsletters/views/back/subscribers.php:847
+msgid "Update list"
+msgstr "更新订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:851
+msgid "Add list"
+msgstr "添加订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "想怎么导入呢？"
+
+#: wysija-newsletters/views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "复制粘贴到文本框"
+
+#: wysija-newsletters/views/back/subscribers.php:885
+#: wysija-newsletters/views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "上传文件"
+
+#: wysija-newsletters/views/back/subscribers.php:900
+msgid "Import from %1$s"
+msgstr "从%1$s导入"
+
+#: wysija-newsletters/views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "然后再这里粘贴列表"
+
+#: wysija-newsletters/views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "这个列表需是CSV格式或从Gmail，Hotmail或Yahoo简单的粘贴。请参阅[link]我们的技术支持网站的例子[/link]。"
+
+#: wysija-newsletters/views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "这个列表需是CSV格式。请参阅[link]我们的技术支持网站的例子[/link]。"
+
+#: wysija-newsletters/views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "这些订阅人请求加入订阅组了吗？"
+
+#: wysija-newsletters/views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "如果答案是\"不\"，将认为自己是垃圾邮件发送者。"
+
+#: wysija-newsletters/views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]在support.mailpoet.com上了解更多[/link]。"
+
+#: wysija-newsletters/views/back/subscribers.php:965
+msgid "Match data"
+msgstr "匹配数据"
+
+#: wysija-newsletters/views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "忽略列..."
+
+#: wysija-newsletters/views/back/subscribers.php:1022
+msgid "Import as \"%1$s\""
+msgstr "导入为\"%1$s\""
+
+#: wysija-newsletters/views/back/subscribers.php:1023
+msgid "Import \"%1$s\" as date field"
+msgstr "作为日期字段导入\"%1$s\""
+
+#: wysija-newsletters/views/back/subscribers.php:1103
+#: wysija-newsletters/views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "验证蓝色的日期匹配原始日期。"
+
+#: wysija-newsletters/views/back/subscribers.php:1107
+#: wysija-newsletters/views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "如果该列的大多数行返回同样的错误，不要作为'日期字段'来匹配。"
+
+#: wysija-newsletters/views/back/subscribers.php:1107
+#: wysija-newsletters/views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "匹配日期出错。"
+
+#: wysija-newsletters/views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "选择一个或多个订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "选择想把那些订阅人导入的订阅组。"
+
+#: wysija-newsletters/views/back/subscribers.php:1181
+msgid "New list"
+msgstr "新建订阅组"
+
+#: wysija-newsletters/views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "输入新订阅组的名字"
+
+#: wysija-newsletters/views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "注意："
+
+#: wysija-newsletters/views/back/subscribers.php:1217
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "订阅人在导入之后将接收\"%1$s\"。"
+
+#: wysija-newsletters/views/back/subscribers.php:1260
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "从插件：%2$s中导入%1$s个订阅人"
+
+#: wysija-newsletters/views/back/tmce.php:72
+msgid "Insert form"
+msgstr "插入表单"
+
+#: wysija-newsletters/views/back.php:249
+#: wysija-newsletters/views/back.php:251
+#: wysija-newsletters/views/back.php:262
+#: wysija-newsletters/views/back.php:264
+msgid "Page %1$s"
+msgstr "第%1$s页"
+
+#: wysija-newsletters/views/back.php:257
+msgid "of %1$s"
+msgstr "共%1$s页"
+
+#: wysija-newsletters/views/back.php:295
+msgid "Split subscribers into %1$s pages."
+msgstr "把订阅人分成%1$s页。"
+
+#: wysija-newsletters/views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "每页显示的订阅人数："
+
+#: wysija-newsletters/views/back.php:680
+msgid "Modify"
+msgstr "修改"
+
+#: wysija-newsletters/views/back.php:682
+msgid "Add"
+msgstr "添加"
+
+#: wysija-newsletters/views/front/confirm.php:107
+msgid "Your lists"
+msgstr "你的订阅组"
+
+#: wysija-newsletters/views/front/widget_nl.php:90
+#: wysija-newsletters/widgets/wysija_nl.php:41
+#: wysija-newsletters/widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet订阅表单"
+
+#: wysija-newsletters/widgets/wysija_nl.php:42
+#: wysija-newsletters/widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "时事通讯的订阅表单。"
+
+#: wysija-newsletters/widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "马上检查你的收件箱，确认你的订阅。"
+
+#: wysija-newsletters/widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "你已订阅成功。"
+
+#: wysija-newsletters/widgets/wysija_nl.php:78
+#: wysija-newsletters/widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "标题："
+
+#: wysija-newsletters/widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "若要订阅我们的优质时事通讯，只需在下面添加邮件地址。将给您发送确认电子邮件！"
+
+#: wysija-newsletters/widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "让订阅人选择他们的订阅组："
+
+#: wysija-newsletters/widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "想要："
+
+#: wysija-newsletters/widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "在输入框内显示标签"
+
+#: wysija-newsletters/widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "按钮标签："
+
+#: wysija-newsletters/widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "成功信息："
+
+#: wysija-newsletters/widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe版本"
+
+#: wysija-newsletters/widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "选择一个表单："
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:33
+msgid "Go premium, you cannot send anymore!"
+msgstr "不能发送了！用付费版吧。"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:89
+msgid "Google Analytics Campaign"
+msgstr "谷歌Analytics（分析）活动"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:90
+msgid "For example, \"Spring email\". [link]Read the guide.[/link]"
+msgstr "例如，“Spring邮件”。 [link]阅读指南[/link]"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:109
+msgid "How spammy is this newsletter?"
+msgstr "这封时事通讯是怎么评定为垃圾邮件的呢？"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:110
+msgid "View your score"
+msgstr "查看分数"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:24
+msgid "Your Premium is activated."
+msgstr "您的溢价已激活。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:30
+msgid "Valid until %s"
+msgstr "有效期至 %s"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:88
+msgid "DKIM signature"
+msgstr "DKIM签名"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:89
+msgid "Improve your spam score. Mailpoet can sign all your emails with DKIM. [link]Read more.[/link]"
+msgstr "改善垃圾评估。MailPoet可用DKIM签名所有的邮件。[link]详细内容。[/link]"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:107
+msgid "How does it work?"
+msgstr "它是如何工作的?"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:109
+msgid "Create an email account dedicated solely to bounce handling."
+msgstr "建立专门用于退信处理的电子邮件帐户。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:110
+msgid "Fill out the form below so we can connect to it."
+msgstr "填写下面的表格，我们可以连接到它。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:111
+msgid "Take it easy, the plugin does the rest."
+msgstr "放轻松，剩下的由插件来处理。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:113
+msgid "Need help?"
+msgstr "需要帮助吗？"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:113
+msgid "Check out [link]our guide[/link] on how to fill out the form."
+msgstr "查看关于怎么填写这个表单的[link]指南[/link] 。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:124
+msgid "There are plenty of reasons for bounces. Configure what to do in each scenario."
+msgstr "有很多退信的原因。配置每个情景里做什么。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:145
+msgid "Actions & Notifications"
+msgstr "操作及通知"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:170
+msgid "Hostname"
+msgstr "主机名"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:182
+msgid "Port"
+msgstr "端口"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:187
+msgid "POP3 without imap extension"
+msgstr "没有imap扩展的POP3"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:188
+msgid "Connection method"
+msgstr "连接方法"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:192
+msgid "Secure connection(SSL)"
+msgstr "安全连接(SSL)"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:195
+msgid "Self-signed certificates"
+msgstr "自签名证书"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:216
+msgid "15 minutes"
+msgstr "15分钟"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:217
+msgid "30 minutes"
+msgstr "30分钟"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:218
+msgid "1 hour"
+msgstr "1小时"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:219
+msgid "2 hours"
+msgstr "2小时"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:220
+msgid "Twice daily"
+msgstr "一天两次"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:227
+msgid "Activate bounce and check every..."
+msgstr "激活退信及检测每..."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:230
+msgid "Does it work? Try to connect."
+msgstr "能工作吗？试试连接。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Do nothing"
+msgstr "什么也不做"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Delete the user"
+msgstr "删除该用户"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Unsubscribe the user"
+msgstr "退订该用户"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:256
+msgid "Unsubscribe the user and add him to the list \"%1$s\" "
+msgstr "退订该用户并把他加到订阅组\"%1$s\""
+
+#: wysija-newsletters-premium/helpers/extend_config.php:266
+msgid "after %1$s try"
+msgid_plural "after %1$s tries"
+msgstr[0] "试%1$s次后"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:329
+msgid "Tip"
+msgstr "提示"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:329
+msgid "you can send as fast as every 15 minutes since Mailpoet guarantees Premium users can send this fast."
+msgstr "可以作每隔 15 分钟的快速发送，因为Mailpoet保证付费用户可以发送这么快。"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:372
+#: wysija-newsletters-premium/helpers/extend_config.php:380
+msgid "Who can view the statistics page?"
+msgstr "谁可以查看统计页面？"
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:26
+msgid "%1$s emails received."
+msgstr "已收到%1$s封邮件。"
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:39
+msgid "Total of %1$s clicks:"
+msgstr "%1$s点击总数："
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:48
+msgid "%1$s click"
+msgid_plural "%1$s clicks"
+msgstr[0] "%1$s次点击"
+
+#: wysija-newsletters-premium/helpers/premium.php:199
+msgid "Test the statistics page."
+msgstr "测试统计页面。"
+
+#: wysija-newsletters-premium/helpers/premium.php:265
+#: wysija-newsletters-premium/helpers/premium.php:272
+msgid "Renew my license now."
+msgstr "立即续订我的许可。"
+
+#: wysija-newsletters-premium/helpers/premium.php:266
+#: wysija-newsletters-premium/helpers/premium.php:273
+msgid "Did you renew already?"
+msgstr "你续约了吗？"
+
+#: wysija-newsletters-premium/helpers/premium.php:266
+#: wysija-newsletters-premium/helpers/premium.php:273
+msgid "Verify your license again."
+msgstr "再次验证您的许可证。"
+
+#: wysija-newsletters-premium/helpers/premium.php:269
+msgid "Your MailPoet Premium license is expiring in %s day(s)."
+msgstr "您的专业许可证将在 (%s) 天内到期"
+
+#: wysija-newsletters-premium/helpers/premium.php:274
+msgid "Your MailPoet Premium license has expired."
+msgstr "您的专业许可证已过期"
+
+#: wysija-newsletters-premium/helpers/premium.php:348
+msgid "The theme is available in Premium version only. [link]12 good reasons to upgrade.[/link]"
+msgstr "该主题只在付费版中可用。[link]12个升级的好理由。[/link]"
+
+#: wysija-newsletters-premium/modules/stats_new_subscribers/stats_new_subscribers_view.php:47
+msgid "new subscribers"
+msgstr "新订阅者"
+
+#: wysija-newsletters-premium/modules/stats_new_subscribers/stats_new_subscribers_view.php:47
+msgid "new subscriber"
+msgstr "新电子邮件列表成员"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:97
+msgid "Open rate (based on received newsletters)"
+msgstr "打开率(基于已收到的时事通讯)"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:131
+msgid "Click rate (based on opened newsletters)"
+msgstr "点击率(基于已打开的时事通讯)"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:148
+msgid "Un-clicked"
+msgstr "未点击"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:175
+msgid "Subscriber stats"
+msgstr "订阅人统计"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions.php:24
+msgid "Subscriptions by form"
+msgstr "由表单订阅"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions.php:29
+msgid "Subscriptions by list"
+msgstr "由订阅组订阅"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions_view.php:79
+msgid "Hover your mouse over the bars to discover the forms' names."
+msgstr "鼠标悬停在条（bar）上来显示表单的名字。"
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:52
+msgid "Top domains"
+msgstr "热门域名"
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:67
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:66
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:19
+msgid "Opens"
+msgstr "打开"
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:70
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:69
+msgid "Rates"
+msgstr "等级"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:53
+msgid "Top newsletters"
+msgstr "热门时事通讯"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:53
+msgid "Top auto-responders"
+msgstr "顶部自动回复"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:68
+msgid "Unsubscribes"
+msgstr "退订"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:92
+msgid "See detailed stats"
+msgstr "查看详细统计"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:9
+msgid "Top subscribers"
+msgstr "热门订阅人"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:21
+msgid "Subscribed since"
+msgstr "订阅时间"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:41
+msgid "View stats & edit"
+msgstr "查看统计并编辑"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:88
+msgid "Opened newsletters"
+msgstr "已打开的时事通讯"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "创建并发送邮件或自动发送邮件. 使用小部件搜集订阅者，导入并管理您的列表。 MailPoet是一个非常不错的插件并由 <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">一打团队</a>提供技术支持和维护."
+
+#: wysija-newsletters/views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "或"
+
+#: wysija-newsletters/views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "基本"
+
+#: wysija-newsletters/views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "表单"
+
+#: wysija-newsletters/views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "订阅确认"
+
+#: wysija-newsletters/views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "用...发送"
+
+#: wysija-newsletters/views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "高级"
+
+#: wysija-newsletters/views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "附加功能"
