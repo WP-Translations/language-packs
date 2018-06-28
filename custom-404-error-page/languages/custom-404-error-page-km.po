@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: Sovichet Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/custom-404-error-page/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:45:49\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "ទំព័រ​សម្រាប់ កំហុស 404 (រក​មិន​ឃើញ)"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "ទំព័រ​កំហុស 404"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "លំនាំ​ដើម (ពុម្ព​ទំព័រ 404.php)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "បន្ថែម​ថ្មី"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "ការ​កំណត់"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "ទំព័រ​កំហុស 404 ផ្ទាល់​ខ្លួន"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "កំណត់​ទំព័រ​ណា​មួយ​ដែល​ត្រូវ​ប្រើ​សម្រាប់​ទំព័រ​កំហុស 404 ។"
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
