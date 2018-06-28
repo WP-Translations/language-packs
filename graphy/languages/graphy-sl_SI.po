@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/graphy\n"
+"Last-Translator: Miloš Mihajlović <dd.milos@gmail.com>\n"
+"Language-Team: Slovenian (Slovenia) (http://www.transifex.com/wp-translations/graphy/language/sl_SI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:00+00:00\n"
+"PO-Revision-Date: 2017-09-20 02:19:23\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "Strani ni bilo mogoče najti."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Na tem mestu ni bilo mogoče najti ničesar. Morda lahko poskusite z iskalnikom?"
+
+#: archive.php:21
+msgid "Category: "
+msgstr "Kategorija:"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "Oznaka:"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Avtor:"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Dan:"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Mesec:"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Leto:"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Odloži na stran"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "Galerije"
+
+#: archive.php:54
+msgid "Images"
+msgstr "Slike"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "Video posnetki"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "Kvote"
+
+#: archive.php:63
+msgid "Links"
+msgstr "Povezave"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "Statusi"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "Audio posnetki"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Klepeti"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "Arhiv"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "En odgovor"
+msgstr[1] "Dva odgovora"
+msgstr[2] "Več odgovorov"
+msgstr[3] "%1$s odgovorov."
+
+#: comments.php:34
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "Krmarjenje po komentarjih"
+
+#: comments.php:35
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Starejši komentarji"
+
+#: comments.php:36
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Novejši komentarji &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Komentiranje onemogočeno."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ni zadetkov"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ste pripravljeni na objavo vašega prvega prispevka? <a href=\"%1$s\">Začnite tukaj</a>."
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr "Žal nismo našli ničesar. Poskusite ponovno z drugačnimi ključnimi besedami."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Očitno ni bilo mogoče najti tega, kar iščete. Morda si lahko pomagate z iskalnikom."
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:21
+msgid "Pages:"
+msgstr "Strani:"
+
+#: content.php:20
+#: content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">Nadaljuj branje &rarr;</span>"
+
+#: footer.php:17
+msgid "Powered by "
+msgstr "Poganja"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Glavni meni"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "Noga 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Noga 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "Noga 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "Noga 4"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Meni"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Skoči na vsebino"
+
+#: inc/customizer.php:25
+msgid "Hide Tagline"
+msgstr "Skrij oznake"
+
+#: inc/customizer.php:32
+msgid "Logo"
+msgstr "Logotip"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "Naloži logotip"
+
+#: inc/customizer.php:47
+msgid "Replace Title"
+msgstr "Zamenjaj naslov"
+
+#: inc/customizer.php:56
+msgid "Add Border Radius"
+msgstr "Dodaj border radius"
+
+#: inc/customizer.php:67
+msgid "Link Color"
+msgstr "Barva povezave"
+
+#: inc/customizer.php:76
+msgid "Link Hover Color"
+msgstr "Barva aktivne povezave"
+
+#: inc/customizer.php:85
+msgid "Hide Serach"
+msgstr "Skrij iskalnik"
+
+#: inc/customizer.php:92
+msgid "Article"
+msgstr "Prispevek"
+
+#: inc/customizer.php:99
+msgid "Display"
+msgstr "Pokaži"
+
+#: inc/customizer.php:104
+msgid "Summary"
+msgstr "Povzetek"
+
+#: inc/customizer.php:105
+msgid "Full text"
+msgstr "Celotno besedilo"
+
+#: inc/customizer.php:112
+msgid "Hide Author"
+msgstr "Skrij avtorja"
+
+#: inc/customizer.php:121
+msgid "Hide Categories"
+msgstr "Skrij kategorije"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "Stran %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Krmarjenje po prispevkih"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starejši prispevki"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novejši prispevki <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "Prejšnji prispevek"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%naslov"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "Naslednji prispevek"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%naslov"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "Poslano dne"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "od"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Komentiraj"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% komentarjev"
+
+#: inc/template-tags.php:117
+#: inc/template-tags.php:125
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr "Poslano v %1$s"
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "Označeno %1$s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Rezultati iskanja za: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr "Graphy"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr "http://themegraphy.com/graphy-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "Takao Utsumi"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Brez stranskega stolpca"
