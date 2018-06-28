@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FeedPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/feedpress\n"
+"Last-Translator: Ricardo Simões <xmcorporation@gmail.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/wp-translations/feedpress/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-23 13:30:06+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:04:09\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. #-#-#-#-#  feedpress.pot (FeedPress 1.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: feedpress.php:24
+#: feedpress.php:25
+msgid "FeedPress"
+msgstr "FeedPress"
+
+#: feedpress.php:298
+msgid "There was something wrong with the feed creation:"
+msgstr "Ocorreu algo de errado com a criação da feed:"
+
+#: feedpress.php:320
+msgid "Configuration updated."
+msgstr "Configuração atualizada."
+
+#: feedpress.php:332
+msgid "There was something wrong with your FeedPress authentication. Please retry."
+msgstr ""
+"Ocorreu algo de errado com a autenticação da FeedPress. \n"
+"Por favor, aguarde."
+
+#: feedpress.php:355
+msgid "FeedPress Configuration"
+msgstr "Configuração da FeePress"
+
+#: feedpress.php:359
+msgid "How does this work?"
+msgstr "Como é que isto funciona?"
+
+#: feedpress.php:360
+msgid "This plugin automatically redirects all or parts of your existing feeds to FeedPress."
+msgstr "Este plug-in redireciona automaticamente todas ou parte das feeds existentes para a FeePress."
+
+#: feedpress.php:361
+msgid "You just have to connect to FeedPress on this page. You will now be able to create and select the feeds you want to redirect to. You may optionally redirect your comments feed using the same procedure."
+msgstr "Apenas tem de ligar ao FeedPress nesta página. Será agora capaz de criar e selecionar feeds que queira redirecionar. Pode opcionalmente redirecionar as suas feeds de comentários usando o mesmo procedimento."
+
+#: feedpress.php:362
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Uma vez que insira URLs as suas feeds serão automaticamente redirecionadas e não necessitará de tomar mais nenhuma ação."
+
+#: feedpress.php:363
+msgid "Additionally, when you publish a new article on your blog, FeedPress will be pinged by the plugin and your feed will be updated in realtime."
+msgstr "Adicionalmente, quando publicar um novo artigo no seu blogue, o FeedPress será \"pingado\" pelo plugin e a sua feed será atualizada em tempo real."
+
+#: feedpress.php:369
+msgid "Connect to FeedPress"
+msgstr "Conetar à FeedPress"
+
+#: feedpress.php:373
+msgid "You are authenticated on FeedPress with the username:"
+msgstr "Está autenticado na FeedPress com este nome de utilizador:"
+
+#: feedpress.php:374
+msgid "Disconnect from FeedPress"
+msgstr "Desconetar da FeedPress"
+
+#: feedpress.php:376
+msgid "Main feeds"
+msgstr "Feeds Principais"
+
+#: feedpress.php:380
+msgid "Redirect my feeds here:"
+msgstr "Redirecionar as minhas fedds aqui"
+
+#: feedpress.php:385
+#: feedpress.php:408
+#: feedpress.php:458
+#: feedpress.php:510
+#: feedpress.php:550
+msgid "None"
+msgstr "Nenhuma"
+
+#: feedpress.php:401
+#: feedpress.php:424
+msgid "Create a new feed on FeedPress"
+msgstr "Crie uma nova feed na FeedPress"
+
+#: feedpress.php:403
+msgid "Redirect my comments feed here:"
+msgstr "Redirecionar a minha feed de comentários para aqui:"
+
+#: feedpress.php:426
+msgid "Category feeds"
+msgstr "Categoria de feeds"
+
+#: feedpress.php:430
+#: feedpress.php:442
+msgid "Category:"
+msgstr "Categoria:"
+
+#: feedpress.php:431
+#: feedpress.php:483
+#: feedpress.php:535
+msgid "Delete"
+msgstr "Apagar"
+
+#: feedpress.php:438
+#: feedpress.php:474
+msgid "Redirect a category"
+msgstr "Redirecione uma categoria"
+
+#: feedpress.php:478
+msgid "Tag feeds"
+msgstr "Etiquetar feeds"
+
+#: feedpress.php:482
+#: feedpress.php:494
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+#: feedpress.php:490
+#: feedpress.php:526
+msgid "Redirect a tag"
+msgstr "Redirecionar a etiqueta"
+
+#: feedpress.php:530
+msgid "Custom URL redirection"
+msgstr "Redirecionamento de URL personalizado"
+
+#: feedpress.php:534
+#: feedpress.php:546
+msgid "Path:"
+msgstr "Caminho:"
+
+#: feedpress.php:542
+#: feedpress.php:564
+msgid "Redirect a URL"
+msgstr "Redirecionar um URL."
+
+#: feedpress.php:544
+msgid "If you want to redirect a specific path, fill this simple form."
+msgstr "Se desejar redirecionar um caminho especifico, preencha este formulário simples."
+
+#: feedpress.php:546
+msgid "Example: /feed/podcast"
+msgstr "Examplo: /feed/podcast"
+
+#: feedpress.php:566
+msgid "Advanced Options"
+msgstr "Opções Avançadas"
+
+#: feedpress.php:570
+msgid "Do not redirect not configured category or tag feeds."
+msgstr "Não redirecionar categorias ou etiquetas de feeds não configuradas."
+
+#: feedpress.php:574
+msgid "Do not redirect search result feeds."
+msgstr "Não redirecionar feeds de resultados de busca."
+
+#: feedpress.php:578
+msgid "Do not redirect author feeds."
+msgstr "Não redirecionar feeds de autor."
+
+#: feedpress.php:582
+msgid "Do not redirect ANY feeds (useful if you just want the plugin for realtime updates)."
+msgstr "Não redirecionar QUAISQUER feeds (útil se quiser o plugin apenas para atualizações em tempo real)."
+
+#: feedpress.php:588
+#: feedpress.php:592
+msgid "Activate transparent mode: The feed is not redirected to FeedPress but requests are still reported."
+msgstr "Ativar modo transparente: A feed não é redirecionada para o FeedPress mas os pedidos são reportados na mesma."
+
+#: feedpress.php:593
+msgid "This feature is only available to"
+msgstr "Esta funcionalidade está apenas disponível para"
+
+#: feedpress.php:593
+msgid "Premium Members"
+msgstr "Membros \"Premium\""
+
+#: feedpress.php:593
+msgid "starting at $2.50 per month"
+msgstr "iniciando em $2.50 / mês"
+
+#: feedpress.php:599
+msgid "Do not ping FeedPress when a new article is published."
+msgstr "Não \"pingar\" o FeedPress quando um novo artigo é publicado."
+
+#: feedpress.php:603
+msgid "Activate debug mode."
+msgstr "Ative o modo de depuração."
+
+#: feedpress.php:607
+msgid "Save"
+msgstr "Guardar"
+
+#: feedpress.php:619
+msgid "Create a new FeedPress feed"
+msgstr "Criar uma nova feed da FeedPress"
+
+#: feedpress.php:621
+msgid "Fill the form below to create your feed on FeedPress."
+msgstr "Preencha o formulário abaixo para criar a sua feed no FeedPress."
+
+#: feedpress.php:625
+msgid "Original feed URL:"
+msgstr "URL da feed original:"
+
+#: feedpress.php:628
+msgid "Alias name for the feed:"
+msgstr "Pseudónimo para a feed:"
+
+#: feedpress.php:633
+msgid "Create"
+msgstr "Criar"
+
+#: feedpress.php:847
+msgid "Warning: The options have changed. You have to update your FeedPress settings."
+msgstr "Aviso: As opções foram modificadas. tem de atualizar as sua definições do FeedPress."
+
+#: feedpress.php:847
+#: feedpress.php:851
+msgid "Update settings"
+msgstr "Definições de atualização"
+
+#: feedpress.php:851
+msgid "Warning: You have enabled the Append category option in FeedPress. This option doesn't exist anymore, please update your FeedPress settings."
+msgstr "Aviso: Ativou a opção de Anexar categoria no FeedPress. Esta opção deixou de existir, por favor atualize as suas definições do FeedPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://feedpress.it"
+msgstr "http://feedpress.it"
+
+#. Description of the plugin/theme
+msgid "Redirects all feeds to a FeedPress feed and enables realtime feed updates."
+msgstr "Redireciona todas as feeds para uma feed FeedPress e ativa atualizações em tempo real."
+
+#. Author of the plugin/theme
+msgid "Maxime VALETTE"
+msgstr "Maxime VALETTE"
+
+#. Author URI of the plugin/theme
+msgid "http://maximevalette.com"
+msgstr "http://maximevalette.com"
