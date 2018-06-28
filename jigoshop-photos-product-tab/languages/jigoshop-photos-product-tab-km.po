@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jigoshop Photos Product Tab\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Sovichet Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/jigoshop-photos-product-tab/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-03-15 19:48+0100\n"
+"PO-Revision-Date: 2017-09-23 19:45:49\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:68
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:78
+msgid "Photos Product Tab"
+msgstr "Photos Product Tab"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:85
+msgid "Size of Photos"
+msgstr "ទំហំ​រូបថត"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:86
+msgid "What size would you like to display ?"
+msgstr "តើ​អ្នក​ចង់​បង្ហាញ​ទំហំ​ប៉ុណ្ណា?"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:90
+msgid "Thumbnail"
+msgstr "រូប​ភាព​តូច"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:91
+msgid "Medium"
+msgstr "ល្មម"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:92
+msgid "Large"
+msgstr "ធំ"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:93
+msgid "Full / Original"
+msgstr "ពេញ / ច្បាប់​ដើម"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:99
+msgid "Enable Lightbox"
+msgstr "បើក Lightbox"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:100
+msgid "Enable the use of lightbox for the photos in the tab."
+msgstr "បើក​ការ​ប្រើ lightbox សម្រាប់​រូបថត​នៅ​ក្នុង​ផ្ទាំង។"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:133
+msgid "Donate"
+msgstr "បរិច្ចាគ"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:134
+msgid "More Jigoshop Extensions"
+msgstr "ផ្នែក​បន្ថែម Jigoshop ច្រើន​ទៀត"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:160
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:180
+msgid "Photos"
+msgstr "រូបថត"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:229
+msgid "Disable photos tab?"
+msgstr "បិទ​ផ្ទាំង​រូបថត?"
+
+#: D:\xampp\htdocs\jigoshop\wp-content\plugins\jigoshop-photos-product-tab/jigoshop-photos-product-tab.php:273
+msgid "Jigoshop Photos Product Tab requires <a href=\"http://www.jigoshop.com/\" target=\"_blank\">Jigoshop</a> to be activated in order to work. Please install and activate <a href=\""
+msgstr "Jigoshop Photos Product Tab ត្រូវ​ការ​ឲ្យ​បើក​ដំណើរការ <a href=\"http://www.jigoshop.com/\" target=\"_blank\">Jigoshop</a> ជាមុន​សិន។ សូម​ដំឡើង ហើយ​បើក​ដំណើរការ <a href=\""
