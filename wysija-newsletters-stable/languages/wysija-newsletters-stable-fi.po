@@ -1,0 +1,5966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Martti Hyvönen <martti.k.j.hyvonen@gmail.com>\n"
+"Language-Team: Finnish (http://www.transifex.com/wysija/wysija/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2018-05-31 17:13:37\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Lisää kassasivulle valintaruutu, jolla asiakkasi voivat tilata uutiskirjeen."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Päätä mitkä sähköpostit uusi asiakas saa automaattisesti ostamansa tuotteen perusteella. Tämä on Premium-lisäosa WooCommerceen."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Lisää lomakkeisiisi uusi kenttä, jolla kävijäsi voivat tilata uutiskirjeen."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Lisää rekisteröintilomakkeeseen valintaruutu, jotta uudet käyttäjät liittyvät haluamallesi uutiskirjelistalle."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Lisää valintaruutu lomakkeeseen ja valitse mihin listaan käyttäjä lisätään."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Robottien valekirjautumisten esto WangGuardilla, ilmainen white list -palvelu ja lisäosa."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Jos tämä on ongelmasi, niin tässä sinulle ratkaisu. Täysin ilmainen."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall on Premium-lisäosa jonka avulla voit laittaa sisältä paywall:n taakse. Tämä laajennus hallitsee asiakkaidesi asiakkaiden tilauksia."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Laita lomake sivustosi ylä tai alapalkkiin tai siistiin laatikkoon artikkeliisi GetConversion's ilmaisen lisäosan avulla. yhdistä ne MailPoetiin tällä laajennuksella.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Kokeile itse, olemme vaikuttuneita ilmaisversiosta."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Laita tilauslomake ponnahdusikkunaan, alapalkkiin tai sivulle lisätäksesi tilaajia tämän Premium lisäosan avulla."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Tekijät ovat tehneet aika hienoa työtä."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Premium käyttäjät säästä 20% tällä kupongilla: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Tämä Premium lisäosa sallii sinun lisätä MailPoet lomakkeen ponnahdusikkunaan."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Sinun täytyy osata CSS:ää suunnitellaksesi mieleisesi."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Premium käyttäjä säästää 25% tällä kupongilla: mailpoet25%"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Tämä Premium lisäosa sallii sinun lisätä MailPoet lomakkeita moneen paikkaan ja Facebookiin."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Erittäin tehokas, jos ei jopa omituinen käyttöliittymä."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Tämä ilmainen lisäosa salliis inun suunnitella ja asettaa lomake artikkelin alkuun tai loppuun."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Se on ilmainen ja suosittu monien käyttäjien keskuudessa."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr ""
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr ""
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Tämä ilmainen lisäosa sallii sinun laittaa lomake ponnahdusikkunaan, siinäpä se."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Tämä on ilmainen versio tehokkaammasta Premium verisiosta."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Sinun uutta sivustoasi ei ole vielä julkaistu? Laita \"Tulossa pian\"-sivu johon saat laitettua lomakkeen jolla keräät sähköpostiosoitteita tällä Premium lisäosalla."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Hienosti suunniteltu lisäosa yksinkertaisella idealla."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Premium-käyttäjät säästävät 20% käyttämällä tätä kuponkia: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Tämä maksullinen lisäosa sallii sinun lisätä hieno lomake heti ylävinjetin alle. Ei enempää eikä vähempää."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Valintaruutu on lisätty vaihtoehtona asiakkaillesi tilata uutiskirje samalla, kun hän tekee ostoksia kaupassasi."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Luo nopeasti uutiskirjeen tilauslomake MailPoet postistuslistoille käyttäen tehokasta ja muokkautuvaa Ninja Fromsia."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr ""
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "ei voitu aktivoida <strong><a href=\"%s\">%s</a></strong>, asenna ensin ja aktivoi sitten."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Piilota tämä viesti"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "on otettu käyttöön."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "on poistettu käytöstä."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet sanoo:"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Verkkosivu"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Osta"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Asenna WordPress.org -sivustolta"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Määritä"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Etkö löydä laajennusta jota etsit? <a href=\"%s\">Lähetä se</a> palautelomakkeellamme."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Tämä kenttä on tyhjä."
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "Vuosi"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Kuukausi"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Päivä"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "CSV -tiedostoon pääsy estetty. Tarkista oikeudet kansioon: \"%1$s\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Listassa, jota yritit tuoda, näyttäisi olevan virhe."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Virhe lisättäessä sähköpostiosoitteita."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Virhe lisättäessä listaa."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Liittämäsi lista on liian suuri selaimelle. Kokeile <strong>ladata tiedosto</strong>."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Tiedot, joita yrität tuoda, eivät näytä olevan CSV-muodossa (pilkiulla erotettuina)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "CSV -tiedoston ensimmäisen riven solujen otsikoiden pitäisi olla : \"email\",\"lastname\",\"firstname\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "CSV -tiedoston toisella rivillä pitäisi olla arvoja: \"joeeg@example.com\",\"Average\",\"Joe\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Lataamasi tiedoston kaksi ensimmäistä riviä näyttävät tältä:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Rivi on tyhjä"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Tarkista uudelleen mitä yritit tuoda."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Emme löytäneet yhtään sähköpostiosoitetta ensimmäiseltä 10 riviltä."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Tuomasi tiedosto on virheellinen."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "Hei! %1$s on päivittynyt (versio %2$s), <a href=\"%3$s\">klikkaa tästä päivittääksesi</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Päivitä selaimen sivu uudelleen."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Palaa MailPoetiin"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Päivitä lisäosa"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Käytä oman verkko-osoitteesi sähköpostia, esim <strong>info@%s</strong> välttääksesi roskapostikansion tai jopa blokkauksen."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Jos haluat käyttää Gmail-osoitetta sinun pitää lähettää Gmailin avulla. Tarkista <a id=\"tip-send-with\" href=\"%s\">lähetysasetukset</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Kiitos!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Teemaa, jonka valitsit, ei pystytty lataamaan."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Sähköpostiasi ei pystytty tallentamaan"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Sähköpostisi tallennettiin"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Tyylejä ei pystytty tallentamaan"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Tyylit tallennettiin"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Kuva on poistettu."
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Kuvavalintaa ei ole tallennettu."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Kuvavalinta tallennettiin."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Valitse artikkeli."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Haku ei löydä artikkeleita näillä hakusanoillasi."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Sähköpostisi esikatselu on lähetetty osoitteeseen %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Emme saanut yhteyttä API:in, sivusto saattaa olla alhaalla. Kokeile myöhemmin uudelleen."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Pyyntösi epäonnistui"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Pyyntö onnistui"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Yhteys luotu onnistuneesti %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Sinulla on %1$s viestiä sähköpostissasi"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Tällä hetkellä takaisin pompanneita sähköposteja ei ole!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Haluat ehkä laittaa <i>itse allekirjoittavat sertifikaatit</i> päälle"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Valitsitko varmasti oikean portin? Voit jättää sen tyhjäksi jos et tiedä mitä syöttää"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Sinun täytyy valita tämän kentän tyyppi"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Sinun pitää määritellä nimi tälle kentälle"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Tätä kenttää ei ole"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Tallennettu! Muutokset ovat voimassa vimpaimissasi."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Tallennettu! Lisää tämä lomake [link_widget]vimpaimeen[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Lomakettasi ei voitu tallentaa."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Lomakkeesi on tallennettu."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Käyttäjä lisätty."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Käyttäjää ei ole lisätty."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Käyttäjän tiedot päivitetty."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Käyttäjää ei ole päivitetty."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Lisää tilauslomake"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Hanki Premium nyt"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Jaiks. Olet ylittänyt MailPoetin ilmaisversion 2000 tilaajan rajan (%1$s tilaajaa). Lähettäminen ei ole nyt mahdollista. Ole hyvä ja päivitä versiosi [link]Premiumiin[/link], jotta voit lähettää ilman rajoituksia."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Jaiks! Olet lähellä MailPoetin ilmaisversion %1$s tilaajan rajaa. Päivitä [link]Premiumiin[/link] lähettääksesi ilman rajoituksia ja saadaksesi paljon muita etuja."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elementit poistettu"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Elementti on poistettu."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Lataa"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Uutiskirjekuvat"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "WordPress-artikkeleiden kuvat"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Turvallisuusvirhe"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Turvallisuusongelma"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Aloitussivu!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Asennetaan MailPoet Newsletter Premium -versio"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Ihan uusi MailPoet. Nyt hauskuus alkaa."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Pysy ajantasalla ja tilaa uutiskirjeemme!"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr ""
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Tärkeitä päivityksiä lisäosaan."
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr ""
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr ""
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr ""
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr ""
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Eka kerta? Katso kuinka se toimii."
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Voit aloittaa katsomalla käyttäjämme tekemän videon."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Jaa tietosi"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Tiedämme käyttäjistämme aivan liian vähän. Etsimme [link]anonyymiä dataa[/link] rakentaaksemme paremman vimpaimen. [ajaxlink]Kyllä! haluan mukaan![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Tiedämme käyttäjistämme aivan liian vähän. Etsimme [link]anonyymiä dataa[/link] rakentaaksemme paremman vimpaimen. Kiitos, sinä jaat tietoa!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Mitä voit tehdä"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minuutin opas aloittelijalle"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoetin mukana tulee esimerkkiuutiskirje. Näet sen kun suljet tämän aloitussivun. Aloita MailPoetin käyttö muokkaamalla sitä."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Selvitä itse tai anna meidän auttaa."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Meillä on oppaita ja tukipyyntöjärjestelmä [link]support.mailpoet.com[/link]. Vastaamme 24 tunnin sisällä."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Mitä uutta?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Premium-versio on käytössä sivuillasi."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Premium-lisenssi ei ole käytössä sivullasi. Osta se [link]tästä[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Jono on tyhjä!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Vaihe %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Lisää [newsletter:total] näyttääksesi artikkelien määrän, [newsletter:post_title] näyttääksesi viimeisimmän artikkelin otsikon ja [newsletter:number] näyttääksesi numeron."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Ensimmäinen asia jonka tilaajat näkevät. Ole luova ja kasvata uutiskirjeen avausprosenttia!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Ensimmäinen kohta: pääasiat"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "Kerran päivässä..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "viikottain päivämäärällä.."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "kuukausittain päivämäärällä..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "kuukausittain joka..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "heti."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "mikä vain WP-rooli"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Kun on uutta sisältöä..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Kun joku tilaa uutiskirjeen..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Kun uusi käyttäjä lisätään..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "tunnin kuluttua."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "päivän kuluttua."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "viikon kuluttua."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "välittömästi"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "tuntia"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "päivää"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "viikkoa"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Tallennetaan uutiskirjettä..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Virhe tallennettaessa uutiskirjettä..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Uutiskirje tallennettiin."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Lähetetään esikatselua..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Roskapostitestin tulokset"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Toinen vaihe: \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Lähettäminen on pysäytetty."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Lähettäminen jatkuu."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopio"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Uutiskirje on kopioitu."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s sähköpostia joka %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Sinun lähetysasetuksesi ([settings]) estävät näin nopean lähettämisen [number] tilaajalle. Lähetyksessä on viivettä. [link]Lue lisää[/link]."
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Viimeinen vaihe: viimeiset yksityiskohdat"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Valitse päivämäärä"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Tallenna & sulje"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Lähetä myöhemmin"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Ajasta"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktivoi nyt"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Lähetä"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Olet lähettämässä tätä uutiskirjettä. Vahvista."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Oletko varma, että haluat jättää huomiotta %1$s tilaajaa listalta %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Uutiskirje poistettiin."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Uutiskirjeet poistettiin."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Uutiskirjettä ei voida poistaa."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Lue lisää."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Kirjoittaja:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategoriat:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Viimeisin sisältö on jo lähetetty."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Alla oleva artikkeli on lisätty vimpaimeen %sAutomaattinen uusin sisältö%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sMuokataksesi%s vimpainta, vie hiiri sen päälle, jotta näet muokkaa-painikkeen."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Kohta 1:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "Hei, klikkaa tätä tekstiä!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Klikkaa tätä tekstiosaa muokataksesi sitä."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Kohta 2:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "Kokeile mitä voit tehdä tällä kuvalla"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Vie hiiri vasemmalla olevan kuvan päälle."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Kohta 3:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "Pudota sisältöä tähän"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Raahaa hiirellä %1$stekstiä, artikkeleita ja jakajia.%2$s oikalla olevasta listasta!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Voit myös lisätä %1$ssosiaalisen median painikkeita%2$s kuten nämä:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Kohta 4:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "Entä alatunniste?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Muuta alatunnisteen sisältöä MailPoetin %1$sSettings%2$s sivulla."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Uutiskirje luotu onnistuneesti."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Tietoja puuttuu."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Google-kampanjasi voi sisältää vain latinalaisia merkkejä, numeroita, välilyöntejä ja tavuviivoja!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Uutiskirje on ajastettu."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Uutiskirje on tallennettu vedoksena."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Uutiskirjeet"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Valitse uutiskirje."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Poista uutiskirje lopullisesti?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Poista uutiskirjeet lopullisesti?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Sähköposteja lähetetään..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Tarkistele uutiskirjettä"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Uutiskirje poistetaan käytöstä. Sinun tulee ottaa se uudelleen käyttöön, kun olet valmis muokkauksen kanssa. Tahdotko edetä?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Sähköpostilista on poistettu."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Lähettäminen on pysäytetty."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Ei yhtään uutiskirjettä."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Tilastot: %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Hakutuloksesi ei palauta yhtään tilaajaa. Vaihda suodattimiasi!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "Joukko listalla %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Luettelo pohjalta luodaan uutiskirjeen segmenttiin."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Uusi luettelo \"%1$s\" on luotu tämän segmentiin."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Tämä joukko on poistettu kaikista listoista."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Tämä osio on poistettu tämän uutiskirjeen jonosta."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Tämä joukko on poistettu listalta: \"%1$s\""
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Joukkoa ei voida poistaa [IMPORT] listalta."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Artikkelin valinta"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Näytä ja lisää valinnat"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Takaisin valintaan"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Ladataan tuloksia..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Asetetaan valittuja artikkeleita..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "valittu"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Siirtovirhe, tiedosto %1$s on liian suuri! (MAX:%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Asenna teemoja"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Lisätiedot & PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Takaisin"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Lataa"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Uudelleenasennus"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Photoshop-tiedosto saatavilla [link]Premiumissa[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Näytä kaikki teemat"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s ääntä)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Äänesi on tallennettu."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Äänestystäsi ei pystytty tallentamaan."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Varo! Jos asennat tämän teeman uudelleen kaikki tiedostot kansiosta folder:/wp-content/uploads/wysija/themes/%1$s kirjoitetaan uudelleen. Oletko varma, että haluat asentaa uudelleen?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Kaikki teemat: %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Lataa alkuperäinen Photoshop-tiedosto"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Lataa .zip tiedostona"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Vieraile tekijän kotisivuilla"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Keskimääräinen arvio: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Arvioni: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Lataukset: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Tagit: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Päivitetty: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Sisältää: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Kirjainmerkkien valinta"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Jakajien valinta"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Lisää / Muokkaa ryhmää"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Näytä näytön valinnat"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Piilota näytön valinnat"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Kuvan parametrit"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Poista kuva kaikista uutiskirjeistä?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Tämä kuva saattaa olla artikkelissa. Poista kuitenkin?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Sinulla on liikaa tiedostoja jonossa."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s on liian suuri siirrettäväksi tälle sivulle."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Tämä tiedosto on tyhjä. Kokeile jotain toista tiedostoa?"
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Tätä tiedostotyyppiä ei tueta. Kokeile jotain toista tiedostoa?"
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Tämä tiedosto ei ole kuva. Kokeile toista tiedostoa?"
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Muisti ylitetty. Kokeile pienempää tiedostoa."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Tämä on sallittua suurempi. Kokeile jotain toista."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Lataamisen aikana tapahui virhe. Yritä myöhemmin uudelleen."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Tapahtui virhe. Ota yhteyttä palvelimen ylläpitäjään."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Voit ladata vain yhden tiedoston."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP virhe."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Lataaminen epäonnistui."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Yritä ladata tämä tiedosto %1$sselaimen lataajalla%2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s ylitti usean tiedoston lataamisen maksimi moon selainta käytettäessä."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO virhe."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Turvavirhe."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Tiedosto peruutettu."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Lataaminen pysäytetty."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Hylkää"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Raksuttaa&hellip;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "siirretty roskakoriin."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; lataus epäonnistui."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "tiedosto(a) on onnistuneesti ladattu."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Tallennettu."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Uutiskirjettä ei ole olemassa."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Testiviestiä lähetetään"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Pompanneiden viestien käsittelyn yhteystesti"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Pompanneiden viestien käsittelyn prosessi"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Tilaajien täytyy nyt aktiovida tilaus sähköpostilla saadakseen uutiskirjeen. Suosittelemme tätä toimintoa."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Vahvistamattomat tilaajat saavat tästä eteenpäin uutiskirjeen ilman, että heidän täytyy aktivoida heidän tilaustaan."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Käsittele pompanneet viestit nyt!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Kun asetat pomppaavien viestien järjestelmän, sinulla pitää olla erillinen sähköpostiosoite pomppaaville ja välitetyille sähköposteille"
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Oletko varma, että tahdot poistaa tämän lomakkeen?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Melkein valmista. Klikkaa [link]tästä[/link] aktivoidaksesi juuri ostamasi lisenssin."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Asenna MailPoet uudelleen?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Uusi lomake"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Tätä lomaketta ei löydy"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopio"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Luotiin lomake: \"%1$s\" "
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Tämä lomake on jo poistettu."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Poistettiin lomake: \"%1$s\""
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Uusi lomake"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Lomaketta ei ole"
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Vimpaimen asetukset"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Maksoitko jo? Klikkaa aktivoidaksesi"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Tarkistetaan lisenssiä"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Viimeset 7 päivää"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Viime kuukausi"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Viimeiset 30 päivää"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Viimeiset 90 päivää"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Viimeiset 180 päivää"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Viimeiset 365 päivää"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Valitse päivämäärät"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Tilaaja on tallennettu."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Tilaajia per sivu:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Valitse vähintään 1 tilaaja"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Jaiks! Ei löytynyt yhtään tilaajaa."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Tilaajaa ei ole tallennettu."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Tilaajaa on muokattu. [link]Muokkaa uudelleen[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Tilaajaa ei ole muokattu."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s tilaajat lisätty: \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s tilaaja lisättty: \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s tilaajat siirretty: \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s tilaaja siirretty: \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s tilaajat on poistettu kaikilta listoilta."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s tilaaja on poistettu kaikilta listoilta."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s tilaajat poistettu kohteesta: \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s tilaaja poistettu kohteesta: \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s tilaajat vahvistettu."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s tilaaja vahvistettu"
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Sähköpostia ei lähetetty."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] ""
+msgstr[1] ""
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Muokkaa listoja"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Muokkaat listaa %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Mitenkäs olisi uusi lista?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Lista \"%1$s\" on monistetty."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Lisää tilaaja"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Tilaajaa ei löytynyt, ehkäpä koska hän on poistettu?"
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Lista \"%1$s\" on poistettu."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Listaa ei ole olemassa tai se on poistettu."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Lista on päivitetty."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Sinun ihka uusi listasi odottaa ensimmäistä tilaajaa."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Tuonti lisäosasta %1$s on valmis."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Tuonti lisäosasta %1$s on peruttu."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Lisää tilaajat lisäosasta"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Ei yhtään lisäosaa josta voisi lisätä"
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Tuo tilaajia"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Valittu arvo on jo toisessa solussa."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Voitko vahvistaa että tämä solu vastaa tätä kentää?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "jotka sinä olet liittänyt"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Uutiskirjeeltä poistuneet"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Vahvistamattomat tilaajat"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Vahvistetut tilaajat"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Sinun tulee valita vähintään yksi"
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s tilaajat lisätty: %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s sähköpostit näyttäisi olevan useampaan kertaan tiedostossa : %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s virheellisiä sähköpostiosoitteita : %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Vie tilaajat"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s tilaajat on poistettu"
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s tilaaja on poistettu."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s tilaajat on viety. Lataa viety tiedsto [link]täältä[/link]"
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Viedään %1$s tilaajia"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Sivua ei ole"
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Ole hyvä ja varmista linkkisi tälle sivulle."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Olet poistunut uutiskirjelistalta"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Nyt et kuule meistä enää!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Olet jo positanut tilauksesi."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Tuliko tehtyä virhe? [link]Peru uutiskirjeen peruutus[/link]"
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Olet nyt tilaaja!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Muokkaa tilaustasi"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Muokkaa tilausprofiiliasi: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "Sähköposti %1$s on jo olemassa"
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Uutiskirjeen profiili on päivitetty."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Tilaus ilman JavaScriptiä on pois päältä."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Näyttää siltä, että vimpain on poistettu WordPressin [link]vimpainvalikosta[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Lataa..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr ""
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Näytä enemmän tietoja[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Kerran minuutissa"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "Joka toinen minuutti"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "Joka viides minuutti"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "Joka kymmenes minuutti"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "Vartin välein"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "Puolen tunnin välein"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "Joka toinen tunti"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Kerran viikossa"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "Kerran 28:ssa päivässä"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet -sivu"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr ""
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr ""
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr ""
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Virhe tarkistettaessa kenttiä"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Kenttä \"%1$s\" on pakollinen taulukossa \"%2$s\". "
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Kentässä \"%1$s\" pitää olla toimiva sähköpostiosoite."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Ei tilastoja tälle ajalle"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Palvelimesi asetukset eivät salli meidän viimeistellä asennusta!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Lue selaimessasi."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Paina tästä nähdäksesi mediat."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Suodata tyypin mukaan"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Artikkelit"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Sivut"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr ""
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Suodata tilan mukaan"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Sinun pitää aktivoida MailPoet Premium lisäosa."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Vahvista MailPoet Premium -lisäosan aktivointi?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktivoi MailPoet Premium versio"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Onnea! Premium lisenssi on nyt aktivoitu. Vielä yksi vaihe..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Vahvista MailPoet Premium -lisäosan asennus?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Asennetaan MailPoet Premium"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Lataa Premium lisäisa"
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Asiat eivät aina toimi niin kuin haluaisimme, eihän? Meillä on [link]tukisivusto[/link], josta löytyy ohjeita sekä tukipyyntöjärjestelmä (englanniksi)."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet Versio:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Tilaajat"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Asetukset"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Moduuli"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Tilastot"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Apua!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Hanki Premium!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Ota yhteys tukeen"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Lisää [stars] [link]wordpress.org[/link] -sivustolla ja pidetään lisäosa ilmaisena."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet Versio"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Tee ensin valinta!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Listan poistaminen ei poista tilaajia"
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Haluatko asentaa tämän version?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Ei tuloksia."
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Ole hyvä ja syötä <%= chars %> enemmän merkkejä<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Ole hyvä ja poista <%= chars %> merkkejä<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Voit valita vain <%= chars %> kohteen<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Ladataan lisää tuloksia..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Etsitään..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Seuraava &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; Edellinen"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Kuva"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "ei"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Sulje"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Tämä toiminto edellyttää inline kehyksiä. iFrames on pois päältä tai selaimesi ei tue niitä."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Pompanneiden viestien käsittely"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Otsikko"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Olemme vastaanottaneet %1$s viestiä käyttäjältä %2$s "
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Toiminnot tehdään %1$s viestin jälkeen"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Ei yhtään viestiä"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Jep, toimii. Voit aloittaa postien lähettämisen kuuhun."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Kaikki valmista! Lähetit onnistuneesti Gmailin avulla."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Etsitkö nopeampaa lähettämistapaa? [link]Lue lisää[/link] miten voit lähettää ammattimaisesti SMTP:n avulla"
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] toimii MailPoetin kanssa"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Testiposti lähetetty onnistuneesti osoitteeseen: %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "PHP laajennus openssl ei ole käytössä palvelimellasi. Pyydä palveluntarjoajaasi kytkemään se päälle jos haluat käyttää SSL-yhteyttä."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Sähköpostiosoite \"%1$s\" pompanneille viesteille saattaa aiheuttaa ongelman. Jätä kenttä tyhjäksi ja kokeile uudestaan."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Kirjoitit SMTP salasanan, mutta et vaatinut tunnistautumista, ehkä haluat laittaa SMTP tunnistautumisen päälle."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Sinun palvelimellasi ei ehkä ole sähköpostipalvelinta. Varmistaaksesi, kirjaudu ulos ja klikkaa \"Salasana hukassa?\" linkkiä kirjautumissivulta. Saatko salasanan vaihto sähköpostin WP-sivustoltasi?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Tallennetaan lomaketta..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Tallenna"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Muokkaa näyttöä"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Sinun täytyy valita vähintään 1 lista"
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Sinun tilaajalla pitää olla vähintään kaksi vaihtoehtoa mistä valita"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Sinun pitää määritellä valintaruudulle arvot"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Lisää uusi kenttä"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Muokkaa muokattua kenttää"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Oletko varma, että haluat poistaa tämän muokatun kentän?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "tammikuu"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "helmikuu"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "maaliskuu"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "huhtikuu"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "toukokuu"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "kesäku"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "heinäkuu"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "elokuu"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "syyskuu"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "lokakuu"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "marraskuu"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "joulukuu"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Tarkista roskapostikansio vahvistaaksesi tilauksesi."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "Sähköposti"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Lähetä"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Tilaa!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Jakaja"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Etunimi"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Sukunimi"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Listavalinta"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Valitse lista(t):"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Sattumanvarainen teksti tai HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Tilaa uutiskirjeemme ja liity joukkoon. Meitä oon nyt [total_subscribers]."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Lisää uusi kenttä"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Muokkaa kenttä"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Poista kenttä"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "MailOpet tilaus"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "joka minuutti"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "joka toinen minuutti"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "joka viides minuutti"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "joka kymmenes minuutti"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "vartin välein"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "puolentunnin välein"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "joka tunti"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "joka toinen tunti"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Visuaalinen"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Palvelimesi ei tue: remote exchanges"
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Ota yhteys palveluntarjoajaasi. Se pitäisi olla korjattavissa."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Palvelimesi ei voi käynnistää MailPoetia"
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Palvelimeltasi puuttuu yksi tai useampi tärkeä PHP ominaisuus, jotta tämä toimisi oikein: %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Ota yhteys palveluntarjoajaasi."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Ensimmäinen lista"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Lista on luotu automaattisesti asennuksen yhteydessä"
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5 minuutin käyttäjänopas"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Näitä tauluja ei pystytty luomaan asennuksessa: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Ole hyvä ja kirjoita etunimi"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Ole hyvä ja kirjoita sukunimi"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Tilauksen vahvistus"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Tilaa uutiskirjeemme"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Verkkosivustollasi ei näytä olevan lisenssiä! Kirjaudu [link]tilinhallintaasi[/link] lisätäksesi lisenssin tälle verkkosivustolle."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Ei lisenssiä \"%1$s\". Jos olet hankkinut Premium-lisenssin, lisää tämä domain [link]tilin asetuksiin[/link]."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr ""
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Premium lisenssi on vanhentunut"
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "Voit lisätä tämän domainin sinun [link]tili asetuksiin[/link]"
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Lisenssisi ei salli enempää verkko-osoitteita. Päivitä [link]asetuksista[/link]"
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Hanki [link]MailPoet Premium[/link] nähdäksesi linkin."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "Et voi käyttää DKIM signature option..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "Sähköpostissa ei ole otsikkoa tai viestiä"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Virhe lähetettäessä viestiä <b><i>%s</i></b> <b><i>%s</i></b>:lle"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Onnistuneesti lähetetty <b><i>%s</i></b>:lle"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "Sähköposti ID%s ei ole julkaistu"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Tilaajaa ei löyty: <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "Tilaaja <b><i>%s</i></b> ei ole vahvistettu"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "Poistu uutiskirjeestä"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "toimittamaton"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "pompannut"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "avaamaton"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "avattu"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "klikattu"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "poistunut uutiskirjeestä"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Tämän päivän tilastot"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Tänään olet lähettänyt %1$s sähköpostia"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s joista %2$s "
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Tässä on lista pompanneista sähköposteista."
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Oleppas hyvä, tässä MailPoet  Newletter -lisäosa"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Päivittäisen uutiskirjeesi tilastot"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Newsletter Pro (by Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "Newsletters (by Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "WordPress-käyttäjät"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s tuo lista"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Lista on luotu automaattisesti tuomalla lisäosan tilaajat: %1$s "
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" tuotu kohteesta %1$s  "
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Lista on kohteessa: \"%1$s\" ja on tuotu automaattisesti."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "%1$s sähköpostia odottaa lähettämistä"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Sähköposti lähetetään %2$s  kohteeseen: %1$s "
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Lähetyksen tila"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Joukko yhteensä"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Yritettän uudelleen %s minuutin kuluttua"
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Prosessi aloitettu uudestaan, jottei aikaraja mene umpeen."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Prosessi aloitettu uudestaan jotta vältämme mahdollisen yhteyden katkeamisen."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Uutiskirje on jo lähetetty. Uusin uutiskirje lähetetään myöhemmin."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Lähetysprosessi on pysäytetty, koska havaittiin liikaa virheitä."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Pidämme kaikki epäonnistuneet lähetykset jonossa, jotta voit jatkaa lähetystä myöhemmin."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Ole hyvä ja vahvista sähköpostiasetukset ja varmista että voit lähettää testiviestin."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Jos olet äskettäin onnistuneesti lähettänyt paljon viestejä, virheet voi johtua palvelimen rajoituksista."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Palvelimesi estää tällä hetkellä viestien lähetyksen."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Postilaatikko täynnä"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Kun postilaatikko on täynnä"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Postilaatikko ei saatavilla"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Kun postilaatikko ei ole saatavilla"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Viesti viivästynyt"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Kun viesti on viivästynyt"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Epäonnistunut pysyvästi"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Kun epäonnistunut pysyvästi"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Toimintaa vaaditaan"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Kun sinun täytyy vahvistaa, että olet ihminen, lähetä:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Blokattu IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Kun sinut on merkitty roskapostin lähettäjäksi lähetä pompannut viesti osoitteeseen"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Kun pompannut viesti on outo emmekä ole varmoja mitä tehdä lähetä edelleen osoitteeseen"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Hakemistoon \"%1$s\" ei voi kirjoittaa, ole hyvä ja muuta hakemisto-oikeuksia tälle hakemistolle, että MailPoet voi asentaa itsensä oikein."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Lue ohjeet"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr ""
+"WP-sivustollesi perustamalla MySQL käyttäjällä (wp-config.php) ei ole tarpeeksi oikeuksia LUODA MySQL tauluja. Ole hyvä ja muuta tämä käyttäjä tai ota yhteyttä ylläpitoon.\n"
+"installation. mysql errors:(%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Ylätunniste"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Hakemistoon \"%1$s\" ei ole kirjoitusoikeuksia, ole hyvä ja muuta oikeudet tähän hakemistoon, jotta MailPoet voi asentua oikein. "
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Teema nimeltä %1$s on jo olemassa. Jos haluat tallentaa sen päälle valitse oikea valinta ennen latausta."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Teema %1$s on asennettu"
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Teeman asentaminen epäonnistui. Se ei ole oikean muotoinen."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Teema %1$s on poistettu"
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Teemaa %1$s ei voitu poistaa"
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "Maanantai"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "Tiistai"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "Keskiviikko"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "Torstai"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "Perjantai"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "Lauantai"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "Sunnuntai"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "1."
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2."
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3."
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "Viimeinen"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$s."
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet on asennettu onnistuneesti uudelleen käyttäen samaa versiota. Asetukset ja data on poistettu."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet ei voi asenuta uudelleen koska hakemistoosi  <em>wp-content/uploads/wysija</em> pitää olla kirjoitusoikeudet. Muuta oikeuksia ja kokeile uudestaan."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet on poistettu."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "MailPoetin päivitys versioon \"%1$s\" epäonnistui!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Sattumanvarainen teksti tai ohjeistus"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Sähköpostiosoite ei ole kelvollinen"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Tilaaja löytyy jo tietokannasta [link]Paina muokataksesi[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Hups! Olet jo tilaajana."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Hups! Emme voineet lisätä sinua!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Uusi tilaaja %1$s :aan"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "Yksi tilaaja vähemmän %1$s :ssä"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Lista \"%1$s\" on synkronoitu."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Listaa ei ole olemassa tai sitä ei voit synkronoida."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Sivulle ei ole pääsyä."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr ""
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Olet tilannut: %1$s "
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Jep. Olemme lisänneet sinut listallemme. Kuulet meistä pian."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Olet jo listalla: %1$s "
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Olet jo tilaaja"
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Pudota logosi tähän ylätunnisteeseen."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Pudota alatunnisteen kuva tähän."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Jos jätät tämän alueen tyhjäksi, sitä ei näytetä kun lähetät viestin"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Paina tässä lisätäksesi otsikon tai tekstiä."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Asettele vasemmalle"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Asettele keskelle"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Asettele oikealle"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Lisää linkki / Vaihtoehtoinen teksti"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Poista linkki"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Poista kuva"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Poista"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Muokkaa tekstiä"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Poista teksti"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Otsikot ja teksti"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Horisontaalinen viiva"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Mukautettu horisontaalinen viiva"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "WordPress artikkeli"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Teksti"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Katso selaimessa\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Otsikko 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Otsikko 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Otsikko 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Linkit"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "alleviivaa"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Alatunnisteen teksti"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Alatunnisteen tausta"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Uutiskirje"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Tausta"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Ylätunnisteen tausta"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Sosiaalisen median linkkien valinta"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Jakajan valinta"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Olet poistamassa teemaa: %1$s. Oletko varma?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Lisää linkki & Vaihtoehtoinen teksti"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Valitse tämä jos haluat läpinäkyväksi"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Lisää dynaamista tietoa tilaajista, uutiskirjeestä, päivämäärä, tms.."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Valintavaihdoehdot"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Muokkaa automaattisesti viimeisin sisältö"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Voit lisätä vain yhden vimpaimen jos haluat että ilmoitus lähtee heti, kun artikkeli on julkaistu"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Esikatsele ilman kuvia"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Tilaaja"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Etunimi"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Sähköpostiosoite"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "WordPress käyttäjän näyttönimi"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Tilaajien määrä"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Uutiskirjeen otsikko"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Ilmoitukset"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Artikkelien tai sivujen kokonaismäärä"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Viimeisimmän artikkelin otsikko"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Julkaisun numero"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Päiväys"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Tämän kuun tämä päivä"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Tämän kuun tämä päivä järjestysnumerona"
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Tämä päivä kirjoitettuna"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Kuluva kuu numerona"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Kuluva kuu kirjoitettuna"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Peruuta tilaus -linkki"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Muokkaa tilausta -linkki"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Katso selaimessa -linkki"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Muokatut kentät"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Tallennetaan perustyyliä"
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Perustyyli tallennettu"
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Aseta perustyyliksi"
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Lisää osa tähän"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Ajoitettu"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Vahvista tilauksesi: %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Hei!\n"
+"\n"
+"Hienoa! Olet tilannut uutiskirjeemme.\n"
+"Aktivoi tilauksesi klikkaamalla seuraavaa linkkiä: \n"
+"\n"
+"[activation_link]Vahvista uutiskirjeen tilaus.[/activation_link]\n"
+"\n"
+"Kiitos,\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Eikö viesti näy oikein? [link]Lue uutiskirje selaimessasi.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Kyllä, lisää minut listalle."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Kuka voi luoda uutiskirjeitä?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Kuka voi hallita tilaajia?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Kuka voi muuttaa MailPoetin asetuksia?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Kuka voi nähdä teema-välilehden visuaalisessa editorissa?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Kuka voi nähdä tyylit-välilehden visuaalisessa editorissa?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "tyhjä"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>Lähettäjä</strong> -osoite(%1$s) ei ole kelvollinen sähköpostiosoite"
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>Vastaa</strong> -osoite(%1$s) ei ole kelvollinen sähköpostiosoite"
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Asetuksesi on tallennettu"
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr ""
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Näkymä"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Viimeisintä uutiskirjettäsi lähetetään."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Automaattinen uutiskirjeesi on aktivoitu."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Nimi"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Kuvaus"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Päällä"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Järjestys"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Ei ole listoja joihin lähettää"
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Tila"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Luotu"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr ""
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Painta tästä liittyäksesi"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP osoite"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Liittymispäivämäärä"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Arkistosivun lyhytkoodi"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Liitä tämä lyhytkoodi sivulle näyttääksesi listan viimeisimmistä uutiskirjeistä."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Oho! Ei yhtään uutiskirjettä."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Esikatsele uudessa välilehdessä"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Hups! Jokin epäonnistui kun Mailpoetin cron-työtä oltiin ottamassa käyttöön."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Hups! Jokin epäonnistui kun Mailpoetin cron-työtä oltiin poistamassa käytöstä."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Älä lähetä myöhässä"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com voi käydä sivustollasi joka 15. minuutti kuten cron-työ varmistaaksesi että sähköpostisi lähtevät ajoissa."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Premium-käyttäjien sivustolla käydään joka 5. minuutti."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "...tai vaihtoehtoisesti [link]määritä cron-työ palvelimellesi[/link]."
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Taikuus tapahtuu..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Odotetaan ensimmäistä käyntiä!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Näytä yksityiskohdat."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Poista käytöstä."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "Muuamassa minuutissa näet viimeisen käyntikertasi täällä."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Palvelinpuolen cron-asennus"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Ensin luo palvelimellesi komento, joka käy ajastettujen rutiinien osoitteessamme:"
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Tässä on esimerkkikomento, joka sinun pitää luoda palvelimellesi:"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "Esimerkkejä muista komennoista löydät [link]tästä artikkelista[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "Tarkempaa hallintaa varten voit määrittää yhden cron-työn jokaista rutiinia kohden"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Lähettää"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Pompanneiden viestien käsittely"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Päivittäin"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Viikottain"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Kuukausittain"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Ei kiitos!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "Olen määrittänyt cron-työn."
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Odotetaan cron-työsi ensimmäistä käyntiä!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Tarkista nyt."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Cron-työsi toimii!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Hups, jokin ei toimi!"
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Näytä asennusohjeet"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Palaa asetussivulle"
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Hups! Yhteyttä MailPoetin palvelimeen ei saatu luotua juuri nyt. Palvelin voi olla alhaalla tai olet välityspalvelimen tai palomuurin takana."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Viimeisin käynti oli muutama sekunti sitten."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Viimeinen käynti oli %1$s minuuttia sitten."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Viiimeinen käynti oli %1$s minuutti sitten."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Löysimme ongelman! Mailpoet.com ei voinut vierailla sivustollasi, koska:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Olet sisäisessä verkossa. Joudut määrittämään oman cron-työsi."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr ".htaccess-tiedostosi, palomuurisi tai palvelimesi estää IP-osoitteemme (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Määritä [link]oma cron-työsi[/link]."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "Tai pyydä palveluntarjoajaltasi apua!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Lähettämisrutiini alkaa:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Pompanneiden viestien käsittely alkaa:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Päivättäinen rutiini alkaa:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Viikoittainen rutiini alkaa:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Kuukausittainen rutiini alkaa:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Aktivoitu!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "Jonossa"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Ei lähetetty"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Pompannut"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Lähetetty"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Vain avattu"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Avattu ja klikattu"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Avattu ja peruttu"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Arvotele"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Parhaat linkit"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Linkki"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Yksilöllisiä klikkauksia"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Klikkaukset yhteensä"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Tällä hetkellä katsomassa"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Näytä tilaajat"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Monista"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Lähetetty"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Listat"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "Lähettäjä"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Vastausosoite"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Pompannut"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Tilaaja avannut uutiskirjeistä %1$s / %2$s"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Tilaaja avannut uutiskirjeistä %1$s / %2$s"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Klikkaukset"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Laite"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Avattu"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr ""
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Poista"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Massatoiminnot"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Aseta"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Sivu %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "%1$s :sta"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Jää tilaajat %1$s sivuun."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Kuinka monta tilaajaa näytetään per sivu"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Muokkaa"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Lisää"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Kaikki uutiskirjeet"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Hae uutiskirjeitä"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Takaisin"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Luo uusi sähköposti"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "...tai monista jokin alla olevista kopioidaksesi sen ulkoasun."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Kaikki"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Luonnos"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Pysäytetty"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Standardit uutiskirjeet"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Automaattiset uutiskirjeet"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Näytä kaikki kuukaudet"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Näytä listan mukaan"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Suodata"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Kaikki lähetetty"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "Jonossa"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Epäonnistunut lähetys"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Avaamattomat"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Aukaistut"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Klikatut"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Tämän alueen"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Poista jonosta"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Luo uusi lista"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Poista kaikilta listoilta"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Poista listalta %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Vie CSV-tiedostoon"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Avattu, klikattu, poistuttu uutiskirjeestä"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Muokattu"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Lähetetty"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Lähetetty %1$s / %2$s "
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s / %2$s lähetetty."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Ajoitettu lähetettäväksi: %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Ajoitettu lähetettäväksi: %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Esikatsele"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Tilastot"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Seuraava lähetetään %1$s sisällä"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Seuraava lähetetään %1$s "
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Lähetetään päivittäin ajassa: %1$s "
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Lähetys viikoittain. Päivä: %1$s Kellon aika: %2$s "
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Aseta kuukausittain %1$s , %2$s "
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Aseta kuukausittain %1$s %2$s %3$s "
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "jos uutta sisältöä"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pysäytä"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Ei aktiivinen"
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Jatka"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Ei vielä lähetetty"
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Lähetä välittömästi"
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Lähetä välittömästi, kun joku kirjautuu postilistalle %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Lähetä %2$s jälkeen, kun joku kirjautuu postilistalle %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "mikä tahansa rooli"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Lähetä välittömästi, kun uusi käyttäjä on lisätty sivullesi %1$s :na"
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Lähetä %2$s jälkeen, kun uusi käyttäjä on lisätty sivullesi %1$s :na"
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Lähetä per tapahtuma"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Lähetetty %1$s tilaajalle"
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Viimeisin jouko sähköposteja pitäisi lähteä automaattisesti muutamassa minuutissa."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Aikaa jäljellä  %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr " %1$s sähköpostia ajastettu"
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Viimeinen joukko on lähetetty %1$s sitten"
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Älä odota, vaan lähetä heti"
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Jatkaaksesi lähettämistä [link]vaihda Premiumiin[/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "näe linkit [link]Premiumilla[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Hae vastaanottajia"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Sähköpostin tila"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Tilaajan tila"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Klikattu"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Vahvistettu"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Näytä tilastot tai muokkaa"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Minkä tyyppinen uutiskirje tämä on?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Lähetetty automaattisesti"
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Otsikkorivi"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Tämä on uutiskirjeesi otsikko. Se on ensimmäinen asia, jonka tilaajasi näkevät."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Hups! Selaintasi ei välttämättä tueta. Hae uusin [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. Kaikki näyttäisi toimivan oikein?[link_ignore]Sivuuta virhe[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Tallenna ja uudelleenaktivoi"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Seuraava kohta"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Sisältö"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Kuvat"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Tyylit"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Teemat"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Raahaa alla olevat vimpaimet uutiskirjeeseesi"
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Automaattinen uusin sisältö"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Sosiaalisen median linkit"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Lisää kuvia"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Lisää teemoja"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Meidän työkaluvalikko ei lataudu?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konflikti"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Sinulla on luultavasti asennettuna kolmannen osapuolen lisäosa tai teema joka rikkoo meidän käyttöliittymän. [link]Lue lisää[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Lähetä malli"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "Mene takaisin kohtaan 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Palauttaa teeman ulkoasun. Jos vahvistat vaihdon,  korvautuu nykyinen ylätunnisteesi, alatunnisteesi, jakajat ja tyylit. Sisältö ei muutu."
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Tämä on ensimmäinen asia, jonka tilaajasi näkevät."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Kun..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Tilaajalista, jota käytetään tässä kampanjassa"
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Lähettäjä"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Nimesi ja sähköpostiosoitteesi"
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Vastausosoite ja nimi"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Kun tilaajat painavat \"reply\" vastaanottaa tämä sähköposti heidän vastauksensa"
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Ajasta"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Sivuuta nykyiset tilaajat"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Älä lähetä jo vahvistetuille tilaajille, vaan vain uusille tilaajille"
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Tallenna luonnoksena ja sulje"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "tai mene [link]takaisin suunnitteluun[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Paikallinen aika on <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Standardi uutiskirje"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Automaattinen uutiskirje"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Lisätty"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Osoite:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Vaihtoehtoinen teksti:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Tämä teksti näkyy, kun sähköpostiohjelmistot eivät näytä kuvia. Näin käy useimmissa tapauksissa."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Lataa teema (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Opas[/link] kuinka luot oman teeman."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Ilmainen"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "Yhteenlaskettu tiedostonsiirtoraja: %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Jos samanniminen teema on jo olemassa, kirjoita yli"
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Hae"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Aseta valitut"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Mitä lyhennettä käytetään? [linkLue lisää[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Näytä..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "lyhenne"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "koko artikkeli"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "vain otsikko"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Otsikon asettelu"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "otsikko 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "otsikko 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "otsikko 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "näytä listana"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Otsikon sijainti"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "tekstilohkossa"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "Tekstilohkon ja kuvan yläpuolella"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Otsikon asettelu"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "vasemmalla"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "keskellä"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "oikea"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Kuvan asettelu"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "vaihtele vasemmalta & oikealta"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "ei kuvaa"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Kuvan leveys"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Sisällytä kirjoittaja"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "ei"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "sisällön yläpuolella"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "sisällön alapuolella"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Edeltävä:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Sisällytä"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"Read more\" teksti"
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Taustan väri"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Erän lisäys valinnat"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Lajittele"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "uusin"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "vanhin"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Näytä jakaja viestien välissä"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "kyllä"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Taustan väri vaihtoehdolla"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Valmis"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Artikkelin tyyppi"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Maksimimäärä näytettäviä artikkeleita"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr ""
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Valitse..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Koko:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "pieni"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "keskikokoinen"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Käyttämälläsi selaimella ei voi ladata tiedostoja. Kokeile käyttää <a href=\"http://wordpress.org/extend/mobile/\">laitteeseesi suunniteltua sovellusta</a>."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Tiedostotilasi on täynnä (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Sallitut tiedostotyypit"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Tiputa tiedostot tähän"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "tai"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Valitse tiedostot"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Suurin mahdollinen tiedostokoko: %d%s"
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Selaimessasi on rajoituksia suurien tiedostojen siirrossa monisiirtoa käytettäessä. Käytä selainsiirtoa tiedostojen kanssa, jotka ovat yli 100 Mt."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Päivitä WordPress viimeisimpään versioon saadaksesi uusin lataustyökalu"
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Valitse siirrettävät tiedostot"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Peruuta siirto"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Suurin mahdollinen tiedostokoko: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Jos haluat käyttää latauksen koko kapasiteettia esim monen tiedoston lataus kerralla, päivitä lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Tässä välilehdessä on kuvia nykyisestä ja edellisistä uutiskirjeistäsi"
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Tämä välilehti täyttyy Wordpress artikkelien kuvista."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Tervetuloa %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Kiitos! Päästä minut MailPoetin kimppuun."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr ""
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr ""
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Päivitys tehty! Vähän niinkuin saisi uuden lelun, mutta perempaa."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr ""
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr ""
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Pitääksesi tämän vimpaimen ilmaisena"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Tykkäätkö kissanpennuista?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "Me rakastamme tähtiä..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Joka kerta, kun käyttäjä unohtaa kirjoittaa arvostelun, kissanpentu kuolee. Se on surullista ja särkee sydämemme. [link]Lisää arvostelusi[/link] ja pelasta kissanpentu jo tänään."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Seuraa meitä etkä missaa mitään!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Piilota!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Muutos loki"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Päivitetty %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Hei! Meillä on pieni kysymys sinulle:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Jos vahvistat, kaikki nykyiset tietosi poistetaan (uutiskirjeet, teemat, tilastot, listat, tilaajat, jne.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Vahvista uudelleenasennus"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Tämä toiminto ei toimi, koska \"Kommentit\" toiminto JetPack-lisäosassa on päällä."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Rekisteröinti tälle sivustolle on pois päältä."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Tilaajat voivat valita näistä listoista:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Määrittelen cron-työn itse jotta voin hallita julkaisutiheyttä itse. Lue ohjeet [link]cron-työn määrittämisestä[/link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Käytä tätä URL-osoitetta cron-työssä: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Ei kiitos! Minulla on jo tarpeeksi kävijoitä sivustollani. Heidän vierailut käynnistävät MailPoetin cronin automaattisesti."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Olen Premium-käyttäjä ja MailPoet.com takaa, että sähköpostini lähtevät ajallaan."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Jos haluan, voin [link]luoda vaihtoehtoisen cron-työn[/link] paikallisesti kasvattaakseni lähetystiheyttä."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Jos haluan, voin [link]luoda vaihtoehtoisen cron-työn[/link] paikallisesti kasvattaakseni lähetystiheyttä."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Määritä nimipalvelinasetukset (DNS) lisäämällä nimi/arvo -parit TXT-kenttiin kuten alla:"
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Lue lisää"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Nimi"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Arvo"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Käytät vanhempaa DKIM-avainta jota Gmail ei tue."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Sinun täytyy päivittää nimipalvelinasetuksesi (DNS) jos päivität."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Päivitä DKIM-avain"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Verkko-osoite"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Roolit ja oikeudet"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Näytä kaikki"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Kun joku tilaa uutiskirjeen"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Kun joku peruu uutiskirjeen"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Päivittäinen kooste lähetetyistä sähköposteista"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Ei"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Kyllä"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Yleiset"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Lomakkeet"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Kirjautumisen vahvistus"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Lähetä..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Lisäasetukset"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Laajennukset"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Tallenna asetukset"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Yrityksesi osoite"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Osoite, joka lisätään uutiskirjeen alatunnisteeseen. Tämän asettaminen auttaa välttämään roskapostisuodattimet."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "Sähköposti-ilmoitukset"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Kirjoita sähköpostiosoitteet johon ilmoitukset lähetetään (erottele pilkulla)"
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Ilmoitusten lähettäjä"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Valitse lähettäjän nimi ja sähköpostiosoite ilmoitusviesteille."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Tilaus kommenteissa"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Vierailija joka kirjoittaa kommentin artikkeliin voi tehdä valinnan tilatakseen uutiskirjeen"
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Tilaus rekisteröintilomakkeessa"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Sallii rekisteröityvän käyttäjän tilata uutiskirjeen haluamastasi listasta."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Linkki selainversioon"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Näytetään uutiskirjeesi yläosassa. Älä unohda linkki-tagia esim: [link]Linkki[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Peruuta tilaus -viestin teksti"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "\"Peruuta tilaus\" -linkin teksti uutiskirjeesi alatunnisteessa."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Peruutussivu"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Tilaaja ohjataan haluamallesi sivulle, kun hän klikkaa \"Peruuta tilaus\" -linkkiä uutiskirjeen alaosassa."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Salli kirjautumisen vahvistus"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Tämän avulla listalta pysyvät poissa ne ketkä tilaavat uutiskirjeen vahingossa."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Lue lisää."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "Sähköpostin aihe"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "Sähköpostin sisältö"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Älä unohda linkkiä: <br><br>[activation_link]Vahvista tilauksesi.[/activation_link]. <br><br>Vaihtoehtoisesti: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Vahvistussivu"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Kun tilaaja klikkaa aktivointi linkkiä, he ohjataan valitsemallesi sivulle."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Palveluntarjoajan tapa"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Käytetään palveluntarjoajan asetuksia"
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Ei määritetty!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Sinun verkkosivusi"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Yksinkertaisin ratkaisu pienille listoille. Palveluntarjoajasi on asettanut päivittäiset rajoitukset."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Kolmas osapuoli"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Ammattimainen SMTP-palveluntarjoaja on hyvä valinta pienille ja isoille listoille. Olemme neuvotelleet muutamia tarjouksia joidenkin palveluntarjoajien kanssa sinua varten."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Lähetystapa"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Lähetä itsellesi testiviesti vahvistaakesi mikä tapa toimii palvelimellasi."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Tämä sähköpostimoottori toimii 95&#37; palvelimista"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Tämä tapa toimii 5&#37; palvelimista"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail-polku"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Käytä samaa tapaa kuin WP-asennuksesi käyttää"
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP-isäntänimi"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "esimerkiksi: smtp.mydomain.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Käyttäjätunnus"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Salasana"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktivoi jos SMTP-porttien käyttö on estetty"
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP-portti"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Turvattu yhteys"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Todennus"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Jätä tämä asentoon kyllä. Vai pieni osa SMTP-palveluista ei käytä todennusta."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr ""
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Lähetä testikirje"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Lähetä..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Palveluntarjoajallasi on rajoitukset. Suosittelemme 70 sähköpostia tunnissa. [link]Lue lisää[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "sähköpostit"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Tämä on nopea!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Suosittelemme, että asetat cron-työn. [link]Lue lisää[/link] osoitteessa support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr ""
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Voit vaihtaa oletusvastausosoitteen ja -nimen uutiskirjeellesi. Tätä käytetään myös vahvistusviesteissä sekä ilmoituksissa."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Sähköposti pompanneille viesteille"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Minne kaikki pompanneet postit ohjataan? Hanki [link]Premium-versio[/link] niin tämäkin hoituu automaattisesti."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Osta Premium-versio."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Tilaajat voivat muokata profiiliaan."
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Lisää linkki alatunnisteeseen kaikissa uutiskirjeissä, jotta tilaajat voivat muokata profiilejaan ja listojaan. [link]Katso oma profiilisivusi.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Esikatsele"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Tilaajan profiilisivu"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Valitse sivu, jolla tilaajan profiili näytetään."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Salli HTML-muokkaus"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Tämä sallii sinun käyttää HTML:ää tekstilaatikoissa visuaalisessa editorissa."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Jaa tietoja anonyymisti"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Jaa tietoja anonyymisti auttaaksesi meitä kehittämään lisäosaa. [link]Lue lisää[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "muu"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "taide"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "yritystoiminta"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "opiskelu"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "verkkokauppa"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "ruoka"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "vakuutus"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "hallitus"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "terveys ja liikunta"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "valmistus"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "markkinointi ja media"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "voittoa tavoittelematon"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "valokuvaus"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "matkustus"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "kiinteistöt"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "uskonto"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "teknologia"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "teollisuus"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Valitse teollisuuden ala"
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Lyhytkoodi uutiskirjeen tilaajien määrän näyttämiseen"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Liitä tämä lyhytkoodi näyttääksesi vahvistettujen tilaajien määrän artikkelissa tai sivulla."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Merkistö"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Neliöitä tai outoja merkkejä sähköposteissa? Valitse oikea merkistö kielellesi."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Salli MailPoeton Cron"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Yksikään jonossa oleva viesti ei ole lähtenyt? Aktivoi silloin tämä."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Virheidenetsimistila"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Salli tämä näyttääksesi MailPoetin virheilmoitukset. Tukemme saattaa pyytää sinua sallimaan tämän jos pyydät heiltä apua."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Tee tai älä tee. Kokeile ei ole vaihtoehto."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Edistyneet asetukset"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Näytä/piilota edistyneet asetukset"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Piilota"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Näytä"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Asenna uudestaan ja aloita alusta"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Haluatko aloittaa alusta? Tämä poistaa MailPoetin ja asentaa sen täysin uudelleen."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Asenna uudelleen nyt..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Valitse haluamasi asetukset"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Samat asetukset kaikille sivustoille"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Pakota kaikki sivustot lähettämään uniikilla lähettäjän sähköpostiosoitteella. Sinun tarvitsee asettaa vain kerran automaattinen pompanneiden viestien hallinta (Premium), SPF & DKIM."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Käyttäjät voivat edelleen muuttaa vastausosoitetta uutiskirjeessä. Verkon pääkäyttäjät voivat edelleen muokata lähetystapaa jokaisella sivustolla."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Määritä kaikki sivustot manuaalisesti"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Määritä SPF ja DKIM erikseen jokaiselle sivustolle."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Asetukset ja oikeudet"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Salli sivuston ylläpitäjän muuttaa lähetystapa"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Salli sivuston ylläpitäjän ottaa kirjautumisen vahvistus pois päältä"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Verkon oletuslähetystapa"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF ja DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "SPF-tietueesi"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "Lähettäjän sähköpostiosoite tätä tapaa käyttäville sivustoille"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Luo uusi lomake"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Ei listaa valittuna"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Käyttäjän valinta: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Muokkaa lomaketta"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Jaiks! Muokataksesi lomaketta sinulla pitää olla ainakin yksi lista."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Lisää lista"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Muokkaa nimeä"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Lista lomakkeista"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Tämä lomake lisää tilaajat näille listoille:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Valitse lista"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Lähettämisen jälkeen..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "näytä viesti"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "mene sivulle"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Voit helposti lisätä tämän lomakkeen teemasi [link]vimpainalueeseen[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html]-, [link_php]PHP[/link_php]-, [link_iframe]iframe[/link_iframe]- ja [link_shortcode]lyhytkoodi[/link_shortcode]versiot ovat myös saatavilla."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Tekstikenttä"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Tekstialue"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Valintapainikkeet"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Valintaruutu"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Valitse"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Valitse kentän tyyppi:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Kentän nimi:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Lisää kappaleet automaattisesti"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Rivien määrä:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Valitse listat, jotka tahdot lisätä:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Vuosi, kuukausi, päivä"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Vuosi, kuukausi"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Kuukausi (tammikuu, helmikuu, ...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Päiväyksen muoto:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Lisää kohde"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Tunniste:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Näytä tunniste kentän kanssa:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Järjestys:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Valitse tämä päivä:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Onko tämä kenttä pakollinen?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Vain numeroita"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Vain kirjaimia"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Aakkosnumeerinen"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Puhelinnumero, (erikoismerkit ja välilyönnit sallittuja)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Tarkista:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Ei mitään"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Premium-version mukavampi käyttökokemus"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Kaikki tilastot yhdessä näkymässä"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Katso koko ruudunkaappaus"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Pidä hauskaa ja kehitä uutta"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Näet suosituimmat uutiskirjeesi, tilaajat, linkit, listat ja verkko-osoitteet yhdellä näytöllä. Pystytkö päihittämään edelliset uutiskirjeesi?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Kasvata tilaajamäärää"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Saanko sivupalkin tilauslomakkeella enemmän tilaajia kuin alapalkin tilauslomakkeella? On aika ottaa selvää."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Vertaa mennyttä ja tätä hetkeä"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Meneekö nyt paremmin kuin 3 kuukautta sitten? Selaa tuloksia päivämäärän perusteella nähdäksesi muutokset."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Tavoita heidän sähköpostilaatikkonsa"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Näe roskapostipisteesi yhdellä klikkauksella kun olet suunnitellut uutiskirjeesi käyttämällä itse suunnittelemaamme [link]mail-tester[/link] -työkalua."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Roskapostisuodattimet rakastavat DKIM-allekirjoitusta"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Lisää DKIM-allekirjoitus uutiskirjeisiisi kasvattaaksesi perillemenoprosenttia. [link]Lue asennusoppaasta.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Anna meidän määrittää se"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Kansainvälinen ja ystävällinen tiimimme auttaa sinua optimoimaan asetuksesi ja tarkistavat, että sinulla on kaikki oikein aloittaaksesi. Me vastaamme kysymyksiin keskimäärin alle kymmenessä tunnissa. Aika nopeaa!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatisoi tylsät jutut"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Anna lisäosan poistaa <strong>pompanneet ja virheelliset osoitteet</strong> automaattisesti. [link]Katso ohje[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Lisäksi, MailPoet tarkistaa 15min välein sivustosi, <strong>niin kuin cron-työ</strong> varmistaakseen, että uutiskirjeesi lähetetään ajallaan. Säätöjä ei tarvita!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 päivän \"rahat takaisin\" -takuu"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Hyvä tapa kokeilla Premiumia. Ketään ei pidä lukita sisään, ikinä."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Kissanpentu on on juuri täyttänyt tyhjän tilan. Näyttää nälkäiseltä, eikö? Me rakastamme kissanpentuja."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Ei enää 2000 tilaajan rajoitusta."
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Ilmainen versio rajoittaa uutiskirjeet 2000 tilaajaan. Premiumissa ei ole rajoitusta."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "Ja enemmän..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Katso mitä tilaajasi tekee kun saapuu sivullesi, kiitos Google Analytics kampanjaseurannan"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Yksityiskohtaisia tilastoja kaikista tilaajista"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Tilastoja klikatuista linkeistä jokaisessa uutiskirjeessä"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Bloggaaja"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Freelance"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Toimisto"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "vuosittain"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Yksittäinen sivusto"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Neljä sivustoa"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Rajaton määrä sivustoja"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Multisite valmius"
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Osta nyt"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Oletko jo maksanut?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Myyntiin liittyvä kysymys? [link]Ota yhtyettä[/link]"
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Seuraa kaikkea laajemmilla tilastoilla"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Etsitkö vastauksia? Miksi joku kampanja toimii hyvin? Mikä on tehokkain tilauslomake? Hanki brändin uudet tilastot ohjauspaneeliin. [link]Hanki tilastot ohjauspaneeliiin Premiumilla.[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Puhdistaa automaattisesti postituslistan"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Lähetä kuin ammattilainen ja pidä palvelimesi lähettäjämaine korkealla. Kiitos meidän hienolla postituslistan siivoustyökalulle, voit vihdoin välttää lähettämästä vanhoihin tai virheellisiin osoitteisiin. [link]Pidä postituslista puhtaana Premiumin avulla[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Lähetä tiheämmin"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Tiesitkö? On parempi lähettää vähemmän viestejä tiheämmällä välillä. Hanki Premium ja me pingaamme sivustosi joka 15min varmistaaksemme, että viestit lähtevät sulavasti tälläkin tiheydellä. [link]Lähetä paremmin Premiumilla[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Unohda rajoitukset"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Poista 2000 tilaajan rajoitus ja lähetä niin monelle tilaajalle kuin haluat. [link]Hankkiudu eroon rajoituksesta![/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Selvitä parhaimmat tilaajat"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Selvitä mikä linkki on ollut suosituin missäkin uutiskirjeessä. Selvitä kuka tilaaja on ykkös fanisi ja hanki hänestä enemmän tietoa. [link]Hanki enemmän tieto Premiumilla[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Hanki nopeampi tuki"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Ohita jono, pääset suoraan meidän tärkeimpien viestien kansioon. [link]Nopeampi tuki Premiumilla[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Hanki enemmän teemoja"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Eikö ole värisilmää? Älä huoli, me olemme työskennelleet parhaimpien suunnittelijoiden kanssa ja tarjoamme paljon erilaisia teemoja, uusimmat ovat yksinoikeudella Premium-käyttäjille [link]Hanki enemmän teemoja Premiumilla[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Seuraa lukijoitasi Google Analytics-työkalulla"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Varmista mitä tilaajasi tekee sen jälkeen kun ohjaat heidät sivuillesi. [link]Seuraa kävijöitä GA:n avulla Premiumilla[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 päivän tyytyväisyystakuu"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Vieläkö epäröit tuotettamme tai 9 hengen tiimimme suhteen? Älä stressaa, me olemme tarpeeksi itsevarmoja ja lupaamme sinulle 30 päivää aikaa kokeilla. Palautamme rahat heti jos et ole tyytyväinen. [link]Hanki Premium ilman stressiä[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Ole tuottelias, kiitä Premiumia!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Meillä on tarjolla kolme erilaista lisenssiä:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "%s vuodessa ja saat Premium-jäsenyyden yhdelle sivustolle"
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Hanki nyt!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Freelancer"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "%s vuodessa ja saat Premium-jäsenyyden 4 sivustolle."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "%s vuodessa ja saat Premium-jäsenyyden kaikille sivustoillesi."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Lue meidän yksinkertaiset ja helpot [link]ehdot[/link]"
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Tilastohallintapaneeli"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Kenelle"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Onko tilastoissa palautetta? [link]ota yhteyttä[/link] meihin."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Listat ja tilaajat"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Etsi tilaajia"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Takaisin listoihin"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Muokkaa listoja"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Tuo"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Vie"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Listaamaton"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Ei koskaan avattu eikä klikattu"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Poista tämä tilaaja lopullisesti?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Poista tilaajat lopullisesti?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Siirrä listaan"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Lisää listaan"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Poista listalta"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Poista kaikilta listoilta"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Poista tilaajat"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Vahvista kaikki vahvistamattomat tilaajat"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr ""
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Näytä kaikki listat"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Tilaajat, jotka eivät ole millään listoilla."
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Viimeisin avaus"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Viimeisin klikkaus"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Kaikki tilaajat tällä sivulla on valittu."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Valitse kaikki %1$s tilaajat."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Kaikki %1$s tilaajat on valittu."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Tyhjennä valinta"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Listat, joihin tilaaja oli kirjautunut."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Valitse lista"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Muoto"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV-tiedosto"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel Windows-järjestelmälle"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Vie vain vahvistetut tilaajat"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Lista kentistä, jotka viedään"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Poiskirjauduttu %1$s :sta"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Huomio: Katso mitä tämä tilaaja on avannut ja klikannut meidän [link]Premium-version[/link] avulla."
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Luomispäivämäärä"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Päivitä"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Hae kaikki MS-käyttäjät"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Omaa käyttöäsi varten. Tätä ei näytetä tilaajille."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Päivitä lista"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Lisää lista"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Kuinka haluat tuoda?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Kopioi ja liitä tekstilaatikkoon"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Lataa tiedosto"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Tuo kohteesta: %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Liitä listasi tähän"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Listan pitää olla CSV-muodossa tai yksinkertaiseti Gmail-, Hotmail- tai Yahoo-tilistä kopioitu. Katso [link]esimerkit tukisivuiltamme[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Listan pitää olla CSV-muodossa. Katso [link]esimerkki tukisivultamme[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Pyysivätkö nämä tilaajat uutiskirjettä?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Jos vastaus on \"ei\", ajattele itseäsi roskapostin lähettäjänä."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Lue lisää osoistteessa support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Vertaa tietoja"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Jätä sarake huomiotta..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Lisää \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Lisää \"%1$s\" päiväys kenttänä"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Varmista että päivä sinisellä täsmää alkuperäisen kanssa."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Älä vahvista \"päivämäärä kenttänä\" jos suurin osa riveistä palauttaa saman virheen."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Virhe päiväyksessä."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Valitse yksi tai monta listaa"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Valitse lista johon haluat tuoda nämä tilaajat"
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Uusi lista"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Kirjoita uuden listasi nimi"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Huomio:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "tilaajat vastaanottavat \"%1$s\" tuonnin jälkeen."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Lisää %1$s tilaajat lisäosasta: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Lisää lomake"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Listasi"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet tilauslomake"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Liittymislomake postituslistalle"
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Tarkista saapuneet postit vahvistaaksesi tilauksen."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Olet onnistuneesti liittynyt postituslistalle"
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Otsikko:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Peruuttaaksesi tilauksen kirjoita sähköpostiosoitteesi alle. Vahvistusviesti lähetetään sinulle!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Anna tilaajien valita listat:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Kysy:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Näytä tunnisteet valinnoissa"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Napin otsikko:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Onnistumisviesti:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe versio"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Valitse lomake:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr ""
