@@ -1,0 +1,5963 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/wysija/wysija/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-12-18 11:38:11\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "在付費頁面新增一個複選框，讓客戶可以訂閱MailPoet電子報。"
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "根據新客戶剛剛購買的產品來決定他自動獲得哪些電子郵件。這是WooCommerce的一個高級外掛。"
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "增加一個新欄位到表單，以便訪客可以訂閱您MailPoet電子報"
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "在註冊表單上新增這個外掛的複選框，以便您的新使用者加入您所選擇的訂閱群組。"
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "在表單中新增一個複選框，並選擇使用者要加入的訂閱群組。"
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "用WangGuard的免費白名單服務以及外掛來防止機器人假冒訂閱。"
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "如果有這個問題，那麼這就是解決方案。完全免費。"
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall是一個付費外掛，用來在付費區放置內容。這個附件功能管理客戶的客戶訂閱。"
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "在網站的頂部或底部的條形區域裡，或在用GetConversion的免費外掛的文章裡的一個方格里面放入一個表單。用這個附件把它們和MailPoet聯絡起來。<br/></br>請點擊這裡取得他們附件高級版本30% off的折扣 <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "自己試試印象深刻的免費版本。"
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "使用這個付費外掛在彈出框，頁尾條或圖片輪播中放置訂閱表單，可增加訂閱者。"
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "作者已經做了很了不起的工作。"
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "付費使用者使用優惠券：MP20，可節省20%。"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "這個付費外掛允許在彈出窗中加入一個MailPoet表單。"
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "您需要學習CSS來按自己的意願設計它。"
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "付費使用者使用優惠券：mailpoet25，可節省25%。"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "這個付費外掛允許在很多地方，以及Facebook中加入MailPoet的表單。"
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "非常強大，如果不是一個古怪的使用者界面。"
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "這個免費外掛允許在文章的開始或結尾處設計和放置一個表單。"
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "它是免費的，已經證明受使用者的歡迎。"
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr ""
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr ""
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "這個免費外掛允許在彈出窗中放置一個表單，就這樣。"
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "這是一個更強大的付費版的免費版本。"
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "新網站還沒有推出嗎？可用這個付費外掛放置一個帶有用來獲取郵件地址表單的速成頁面。"
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "一個想法簡單，設計良好的外掛。"
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "付費使用者使用優惠券：MAILPOET20，可節省20%。"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "這個付費外掛允許正好在頁首下面放置一個漂亮的表單，僅此而已。"
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "為客戶新增了一個複選框選項，在網上商店購買的通時可以選中訂閱電子報。"
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "利用Ninja Forms的強大和靈活，快速為郵件列表新增訂閱電子報的表單。"
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr ""
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "沒有啟動，因為它需要先安裝並啟動<strong><a href=\"%s\">%s</a></strong>。"
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "隱藏這條消息"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "已啟動。"
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "已去啟動。"
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet表示："
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "網站"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "購買"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "從WordPress.org安裝"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "啟動"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "設定"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "看不到您要的附加功能？在聯絡表單中<a href=\"%s\">送出它</a>。"
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "此欄位為空白"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "年"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "月份"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "日"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "無法存取CSV檔案，請檢查目錄\"%1$s\"的存取權限。"
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "您嘗試導入的訂閱群組可能有錯誤。"
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "插入email時失敗。"
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "插入訂閱群組時失敗。"
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "對瀏覽器來說，您貼入的訂閱群組太大。請用<strong>檔案上傳</strong>。"
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "嘗試導入的資料不是CSV格式(逗號分隔的值)。"
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "閱讀更多"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "CSV檔案的第一行應當為列頭：\"email\"，\"lastname\"，\"firstname\"。"
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "CSV檔案的第二行應當為值：\"joeeg@example.com\"，\"Average\"，\"Joe\"。"
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "您上傳檔案的前兩行是："
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "是空行"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "再檢查一遍想導入的東西。"
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "在前10行中找不到任何有效的地址。"
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "導入的檔案無效。"
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "嗨！%1$s已有更新(版本%2$s)，<a href=\"%3$s\">點擊這來更新</a>。"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "請重新整理頁面"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "回到MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "更新外掛"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "使用您的域名郵件，如<strong>info@%s</strong>，可避免轉到垃圾郵件目錄，甚至被阻擋。"
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "如果想用Gmail地址，需要用Gmail傳送，檢查<a id=\"tip-send-with\" href=\"%s\">傳送設定</a>。"
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "謝謝！"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "無法載入您選擇的主題。"
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "您的郵件無法儲存"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "您的郵件已儲存"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "樣式無法儲存"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "樣式已儲存"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "圖片已刪除"
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "選擇的圖片沒儲存。"
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "選擇的圖片已儲存。"
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "請選擇一篇文章。"
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "查詢不到相應的文章。"
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "您的郵件預覽已傳送到%1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "API無法連接，網站可能當機。稍後在試。"
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "您的請求失敗"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "請求成功"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "成功連接到%1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "您的收件箱中有%1$s封郵件"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "現在沒有要處理的退信通知！"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "可能需要開啟<i>自簽名證書</i>選項"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "您確定選擇了正確的連接埠？如果不知道怎麼設定，可以留空"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "需要為這個欄位選擇一個類型"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "需要為這個欄位指定一個名稱"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "這個欄位不存在"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "已儲存！變化已經在小工具中生效。"
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "已儲存！把這個表單加到[link_widget]小工具[/link_widget]裡。"
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "您的表單無法儲存。"
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "您的表單已儲存。"
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "使用者已插入。"
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "沒有插入使用者。"
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "使用者已更新。"
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "使用者尚未更新。"
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "插入訂閱表單"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "馬上獲取付費版"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "呀！您已經超過了免費版MailPoet 2000個訂閱者的限制(共%1$s個)。現在無法傳送了。要無限制的傳送請升級到[link]付費版[/link]。"
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "呀！您已接近MailPoet免費版%1$s個訂閱者的限制了。要無限制地傳送，請升級到[link]付費版[/link]，還有更多功能。"
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "元素已刪除"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "元素已經被刪除"
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "上傳"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "電子報圖片"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "WordPress文章圖片"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "請求期間安全故障"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "安全問題"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "歡迎頁面！"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "正在安裝MailPoet電子報付費版外掛"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "一個全新的MailPoet。開始享受吧。"
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr ""
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr ""
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr ""
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "優惠卷"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "給你或客戶的提示"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr ""
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr ""
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "第一次？看看指南"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "觀看影片，學習如何開始。"
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "分享您的資料"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "我們對我們的使用者瞭解不夠。我們需要 [link]匿名資料[/link] 來把外掛做的更好。 [ajaxlink]好吧，算我一個！[/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "我們對我們的使用者瞭解不夠。我們需要 [link]匿名資料[/link] 來把外掛做的更好。謝謝，您已經共用了。"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "您能做什麼"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5分鐘新手指南"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoet帶有一個範例電子報。關閉歡迎頁面後，會看到它。編輯它來開始使用這個外掛。"
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "自己解決。或讓我們幫助您。"
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "[link]support.mailpoet.com[/link]上有檔案和幫助系統。24小時回答問題。"
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "有什麼新東西？"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "您的網站可用付費版了。"
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "您的網站沒有付費版授權。[link]這裡[/link]購買它。"
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "佇列是空的！"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "步驟%1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "加入[newsletter:total]可顯示文章的數量，[newsletter:post_title]可顯示最新文章的標題，以及[newsletter:number]來顯示版本號。"
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "訂閱者首先看到的東西。請新增以增加開信率！"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "第一步：主要內容"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "一天一次在..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "每週在..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "每月在..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "每月每..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "馬上。"
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "任何WordPress角色"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "當有新內容時..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "當有人訂閱這個訂閱群組時..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "當網站加入了一個新的使用者時..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "小時之後。"
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "天之後。"
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "周之後。"
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "馬上"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "小時"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "天"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "周"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "正在儲存電子報..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "儲存電子報時發生錯誤..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "電子報已儲存。"
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "正在傳送預覽..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "垃圾郵件偵測結果"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "第二步：\"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "傳送現在已暫停。"
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "傳送已經恢復。"
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "複製於"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "電子報已被複製。"
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s封郵件每%2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "傳送設定([settings])無法很快地給[number]個訂閱者傳送。預計傳送會延遲。[link]詳細內容[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "最後一步：最後的細節"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "選擇日期"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "儲存並關閉"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "稍後傳送"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "時間表"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "現在啟動"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "傳送"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "準備傳送該電子報，請確認。"
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "確定要忽略list %2$s中的%1$s個訂閱者？"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "電子報已刪除。"
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "電子報已刪除。"
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "電子報無法刪除。"
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "詳細內容。"
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "作者："
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "分類："
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "已傳送最新內容。"
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "用小工具%s自動最新內容%s新增下列文章"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%s要編輯%s，滑鼠上移以便在下面顯示編輯按鈕。"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "步驟1："
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "點擊該文字！"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "要編輯，只需點擊該文字區塊。"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "步驟2："
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "使用這張圖片"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "向左移動圖片上的滑鼠。"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "步驟3："
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "在這裡放入內容"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "拖放%1$s文字，文章，分隔線。%2$s看看右邊!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "可用的%1$s社交書籤%2$s："
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "步驟4："
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "還有底部呢？"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "在MailPoet的%1$s設定%2$s頁面，修改頁尾內容。"
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "電子報已成功新增。"
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "訊息遺失。"
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Google分析僅能包含拉丁字元，數字，空格和連字元！"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "電子報已排進計劃。"
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "電子報已儲存為草稿。"
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "電子報"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "請選擇一封電子報。"
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "永久刪除該電子報？"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "徹底刪除這些電子報？"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "批次傳送郵件..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "檢查電子報"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "電子報將會失效，需要重新啟動它，一旦編輯它即可啟動。想要繼續嗎?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "訂閱群組已被刪除。"
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "傳送暫停。"
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "沒有電子報。"
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "統計：%1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "請求無法獲取任何訂閱者。請改變過濾條件！"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "%1$s的段落"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "基於一個電子報段落新增了列表"
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "用這部分新增了新列表\"%1$s\"。"
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "這部分已從所有訂閱群組中退訂。"
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "這部分已從該電子報的佇列中刪除。"
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "這部分已從訂閱群組\"%1$s\"中退訂。"
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "這部分無法從一個[IMPORT]訂閱群組中退訂。"
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "選擇文章"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "顯示和插入選項"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "返回選擇區"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "載入結果..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "插入選擇的文章..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "已選擇"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "上傳失敗，檔案%1$s太大！(最大：%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "安裝主題"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "詳細資訊和PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<<返回"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "下載"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "重新安裝"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "付費版"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "可用的Photoshop檔案是[link]付費版功能[/link]。"
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "顯示所有主題"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s 投票)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "投票已記錄。"
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "投票無法記錄。"
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "注意！如果重裝該主題，目錄：/wp-content/uploads/wysija/themes/%1$s中所有檔案將重寫。確實要重裝？"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "檢查所有%1$s的主題"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "下載原始Photoshop檔案"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "已.zip下載"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "檢查作者的網站"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "平均評分：%1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "我的評分：%1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "下載：%1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "標籤：%1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "最後更新：%1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "包括：%1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "書籤選擇"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "分隔選擇"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "新增 / 編輯文章群組"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "顯示展示選項"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "隱藏展示選項"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "圖片參數"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "刪除所有電子報的圖片？"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "這張圖片可能在一篇文章中。一定要刪除嗎？"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "太多檔案在排隊了。"
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s 超出了該網站最大的上傳大小。"
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "這個檔案是空的，請試另外一個。"
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "不允許這個檔案的類型。請試另外一個。"
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "這個檔案不是一張圖片。請試另外一個。"
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "記憶體溢出。請試試另一個小一點的檔案。"
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "這比最大的大小還大。請試另外一個。"
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "上傳時發生錯誤。請稍後重試。"
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "有一個伺服器設定錯誤。請聯絡伺服器管理員。"
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "您僅可以上傳1個檔案。"
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP錯誤。"
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "上傳失敗。"
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "請使用此工具上傳 %1$sbrowser uploader%2$s。"
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "在使用您的瀏覽器的多檔案上傳工具時%s超出了最大的上傳大小。"
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO錯誤。"
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "安全錯誤。"
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "檔案已取消。"
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "上傳已停止。"
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "取消"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "數據分析&hellip;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "移至垃圾桶。"
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; 上傳失敗。"
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d 檔案上傳成功！"
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "已儲存。"
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "該電子報不存在。"
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "傳送測試郵件"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "退信處理連接測試"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "正在處理退信操作"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "訂閱者現在需要通過郵件來驗證啟動他們的訂閱，以便能收到您的電子報。推薦您這麼做。"
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "未確認的訂閱者從現在開始將收到您的電子報，而不需要驗證啟動他們的訂閱。"
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "現在處理退信操作！"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "在設定退信系統時，需要一個不同的退信郵件地址，並發至該郵件地址"
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "確認要刪除這個表單嗎？"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "就快完成了。點擊這個[link]連結[/link]來啟動剛剛購買的授權。 "
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "重新安裝MailPoet？"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "新表單"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "這個表單不存在"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "複製"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "已新增名稱為\"%1$s\"的表單。"
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "已刪除這個表單。"
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "已刪除名稱為\"%1$s\"的表單。"
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "新表單"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "這個表單不存在。"
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "小工具設定"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "已經付過錢了？點擊這裡來啟動"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "正在檢查授權"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "最近7天"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "上個月"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "最近30天"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "最近90天"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "最近180天"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "最近365天"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "自訂日期"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "已儲存訂閱者。"
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "每頁的訂閱者數："
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "至少選擇1個訂閱者！"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "呀！找不到任何訂閱者。"
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "訂閱者未儲存。"
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "訂閱者已修改。 [link]再次編輯[/link]。"
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "訂閱者未修改。"
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s個訂閱者已加到\"%2$s\"裡。"
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s個訂閱者已加到\"%2$s\"裡。"
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s個訂閱者已移到\"%2$s\"裡。"
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s個訂閱者已移到\"%2$s\"裡。"
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s個訂閱者已從所有存在的訂閱群組中刪除。"
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s個訂閱者已從所有存在的訂閱群組中刪除。"
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s個訂閱者已從\"%2$s\"裡刪除。"
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s個訂閱者已從\"%2$s\"裡刪除。"
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s個訂閱者已確認。"
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s個訂閱者已確認。"
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "沒有郵件被發送"
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] ""
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "編輯訂閱群組"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "編輯訂閱群組%1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "新的訂閱群組怎麼樣？"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "已複製訂閱群組\"%1$s\"。"
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "增加訂閱者"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "沒找到訂閱者，很有可能因為他已被刪除了。"
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "編輯"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "已刪除訂閱群組\"%1$s\"。"
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "訂閱群組不存在或無法刪除。"
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "已更新訂閱群組。"
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "嶄新的訂閱群組等待它的第一個訂閱者。"
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "從外掛%1$s中導入已完成。"
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "從外掛%1$s中導入已取消。"
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "從外掛中導入訂閱者。"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "沒有可導入的外掛。"
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "導入訂閱者"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "選中的值已經符合到另一列。"
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "確認這列對應於該欄位？"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "您貼上的是"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "已退訂"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "未確認"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "已訂閱"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "需要選擇至少一個訂閱群組。"
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s個訂閱者新增到%2$s。"
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "檔案：%2$s中，%1$s郵件出現多於一次。"
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s郵件無效：%2$s。"
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "輸出訂閱者"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "已刪除%1$s個訂閱者。"
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "已刪除%1$s個訂閱者。"
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "已輸出%1$s個訂閱者。在[link]這裡[/link]獲取輸出的檔案。"
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "正輸出%1$s個訂閱者"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "頁面不存在。"
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "請驗證這個頁面的連結。"
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "您已退訂！"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "您不會再收到我們的郵件了！"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "您已經退訂了。"
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "是不是操作不當？[link]取消退訂[/link]。"
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "您已訂閱！"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "編輯您的訂閱"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "編輯訂閱者資料：%1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "郵件%1$s已經存在。"
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "電子報資料已更新。"
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "無JavaScript的訂閱已關閉。"
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "好像小工具已從WordPress的[link]小工具區[/link]刪除。"
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "載入中..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "發生錯誤，[link]請點此了解狀況[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]檢查更多訊息。[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "每分鐘一次"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "每兩分鐘一次"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "每5分鐘一次"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "每10分鐘一次"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "每15分鐘一次"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "每30分鐘一次"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "每2小時一次"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "每週一次"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "每28天一次"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet頁面"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "PHP版本過舊，請盡快更新否則新版本的MailPoet將不會運作。"
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]了解如何更新PHP[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "略過"
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "驗證欄位時錯誤"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "表\"%2$s\"中欄位\"%1$s\"是必須的。"
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "欄位\"%1$s\"需要一個有效的Email。"
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "沒有資料載入！"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "伺服器的設定不允許完成MailPoet的安裝！"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "線上閱讀。"
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "點擊這裡檢查媒體。"
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "根據類型過濾"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "文章"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "頁面"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "分類和標籤"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "用狀態過濾"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "需要啟動MailPoet付費版外掛。"
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "確認啟動MailPoet付費版外掛？"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "啟動MailPoet付費版外掛"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "恭喜，付費版授權可用。最後一步..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "確認安裝MailPoet付費版外掛？"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "安裝MailPoet付費版外掛"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "下載付費版外掛。"
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "它並不是一直按照我們想要的方式工作，不是嗎？我們有一個[link]專門的支援網站[/link]，提供檔案和一個計票系統。"
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet版本："
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "訂閱者"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "設定"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "模組"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "統計"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "獲得幫助！"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "成為付費會員！"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "聯絡支援人員"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "在[link]wordpress.org[/link]上推薦我們[stars]，保持這個外掛基本版免費。"
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet版本"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "請先做選擇！"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "刪除訂閱群組不會刪除任何訂閱者。"
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "想安裝那個版本？"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "找不到結果"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "請輸入<%= chars %>更多字元<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "請刪除<%= chars %>字元<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "僅選擇<%= chars %>條目<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "載入更多結果..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "查詢..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "下一頁&gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; 上一頁"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "圖片"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "屬於"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "關閉"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "此功能需要內嵌框架。您的iframe已關閉或您的瀏覽器不支援它們。"
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "退信處理"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "標題"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "收到%1$s封來自使用者%2$s的郵件"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "%1$s封郵件後將執行動作"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "沒有郵件"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "是的，它能工作了。您可以開始狂發郵件到月球了。"
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "完成了所有的設定！使用Gmail已經成功地傳送了。"
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "正在找更快的傳送指令？關於使用專業SMTP傳送的[link]詳細內容[/link]。"
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method]可和MailPoet一起運行"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "測試郵件已成功地傳送給%s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "您的伺服器上PHP擴充功能OpenSSL不可用。如果想用SSL連結，請要求主機商開啟它。"
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "退信郵件地址\"%1$s\"也許是導致這個問題的真正原因。留空這個欄位再試。"
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "您設定了一個SMTP密碼，但您沒有要求認證，您可能需要把SMTP認證開啟。"
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "您的本地機器可能沒有郵件伺服器。要驗證，請登出，並在登錄頁面點擊\"忘記密碼？\"連結。您有收到WordPress發出的重置密碼郵件嗎？"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "正在儲存表單..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "儲存"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "編輯顯示"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "您必須至少選擇1個訂閱群組"
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "訂閱者需要至少2個選項來選擇"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "您需要為複選框指定一個值"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "新增新欄位"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "編輯自訂欄位"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "確認要刪除這個自訂欄位嗎？"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "一月"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "二月"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "三月"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "四月"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "五月"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "六月"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "七月"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "八月"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "九月"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "十月"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "十一月"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "十二月"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "馬上檢查您的收件箱或垃圾箱，確認您的訂閱。"
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "郵件"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "送出"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "訂閱！"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "分隔符"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "尊姓"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "大名"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "訂閱群組選擇"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "選擇訂閱群組："
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "任意文字或HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "訂閱電子報，加入到[total_subscribers]個訂閱者中。"
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "新增新欄位"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "編輯欄位"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "刪除欄位"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "訂閱MailPoet"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "每分鐘"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "每2分鐘"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "每5分鐘"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "每10分鐘"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "每15分鐘"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "每30分鐘"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "每小時"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "每2小時"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "可視化"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "您的伺服器不支援遠端交換。"
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "聯絡管理員修改，它是可設定的。"
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "您的伺服器無法運行MailPoet。"
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "您的伺服器缺少一個或多個重要的PHP功能來正確運行：%1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "請聯絡空間提供商或伺服器管理員來修補這個。"
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "電子報"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "這個訂閱群組是在安裝MailPoet時自動新增的。"
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5分鐘使用者指南"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "在安裝：%1$s時沒有新增這些表"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "請輸出姓"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "請輸入名"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "訂閱確認"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "訂閱我們的電子報"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "您的網站似乎沒有經過授權，請登入[link]帳號管理員[/link]新增授權"
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "沒有\"%1$s\"的授權。如果是付費版，在您的[link]帳戶管理[/link]中加入這個域名。"
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "續期"
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "您的付費版授權過期了。"
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "可以在[link]帳戶管理[/link]中加入這個域名。"
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "授權不允許更多的域名。從[link]帳戶管理[/link]中更新。"
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "使用[link]MailPoet付費版[/link]來檢查連結。"
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "無法使用DKIM簽名選項..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "這封郵件沒有標題或主旨"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "傳送郵件<b><i>%s</i></b>到<b><i>%s</i></b>時錯誤"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "成功傳送到<b><i>%s</i></b>"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "郵件ID %s未發佈"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "沒找到訂閱者：<b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "訂閱者<b><i>%s</i></b>未確認"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "退訂"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "未傳送"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "已退回"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "未開信"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "已開信"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "已點擊"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "已退訂"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "今天的統計"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "今天已傳送%1$s封郵件"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr "，它的%1$s是%2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "這是退回郵件的列表。"
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "恭喜，您的MailPoet電子報外掛"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "每日電子報統計"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "電子報專業版(by Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "電子報(by Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "WordPress使用者"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s的導入訂閱群組"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "導入外掛的訂閱者時自動新增了該訂閱群組：\"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "從%1$s導入了\"%2$s\""
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "\"%1$s\"中存在的訂閱群組已自動導入。"
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "有%1$s封等待郵件"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "郵件將在%2$s傳送給%1$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "傳送處理"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "總批次量"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "在%s分鐘後進行下一次嘗試。"
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "處理已重新整理，避免受時間限制。"
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "處理已重新整理，避免可能遺失的連接。"
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "電子報已經在傳送。最新的電子報將在之後傳送。"
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "因為太多錯誤，傳送處理已停止。"
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "在佇列中儲存了所有沒有傳送的郵件，可以稍後繼續傳送處理。"
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "請驗證郵件設定並保證可以傳送這個郵件的測試。"
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "如果最近成功傳送了很多郵件，哪些錯誤也有可能是伺服器限制導致的。"
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "顯然您的伺服器拒絕傳送更多的電子郵件。"
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "收件箱已滿"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "當收件箱已滿時"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "收件箱不可用"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "當收件箱不可用時"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "郵件已延遲"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "當郵件延遲時"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "一直失敗"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "當一直失敗時"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "待辦事件"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "當需要證明是人時，轉至："
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "阻擋的IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "當被標記為垃圾傳送者時，退信發至"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "當很奇怪地退信而我們不確定做什麼時，轉至："
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "目錄\"%1$s\"不可寫，請改變這個資料夾的存取權限，以便Mailpoet自己能正確設定。"
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "閱讀教學"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "在WordPress網站(wp-config.php)中設定的MySQL使用者沒有足夠的權限來新增MySQL資料表。請自己改變這個使用者或聯絡網站的管理員來完成MailPoet的安裝。MySQL錯誤：(%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "頁首"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "頁尾"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "目錄\"%1$s\"不可寫，請改變這個資料夾的存取權限，以便Mailpoet自己能正確設定。"
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "名稱為的主題%1$s已經存在。要覆蓋它，上傳前選中相應的選項。"
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "主題%1$s已安裝到您的網站。"
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "無法安裝主題。它的格式無效。"
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "主題%1$s已刪除。"
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "主題%1$s無法刪除。"
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] ""
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] ""
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] ""
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] ""
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] ""
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] ""
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "星期一"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "星期二"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "星期三"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "星期四"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "星期五"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "星期六"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "星期日"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "第1"
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "第2"
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "第3"
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "最後"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "第%1$s"
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet使用相同的版本重裝成功。設定和資料已刪除。"
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet無法重新安裝，因為資料夾<em>wp-content/uploads/wysija</em>需要可寫的權限。改變權限，並重新安裝。"
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet已移除。現在網站已清理了MailPoet。"
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "升級到MailPoet版本\"%1$s\"失敗！"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "任意文字或指令"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Email無效！"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "訂閱者已存在。[link]編輯[/link]。"
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "哎呀！您已經訂閱了。"
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "喔喔！我們無法增加您！"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "%1$s的新訂閱者"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr "您好， 訂閱者%1$s剛剛訂閱了訂閱群組「%2$s」。"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "沒人訂閱%1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"您好! \n"
+"\n"
+"訂閱者%1$s剛剛退訂了訂閱群組「%2$s」。 \n"
+"\n"
+"MailPoet插件"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "已同步訂閱群組\"%1$s\"。"
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "訂閱群組不存在或無法同步。"
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "頁面無法存取。"
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "您的確認網址已過期，請重新訂閱。"
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "您已訂閱了：%1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "好的，已把您加入到訂閱群組裡。很快會收到我們的郵件。"
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "您已經訂閱了：%1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "您已經訂閱過。"
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "在這個頁首放入logo。"
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "這裡放入頁尾圖片。"
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "如果這個區域留空，在傳送郵件時它將不顯示。"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "點擊這裡，可新增標題或文字。"
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "左對齊"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "居中"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "右對齊"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "新增連結 / 替代文字"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "刪除連結"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "刪除圖片"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "刪除"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "編輯文字"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "刪除文字"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "標題和文字"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "水平行"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "自訂水平行"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "WordPress文章"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "文字"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "“在瀏覽器中檢查”"
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "標題1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "標題2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "標題3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "連結"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "下劃線"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "頁尾文字"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "頁尾背景"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "電子報"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "背景"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "頁首背景"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "社交書籤選擇"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "分隔符選擇"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "準備刪除主題：%1$s。真的想這麼做？"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "新增連結及替代文字"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "如果想透明，選中這個框"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "插入關於訂閱者，電子報，今天的日期等等的動態資料..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "選擇選項"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "編輯最新的自動內容"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "您僅能增加一個小工具，在設計文章發佈後立即傳送的文章提醒"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "無圖預覽"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "訂閱者"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "尊姓"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "大名"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "郵件地址"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "WordPress使用者的顯示名字"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "訂閱者總數"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "電子報標題"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "文章提醒"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "文章或頁面的總數"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "最新文章的標題"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "版本號"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "日期"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "目前日期的月數"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "目前日期的序號，即第2，第3，等等。"
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "目前日期的全稱"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "目前月數"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "目前月的全稱"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "退訂連結"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "編輯訂閱頁面的連結"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "在瀏覽器中檢查的連結"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "自訂欄位"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "正儲存預設樣式..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "預設樣式已儲存。"
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "設定為預設樣式。"
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "在這裡插入區塊"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "已排程"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "確認訂閱%1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"您好！\n"
+"\n"
+"很榮幸您能訂閱我們的電子報。\n"
+"您需要點擊下面的連結來啟動您訂閱的：[lists_to_confirm]。\n"
+"\n"
+"[activation_link]點擊這裡來確認您的訂閱。[/activation_link]\n"
+"\n"
+"謝謝！\n"
+"\n"
+"團隊！\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "顯示有問題？[link]在瀏覽器中檢查[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "請把我加入到郵件列表裡。"
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "誰可以新增電子報？"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "誰可以管理訂閱者？"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "誰可以改變MailPoet的設定？"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "誰可以在可視化編輯器裡看到主題選項？"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "誰可以在可視化編輯器裡看到樣式選項？"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "空"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "輸入的<strong>發件信箱</strong> (%1$s) 不是有效的Email地址。"
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "輸入的<strong>回覆</strong>郵件 (%1$s) 不是有效的Email地址。"
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "設定已儲存。"
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "使用`view_in_browser_link`（在「瀏覽器檢視」連結）取代"
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "檢查"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "最新的電子報正在傳送。"
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "自動電子報已啟動。"
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "姓名"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "描述"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "啟用"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "正排序"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "沒有訂閱群組要傳送。"
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "狀態"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "新增於"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "點擊此處取消訂閱"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "點擊這裡可訂閱"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP地址"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "訂閱日期"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "存檔頁簡易碼(shortcode)"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "在一個頁面裡複製貼上此簡易碼，可顯示過去的電子報。"
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "沒有電子報。"
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "在新選項卡中預覽"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "喔喔！啟動Mailpoet排程時發生錯誤。"
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "喔喔！關閉Mailpoet排程時發生錯誤。"
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "別遲到了"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com可以每15分鐘讀取您的網站1次，就像一個\"cron job\"，以確保您的電子報被發送的時間準確。"
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "白金使用者則是每5分鐘1次。"
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... 或是[link]在您的伺服器建立一個排程[/link]來代替。"
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "神奇的事發生了..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "等待第一個訪客！"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "檢視詳細資訊"
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "關閉他"
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "幾分鐘後，您會在這裡看到我們最後一次訪問的時間。"
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "設定伺服器端排程"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "首先，在您的伺服器上設定一個指令來存取我們的預定程序的URL："
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "這裡是一個伺服器設定指令的一個例子："
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "其他指令範例請參考[link]此文章[/link]。"
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "如果您需要更好的控制，可以分別設定每個例行排程作業"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "傳送中"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "退信處理"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "每日"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "每週"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "每月"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "不了謝謝！"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "好了，我已經設定了"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "等待您檢視排程作業！"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "馬上檢查"
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "您的排程作業運作中！"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "喔喔！發生錯誤了。"
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "查看安裝說明"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "回到 \"設定\" 頁面"
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "哎呀！我們無法連接到MailPoet的伺服器。 也許是您有使用代理伺服器或防火牆。"
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "最新的訪問是幾秒鐘以前的事了。"
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "最新的訪問是%1$s分鐘以前的事了。"
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "最新的訪問是%1$s分鐘以前的事了。"
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "發生一個問題！ Mailpoet.com無法訪問您的網站，因為："
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "您使用內部網路，也許您需要設定自己的排程作業。"
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "您的.htaccess，或防火牆阻擋了我們的IP(%1$s)。"
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "設定[link]您的排程作業[/link]來取代。"
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "或是詢問您的網站服務商請求協助！"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "發送程序開始於："
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "退信處理發送程序開始於："
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "每日程序開始於："
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "每週程序開始於："
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "每月程序開始於："
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "啟動囉！"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "在佇列中"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "沒傳送"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "已退回"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "已傳送"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "僅已開啟"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "已開啟和已點擊"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "已開啟和已退訂"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "等級"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "熱門連結"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "連結"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "獨立點擊次數"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "總共點擊次數"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "目前正在瀏覽"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "檢查訂閱者"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "複製"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google分析"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "傳送於"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "訂閱群組"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "從"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "回覆到"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "退信"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "訂閱者開啟了%2$s封郵件中的%1$s封"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "訂閱者開啟了%2$s封郵件中的%1$s封"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "點擊"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "設備"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "開啟日期"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "發送日"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "刪除"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "批次操作"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "套用"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "第%1$s頁"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "共%1$s頁"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "把訂閱者分成%1$s頁。"
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "每頁顯示的訂閱者數："
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "修改"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "新增"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "所有電子報"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "尋找電子報"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "返回"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "新增新郵件"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "...或複製下面的一個來使用它的設計。"
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "所有"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "草稿"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "已暫停"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "標準電子報"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "自動電子報"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "顯示所有月份"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "通過訂閱群組檢查"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "過濾"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "所有已傳送"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "在佇列中"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "傳送失敗"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "未開啟"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "已開啟"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "已點擊"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "使用這部分"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "從佇列中刪除"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "新增新訂閱群組"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "從所有訂閱群組中退訂"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "從訂閱群組：%1$s 退訂"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "輸出到CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "開啟，點擊，已退訂"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "修改於"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "傳送於"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "已傳送至%2$s個訂閱者中的%1$s人"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%2$s個訂閱者中的%1$s人已傳送。"
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "已排程於%1$s傳送"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "已排程於%1$s傳送"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "預覽"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "統計"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "下一次在%1$s發出"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "下一次於%1$s發出"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "每日傳送在%1$s運行。"
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "每週傳送在%1$s的%2$s運行"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "每月傳送在%1$s的%2$s運行"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "每月傳送在%1$s %2$s的%3$s運行"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "如果有新內容"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "暫停"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "未啟動。"
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "繼續"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "還未傳送。"
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "馬上傳送。"
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "有人訂閱郵件列表%1$s後立即傳送"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "有人訂閱郵件列表%1$s後傳送%2$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "任何角色"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "新使用者作為%1$s加入網站後立即傳送。"
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "新使用者作為%1$s加入網站後傳送%2$s。"
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "每事件傳送"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "已傳送給%1$s個訂閱者。"
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "最後一批郵件將在幾分鐘內自動開始傳送。"
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "剩餘時間：%1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s封郵件已排程。"
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "最後一批在%1$s之前已傳送。"
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "不用等，馬上傳送。"
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "要繼續傳送[link]馬上變成高級會員！[/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "檢查有[link]付費版授權[/link]的連結。"
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "尋找收件人"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "郵件狀態"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "訂閱者狀態"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "點擊"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "訂閱在"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "檢查狀態或編輯"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "這是什麼類型的電子報？"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "自動傳送..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "標題行"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "這是郵件的標題。要填寫是因為它是訂閱者首先看到的東西。"
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "呀！您的瀏覽器可能不支援，獲取最新的[linkchrome]Chrome[/linkchrome]，[linkff]Firefox[/linkff]，[linkie]Internet Explorer[/linkie]或[linksafari]Safari[/linksafari]。可以工作嗎？[link_ignore]取消[/link_ignore]。"
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "儲存並重新啟動"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "下一步"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "內容"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "圖片"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "樣式"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "主題"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "拖曳下面的widget到電子報中。"
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "最新自動內容"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "社交書籤"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "新增圖片"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "新增更多主題"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "工具欄無法載入？"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "衝突"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "肯定是在用的第3方外掛或主題破壞了界面。[link]詳細內容。[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "傳送預覽"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "儲存變更"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "返回第 1 步"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "如果確認切換主題，將覆蓋頁首，頁尾，分隔符和樣式"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "新增後，它是訂閱者首先看到的東西。可引導他們開啟郵件。"
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "何時..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "這個活動將使用的訂閱者列表。"
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "傳送人"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "自己的或公司的名字和郵件"
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "回覆人的名字和郵件"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "訂閱者點擊“回覆”時，誰將收到他們的郵件。"
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "為它排程"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "忽略目前的訂閱者"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "不傳送給已有的訂閱者，僅發給後訂閱者"
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "儲存為草稿並關閉"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "或僅[link]返回設計[/link]。"
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "本地時間是<code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "標準電子報"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "自動電子報"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "已增加"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "地址："
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "替代文字："
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "這些文字在郵件客戶端阻擋圖片時顯示，阻擋圖片在大多數時間會發生。"
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "上傳主題(.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "新增自己的主題的[link]指南[/link]。"
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "免費"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "總共最大上傳檔案的大小：%1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "如果存在同樣名字的主題，覆蓋它。"
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "查詢"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "插入已選"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "它使用哪一個摘要？[link]詳細內容[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "顯示..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "摘要"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "整篇文章"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "僅標題"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "標題格式"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "標題1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "標題2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "標題3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "列表顯示"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "標題位置"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "在文字區塊"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "在文章塊和圖片之上"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "對齊標題"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "左邊"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "中間"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "右邊"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "圖片對齊"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "交替左邊和右邊"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "無圖"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "圖片寬度"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "包含作者"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "不"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "在內容之上"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "在內容之下"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "前面加："
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "包含分類"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"詳細內容\" 文字"
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "背景顏色"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "批次插入選項"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "排序方式"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "最新"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "最久"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "文章間顯示分隔符"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "是"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "交替背景顏色"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "完成"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "文章類型"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "顯示文章的最大數"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr ""
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "選取..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "大小："
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "小"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "中"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "您的設備上的網路瀏覽器無法用來上傳檔案。可使用<a href=\"http://wordpress.org/extend/mobile/\">為您的設備準備的本機應用程式</a>。"
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "對不起，儲存空間用完了(%s MB)。"
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "允許的檔案"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "這裡放入檔案"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "或"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "選擇檔案"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "取消"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "最大上傳檔案大小：%d%s。"
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "瀏覽器使用多檔案上傳工具上傳大檔案有一些限制。超過100MB時請使用瀏覽器上傳工具。"
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "為使用最新的上傳系統，請更新WordPress至最新版本。"
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "選擇上傳檔案"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "取消上傳"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "最大上傳檔案的大小：%d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "如果想使用上傳工具的所有功能，如一次上傳多個檔案，請升級到lighttp 1.5。"
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "這個選項卡將用來自目前和上一個電子報的圖片填充。"
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "這個選項卡將用來自WordPress文章的圖片填充。"
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "歡迎來到%1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "謝謝！馬上讓我使用MailPoet。"
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr ""
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr ""
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "您已更新！它用於下面的小變動，確實更好了。"
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "一條簡短的問題"
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "訂閱我們的電子報"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "保持這個外掛基本上是免費的"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "喜歡小貓嗎？"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "我們喜歡標記..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "使用者每次忘記寫回應時，會死一隻小貓。這很難過也很傷心。 [link]新增自己的回應[/link]來救一隻小貓吧。"
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "關注我們將不會錯過任何事情！"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "隱藏！"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "更新日誌"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "已更新至%1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "您好，我有個問題簡單地問一下您："
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "如果您確定，目前MailPoet的所有資料將完整移除(電子報，主題，統計，訂閱群組，訂閱者，等等。)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "確認重裝"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "這個功能無法用是因為JetPack外掛的\"Comments\"功能已啟用。"
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "該網站的註冊功能不可用。"
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "訂閱者可以從這些訂閱群組中挑選："
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "我會在我的伺服器上按我想要的頻率設定一個排程作業。閱讀相關的[link]自己設定一個排程作業[/link]。"
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "在排程作業使用這個URl：[cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "不，謝謝！網站有足夠多的訪客。他們的存取會自動觸發MailPoet的排程作業。"
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "我是一個付費使用者，MailPoet.com將保證按時傳送我的電子郵件。"
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "如果想在伺服器上[link]新增一個另外的排程作業[/link]，以增加傳送頻率。"
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "如果想在伺服器上[link]新增一個另外的排程作業[/link]，以增加頻率。"
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "設定您的DNS，新增如下所示的key/value文字記錄。"
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "閱讀更多"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "鍵"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "值"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "您正在使用Gmail不支援的較老的DKIM密鑰。"
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "如果升級，需要更新DNS。"
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "升級DKIM密鑰"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "域名"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "角色和權限"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "檢查所有"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "當有人訂閱時"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "當有人退訂時"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "每天傳送郵件的概況"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "不"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "是"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "基本"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "表單"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "訂閱確認"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "用...傳送"
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "進階"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "附加功能"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "儲存設定"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "您的公司地址"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "這個地址將加到電子報的頁尾。這對避免垃圾過濾有幫助。"
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "郵件通知"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "輸入將收到通知的郵件地址(用逗號分隔)。"
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "通知傳送人"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "為通知郵件選擇發件人名稱和郵件地址。"
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "在回應中訂閱"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "在文章裡送出回應的存取人可以選中選擇框來訂閱。"
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "在註冊表單中訂閱"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "允許在網站註冊的使用者訂閱您選擇的訂閱群組。"
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "到瀏覽器版本的連結"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "在電子報頂部顯示。不要忘記包含連結標籤，如：[link]The link[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "“退訂”連結的文字"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "這會改變電子報頁尾的退訂連結的標籤。"
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "退訂頁面"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "訂閱者在點擊電子報底部的退訂連結後，會導航到您選擇的頁面。"
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "啟用訂閱確認"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "阻止不願意訂閱的人，此選項可保證保持一個乾淨的訂閱群組。"
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "瞭解更多。"
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "郵件標題"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "郵件內容"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "不要忘記需包含<br><br>[activation_link]確認您的訂閱[/activation_link]. <br><br>可選：[lists_to_confirm]。"
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "確認頁面"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "訂閱者點擊啟動連結時，會導航到您選擇的頁面。"
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "網路傳送指令"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "網路管理員設定的方法。"
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "沒有設定！"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "自己的網站"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "小訂閱群組最簡單的方案，網站主機可設定每天郵件的限制。"
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "第三方"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "用專業的SMTP提供商來傳送，對於各種訂閱群組來說都是很棒的選擇。我們已經與幾個提供商協商給您優惠了。"
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "傳送指令"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "發一些測試郵件給自己來確認伺服器用哪種工作指令。"
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "這個郵件引擎在95&#37; 伺服器都可運作"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "這個方法工作在5&#37; 伺服器都可運作"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail的路徑"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "和WP網站使用同一個方法。"
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP主機名"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "例如：smtp.mydomain.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "使用者名"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "使用者密碼"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "如果SMTP連接埠被阻擋，請啟動。"
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP連接埠"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "安全連接"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "認證"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "保持這個選項為是。只有一部分SMTP服務不需要認證。"
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "測試方法"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "傳送測試郵件"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "傳送..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "網站主機的限制。為了安全，建議每小時70封郵件。[link]了解更多[/link]。"
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "封郵件"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "這真快呀！"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "建議設定一個排程作業。在support.mailpoet.com上[link]瞭解更多[/link]。"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "API金鑰"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "可以為電子報變更預設的回覆人名稱和郵件。這個選項也適用於啟動郵件和管理員通知(在基本設定裡)。"
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "退信郵件地址"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "所有退回郵件要發往的地址。 [link]付費版[/link]會自動處理這些。"
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "購買付費版。"
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "訂閱者可以編輯他們的資料"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "在所有的電子報頁尾新增連結，以便訂閱者可以編輯他們的資料和訂閱群組。[link]檢查自己的訂閱資料頁面。[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "閱覽頁面"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "訂閱者資料頁面"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "選擇顯示訂閱者資料的頁面。"
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "允許編輯HTML"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "這允許在可視化編輯器中修改文字區塊的HTML。"
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "分享匿名資料"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "分享匿名資料可幫助我們改進這個外掛。 [link]詳細內容[/link]。"
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "其他"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "藝術"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "商業"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "教育"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "電子商務"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "美食"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "保險"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "政務"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "健康和運動"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "製造業"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "市場營銷和媒體"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "非營利"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "攝影"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "旅遊"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "房地產"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "宗教"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "技術"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "工業"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "選擇行業。"
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "顯示訂閱者總數的短原始碼(Shortcode)"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "在文章或頁面中貼上這個shartcode，可顯示已確認的訂閱者數量。"
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "字元集"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "您的電子郵件能顯示方塊字或奇怪的字元嗎？選擇語言編碼。"
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "啟用MailPoet排程"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr ""
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "測試模式"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "啟用這個，可顯示MailPoet的錯誤。如果您要我們的支援人員幫助，他們可能要您啟用這個。"
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "做或不做。無法嘗試。"
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "讓人討厭的選項"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "切換讓人討厭的選項"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "隱藏"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "顯示"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "從零開始重新安裝"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "想所有的都重新來一遍？這將徹底清除MailPoet並重裝一個新的。"
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "現在重裝..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "選擇您的優先設定?"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "一次設定，所有網站使用"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "強制所有網站使用單一的發件人電子郵件地址傳送。僅需一次性設定自動退信處理(付費版)，SPF和DKIM。"
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "使用者仍然可以為其電子報更改回覆人的地址。網路管理員仍可以編輯每個網站的傳送方法。"
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "手動設定每個網站"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "為每個網站獨立設定SPF和DKIM。"
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "設定和權限"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "允許網站管理員更改傳送指令"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "允許網站管理員關閉訂閱確認"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "網路的預設傳送指令"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF和DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "您的SPF記錄"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "使用這個方法的網站的發件人郵件地址"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "新增表單"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "沒有指定的訂閱群組"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "使用者選擇：%s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "編輯表單"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "要編輯表單，需要至少1個訂閱群組。"
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "新增訂閱群組"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "編輯名稱"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "表單列表"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "這個表單新增訂閱者到這些訂閱群組："
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "選擇一個訂閱群組"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "送出之後..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "顯示郵件"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "前往頁面"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "可簡單地在主題的[link]小工具區域[/link]加入這個表單。"
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] 以及 [link_shortcode]shortcode[/link_shortcode] 版本也可用。"
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "文字輸入框"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "文字區"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "單選框"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "複選框"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "選擇"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "選擇一個欄位類型："
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "欄位的名稱："
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "自動新增段落"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "行數："
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] ""
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "選擇想加入的訂閱群組："
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "年，月，日"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "年，月"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "月份(一月，二月，...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "日期類型："
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "新增條目"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "標籤："
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "在輸入框內顯示標籤："
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "排序："
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "預選擇今天的日期："
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "這個欄位是必須的嗎？"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "僅數字"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "僅文字"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "字母數字混合"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "電話號碼，(允許+,-,#,(,)和空格)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "驗證："
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "無"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "付費版體驗更好"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "所有的統計都在控制台裡"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "檢查全部截圖"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "玩得開心"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "檢查熱門電子報，熱門訂閱者，熱門連結，熱門訂閱群組和熱門域名。掌握傳送過的電子報的情況。"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "增加訂閱者"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "側邊欄表單比頁尾的表單獲得了更多的訂閱者嗎？現在檢查。"
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "比較過去和現在"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "現在是不是比3個月前做的更好呢？選擇一個日期範圍，顯示變化的結果。"
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "到達他們的收件箱"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "在設計電子報時考慮受歡迎的內部工具[link]mail-tester[/link]，可1鍵獲得垃圾郵件分數。"
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "垃圾郵件過濾器喜愛DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "電子報中新增一個DKIM簽名可增加電子報的可信度。[link]閱讀安裝指南。[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "設定它"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "我們的國際化的友好團隊將幫助您優化設定中的細節，並保證所有都好運行。我們平均在10小時內回答問題。蠻快的！"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "自動化枯燥的東西"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "讓外掛自動刪除<strong>退件和無效的地址</strong>。[link]檢查指南。[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "此外，MailPoet每15分鐘檢查網站，<strong>就像一個“排程作業”</strong>，以保證電子郵件按時傳送。不需要設定！"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30天退款"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "一個很棒的方法是嘗試使用付費版。從來不會有人被鎖定。"
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "小貓就填補了這一空白。它看起來餓了，不是嗎？我們喜歡小貓。"
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "不再限制2000個訂閱者"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "當確認的訂閱者達到2000時，免費版會阻擋電子報的傳送。付費版則沒有這個限制。"
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "以及更多..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "想掌握訂閱者一旦進入網站後發生了什麼，可考慮Google分析活動跟蹤"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "每個訂閱者的詳細統計"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "每封電子報裡點擊過的連結統計"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "寫部落格的人"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "自由作家"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "代理"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "每年"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "單網站"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "4個網站"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "無限網站"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "多網站已準備好了。"
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "現在購買"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "已經付費？"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "有問題？[link]直接聯絡[/link]。"
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "更多的統計監控每一件事情"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "想知道答案嗎？為什麼這樣或那樣的活動運作得非常好？哪個是最有效的訂閱表單？通過全新的統計儀表板可獲取清晰的畫面！ [link]獲取付費版的統計儀表板。[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "自動清理郵件列表"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "想像付費版一樣傳送，並保持伺服器高效率地傳送。可考慮我們的進階列表清理工具，您完全可以避免傳送到舊的或無效的電子郵件地址。 [link]用付費版讓您的列表乾淨。[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "更高頻率傳送"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "您知道嗎？使用更高的頻率傳送更少的電子郵件。加入付費會員，我們將每15分鐘ping一次您的網站，保證您的電子郵件都用這個頻率順利送出。 [link]付費版使用更好的傳送。[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "忘記限制"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "去除免費版中的2000個訂閱者限制，並想發給多少訂閱者就發給多少訂閱者。 [link]擺脫限制！[/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "研究熱門訂閱者"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "發現每個通訊裡哪個連結排名靠前。找出哪些使用者是您的頭號粉絲，並獲得關於它們的更多細節。[link]用付費版獲取更多的資料。[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "更快的支援"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "跳過排隊，直接到我們的優先收件箱。[link]用付費版獲得更快的支援[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "更多的主題"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "不擅長配色？別擔心，我們與頂尖的設計師合作，為您提供充足的題材，最新的都是付費版獨家擁有。[link]付費版中更多主題。[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "在Google分析中跟蹤讀者"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "一旦把訂閱者帶到網站，要看看他們在做什麼並提高保留率。[link]使用付費版中GA來跟蹤讀者。[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30天體驗保證"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "仍然對我們的產品和9人團隊有顧慮？放心，我們很自信地讓您試用30天。如果您不爽，我們馬上退款。[link]放心地成為付費會員。[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "要產品化，考慮付費版！"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "我們有3中不同的授權來滿足您的需求："
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "1個網站的付費版，每年%s。"
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "現在得到它！"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "自由作家"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "4個網站的付費版，每年%s。"
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "無限制網站的付費版，每年%s。"
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "閱讀簡易的[link]條款和條件[/link]。"
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "統計面板"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "到"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "對這些統計有要反饋的嗎？直接[link]聯絡我們[/link] 。"
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "訂閱群組和訂閱者"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "尋找訂閱者"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "返回列表"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "編輯訂閱群組"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "導入"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "輸出"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "取消訂閱群組"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "從未開啟或點擊"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "徹底刪除這個訂閱者？"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "徹底刪除這些訂閱者？"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "移至訂閱群組"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "加到訂閱群組"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "從訂閱群組中刪除"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "從所有的訂閱群組中刪除"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "刪除訂閱者"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "確認未確認的訂閱者"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "重新發送確認郵件"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "檢查所有的訂閱群組"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "不在任何訂閱群組中的訂閱者"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "最近打開"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "最近點擊"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "本頁上的所有訂閱者都選中。"
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "選擇所有%1$s個訂閱者。"
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "所有%1$s個訂閱者都選中。"
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "清除選擇"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "這個訂閱者訂閱的訂閱群組。"
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "選擇一個訂閱群組"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "格式"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV檔案"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Windows版的Excel"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "僅輸出已確認的訂閱者"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "要輸出的欄位列表"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "退訂%1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "注意：用[link]付費版[/link]可看到這個訂閱者開啟和點擊了什麼。"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "新增日期"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "更新"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "獲取所有MS使用者"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "自己使用，不要展示給訂閱者。"
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "更新訂閱群組"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "新增訂閱群組"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "想怎麼導入呢？"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "複製貼上到文字框"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "上傳檔案"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "從%1$s導入"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "然後再這裡貼上列表"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "這個列表需是CSV格式或從Gmail，Hotmail或Yahoo簡單的貼上。請參閱[link]我們的技術支援網站的例子[/link]。"
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "這個列表需是CSV格式。請參閱[link]我們的技術支援網站的例子[/link]。"
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "這些訂閱者請求加入訂閱群組了嗎？"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "如果答案是\"不\"，將認為自己是垃圾郵件傳送者。"
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]在support.mailpoet.com上瞭解更多[/link]。"
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "符合資料"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "忽略列..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "導入為\"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "作為日期欄位導入\"%1$s\""
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "驗證藍色的日期符合原始日期。"
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "如果該列的大多數行返回同樣的錯誤，不要作為'日期欄位'來符合。"
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "符合日期失敗。"
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "選擇一個或多個訂閱群組"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "選擇想把那些訂閱者導入的訂閱群組。"
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "新建訂閱群組"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "輸入新訂閱群組的名字"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "注意："
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "訂閱者在導入之後將接收\"%1$s\"。"
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "從外掛：%2$s中導入%1$s個訂閱者"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "插入表單"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "您的訂閱群組"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet訂閱表單"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "電子報的訂閱表單。"
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "馬上檢查您的收件箱，確認您的訂閱。"
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "您已訂閱成功。"
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "標題："
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "若要訂閱我們的優質電子報，只需在下面新增郵件地址。將給您傳送確認電子郵件！"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "讓訂閱者選擇他們的訂閱群組："
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "想要："
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "在輸入框內顯示標籤"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "按鈕標籤："
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "成功訊息："
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe版本"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "選擇一個表單："
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr ""
