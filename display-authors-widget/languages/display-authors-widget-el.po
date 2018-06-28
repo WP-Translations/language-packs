@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Display Authors Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/display-authors-widget\n"
+"Last-Translator: evigiannakou <evigian@in.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/wp-translations/display-authors-widget/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-21 15:03:30+00:00\n"
+"PO-Revision-Date: 2017-09-19 22:03:51\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: display-authors-widget.php:44
+msgid "Displays authors by role."
+msgstr "Εμφάνιση συντακτών κατά ρόλο."
+
+#: display-authors-widget.php:57
+msgctxt "Name of the widget in widget area."
+msgid "Display Authors Widget"
+msgstr "Μονάδα εμφάνισης συντακτών"
+
+#: display-authors-widget.php:134
+msgid "(%d)"
+msgstr "(%d) "
+
+#: display-authors-widget.php:189
+msgid "Authors"
+msgstr "Συντάκτες"
+
+#: display-authors-widget.php:206
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: display-authors-widget.php:211
+msgid "Role:"
+msgstr "Ρόλος:"
+
+#: display-authors-widget.php:221
+msgid "Display Post Count?"
+msgstr "Προβολή αριθμού άρθρων;"
+
+#: display-authors-widget.php:226
+msgid "Display Author Bio?"
+msgstr "Εμφάνιση βιογραφικού συντάκτη;"
+
+#: display-authors-widget.php:231
+msgid "Display Author Gravatar?"
+msgstr "Εμφάνιση Gravatar συντάκτη;"
+
+#: display-authors-widget.php:236
+msgid "Display Author Name?"
+msgstr "Εμφάνιση ονόματος συντάκτη;"
+
+#: display-authors-widget.php:240
+msgid "Gravatar Size:"
+msgstr "Μέγεθος Gravatar:"
+
+#: display-authors-widget.php:245
+msgid "Gravatar Alignment:"
+msgstr "Στοίχιση Gravatar:"
+
+#: display-authors-widget.php:247
+msgid "None"
+msgstr "Όχι"
+
+#: display-authors-widget.php:247
+msgid "Left"
+msgstr "Αριστερά"
+
+#: display-authors-widget.php:247
+msgid "Right"
+msgstr "Δεξιά"
+
+#: display-authors-widget.php:255
+msgid "Limit the number of authors displayed:"
+msgstr "Ορίστε τον αριθμό εμφανιζόμενων συντακτών:"
+
+#. Plugin Name of the plugin/theme
+msgid "Display Authors Widget"
+msgstr "Μονάδα εμφάνισης συντακτών"
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxnet-themes.fi/downloads/display-authors-widget/"
+msgstr "https://foxnet-themes.fi/downloads/display-authors-widget/ "
+
+#. Description of the plugin/theme
+msgid "Register widget to display authors by role in a sidebar."
+msgstr "Εγγραφή μονάδας για εμφάνιση συντακτών κατά ρόλο σε πλευρική στήλη."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen "
+
+#. Author URI of the plugin/theme
+msgid "http://foxnet.fi/en"
+msgstr "http://foxnet.fi/en "
