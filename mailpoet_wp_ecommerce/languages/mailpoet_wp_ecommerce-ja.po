@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WP e-Commerce Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Sebastien <sebastien@sebs-studio.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/wysija/mailpoet-wp-e-commerce-add-on/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 18:12+0100\n"
+"PO-Revision-Date: 2017-09-19 23:05:32\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "有効"
+
+#: include/settings-newsletters.php:20
+msgid "Newsletters"
+msgstr "ニュースレター"
+
+#: mailpoet-wp-ecommerce-addon.php:64
+#: mailpoet-wp-ecommerce-addon.php:152
+msgid "Yes, add me to your mailing list"
+msgstr "はい、私をあなたのメーリングリストに追加してください。"
+
+#: mailpoet-wp-ecommerce-addon.php:85
+#: mailpoet-wp-ecommerce-addon.php:129
+msgid "MailPoet WP e-Commerce Add-On"
+msgstr "MailPoet WP e-Commerce Add-On"
+
+#: mailpoet-wp-ecommerce-addon.php:120
+msgid "Settings saved"
+msgstr "設定が保存されました。"
+
+#: mailpoet-wp-ecommerce-addon.php:137
+msgid "Enable subscribe on checkout"
+msgstr "チェックアウト時に購読申し込みを有効にする"
+
+#: mailpoet-wp-ecommerce-addon.php:140
+msgid "Yes"
+msgstr "はい"
+
+#: mailpoet-wp-ecommerce-addon.php:141
+msgid "No"
+msgstr "いいえ"
+
+#: mailpoet-wp-ecommerce-addon.php:143
+msgid "Add a subscribe checkbox to your checkout page?"
+msgstr "チェックアウトのページに購読申し込みのチェックボックスを追加しますか。"
+
+#: mailpoet-wp-ecommerce-addon.php:149
+msgid "Checkout label"
+msgstr "チェックアウトのラベル"
+
+#: mailpoet-wp-ecommerce-addon.php:166
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: mailpoet-wp-ecommerce-addon.php:190
+msgid "Newsletter"
+msgstr "ニュースレター"
+
+#: mailpoet-wp-ecommerce-addon.php:295
+#, php-format
+msgid "MailPoet WP e-Commerce Add-on requires WP e-Commerce. Please install and activate <a href=\"%s\">WP e-Commerce</a> first."
+msgstr "MailPoet WP e-Commerce Add-onはWP e-Commerceが必要です。先に<a href=\"%s\">WP e-Commerce</a>をインストールし有効化してください。 "
