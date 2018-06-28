@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: Oleksandr Suvorov <say@say.od.ua>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/wp-translations/custom-404-error-page/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-20 02:43:12\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "Сторінка для Помилки 404 (Сторінка не знайдена)"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "Сторінка помилки 404"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "За замовченням (шаблон 404.php)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "Додати нову"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "Налаштування"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "Сторінка користувача для Помилки 404"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "Встановіть будь-яку сторінку, що буде використано як сторінку Помилки 404."
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
