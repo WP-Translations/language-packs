@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eBay Feeds for WordPress\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ebay-feeds-for-wordpress\n"
+"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/wp-translations/ebay-feeds-for-wordpress/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-06-20 13:53:52+00:00\n"
+"PO-Revision-Date: 2017-09-23 21:23:25\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. #-#-#-#-#  plugin.pot (Ebay Feeds for WordPress 1.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: ebay-feeds-for-wordpress.php:19
+msgid "Parser of ebay RSS feeds to display on Wordpress posts, widgets and pages."
+msgstr "Analisador de feeds RSS do ebay para exibir nos artigos, widgets, e páginas do WordPress."
+
+#: ebay-feeds-for-wordpress.php:96
+msgid "<a href=\"%s\">eBay Feeds for WordPress</a> by <a href=\"%s\">Winwar Media</a><br/><br/>"
+msgstr "<a href=\"%s\">RSS Feeds eBay para WordPress</a> por <a href=\"%s\">Winwar Media</a><br/><br/>"
+
+#: ebay-feeds-for-wordpress.php:130
+msgid "Want to know about updates to this plugin without having to log into your site every time? Want to know about other cool plugins we've made? Add your email and we'll add you to our very rare mail outs."
+msgstr "Quer ser informado sobre as atualizações para este plug-in sem ter de iniciar sempre a sessão no seu site? Quer ser informado sobre outros plug-ins fantásticos que nós criamos? Adicione o seu e-mail e nós irmos adicioná-lo aos nossos envios de e-mail muito raros."
+
+#: ebay-feeds-for-wordpress.php:136
+msgid "Email Address"
+msgstr "Endereço de E-mail"
+
+#: ebay-feeds-for-wordpress.php:138
+msgid "Sign Up!"
+msgstr "Registar!"
+
+#: ebay-feeds-for-wordpress.php:162
+msgid "Default eBay Feed: "
+msgstr "Feed do eBay predefinido:"
+
+#: ebay-feeds-for-wordpress.php:170
+msgid "Default Number of Items To Show:"
+msgstr "Número de itens predefinidos para mostrar:"
+
+#: ebay-feeds-for-wordpress.php:178
+msgid "Open Links In New Window?"
+msgstr "Abrir as hiperligações numa janela nova?"
+
+#: ebay-feeds-for-wordpress.php:191
+msgid "Nofollow Links?"
+msgstr "Não seguir as hiperligações?"
+
+#: ebay-feeds-for-wordpress.php:206
+msgid "Link to us (optional, but appreciated)"
+msgstr "Associe-se a nós (opcional, mas apreciado)"
+
+#: ebay-feeds-for-wordpress.php:220
+msgid "Switch Debug Mode On?"
+msgstr "Ligar modo de depuração?"
+
+#: ebay-feeds-for-wordpress.php:230
+msgid "Use this to identify problems with the feed or plugin. If switched on, logged in users will be able to see errors of the feed. If you <a href=\"%s\">ask for support</a>, this will be the first thing we ask you to do!</em>"
+msgstr "Use isto para identificar problemas na sua feed ou plugin. Se estiver ativado, os utilizadores ligados serão capazes de ver erros na feed. Se <a href=\"%s\">pedir ajuda</a>, isto será a primeira coisa que lhe pedimos para fazer!</em>"
+
+#: ebay-feeds-for-wordpress.php:236
+msgid "Fallback Text"
+msgstr "Texto de Recurso"
+
+#: ebay-feeds-for-wordpress.php:246
+msgid "If for any reason, the feed doesn't work, this will be displayed instead. Use this to link to your eBay shop."
+msgstr "Se por qualquer razão, a feed não funcionar, em vez disso será mostrado isto. Use isto para ligar à sua loja do eBay."
+
+#: ebay-feeds-for-wordpress.php:263
+msgid "Save Changes"
+msgstr "Guardar Alterações"
+
+#: ebay-feeds-for-wordpress.php:273
+msgid "Like this Plugin?"
+msgstr "Gosta deste plug-in?"
+
+#: ebay-feeds-for-wordpress.php:274
+msgid "Rate this plugin &#9733; &#9733; &#9733; &#9733; &#9733;"
+msgstr "Classifique este plug-in &#9733; &#9733; &#9733; &#9733; &#9733;"
+
+#: ebay-feeds-for-wordpress.php:314
+msgid "About the Author"
+msgstr "Sobre o Autor"
+
+#: ebay-feeds-for-wordpress.php:326
+msgid "Rhys Wynne is the Lead Developer at FireCask and a freelance WordPress developer and blogger. His plugins have had a total of 100,000 downloads, and his premium plugins have generated four figure sums in terms of sales. Rhys likes rubbish football (supporting Colwyn Bay FC) and Professional Wrestling."
+msgstr "Rhys Wynne é o Líder de Desenvolvimento na FireCask, programador freelance do WordPress, e bloguista. Os seus plug-ins tiveram um total de 100,000 transferências, e os seus plug-ins premium geraram somas de quatro dígitos em termos de vendas. Rhys gosta de futebol inútil (adepto do Colwyn Bay FC) e Wrestling Profissional."
+
+#: ebay-feeds-for-wordpress.php:420
+msgid "eBay Items"
+msgstr "Itens do eBay"
+
+#: ebay-feeds-for-wordpress.php:442
+msgid "Title"
+msgstr "Título"
+
+#: ebay-feeds-for-wordpress.php:443
+msgid "Text"
+msgstr "Texto"
+
+#: ebay-feeds-for-wordpress.php:444
+msgid "Number of Items"
+msgstr "Número de Itens"
+
+#: ebay-feeds-for-wordpress.php:445
+msgid "eBay Feed"
+msgstr "Feed do eBay"
+
+#: ebay-feeds-for-wordpress.php:592
+msgid "<a href=\"http://winwar.co.uk/plugins/ebay-feeds-wordpress/\">eBay Feeds for WordPress</a> by <a href=\"http://winwar.co.uk/\">Winwar Media</a><br/><br/>"
+msgstr "<a href=\"http://winwar.co.uk/plugins/ebay-feeds-wordpress/\">eBay Feeds para WordPress</a> por <a href=\"http://winwar.co.uk/\">Winwar Media</a><br/><br/>"
+
+#. Plugin Name of the plugin/theme
+msgid "Ebay Feeds for WordPress"
+msgstr "Ebay Feeds para WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid "http://winwar.co.uk/plugins/ebay-feeds-wordpress/"
+msgstr "http://winwar.co.uk/plugins/ebay-feeds-wordpress/"
+
+#. Author of the plugin/theme
+msgid "Winwar Media"
+msgstr "Winwar Media"
+
+#. Author URI of the plugin/theme
+msgid "http://winwar.co.uk/"
+msgstr "http://winwar.co.uk/"
