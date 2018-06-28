@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/graphy\n"
+"Last-Translator: Reza Maleki <rezaa.maleki@gmail.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/wp-translations/graphy/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:00+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:43:07\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "صفحه مورد نظر پیدا نشد"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "به نظر می‌رسد که چیزی که میخواهید در اینجا پیدا نشد. می‌خواهید جستجو کنید؟"
+
+#: archive.php:21
+msgid "Category: "
+msgstr "دسته بندی ها:"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "برچسب‌ها:"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "نویسنده: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "روز: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "حاشیه‌ها"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "گالری‌‌ها"
+
+#: archive.php:54
+msgid "Images"
+msgstr "تصویرها"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "ویدیو"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "گفتاوردها"
+
+#: archive.php:63
+msgid "Links"
+msgstr "پیوندها"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "وضعیت"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "صداها"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "گپ‌ها"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "بایگانی"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "پاسخ به %1$s"
+msgstr[1] "پاسخ به %1$s"
+
+#: comments.php:34
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "پیمایش دیدگاه"
+
+#: comments.php:35
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&rarr; دیدگاه‌های کهنه‌تر"
+
+#: comments.php:36
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های تازه‌تر &larr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "دیدگاهها بسته هستند."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "پیدا نشد"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "میخواهید اولین نوشته‌ی خود را منتشر کنید؟ <a href=\"%1$s\">از اینجا آغاز کنید</a>. "
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr "بدبختانه جستجوی شما نتیجه‌ای در بر نداشت. با واژگانی دیگر جستجو کنید. "
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به‌نظر می‌رسد نمی‌توانیم چیزی که شما به دنبال آن هستید را بیابیم. شاید جستجو بتواند به شما کمک کند."
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:21
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: content.php:20
+#: content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">  ادامه مطلب </span>"
+
+#: footer.php:17
+msgid "Powered by "
+msgstr "نیرو گرفته از"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "سایت پوسته http://themegraphy.com/"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "ستون‌کناری"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "بخش پابرگ 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "بخش پابرگ 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "بخش پابرگ 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "بخش پابرگ 4"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "off"
+
+#: header.php:45
+msgid "Menu"
+msgstr "فهرست"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: inc/customizer.php:25
+msgid "Hide Tagline"
+msgstr "پنهان سازی برچسب ها"
+
+#: inc/customizer.php:32
+msgid "Logo"
+msgstr "لوگو"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "بارگذاری لوگو"
+
+#: inc/customizer.php:47
+msgid "Replace Title"
+msgstr "جایگزینی عنوان"
+
+#: inc/customizer.php:56
+msgid "Add Border Radius"
+msgstr "افزودن حاشیه درجه بندی دار "
+
+#: inc/customizer.php:67
+msgid "Link Color"
+msgstr "رنگ پیوند"
+
+#: inc/customizer.php:76
+msgid "Link Hover Color"
+msgstr "رنگ واکنش پیوند"
+
+#: inc/customizer.php:85
+msgid "Hide Serach"
+msgstr "پنهان سازی جستجو"
+
+#: inc/customizer.php:92
+msgid "Article"
+msgstr "مقاله"
+
+#: inc/customizer.php:99
+msgid "Display"
+msgstr "نمایش"
+
+#: inc/customizer.php:104
+msgid "Summary"
+msgstr "خلاصه"
+
+#: inc/customizer.php:105
+msgid "Full text"
+msgstr "همه‌ی نوشته"
+
+#: inc/customizer.php:112
+msgid "Hide Author"
+msgstr "پنهان سازی نویسنده"
+
+#: inc/customizer.php:121
+msgid "Hide Categories"
+msgstr "پنهان سازی دسته بندی ها"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "پیمایش نوشته‌ها"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&rarr;</span> نوشته‌های کهنه‌تر"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نوشته‌های تازه‌تر <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "نوشته قبلی"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%عنوان"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "نوشته بعدی"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%عنوان"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "ارسال شده در"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "توسط "
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "نوشتن دیدگاه"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "یک پاسخ"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% پاسخ"
+
+#: inc/template-tags.php:117
+#: inc/template-tags.php:125
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr "ارسال شده برای %1$s"
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "برچسب خورده در  %1$s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr "گرافی"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr "صفحه پوسته http://themegraphy.com/graphy-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr "گرافی پوسته ای وردپرسی است که براساس تایپو گرافی زیبا برای بلاگ ها طراحی شده است. تولید آن به صورت طرحی واکنش گرا برای موبایل صورت گرفته است تا در هنگام بازدید از روی گوشی هاس هوشمند از زیبایی و قابلیت های آن کاسته نشود. این پوسته دارای پنج ابزارک ( یکی در ستون کناری و چهار عدد در پانوشت) می باشد. به علاوه آن که استفاده از ابزارک کناری به شما امکان طراحی دو ستونی را می دهد. هم چنین ابزارک پانوشت به صورت خود کار و براساس تعداد آن ها خود را متناسب سازی می کند. پوسته گرافی از Customizer، منوی دلخواه و سربرگ دلخواه پشتیبانی کرده و امکان پیکربندی منعطف را فراهم می آورد."
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "تا کائو اوتسومی"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "بدون ستون کناری"
