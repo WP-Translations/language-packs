@@ -1,0 +1,5984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Fariborz Zabihian <cybpedia@gmail.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/wysija/wysija/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-09-22 15:22:56\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "یک چک باکس روی صفحه خرید برای مشتریان خود برای اشتراک در خبرنامه های MailPoet قرار دهید."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "بر مبنای محصولی که مشتری خریداری کرده است تصمیم می گیرد کدام ایمیل ها را مشتری به طور خودکار دریافت می کند. این یک افزونه حرفه ای برای WooCommerce است."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "یک فیلد جدید به فرم هایتان اضافه کنید، تا بازدیدکنندگان شما بتوانند در خبرنامه های MailPoet شما مشترک شوند."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "یک چک باکس به فرم عضویت این افزونه بیافزایید تا کاربران جدید شما به فهرست انتخابی شما ملحق شوند."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "یک چک باکس به فرم هایتان اضافه کنید و انتخاب کنید کاربر به کدام فهرست ها اضافه شود."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "با استفاده از WangGuard از اشتراک های متقلبانه جلوگیری به عمل آورید. WangGuard یک سرویس رایگان فهرست پاک و یک افزونه است."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "اگر این مشکل را دارید، پس راه حل شما این است. رایگان هم هست."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall یک افزونه حرفه ای جهت قرار دادن محتوا در پشت درگاه پرداخت شماست. این افزونه اشتراک مشتری های مشتری هاتان را مدیریت می کند."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr ""
+"این فرم را در قسمت بالایی یا قسمت پایینی و یا در یک کادر زیبا به همراه یادداشت هایتان با افزونه رایگان GetConversation بگذارید. آن ها را با این افزونه به MailPoet متصل کنید <br/></br>\n"
+"30% تخفیف نسخه حرفه ای این افزونه را با کلیک کردن در <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">اینجا</a> بگیرید."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "خودتان امتحان کنید، ما با نسخه رایگان تحت تأثیر قرار گرفته بودیم."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "یک فرم اشتراک را در پنجره پاپ آپ، پانویس، یا اسلاید جهت افزودن مشترکین با افزونه حرفه ای قرار دهید."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "سازندگان یک کار کاملاً فوق العاده را انجام داده اند."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "کاربران حرفه ای با این کوپن 20% تخفیف می گیرند: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "این افزونه حرفه ای به شما اجازه می دهد که یک فرم MailPoet را در پنجره پاپ آپ اضافه کنید."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "شما نیاز به دانستن CSS جهت طراحی طبق سلیقه خود دارید."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "کاربران نسخه حرفه ای با این کد 25% تخفیف می گیرند: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "این افزونه حرفه ای به شما اجازه می دهد که فرم های MailPoet را در جاهای بسیاری و در Facebook اضافه نمایید."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "خیلی قدرمنده، اگر که یک کاربر دمدمی در خصوص رابط کاربری نیستید."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "این افزونه رایگان به شما اجازه می دهد که یک فرم را در آغاز یا در انتهای یک پست یا صفحه طراحی و جایگذاری نمایید."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "رایگانه و محبوب شده است توسط کاربرانمون."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "پاپ آپ خروج فقط در \"حال رواج\" نیستند، آن ها اثبات کرده اند که ارتباطات را افزایش می دهند و بنابراین به بازاریابی، کسب عضو و فروش شما قوت می بخشند. wBounce یک پنجره تبلیغی قبل از آنکه کاربر سایت شما را ترک کند نمایش می دهند."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "پاپ آپ خروج وقتی که نشان گر کاربر از پنجره خارج می شود، نمایش داده می شود."
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "این افزونه رایگان به شما اجازه می دهد که یک فرم پاپ آپ راقرار دهید."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "این نسخه رایگان نسخه با قدرت بیشتر حرفه ای است."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "سایت جدید شما هنوز متصل نشده است؟ یک صفحه به زودی... با یک فرم جهت گرفتن ایمیل ها با این افزونه حرفه ای قرار دهید."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "افزونه ای با طراحی خوب برای یک ایده ساده."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "کاربران حرفه ای با این کوپن 20% تخفیف می گیرند: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "این پلاگین حرفه ای به شما اجازه می دهد که یک فرم جذاب را در زیر سمت راست سرصفحه خود قرار دهید. بدون انجام کار بیشتری."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "یک چک باکس برای مشتریان و کاربران، وقتی که از فروشگاه الکترونیکی شما خریدی می کنند اضافه شده، تا مشترک خبرنامه شما شوند."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "به سرعت فرم های اشتراک برای اشتراک در فهرست ایمیل های MailPoet را با استفاده از قدرت و انعطاف پذیریی که فرم های Ninja مهیا می کنند، بسازید."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "ما این افزونه را به عنوان جایگزین WPML جهت سایت های چند زبانه توصیه می کنیم. این افزونه، ناب است، ساده است و هسته وب سایت شما را بدون تغییر باقی می گذارد. هر زبانی سایت خودش را در وردپرس چند زبانه شما دارد. با MailPoet عالی کار می کند."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "فعال نشده بود چرا که نیاز داره <strong><a href=\"%s\">%s</a></strong> در ابتدا نصب و فعال بشه."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "این پیام را پنهان کن"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "فعال شده."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "غیرفعال شده."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet می گوید:"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "وبسایت"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "خرید"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "نصب از Wordpress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "تنظیم"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "افزونه ای که به دنبال آن هستید را نمی یابید؟ آنرا در فرم تماس با ما <a href=\"%s\">بفرستید</a>."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "این فیلد مقداری ندارد"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "سال"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "ماه"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "روز"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "دسترسی  به فایل CSV وجود ندارد. دسترسی به این دایرکتوری \"%1$s\" را تأیید نمایید."
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "به نظر می آید هنگام وارد کردن فهرست، خطایی رخ داده است"
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "خطا هنگام وارد کردن ایمیل ها"
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "خطا هنگام وارد کردن فهرست ها."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "فهرستی که شما ارسال کرده اید برای مرورگر بسیار حجیم است. به جای آن <strong> فایل را آپلود کنید </strong>"
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "داده ای شما در صدد وارد کردن آن هستید به نظر نمی رسد در فرمت CSV باشد. (فرمت مقادیر جداشده با ویرگول)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "اولین خط فایل CSV باید سرصفحه ستون ها باشد: \"email\",\"lastname\",\"firstname\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "دومین خط یک فایل CSV باید مجموعه ای از مقادیر باشد: \"joeeg@example.com\",\"Average\",\"Joe\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "دو خط اول فایلی که شما آپلود کرده اید به این ترتیب است: "
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "خط خالی است"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "آنچه را دارید تلاش می کنید درون ریزی کنید را دوباره چک کنید."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "ما نتوانستیم هیچ آدرس صحیحی را در 10 ردیف ابتدایی بیابیم."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "فایل وارده شما درست و سالم نیست."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "هی ! %1$s به روز رسانی (نسخه %2$s) دارد. برای به روز رسانی <a href=\"%3$s\"> اینجا</a>. کلیک کنید."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "صفحه ای که اکنون در آن هستید را تازه سازی کنید."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "برگشت به MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "به روز رسانی افزونه"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "یک پست الکترونیکی از دامنه تان، نظیر <strong>info@%s</strong> را جهت جلوگیری از ورود به فولدر اسپم و یا حتی بلاک شدن انتخاب کنید."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "اگر مایلید از یک آدرس Gmail استفاده کنید، باید ایمیل هایتان را با Gmail ارسال کنید. <a id=\"tip-send-with\" href=\"%s\">تنظیمات ارسال</a> را چک کنید."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "ممنون!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "پوسته‌ای که انتخاب کرده اید نمی‌تواند بارگذاری شود."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "ایمیل شما نمی‌تواند ذخیره شود"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "ایمیل شما ذخیره شد"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "سبک ها ذخیره نمی شوند"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "شیوه‌نامه ذخیره شد"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "تصویر حذف شد."
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "انتخاب عکس هنوز ذخیره نشده است"
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "انتخاب عکس ذخیره شد"
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "لطفاً یکی از مقالات را برگزینید."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "هیچ پستی مربوط به جستجوی شما یافت نشد."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "پیش نمایش ایمیل شما برای %1$s ارسال شد"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "ما قادر به ارتباط با API نیستیم. شاید سایت از دسترس خارج شده باشد. لطفا در زمان دیگری تلاش کنید"
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "درخواست شما با مشکل مواجه شده است"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "درخواست موفقیت آمیز بود"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "به موفقیت به %1$s وصل شد"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "در میل باکس شما %1$s پیام موجود است."
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "در حال حاظر هیچ پیام برجسته ای برای پردازش موجود نمی باشد!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "ممکن است شما نیاز داشته باشید که این انتخاب را روشن کنید: <i>گواهینامه های امضا شده توسط خود</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "آیا شما مطمئن هستید که پورت درست را انتخاب کرده اید؟ اگر چیزی در این مورد نمی دانید می توانید آن را رها کنید"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "شما نیاز به انتخاب نوع برای این فیلد دارید"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "شما نیاز به تعیین یک نام برای این فیلد دارید"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "فیلد وجود ندارد"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "ذخیره شد! تغییرات از قبل در ابزارک شما فعال هستند."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "ذخیره شد! این فرم را به [link_widget]یک ابزارک[/link_widget] اضافه کنید."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "فرم شما نمی تواند ذخیره گردد."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "فرم شما ذخیره شده است."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "کاربرها اضافه شدند"
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "کاربرها اضافه نشدند"
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "کاربرها به روز شدند."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "کاربرها به روز نشدند."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "فرم اشتراک را وارد کنید"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "نسخه ویژه را خریداری کنید"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "ای وای من. شما به محدودیت 2000 مشترک برای نسخه رایگان MailPoet (%1$s در کل) رسیده اید. ارسال هم اکنون غیرفعال شده است. لطفاً نسخه افزونه خود را به [link]نسخه پولی[/link] ارتقاء دهید تا بدون محدودیت ارسال نمایید."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "ای وای من! شما نزدیک به محدودیت %1$s مشترک برای نسخه رایگان MailPoet هستید. لطفاً نسخه افزونه خود را به [link]نسخه پولی[/link] ارتقاء دهید تا بدون محدودیت ارسال نمایید."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "عناصر پاک شدند"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "عنصر حذف شده است."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "تصاویر خبرنامه"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "عکس های پست های وردپرس"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "مشکل امنیتی در حین درخواست کردن"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "مشکل امنیتی"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "صفحه خوش‌آمد گویی!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "نصب افزونه پولی خبرنامه MailPoet"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "یک MailPoet تازه. خوشی شروع شد."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "بروز باشید ! مشترک خبرنامه ما شوید"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "ما خبرنامه ماهیانه را ارسال می کنیم به همراه:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "به روزرسانی مهم افزونه"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "کوپن ها"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "نکاتی برای شما، یا مشتریان شما"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "مار روی چه چیزی کار می کنیم"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "اخباری از ما، تیم ما"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "اولین بار است که اینجایید؟ در عمل ببینید"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "شما می توانید با تماشای این ویدئو که توسط یکی از کاربران ما تهیه شده است آغاز کنید."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "اشتراک گذاری داده‌ها"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "ما خیلی کم در مورد کاربرانمان می دانیم. ما به دنبال [link] داده های نامشخص [/link] هستیم تا افزونه بهتری بسازیم. [ajaxlink] بله، منم هستم! [/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "ما خیلی کم در خصوص کاربرانمان می دانیم. ما در جستجوی [link] داده های ناشناس [/link] جهت ساخت افزونه بهتری هستیم. ممنونیم، شما از قبل در حال اشتراک هستید!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "آنچه که می توانید انجام دهید"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "راهنمای 5 دقیقه ای تازه واردان"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoet شما به همراه خبرنامه مثالی است. شما آن را خواهید دید هنگامی که این صفحه خوشامد گویی را ببندید. آن را ویرایش کنید تا با آن سر و کله بزنید."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "به خودتان کمک کنید. یا به ما اجازه بدید تا به شما کمک کنیم."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "ما مستندات و یک درخواست شماره دار پشتیبانی را در [link]support.mailpoet.com[/link] دریافت کرده ایم. ظرف 24 ساعت پاسخگو خواهیم بود."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "تازه چه خبر؟"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "نسخه پولی برای سایت شما قابل قبول است."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "کد فعال سازی نسخه پولی در سایت شما موجود نیست. آن را از [link]اینجا[/link] بخرید."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "صف خالی است!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "گام %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "وارد کنید [newsletter:total] تا تعداد پست ها را نمایش دهید، [newsletter:post_title] جهت نمایش تیتر آخرین پست و [newsletter:number] جهت نمایش شماره مشکل."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "اولین چیزی که مشترک شما می بیند. خلاق باش و رتبه خودتو افزایش بده!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "قدم اول: اطلاعات اصلی"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "یکبار در روز در ساعت..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "یکبار در هفته در..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "ماهانه در تاریخ..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "ماهانه در روز..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "فورا."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "در هر نقشی از WordPress"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "زمانی که محتوای جدیدی وجود دارد..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "زمانی که کسی مشترک فهرست می شود..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "زمانیکه یک کاربر جدید WordPress به سایت شما اضافه شده است..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "ساعت بعد."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "روز بعد."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "(s) هفته قبل."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "بلافاصله"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "ساعت"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "روز"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "(s) هفته"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "در حال ذخیره خبرنامه..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "خطا در ذخیره خبرنامه..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "خبرنامه ذخیره شد"
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "در حال ارسال پیش نمایش..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "نتایج تست اسپم شده"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "مرحله ی دوم: \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "ارسال در حال حاظر متوقف شده است."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "روند ارسال فعال شد."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "رونوشت"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "نسخه‌ی جدید از این خبرنامه ایجاد شد."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s ایمیل در هر %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "شما در حال ارسال تنظیمات ([settings]) نمی توانید آنها را با سرعت برای [number] عضو بفرستید. انتظار می رود که در تحویل آنها تاخیر به وجود بیاید. [link]بیشتر بخوانید[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "مرحله آخر: آخرین جزئیات"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "انتخاب تاریخ"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "ذخیره و بستن"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "بعدا ارسال کن"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "زمان‌بندی"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "هم‌اکنون فعال کنید"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "ارسال"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "شما قصد ارسال این خبرنامه را دارید. لطفاً تأیید کنید."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "آیا مطمئنید که می خواهید %1$s مشترک از فهرست %2$s را نادیده بگیرید؟"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "خبرنامه حذف شد."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "خبرنامه ها حذف شد."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "خبرنامه نمی‌تواند حذف شود"
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "ادامه متن."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "نویسنده:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "دسته ها:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "آخرین محتوا از قبل ارسال شده است."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "پست های زیر با افزونه%s به محتوای%s اضافه شده بودند"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sبرای ویرایش%s، موس را روی دکمه ویرایش زیر ببرید."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "مرحله ۱:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "هی، روی این متن کلیک کنید!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "جهت ویرایش به سادگی روی این کادر متنی کلیک کنید."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "مرحله ۲:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "با این عکس سر و کله بزنید"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "موشواره خود را روی تصویر قرار دهید و به چپ بکشید."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "مرحله ۳:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "محتوای خود را اینجا رها کنید"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "%1$sمتن ها، نوشته ها، جداکننده ها.%2$s را بکشید و رها کنید. به سمت جپ نگاه کنید!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "شما حتی می توانید %1$s نشانه های شبکه های اجتماعی %2$s مثل این داشته باشید:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "مرحله ۴:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "و پابرگ!"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "محتوای پابرگ را در صفحه %2$s تنظیمات %1$s MailPoet تغییر دهید."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "خبرنامه با موفقیت ایجاد شد"
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "اطلاعات گم شدند."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Google Campaign شما می تواند تنها شامل کاراکترهای لاتین، اعداد، فاصله و خط فاصله باشد!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "خبرنامه زمان بندی شد."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "خبرنامه به عنوان پیش نویش ذخیره شد."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "خبرنامه‌ها"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "لطفا یک خبرنامه انتخاب کنید."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "این خبرنامه را پاک می‌کنید؟"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "حذف این خبرنامه ها را برای همیشه؟"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "فرستادن ایمیل به صورت کلی..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "مشاهده خبرنامه"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "خبرنامه غیرفعال خواهد شد، شما نیاز دارید در هنگامی که مجدد ویرایشش می کنید دوباره آن را فعال کنید. آیا موافق این اقدام هستید؟"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "فهرست حذف شد."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "ارسال غیرفعال شده است."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "خبرنامه ای موجود نیست!"
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "آمار: %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "هیچ مشترکی با ویزگی های درخواست شما وجود ندارد. ویژگی های مورد نظر را تغییر دهید!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "بخش %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "فهرست بر مبنای بخش خبرنامه ایجاد گردید."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "فهرست جدید \"%1$s\" بر مبنای این بخش ایجاد گردید."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "بخش مورد نظر از تمام فهرست ها لغو اشتراک شد."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "این بخش از صف این خبرنامه حذف شده است."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "بخش مورد نظر از فهرست \"%1$s\" لغو اشتراک گردید."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "بخش مورد نظر نمی تواند از یک [IMPORT] فهرست لغو اشتراک شود."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "انتخاب پست"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "نمایش و قرار دادن تنظیمات"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "بازگشت به انتخاب"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "بارگذاری نتایج..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "قراردادن مقاله های انتخاب شده..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "انتخاب شده"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "خطالی آپلود، فایل %1$s حجم زیادی دارد! (MAX:%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "نصب قالب ها"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "اطلاعات و PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< قبلی"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "دانلود"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "نصب دوباره"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "نسخه پولی"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "فایل فتوشاپ در قالب [link]قابلیت های حرفه ای[/link] موجود است."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "نمایش تمام قالب ها"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s رای)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "نظر شما ذخیره شد."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "رای شما نمی‌تواند ذخیره شود."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "مراقب باش! اگر دوباره این قالب رو نصب کنی تمام فایل های موجود در پوشه ی: /wp-content/uploads/wysija/themes/%1$s دوباره رونویسی میشه. آیا مطمئنید که میخواهید نصبش کنید؟"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "نمایش تمام قالب ها توسط %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "دانلود فایل های اصلی فتوشاپ"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "به صورت فایل zip دانلود کنید"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "نمایش وب سایت نویسنده"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "میانگین امتیاز: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "امتیاز من: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "دانلود ها: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "تگ ها: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "آخرین به روز رسانی: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "شامل: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "نشان کردن قسمت انتخاب شده"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "انتخاب جداساز"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "اضافه/ویرایش گروهی پست ها"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "نمایش انتخاب های نمایش"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "پنهان کردن تنظیمات نمایش"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "پارامترهای عکس"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "حذف عکس از تمام خبرنامه ها؟"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "این تصویر ممکن است در مطلبی باشد. مطمئن هستید می‌خواهید پاک کنید؟"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "شما تلاش کرده اید فایل های بسیاری را در صف بگذارید."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s از حداکثر حجم مجاز آپلود روی این سایت تجاوز کرده است."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "این فایل خالی است. لطفا یکی دیگر را تست کنید."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "نوع فایل مورد قبول نیست. لطفا فایل دیگری را تست کنید."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "این فایل یک تصویر نیست. لطفا یکی دیگر را امتحان کنید."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "حافظه پر شده است. لطفاً یک فایل کوچکتر را امتحان نمایید."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "حجم فایل بیشتر از حد مجاز است. لطفا یکی دیگر را امتحان کنید."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "در بارگذاری خطایی اتفاق افتاد. لطفا دوباره تلاش نمائید."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "خطای تنظیمات وجود دارد. با مدیر سرور تماس بگیرید."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "شما فقط می‌توانید 1 فایل را ارسال کنید."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "خطای HTTP"
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "آپلود ناموفق"
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "لطفا فایل را با %1$sbrowser uploader%2$s دوباره امتحان کنید."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s حجم فایل های آپلودی توسط آپلود گر چندگانه مرورگر از حد مجاز فراتر رفته است."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "خطای ورود و خروج."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "خطای امنیتی"
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "فایل لغو شد."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "ارسال متوقف شد."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "مرخص کردن"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "خرد و خمیر شدن؛"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "ارسال به زباله‌دان"
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; نتوانست آپلود شود."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d فایل با موفقیت بارگذاری شد."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "ذخیره شد."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "خبرنامه وجود ندارد."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "فرستادن یک ایمیل برای تست"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "تست اتصال مدیریت برگشت خورده ها"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "پردازش مدیریت برگشت خورده ها"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "مشترکین هم اکنون نیاز خواهند داشت اشتراکشان را از طریق ایمیل به تایید برسانند تا دوباره خبرنامه هایتان را دریافت کنند. این مورد توصیه می گردد."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "مشترکین تایید نشده خبرنامه های شما را از اکنون دریافت خواهند کرد بدون آنکه نیاز باشد اشتراکشان را فعال کنند."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "اکنون دستکاری ارتقاء یافته را پردازش نمایید!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "زمانی که سیستم ارتقاء یافته را پردازش می کنید، شما نیاز دارد آدرس دیگری به عنوان ایمیل حساب ارتقاء یافته داشته باشید و به این آدرس رهسپاری کنید."
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "آیا شما مطمئن هستید که می‌خواهید این فرم را پاک کنید؟"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "شما جای درستی هستید. روی این [link]پیوند[/link] جهت فعالسازی گواهینامه خریداری شده توسط خود کلیک نمایید."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "نصب مجدد MailPoet؟"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "فرم جدید"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "این فرم وجود ندارد"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "رونوشت"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "فرمی که \"%1$s\" نام گذاری شد، ایجاد گردید."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "این فرم قبلا حذف شده است."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "فرمی که \"%1$s\" نام گذاری شد، حذف شد."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "فرم جدید"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "این فرم وجود ندارد."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "تنظیمات ابزارک"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "قبلاً پرداخته اید؟ برای فعال سازی اینجا کلیک کنید"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "چک کردن گواهینامه"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "7 روز پیشین"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "ماه پیش"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "30 روز پیشین"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "90 روز پیشین"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "180 روز پیشین"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "365 روز پیشین"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "تاریخ های سفارشی"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "مشترک ذخیره شد."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "تعداد مشترکان در صفحه:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "انتخاب حداقل 1 مشترک!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "آییی، نمی توانم هیچ مشترکی را پیدا کنم."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "مشترک ذخیره نشد."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "مشترک ویرایش گردیده است. [link]ویرایش مجدد[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "مشترک اصلاح نشده است."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s مشترک به %2$s افزوده شده اند."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s مشترک به %2$s اضافه شده اند."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s مشترک به %2$s منتقل شده اند."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s مشترک به %2$s منتقل شده اند."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s مشترک از تمام فهرست های موجود پاک شده اند."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s مشترک از تمام فهرست های موجود پاک شده اند."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s مشترک از \"%2$s\" حذف شده است."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s مشترک از \"%2$s\" حذف شده است."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s مشترک تأیید شده است."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s مشترک تأیید شده است."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "ایمیلی ارسال نشد."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "%d نامه‌های الکترونیک به مشترکین تأیید نشده ارسال شده‌اند."
+msgstr[1] "%d نامه‌های الکترونیک به مشترکین تأیید نشده ارسال شده‌اند."
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "ویرایش فهرست‌ها"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "در حال ویرایش فهرست %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "یک فهرست جدید چه طوره؟"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "فهرست\"%1$s\" دو نسخه‌ای شد."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "افزودن مشترک "
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "هیچ مشترکی یافت نمی شود، احتمالا به این دلیل که وی حذف شده."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "ویرایش"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "فهرست \"%1$s\" حذف شد."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "فهرست وجود ندارد و یا نمی تواند حذف شود."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "فهرست به‌روز شد."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "فهرست جدید برند شما منتظر اولین مشترک خود است."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "درون ریزی از افزونه %1$s تکمیل گردیده است."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "درون ریزی از افزونه %1$s لغو گردیده است."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "درون ریزی مشترکین از افزونه ها"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "هیچ افزونه ای جهت وارد سازی از آن، وجود ندارد."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "درون ریزی مشترک‌ها"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "مقدار انتخاب شده از قبل با ستون دیگری مقایسه شده است."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "می توانید تایید کنید که این ستون متناظر با آن فیلد هست؟"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "آنچه که شما چسبانیده اید"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "لغو اشتراک"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "تائید نشده"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "مشترک"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "حداقل یک فهرست را باید انتخاب کنید."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s مشترک به %2$s افزوده شد."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s ایمیل بیش از یک بار در فایل شما مشاهده می شود: %2$s"
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s ایمیل صحیح نیست: %2$s"
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "برون بری مشترک‌ها"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s مشترک حذف شده است."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s مشترک حذف شده است."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s برون بری شده اند. فایل خروجی را از [link]اینجا[/link] دریافت نمایید."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "برون بری %1$s مشترک"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "برگه وجود ندارد."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "لطفاً پیوند خود را روی این صفحه به تأیید برسانید."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "شما دیگر مشترک نیستید!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "عالیه، دیگه از ما چیزی نمی شنوید!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "شما لغو اشتراک از خبرنامه شدید."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "آیا به اشتباه لغو اشتراک کرده اید؟ [link] لطفاً برگردید[/link]"
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "شما مشترک شدید!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "اشتراک خود را ویرایش کنید"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "شناسنامه اشتراک خود را ویرایش کنید: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "آدرس %1$s از قبل وجود دارد."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "نمایه خبرنامه به‌روز شده است."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "اشتراک بدون جاوا اسکریپت غیرفعال شده است."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "به نظر میرسد ابزارک شما از [link]ناحیه ابزارک های[/link] وردپرس حذف گردیده است."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "خطایی رخ داد. [link]نمایش جزئیات بیشتر[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]نمایش جزئیات بیشتر.[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "یک بار در هر دقیقه"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "هر دو دقیقه یکبار"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "هر پنج دقیقه یکبار"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "هر ده دقیقه یکبار"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "هر پانزده دقیقه یکبار"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "هر سی دقیقه یکبار"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "هر دو ساعت یکبار"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "هر هفته یکبار"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "هر ۲۸ روز یکبار"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "صفحه MailPoet"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "نگارش PHP شما قدیمی شده‌ است. اگر بزودی آن را ارتقاء ندهید، نگارش جدید افزونه کار نخواهد کرد."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]درمورد ارتقاء نگارش PHP خود مطالعه کنید.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]نادیده گرفتن[/link] این تذکر."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "خطای صحه گذاری فیلد ها"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "فیلد \"%1$s\" در جدول \"%2$s\" مورد نیاز است."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "باید فیلد \"%1$s\" یک آدرس ایمیل صحیح باشد."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "آماری جهت نمایش وجود ندارد!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "تنظیمات سرور شما به ما اجازه نمی دهد تا نصب MailPoet را کامل انجام دهیم!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "ادامه متن."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "برای نمایش چند‌رسانه‌ای کلیک کنید."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "صافی بر اساس نوع"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "مطالب"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "برگه‌ها"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "دسته ها و برچسب ها"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "صافی بر حسب وضعیت"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "شما نیاز دارید تا افزونه پولی MailPoet را فعال کنید."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "فعال سازی نسخه حرفه ای MailPoet را تأیید می کنید؟"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "فعال کردن نسخه حرفه ای MailPoet"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "تبریک، گواهینامه حرفه ای یا پولی شما فعال شده است. گام آخر..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "نصب نسخه حرفه ای MailPoet را تأیید می کنید؟"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "نصب نسخه حرفه ای MailPoet"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "دریافت افزونه حرفه ای"
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "همیشه جوری که ما میخواهیم کار نمی کنه. اینطور نیست؟ ما یک [link] وب سایت پشتیبانی اختصاصی [/link] داریم که به همراه مستندات و سیستم پرسش و پاسخ شناسه دار در خدمت شماست."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "نسخه MailPoet:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "مشترکین"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "ماژول"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "آمارها"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "راهنمایی!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "نسخه حرفه ای!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "در [link]wordpress.org[/link] به این افزونه [ستاره] بدهید و این افزونه را به رایگان در اختیار داشته باشید."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "نسخه MailPoet:"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "لطفاً در ابتدا یک انتخاب داشته باشید!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "حذف یک فهرست هیچ مشترکی را حذف نخواهد کرد."
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "می خواهید آن نسخه را نصب کنید؟"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "نتیجه ای یافت نشد"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "لطفا وارد کنید <%= chars %> کاراکتر بیشتر <%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "لطفاً حذف کنید <%= chars %> کاراکتر <%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "شما می توانید تنها انتخاب کنید <%= chars %> آیتم و یا مورد <%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "در حال پیدا کردن نتایج بیشتر..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "در حال جست و جو...."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "بعدی &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; قبلی"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "تصویر"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "از"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "بستن"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "این قابلیت به فریم های داخلی نیازمند است. شما iframe غیرفعال دارید و یا مرورگر شما از آن ها پشتیبانی نمی کند."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "مدیریت برگشت خورده ها"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "عنوان"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "ما %1$s پیام از %2$s کاربر دریافت کردیم."
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "اقدامات پس از %1$s پیام اجرا خواهد گردید."
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "پیامی وجود ندارد"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "بله، آن کار می کند. شما می توانید ایمیل هایتان را به سوی ماه پرتاب کنید."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "شما همه چیز را آماده و تنظیم کردید! شما ارسال موفقی با Gmail داشتید."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "آیا به دنبال شیوه سریع تری جهت ارسال هستید؟[link]بیشتر بخوانید[/link] در خصوص ارسال ایمیل با یک سرویس SMTP حرفه ای."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] با MailPoet کار می کند"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "ایمیل آزمایشی با موفقیت به %s ارسال شد"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "اکستنشن openssl PHP روی سرور شما فعال نشده است. از میزبان خود بخواهید آن را فعال نماید چنانچه می خواهید از ارتباطات SSL بهره ببرید."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "آدرس ایمیل ارتقاء \"%1$s\" ممکن است مشکل ساز شده باشد. فیلد را خالی بگذارید و دوباره تلاش کنید."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "شما یک رمز عبور SMTP را مشخص کرده اید اما شما به یک تصدیق نیازی ندارید، ممکنه مایل باشید تصدیق SMTP را به ON تغییر دهید."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "localhost شما ممکن است سرور ایمیل نداشته باشد. جهت صحه گذاری لطفاً خارج شوید و روی پیوند \"رمز عبور را فراموش کرده اید؟\" در صفحه ورودی کلیک کنید. آیا ایمیل تازه سازی رمز عبور را از وردپرس خودتان دریافت می کنید؟"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "در حال ذخیره فرم..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "ذخیره"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "ویرایش نمایش"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "شما باید حداقل 1 فهرست را انتخاب کنید."
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "مشترک شما به حداقل 2 آیتم جهت انتخاب نیاز دارد"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "نیاز هست که یک مقدار برای چک باکس خود تعریف کنید"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "افزودن فیلد جدید"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "ویرایش فیلد دلخواه"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "آیا اطمینان دارید که می خواهید این فیلد دلخواه را حذف کنید؟"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "ژانویه"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "فوریه"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "مارچ"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "آوریل"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "می"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "ژوئن"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "جولای"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "آگوست"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "سپتامبر"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "اکتبر"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "نوامبر"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "دسامبر"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "برای تأیید اشتراکتان صندوق یا اسپم ایمیل خود را چک نمایید."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "ایمیل"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "ثبت"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "مشترک شدن!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "جداساز"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "نام"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "انتخاب فهرست"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "فهرست (ها) را انتخاب کنید:"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "متن تصادفی یا HTML "
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "مشترک خبرنامه ما شوید و به [total_subscribers] مشترک ما بپیوندید."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "افزودن فیلد جدید"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "ویرایش فیلد"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "حذف فیلد"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "اشتراک MailPoet"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "هر 1 دقیقه"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "هر ۲ دقیقه"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "هر ۵ دقیقه"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "هر ۱۰ دقیقه"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "هر ۱۵ دقیقه"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "هر ۳۰ دقیقه"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "هر 1 ساعت"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "هر 2 ساعت"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "دیداری"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "سرور شما تبادلات خارج از سرور را پشتیبانی نمی کند."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "با مدیر خود جهت اصلاح آن تماس بگیرید، این مورد باید قابل تنظیم باشد."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "سرور شما قادر نیست MailPoet را اجرا کند."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "سرور شما یکی یا چند قابلیت اساسی PHP را به صورت فعال جهت اجرای صحیح ندارد : %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "لطفاً با میزبان یا مدیر سرور خود جهت اصلاح این مورد تماس بگیرید."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "فهرست اولیه"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "فهرست به طور خودکار در حین نصب MailPoet ایجاد شد."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "راهنمای 5 دقیقه ای کاربر"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "این جداول در این نصب قابل ایجاد نیستند: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "لطفا نام را وارد کنید"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "لطفا نام خانوادگی را وارد کنید"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "ویرایش اشتراک"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "مشترک خبرنامه شوید"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "به نظر میاد سایت شما لایسنس نداره! وارد [link]مدیریت حساب[/link] خود شوید تا یک لایسنس برای این وب سایت اضافه کنید."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "گواهینامه ای برای \"%1$s\" وجود ندارد. اگر شما کاربر حرفه ای هستید، این دامنه را در [link]مدیریت حساب[/link] خود وارد نمایید."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "هم اکنون تازه سازی کنید."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "گواهینامه پولی شما منقضی شده است."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "شما می توانید این دامنه را به [link]مدیریت حساب[/link] خود اضافه نمایید."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "گواهینامه شما مجاز به اختصاص دامنه بیشتری نیست. از طریق [link]مدیریت حساب[/link] حساب خود را ارتقاء دهید."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "[link]نسخه پولی[/link] MailPoet را دریافت کنید تا پیوند را ببینید."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "شما نمی توانید از انتخاب امضای DKIM استفاده نمایید..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "موضوع یا متن بدنه ای در این ایمیل وجود ندارد"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "خطای ارسال پیام <b><i>%s</i></b> to <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "با موفقیت برای <b><i>%s</i></b> ارسال شد"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "شناسه ایمیل %s منتشر نشده است"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "مشترک یافت نشد: <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "مشترک <b><i>%s</i></b> تأیید نشده است"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "لغو اشتراک"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "تحویل نشده"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "برگشت خورده"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "باز نشده"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "باز شده"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "کلیک شده"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "لغو اشتراک"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "آمار امروز"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "امروز شما %1$s ایمیل ارسال کردید"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr "، %1$s از آن ها %2$s بودند"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "اینجا فهرستی از ایمیل های برگشت خورده هست."
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "بسلامتی، افزونه خبرنامه MailPoet شما"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "آمار روزانه خبرنامه"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "خبرنامه پیشرفته (با Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "خبرنامه‌ها"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "کاربران وردپرس"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "فهرست درون ریزی %1$s"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "فهرست به طور خودکار در ورودی مشترکین این افزونه ایجاد گردید: \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" از %1$s درون ریزی شد"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "فهرست در \"%1$s\" وجود دارد و به طور خودکار وارد گردیده است."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "تعداد %1$s ایمیل (های) غیرفعال وجود دارد"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "ایمیل در %2$s به %1$s ارسال خواهد شد"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "ارسال فرآیند"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "تمام دسته"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "تلاش مجدد در %s دقیقه بعد."
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "پردازش جهت جلوگیری از محدودیت زمانی تازه سازی شد."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "پردازش جهت جلوگیری از دست رفتن ارتباط تازه سازی شد."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "خبرنامه از قبل در حال ارسال می باشد. آخرین خبرنامه شما پس از آن ارسال خواهد شد."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "فرآیند ارسال به سبب خطاهای بسیار متوقف شده است."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "ما تمام ایمیل های ارسال نشده را در صف نگه می داریم، لذا شما می توانید فرآیند ارسال را بعداً مجدداً آغاز کنید."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "لطفاً تنظیمات ایمیل خود خود را چک نمایید و از طریق ارسال ایمیل تستی به این آدرس ایمیل از صحت آن اطمینان یابید."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "اگر اخیراً توانسته اید تعداد زیادی ایمیل ارسال کنید، آن خطا ها ممکن است مربوط به محدودیت های سرور شما باشد."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "ظاهراً سرور شما ارسال ایمیل های بیشتر را رد می کند."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "صندوق ایمیل پر است"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "زمانی که صندوق ایمیل پر است"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "صندوق ایمیل موجود نیست"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "زمانیکه صندوق ایمیل موجود نیست"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "پیام دچار تأخیر شده است"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "زمانی که پیام دچار تأخیر شده است"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "برای همیشه خراب شد"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "زمانی که بطور دائمی خراب شد"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "اقدام مورد نیاز است"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "زمانیکه شما نیاز دارید تأیید کنید که یک کاربر انسانی و واقعی هستید، بروید به:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "IP بسته شده"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "زمانیکه شما به عنوان یک Spammer نشانه گذاری شدید، پیام کاربر ارتقاء یافته را ارسال کنید به "
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "زمانی که پیام کاربر ارتقاء یافته مسدود شده است و ما مطمئن نیستسم که چه کاری را انجام دهیم، انتقال دهید به:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "پوشه \"%1$s\" قابلیت نوشتن را ندارد، لطفاً سطح دسترسی را برای این فولدر تغییر دهید تا MailPoet بتواند خودش را به درستی نصب کند."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "مطالعه مستندات"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "شناسه کاربری MySQL که شما روی سایت وردپرس خود راه اندازی کرده اید (wp-config.php) دسترسی لازم جهت ایجاد جداول MySQL ندارد. لطفاً این سطح دسترسی را خودتان تغییر دهید و یا با مدیر سایتتان جهت نصب کامل MailPoet تماس بگیرید. خطای mysql: (%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "سربرگ"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "پابرگ"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "پوشه \"%1$s\" قابل نوشتن نیست، لطفاْ سطح دسترسی به این پوشه را تغییر دهید تا MailPoet بتواند خودش را به درستی نصب کند."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "قالبی با نام %1$s از قبل موجود است. برای دوباره نویسی آن، قبل از بارگذاری چک باکس مربوطه را تیک بزنید."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "قالب %1$s روی سایت شما نصب گردیده است."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "ما نمی توانیم قالب شما را نصب کنیم. به نظر می رسد که این قالب در پیکره بندی صحیحی نیست."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "قالب %1$s حذف گردیده است."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "قالب %1$s نمی تواند حذف شود."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s سال‌"
+msgstr[1] "%1$s سال‌"
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s هفته"
+msgstr[1] "%1$s هفته"
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s روز"
+msgstr[1] "%1$s روز"
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s ساعت‌"
+msgstr[1] "%1$s ساعت‌"
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s دقیقه"
+msgstr[1] "%1$s دقیقه"
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s ثانیه"
+msgstr[1] "%1$s ثانیه"
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "سه‌شنبه"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "پنج‌شنبه"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "جمعه"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "شنبه"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "یک‌شنبه"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "اول"
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "دوم"
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "سوم"
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "آخرین"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$s مین"
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet مجدداً دوباره با همین نسخه نصب شد. تنظیمات و داده های قبلی حذف شده اند."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet نمی تواند مجدد نصب شود زیرا پوشه شما <em>wp-content/uploads/wysija</em> نیاز هست که قابل نوشتن باشد. سطح دسترسی های خود را جهت نصب مجدد تغییر دهید."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet حذف شده است. سایت شما هم اکنون چیزی از MailPoet ندارد."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "رویه به روز رسانی به MailPoet نسخه \"%1$s\" با مشکل مواجه شد!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "متن تصادفی یا دستورالعمل ها"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "ایمیل وارده صحیح نیست!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "مشترک از قبل وجود دارد. [link] برای ویرایش کلیک کنید [/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "خیلی خوبه! شما از قبل مشترک هستید و نیازی به اشتراک مجدد نیست:)"
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "متاسفانه نمیتوانیم شما را اضافه کنیم!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "مشترک جدید برای %1$s"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"درود،\n"
+"\n"
+"%1$s همین الان مشترک فهرست '%2$s' شما شد\n"
+"\n"
+"هورا\n"
+"\n"
+"افزونه MailPoet"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "یک مشترک کمتر در %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"درود،\n"
+"\n"
+"%1$s همین الان اشراک خود را از فهرست '%2$s' لغو کرد\n"
+"\n"
+"موفق باشید\n"
+"\n"
+"افزونه MailPoet"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "فهرست \"%1$s\" به هنگام سازی شده است."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "فهرست وجود ندارد یا نمی تواند به هنگام شود."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "برگه در دسترس نیست."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "پیوند تصدیق شما منقضی شده است. لطفاً مجدداً مشترک شوید."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "شما در: %1$s مشترک شده اید"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "بلی، ما شما را به فهرست خود اضافه کرده ایم. شما به زودی از ما خواهید شنید."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "شما قبلاً در فهرست: %1$s مشترک شده اید"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "شما مشترک خبرنامه شدید."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "لوگوی خود را در سربرگ قرار دهید."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "تصویر پابرگ را اینجا قرار دهید."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "اگر این قسمت را خالی بگذارید٬ این قسمت در ایمیل ارسالی نمایش داده نخواهد شد."
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "برای اضافه کردن عنوان یا متن کلیک کنید."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "چپ چین"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "وسط چین"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "راست چین"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "افزودن پیوند / متن جایگزین"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "حذف پیوند"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "حذف تصویر"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "حذف"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "ویرایش متن"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "حذف متن"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "تیترها و متن"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "خط افقی"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "خط افقی دلخواه"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "مطلب وردپرس"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "متن"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"مشاهده در مرورگر\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "پیوند‌ها"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "زیرخط"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "متن پابرگ"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "پس‌زمینه پابرگ"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "پس‌زمینه سربرگ"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "انتخاب شبکه‌های اجتماعی"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "انتخاب جداساز"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "شما قصد حذف این قالب را دارید: %1$s. آیا واقعاً می خواهید حذفش کنید؟"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "افزودن پیوند و متن جایگزین"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "اگر شفافیت می خواهید، این گزینه را انتخاب کنید"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "داده های دینامیک را درباره مشترکین خود، خبرنامه ها، تاریخ امروز و... وارد کنید."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "گزینه های انتخاب"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "ویرایش آخرین نوشته خودکار"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "شما می توانید در هنگام طراحی اطلاع رسانی به هنگام یک پست پس از انتشار آن، تنها یک افزونه را اضافه کنید."
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "پیش‌نمایش بدون تصاویر"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "مشترک"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "نام"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "نام نمایشی کاربر وردپرس"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "تعداد کل مشترکین"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "عنوان خبرنامه"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "آگاه سازی های پست"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "تعداد کل پست ها یا صفحات"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "تیتر آخرین پست"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "تعداد اشکالات"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "تاریخ"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "شماره روز فعلی از ماه"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "روز فعلی ماه به ترتیب، یعنی دوم، سوم، و..."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "نام کامل امروز"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "شماره ماه کنونی"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "نام کامل ماه فعلی"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "پیوند لغو اشتراک"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "ویرایش پیوند صفحه اشتراک"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "مشاهده در پیوند مرتبط با مرورگر"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "زمینه‌های دل‌خواه"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "ذخیره سازی سبک پیشفرض..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "سبک پیشفرض ذخیره شد."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "قراردادن به عنوان سبک پیشفرض."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "یک بلاک اینجا قرار دهید"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "زمان‌بندی شده"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "اشتراک در %1$s را تایید کنید"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"سلام!\n"
+"\n"
+"هوورااا! شما در سایت ما مشترک شده اید.\n"
+"ما نیاز داریم تا اشتراک شما را در فهرست(ها) [lists_to_confirm] با کلیک رو پیوند زیر تأیید کنیم: \n"
+"\n"
+"[activation_link] اینجا کلیک کنید تا اشتراکتان تأیید شود. [/activation_link] \n"
+"\n"
+"متشکریم.\n"
+"\n"
+"تیم ما! \n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "در نمایش مشکل دارید؟ [link]این خبرنامه را در مرورگرتان ببینید.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "بله، مرا به فهرست دریافت ایمیل خود اضافه کنید."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "چه کسانی می توانند خبرنامه ایجاد کنند؟"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "چه کسی می تواند مشترکان را مدیریت کند؟"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "چه کسی می تواند تنظیمات MailPoet را تغییر دهد؟"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "چه کسی می تواند زبانه قالب ها را در ویرایشگر چند رسانه ای ببیند؟"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "چه کسی می تواند زبانه سبک ها را در ویرایشگر چند رسانه ای ببیند؟"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "خالی"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "<strong> آدرس ایمیل از سوی </strong> که وارد کرده اید (%1$s)، یک آدرس صحیح ایمیل نیست."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "<strong> آدرس ایمیل پاسخ به </strong> که وارد کرده اید (%1$s)، یک آدرس صحیح ایمیل نیست."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "از `view_in_browser_link` به جای آن استفاده کنید."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "مشاهده"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "آخرین خبرنامه شما ارسال شده است."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "خبرنامه خودکار شما فعال شد."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "نام"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "توضیح"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "مرتب سازی"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "فهرستی جهت ارسال وجود ندارد."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "وضعیت"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "ساخته شده در"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "برای لغو اشتراک اینجا کلیک کنید"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "برای مشترک شدن کلیک کنید"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "آدرس IP"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "تاریخ اشتراک"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "شرت کد صفحه آرشیو"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "این shortcode را در صفحه خود بچسبانید تا فهرستی از خبرنامه های گذشته را نمایش دهید."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "ای وای! هیچ خبرنامه ای جهت نمایش وجود ندارد."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "پیش‌نمایش در زبانه جدید"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "وای من! هنگام فعالسازی کرون Mailpoet خطایی رخ داده."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "وای من! هنگام غیر فعال کردن کرون Mailpoet خطایی رخ داده."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "با تاخیر نفرست"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "Mailpoet.com می تواند سایت شما را مانند یک کرون هر 15 دقیقه یک بار بررسی کند تا اطمینان حاصل کند ایمیل های شما در موقع مناسب در حال ارسالند."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "کاربران حرفه ای هر 5 دقیقه یکبار مورد بررسی قرار می گیرند."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... یا به جای آن [link]یک کرون روی سرور خود راه اندازی کنید[/link]"
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "جادویی در حال رخ دادن است ..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "در انتظار اولین مشاهده!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "مشاهده جزئیات."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "غیرفعال کردن آن."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "ظرف مدت کوتاهی، شما زمان آخرین مشاهده تان را در اینجا مشاهده خواهید کرد."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "راه اندازی cron سمت سرور"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "ابتدا، یک دستور روی سرور خود تنظیم کنید تا URL روال برنامه ریزی شده ی ما را مشاهده نمایید:"
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "این یک مثال از دستور راه اندازی روی سرورتان است :"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "برای مشاهده ی سایر مثال های دستورها، [link]این مقاله[/link] را چک کنید."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "جهت کنترل بهتر، شما می توانید یک cron job به ازای هر روال تنظیم کنید"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "در حال ارسال"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "دستکاری نشر"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "روزانه"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "هفتگی"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "ماهیانه"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "نه، ممنون!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "بسیار خوب ، تنظیمش کردم"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "در انتظار اولین مشاهده cron job شما!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "اکنون چک کنید."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "cron job شما دارد کار می کند!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "ای وای، یه چیزی اشتباهه."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "مشاهده دستورالعمل راه اندازی"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "برگشت به صفحه  \"تنظیمات\""
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "اوه! ما الان نمی توانیم به سرور MailPoet متصل شویم. ممکن است ما در دسترس نباشیم یا شما مشکلی با پراکسی یا فایروال داشته باشید."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "آخرین مشاهده ثانیه هایی قبل بود."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "آخرین مشاهده %1$s دقیقه قبل بود."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "آخرین مشاهده %1$s دقیقه قبل بود. "
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "مشکلی وجود دارد! Mailpoet.com نمی تواند سایت شما را مشاهده کند، زیرا:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "شما بر روی یک بستر شبکه داخلی هستید. شما نیاز خواهید داشت cron job خود را تنظیم نمایید."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "فایل .htaccess شما، فایروال یا سرور شما در حال بلاک کردن IP ما (%1$s) است."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "به جای آن  [link]cron job  خود را[/link]  را تنظیم کنید."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "یا از مدیر سایت خود بخواهید که کمکتان کند!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "ارسال روال آغاز می شود از :"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "روال دستکاری نشر آغاز می شود از :"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "روال روزانه آغاز می شود از :"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "روال هفتگی آغاز می شود از :"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "روال ماهیانه آغاز می شود از :"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "ناشناس"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "فعال شد!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "در صف"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "ارسال نشده"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "برگشت خورده"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "ارسال شد"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "تنها باز شده"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "باز شده و کلیک شده"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "دیده شده و لغو اشتراک شده"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "رتبه"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "پیوند های برتر"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "پیوند"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "کلیک های یکتا"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "کل کلیک ها"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "هم اکنون در حال نمایش"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "مشاهده مشترکین"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "تکرار"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "ارسال شده در"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "فهرست‌ها"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "از"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "در پاسخ"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "برگشت خورده"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "مشترک %1$s از %2$s ایمیل را باز کرد"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "مشترک %1$s از %2$s ایمیل را باز کرد"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "کلیک ها"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "دستگاه"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "تاریخ باز شده"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "تاریخ ارسال"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "حذف"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "کارهای دسته‌جمعی"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "اعمال"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "برگه %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "از %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "جداسازی مشترکین در %1$s صفحه"
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "تعداد مشترکین در صفحه:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "تغییرات"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "افزودن"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "همه خبرنامه‌ها"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "جستجوی خبرنامه‌ها"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "بازگشت"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "ایجاد ایمیل جدید"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "... یا یکی از آن ها را تکرار کنید تا از طراحی آن دوباره استفاده کنید."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "همه"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "متوقف شده"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "خبرنامه‌های استاندارد"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "خبرنامه های خودکار"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "نمایش همه ماه‌ها"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "نمایش فهرستی"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "صافی"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "همه فرستاده شده ها"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "در صف"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "ارسال با خطا مواجه شد"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "باز نشده"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "باز شده"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "کلیک شده"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "با این بخش"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "حذف از صف"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "ایجاد فهرست جدید"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "لغو اشتراک از همه فهرست‌ها"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "لغو اشتراک از فهرست: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "برون بری در فایل CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "بازشده٬ کلیک‌ها٬ لغو اشتراک"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "تاریخ"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "ارسال شده در"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "ارسال شده %1$s از %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s از %2$s ارسال شد."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "زمان‌بندی شده برای ارسال در %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "زمان‌بندی شده برای ارسال در %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "آمار"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "ارسال بعدی در %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "ارسال بعدی در %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "ارسال روزانه در ساعت %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "ارسال هفتگی در %1$s در %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "ارسال ماهانه در %1$s در %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "ارسال هفتگی در %1$s %2$s در %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "اگر محتوای جدیدی وجود دارد"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "توقف"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "غیر فعال"
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "ادامه"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "هنوز ارسال نشده."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "ارسال فوری."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "ارسال فوری پس از این که شخصی در فهرست ایمیل %1$s مشترک می شود"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "ارسال %2$s پس از این که شخصی در فهرست ایمیل %1$s مشترک می شود"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "هر نقشی"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "ارسال فوری پس از اینکه کاربر جدیدی به سایت شما بعنوان %1$s افزوده شد."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "ارسال %2$s پس از اینکه کاربر جدیدی به سایت شما بعنوان %1$s افزوده شد."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "ارسال به ازای هر رخداد"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "ارسال به %1$s مشترک."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "آخرین دسته از ایمیل ها باید در چند دقیقه آتی آغاز به رهاسازی کنند."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "زمان باقیمانده: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s ایمیل زمانبندی شد."
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "آخرین دسته %1$s قبل ارسال شد."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "صبر نکن، همین حالا ارسال کن."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "جهت بازیابی ارسال [link] هم اکنون به نسخه پولی ارتقاء دهید![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "پیوند ها را با یک [link]گواهینامه پولی[/link] ببینید."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "جستجوی گیرندگان"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "وضعیت ایمیل"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "وضعیت مشترک"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "کلیک شده"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "مشترک شده در تاریخ"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "مشاهده آمار یا ویرایش"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "نوع این خبرنامه کدام است؟"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "به طور خودکار ارسال شد..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "عنوان نامه"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "این عنوان ایمیل شماست، از آنجاییکه اولین چیزی خواهد بود که مشترکین شما خواهند دید، در انتخاب آن دقت کنید."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "ای وای من! مرورگر شما ممکن است پشتیبانی لازم را نداشته باشد. آخرین نسخه [linkchrome]Chrome[/linkchrome]، [linkff]Firefox[/linkff]، [linkie]Internet Explorer[/linkie] یا [linksafari]Safari[/linksafari] را بگیرید.به نظر میاد مشکلی نباشه؟ [link_ignore]منصرف شوید[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "ذخیره و فعالسازی مجدد"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "گام بعدی"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "محتوا"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "تصاویر"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "استایل‌ها"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "پوسته‌ها"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "ابزارک‌های زیر را بکشید و در خبرنامه رها کنید."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "آخرین نوشته ها به صورت خودکار"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "شبکه‌های اجتماعی"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "افزودن تصاویر"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "قالب های بیشتری اضافه کنید"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "نوارابزار ما بالا نمی آید؟"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "درگیری"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "یک افزونه خارجی یا یک قالب، صفحه ظاهری ما را خراب می کند.[link] بیشتر بخوانید[/link] "
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "ارسال پیش‌نمایش"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "بازگشت به گام اول"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "اگر شما تغییر قالب را تأیید کنید، این عمل سرصفحه، پانویس، جداکننده و سبک شما را تغییر می دهد"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "خلاق باشید! این اولین چیزی است که مشترکین شما می بینند. آن ها را مشتاق به باز کردن ایمیل خود نمایید."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "زمانی که..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "فهرست مشترکی که می تواند برای این عملیات استفاده شود."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "فرستنده"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "نام یا ایمیل خودتان یا شرکت شما"
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "پاسخ به نام و ایمیل"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "زمانی که مشترکین روی \"پاسخ\" کلیک می کنند، این شخصی است که ایمیل های آن ها را دریافت می کند."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "زمان‌بندی شده"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "از مشترکین فعلی صرفنظر کن"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "به مشترکین موجود ارسال نکن، تنها مشترکین آینده."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "ذخیره پیش‌نویس و بستن"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "یا به سادگی[link]برگردید به طراحی[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "زمان محلی <code>%1$s</code> است"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "خبرنامه استاندارد"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "خبرنامه خودکار"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "اضافه شد"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "نشانی:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "متن جایگزین:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "این متن هنگامیکه مشترکین ایمیل نتوانند تصاویر را ببینند نمایش داده می شود که البته در بیشتر اوقات این حالت رخ می دهد."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "بارگذاری پوسته (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]راهنمایی [/link] برای این که قالب خودتان را بسازید."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "رایگان"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "حداکثر حجم مجاز بارگذاری فایل: %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "اگر یک قالب با همین نام وجودی دارد، جایگزینش کن."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "جستجو"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "قراردادن انتخاب شده"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "کدام قطعه از آن استفاده می کند؟[link]بیشتر بخوانید[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "نمایش..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "خلاصه"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "کل متن"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "فقط عنوان"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "پیکره بندی عنوان"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "heading 1 "
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "heading 2 "
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "heading 3 "
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "نمایش بعنوان فهرست"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "موقعیت عنوان"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "در کادر متنی"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "بالای تصویر و کادر متنی"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "موقعیت عنوان"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "چپ"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "وسط"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "راست"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "چینش تصویر"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "جا به جا کردن چپ و راست"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "بدون تصویر"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "پهنای تصویر"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "نویسنده مشمول"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "خیر"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "بالای محتوا"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "پایین محتوا"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "تقدم یافته توسط:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "دسته بندی ها را شامل شود"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "متن دکمه \"ادامه خواندن\""
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "رنگ زمینه"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "قرار دادن کلی تنظیمات"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "مرتب سازی بر اساس"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "جدیدترین"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "قدیمی ترین"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "نمایش مقسم بین مطالب"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "بله"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "رنگ پس زمینه با جایگزین"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "انجام شد"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "نوع یادداشت"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "حداکثر پست ها جهت نمایش"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "و همین طور اضافه کردن رده ها..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "انتخاب..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "اندازه:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "کوچک"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "متوسط"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "مرورگر روی دستگاه شما نمی تواند جهت آپلود کردن فایل ها استفاده شود. شما قادر خواهید بود از <a href=\"http://wordpress.org/extend/mobile/\">اپلیکیشن بومی دستگاه شما</a> به جای آن استفاده کنید."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "متأسفانه شما از حد اختصاص یافته فضای خود فراتر رفته اید (%s MB). "
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "پرونده‌های مجاز"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "فایل ها را اینجا رها کنید"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "یا"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "انتخاب فایل‌ها"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "لغو"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "حداکثر حجم مجاز بارگذاری فایل: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "مرورگر شما محدودیت هایی جهت بارگذاری فایل های بزرگ از طریق سیستم بارگذاری چند فایلی دارد. لطفاً از سیستم بارگذاری مرورگر خود برای فایل های بالای 100 مگابایت بهره ببرید."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "جهت استفاده از به روزترین سیستم بارگذاری فایل، لطفاً وردپرس خود را به آخرین نسخه ارتقاء دهید."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "انتخاب فایل‌ها برای بارگذاری"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "لغو بارگذاری"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "حداکثر حجم مجاز بارگذاری فایل: %d%s "
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "اگر میخواهید که از تمامی قابلیت های سیستم بارگذاری کننده نظیر بارگذاری چند فایل بطور همزمان استفاده کنید، لطفاً به lighttpd 1.5 ارتقاء دهید."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "این زبانه توسط تصاویری از محتوای شما و خبرنامه های قبلی پر خواهد شد."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "این تب با تصویری از یادداشت های WordPress شما پر می شود."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "خوش آمدید به %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "متشکرم! الان منو به MailPoet ببر."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "شما کاربر MailPoet به مدت %s بوده اید."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "ایول! از اینکه عضوی از جامعه کاربران ما برای مدت قابل توجهی بوده اید سپاسگذاریم."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "شما به روز شدید! مثل اینکه ابزار جدید اما بهتری دارید."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "یک سئوال عالی"
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "مشترک خبرنامه ما شوید"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "این افزونه را یقیناً به رایگان داشته باشید"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "بچه گربه ها را دوست دارید؟"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "ما ستاره ها را دوست داریم..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "هر وقت یکی از کاربران فراموش می کند که نظرش را بگوید، یک گربه می میرد. این غم انگیزه و قلب ما رو میشکنه. [link]نظر خود را بگویید[/link] و امروز بچه گربه ای را نجات دهید."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "ما را دنبال کنید و هیچ چیز را از دست ندهید!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "پنهان!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "آخرین تغییرات"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "شما به %1$s به روز شده اید"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "هی! ما یک پرسش سریع از شما داریم:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "اگر این را تأیید کنید، تمام داده های MailPoet فعلی شما پاک خواهند شد ( خبرنامه ها، قالب ها، آمارها، فهرست ها، مشترکین، غیره )"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "تائیید نصب مجدد"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "این قابلیت به سبب آنکه قابلیت \"نظرات\" در افزونه JetPack فعال است، نمی تواند کار کند."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "ثبت نام روی این سایت غیرفعال شده است."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "مشترکین می توانند از این فهرست ها انتخاب شوند:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "من یک cron job روی سرور خودم راه اندازی می کنم تا در دفعاتی که می خواهم اجرا شود. درباره [link] راه اندازی یک cron job توسط خودتان[/link] بخوانید."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "از این URL در cron job استفاده کنید: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "نه متشکرم! من به تعداد کافی بازدید کننده در سایتم دارم. مشاهدات آن ها ماشه MailPoet را برای اجرای cron خواهد کشید."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "من یک کاربر نسخه حرفه ای هستم، MailPoet.com اطمینان خواهد داد که ایمیل های من به موقع ارسال خواهند شد."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "اگر بخواهم می توانم [link]cron job اضافه ای ایجاد کنم[/link] تا دفعات ارسال را افزایش دهم."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "اگر بخواهم می توانم [link]cron job اضافه ای ایجاد کنم[/link] تا دفعات را افزایش دهم."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "DNS خود را با افزودن key/value ثبت شده در TXT مانند آنچه در زیر نشان داده شده است تنظیم نمایید."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "ادامه متن"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "کلید"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "مقدار"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "شما در حال استفاده از یک DKIM key قدیمی هستید که توسط Gmail پشتیبانی نمی گردد."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "شما نیاز به به روز رسانی DNS خود خواهید داشت، اگر ارتقاء دهید."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "ارتقاء DKIM key"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "دامنه"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "نقش‌ها و دسترسی‌ها"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "مشاهده همه"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "وقتی کسی مشترک شد"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "وقتی کسی اشتراک خود را لغو کرد"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "خلاصه روزانه ایمیل های فرستاده شده"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "خیر"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "بله"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "پایه"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "فرم‌ها"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "تائیدیه ثبت‌نام"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "ارسال با..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "افزونه ها"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "ذخیره تنظیمات"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "آدرس شرکت شما"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "این آدرس به پانویس خبرنامه تان افزوده خواهد شد. این آدرس از شناسایی به عنوان اسپم ممانعت به عمل می آورد."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "ایمیل اطلاع رسانی"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "آدرس ایمیل هایی که بواسطه آن ها می خواهید آگاه سازی ها را دریافت کنید وارد نمایید (جدا شده با کاما)."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "ارسال کننده آگاه سازی ها"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "نام و ایمیل ارسال کننده را برای ایمیل های آگاه سازی انتخاب کنید."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "اشتراک در نظرات"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "بازدیدکنندگانی که برای یک پست نظر می دهند، می توانند این چک باکس را انتخاب کنند تا مشترک شوند."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "اشتراک در فرم ثبت نام"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "به کاربرانی که در سایت شما ثبت نام می کنند اجازه دهید تا در فهرست انتخابی تان مشترک شوند."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "پیوند به نسخه مرورگر"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "در بالای خبرنامه شما نمایش داده می شود. برچسب پیوند را فراموش نکنید، مثال: [link]پیوند[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "متن پیوند &quot;لغو اشتراک&quot;"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "این باعث تغییر برچسب پیوند لغو اشتراک در پانویس خبرنامه شما می شود."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "صفحه لغو اشتراک"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "یک مشترک بعد از کلیک کردن پیوند لغو اشتراک در پایین یک خبرنامه، به صفحه انتخابی شما منتقل می شود."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "فعال سازی تایید اشتراک"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "مانع از این شوید که فردی در فهرست شما به طور ناخواسته مشترک شود، این اختیار به شما این اطمینان را می دهد که فهرست پاکی خواهید داشت."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "بیشتر بدانید."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "عنوان ایمیل"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "محتوای ایمیل"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "اضافه کردن را فراموش نکنید: <br><br>[activation_link]اشتراک خود را تأیید کنید[/activation_link].<br><br> اختیاری: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "صفحه تأیید"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "زمانی که مشترکین روی پیوند فعالسازی کلیک می نمایند، آن ها به صفحه انتخابی شما منتقل می شوند."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "شیوه شبکه ها"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "شیوه که توسط مدیر شبکه تنظیم شده است."
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "پیکربندی نشده!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "وب‌سایت شما"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "بهترین راه حل برای فهرست های کوچک. میزبان وب شما یک محدودیت ایمیل روزانه را تنظیم کرده است."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "شخص ثالث"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "با یک مهیا کننده SMTP حرفه ای ارسال کنید، یک انتخاب عالی برای فهرست ها کوچک و بزرگ.ما پیشنهادات خوبی با سرویس دهنده های محدودی برای شما داریم."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "روش ارسال"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "به خودتان چند ایمیل آزمایشی ارسال کنید تا تصدیق نمایید کدام شیوه با سرور شما کار می کند."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "این موتور ایمیل روی 95&#37; سرور کار می کند."
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "این شیوه روی 5&#37; سرور کار می کند."
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "مسیر Sendmail"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "از شیوه ای یکسان هماند روش استفاده شده در سایت وردپرس شما استفاده می کند."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "میزبان SMTP"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "e.g.:smtp.mydomain.com "
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "نام کاربری"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "رمز عبور"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "اگر پورت های SMTP شما بسته شده است، فعال کنید."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "پورت SMTP"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "اتصال امن"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "اعتبارسنجی"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "این انتخاب را روی بله بگذارید. فقط تعداد قلیلی از مهیاکنندگان سرویس SMTP می خواهند که تصدیق خاموش باشد."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "آزمودن روش"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "ارسال ایمیل آزمایشی"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "ارسال..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "میزبان سایت شما محدودیت هایی دارد. ما ساعتی 70 ایمیل در هر ساعت را پیشنهاد می کنیم تا مطمئن تر باشد.[link]بیشتر بدانید[/link]"
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "ایمیل‌ها"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "این سریع است!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "ما پیشنهاد می کنیم که یک cron job راه اندازی کنید. [link]بیشتر بخوانید[/link] در support.mailpoet.com."
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "کلید API"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "شما می توانید نام و ایمیل پیشفرض ارسال کننده ایمیل را برای خبرنامه تان تغییر دهید. این انتخاب همچنین برای ایمیل های فعالسازی و آگاه سازی های مدیریتی (در پایه) به کار می رود."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "ایمیل برگشت خورده"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "به کدام آدرس ایمیل، ایمیل های ارتقاء باید برسد؟ نسخه [link]حرفه ای[/link] را دریافت کنید و به طور خودکار این تنظیم را انجام دهید."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "خرید نسخه پولی."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "مشترکین می توانند مشخصات خود را ویرایش کنند"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "یک پیوند به پابرگ تمام خبرنامه های شما اضافه می کند تا مشترکین بتوانند شناسنامه و فهرست های خود را ویرایش کنند. [link] صفحه شناسنامه اشتراک خود را ببینید [/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "پیش‌نمایش صفحه"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "صفحه پروفایل مشترک"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "صفحه ای را جهت نمایش پروفایل مشترک انتخاب نمایید."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "اجازه ویرایش های HTML را بدهید"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "این به شما اجازه می دهد که کد HTML کادرهای متنی را در ویرایشگر چندرسانه ای اصلاح کنید."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "داده های ناشناس را به اشتراک بگذارید"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "داده های ناشناس را به اشتراک بگذارید و به ما در بهبود این افزونه یاری رسانید.[link]بیشتر بخوانید[/link]"
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "دیگر"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "هنر"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "کسب و کار"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "آموزش"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "تجارت الکترونیک"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "غذا"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "بیمه"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "دولتی"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "ورزش و تندرستی"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "ساخت و تولید"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "بازاریابی و رسانه"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "عام المنفعه"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "عکاسی"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "سفر و گردشگری"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "معاملات ملکی"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "مذهبی"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "تکنولوژی"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "صنایع"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "صنعت خود را انتخاب کنید."
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Shortcode جهت نمایش تعداد کل مشترکین"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "این میان بر کد را جهت نمایش تعداد مشترکین تصدیق شده در یادداشت یا صفحه خود بگذارید."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Charset "
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "مربع ها یا کاراکترهای نامعلوم در ایمیل شما مشاهده می شود؟ encoding زبان خود را انتخاب نمایید."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "فعال سازی cron در MailPoet"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "هیچ یک از ایمیل های در صف شما ارسال نشده؟ بعد این انتخاب را فعال کنید."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "حالت خطایابی"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "جهت نمایش خطاهای MailPoet این را فعال کنید. پشتیبانی ما ممکن است از شما بخواهد در راستای پشتیبانی بهتر این آیتم را فعال کنید."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "انجام دادن یا ندادن. تلاشی وجود ندارد."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "تنظمیات خرخون ها"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "انتخاب های برجسته را حلقه کنید"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "پنهان کردن"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "نمایش"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "دوباره از نو نصب کن"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "آیا می خواهید از اول همه چیز را آغاز نمایید؟ این اقدام MailPoet را کاملاْ پاک خواهد کرد و یک نسخه جدید را دوباره نصب می کند."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "در حال نصب مجدد..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "تنظیمات ارجح خود را برگزینید؟"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "یک تنظیمات برای تمام سایت ها"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "تمام سایت ها را مجبور کنید با یک آدرس ایمیل، خبرنامه ها را ارسال کنند. فقط لازم است مدیریت خودکار برگشت خورده ها (حرفه ای)، SPF و DKIM را فقط برای یک بار تنظیم نمایید."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "کاربران هنوز می توانند آدرس پاسخ دهی خود را برای خبرنامه هایشان تغییر دهند. مدیران شبکه هنوز می توانند شیوه ارسال را برای هر سایت تغییر دهند."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "تنظیم هر سایت به طور دستی"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "SPF و DKIM را بطور مستقل برای هر سایت تنظیم کنید."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "تنظیمات و دسترسی ها"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "به مدیران سایت ها اجازه بده تا روش ارسال خود را تغییر دهند"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "به مدیران سایت ها اجازه بده تا تایید عضویت را غیرفعال کنند"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "سبک پیشفرض شبکه برای ارسال"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF و DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "رکورد SPF شما"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "آدرس ایمیل ارسال کننده برای سایت هایی که از این شیوه استفاده می کنند"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "ایجاد فرم جدید"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "هیچ فهرستی مشخص نگردیده"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "انتخاب کاربر: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "ویرایش فرم"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "ای وای! برای ویرایش یک فرم، نیازه که حداقل 1 فهرست داشته باشید."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "افزودن فهرست"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "ویرایش نام"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "فهرست فرم ها"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "این فرم مشترکین را به این فهرست ها اضافه می کند:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "یک فهرست را برگزینید"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "پس از ثبت..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "نمایش پیام"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "برو به صفحه"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "شما می توانید به راحتی این فرم را به [link]ناحیه ابزارک های[/link] قالب خود اضافه کنید."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] نسخه های مرتبط نیز موجود است."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "ورودی متن"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "ناحیه متن"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "دکمه های رادیویی"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "چک باکس"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "انتخابی"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "انتخاب یک نوع فیلد:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "نام فیلد:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "به طور خودکار پاراگراف ها را اضافه کن"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "تعداد خط ها:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "%d خط"
+msgstr[1] "%d خط"
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "فهرستی را که شما می خواهید اضافه کنید، انتخاب نمایید:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "سال، ماه، روز"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "سال، ماه"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "ماه (ژانویه، فوریه و...) "
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "نوع تاریخ:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "افزودن مورد"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "برچسب:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "نمایش عنوان در ورودی:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "سفارش دادن:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "تاریخ از قبل انتخاب شده امروز:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "آیا فیلد متنی اجباری است؟"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "فقط اعداد"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "فقط حروف"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "حروف و اعداد"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "شماره تلفن، (+,-,#,(,) و فاصله مجاز است)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "معتبر برای:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "هیچیک"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "تجربه شیرین تری از افزونه حرفه ایه ما"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "تمام آمارهای شما در یک پنل"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "نمایه کامل را ببینید"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "بهبود دادن خوش بگذره"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "خبرنامه های برتر خود را، مشترکین برتر را، پیوند های برتر، فهرست های برترو دامنه های برتر را روی صفحه خود ببینید. آیا می تونید خبرنامه های قبلی تان را به تپش درآورید؟"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "مشترکین خود را افزایش دهید"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "آیا فرم ستون کناری کاربران بیشتری نسبت به فرم پابرگ جذب می کنه؟ وقتشه که بفهمیم."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "مقایسه گذشته و حال"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "آیا حالا عملکرد بهتری نسبت به 3 ماه قبل دارید؟ یک بازه زمانی را جهت به دست آوردن تغیرات نتایج خود انتخاب کنید."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "به اینباکس هایشان دسترسی داشته باشید"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "با استفاده از [link]mail-tester[/link]، تست کننده خانگی ما، در حالی که خبرنامه تان را دارید طراحی می کنید نمره اسپم خود را با 1 کلیک به دست آورید."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "فیلترهای اسپم DKIM را دوست دارند."
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "یک امضای DKIM را به خبرنامه تان اضافه کنید تا قابلیت تحویل پذیری خبرنامه هایتان افزایش یابد. [link]راهنمای راه اندازی را بخوانید.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "به ما اجازه دهید تا تنظیمش کنیم"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "تیم دوستانه و بین المللی ما به شما کمک خواهد کرد که تنظیات خود را در جزئیات بهبود بخشید، و اطمینان یابید که همه چیز را به خوبی پیش برده اید. ما سوال هایتان را در کمتر از 10 ساعت پاسخ می دهیم؛ خیلی سریع!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "کارهای خسته کننده را خودکار کنید"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "اجازه دهید که افزونه به طور خودکار <strong>ایمیل های نادرست و تکراری</strong> را پاک کند.[link]این راهنما را ببینید.[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "بعلاوه، MailPoet هر 15 دقیقه سایت شما را چک می کند. <strong>درست شبیه یک \"Cron Job\" </strong> تا اطمینان یابید ایمیل ها در موعد مقرر در حال ارسال است. هیچ تنظیمی لازم نیست!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "بازگشت پول تا 30 روز"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "یک راه خیلی خوب جهت آزمایش نسخه حرفه ای. هیچ کسی نباید تا به حال درنگ کرده باشه."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "بچه گربه ها فقط منتظرن که فضاهای خالی پر بشن. اونا گرسنه به نظر میان، اینطور نیست؟ ما بچه گربه ها را دوست داریم."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "محدودیت 2000 مشترک را دیگر نداشته باشید"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "نسخه رایگان ارسال خبرنامه ها متوقف می کند اگر که بیشتر از 2000 مشترک داشته باشید. نسخه حرفه ای این محدودیت را ندارد."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "و بیشتر..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "با استفاده از سیستم ردیابی Google Analytics campaign، ببینید که در خصوص مشترکینتان چه روی می دهد وقتی که آنها به سایت شما می رسند،"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "جزئیات آمار هر مشترک"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "آمارهای پیوند های کلیک شده برای هر خبرنامه"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "وبلاگ نویس"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "آزادکار"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "آژانس"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "هر سال"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "یک سایت"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "چهار سایت"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "سایت های بیشمار"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "چند سایته آمادست."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "حالا بخرید"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "قبلا پرداخت شده؟"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "پرسشی در خصوص فروش دارید؟ [link]در تماس باشید[/link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "همه چیز را با آمارهای بیشتر تحت نظر بگیرید"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "به دنبال پاسخ ها هستید؟ چرا فلان و فلان رشته خیلی خوب کار می کند؟ کدام یک از فرم های اشتراک موثرتر است؟ یک تصویر شفاف با داشبورد آمارهای برند ما تهیه کنید! [link]داشبورد آمارها را در نسخه حرفه ای تهیه کنید.[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "پاک سازی خودکار فهرست ایمیل های شما"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "مانند یک حرفه ای خبرنامه ارسال کنید و اعتبار سرور ارسال کننده تان را در حد بالایی حفظ نمایید. با تشکر از ابزار پاکسازی پیشرفته ما، شما در نهایت می توانید از ارسال به آدرس های ایمیل نادرست یا خیلی قدیمی ممانعت به عمل آورید. [link]فهرست خود را با استفاده از نسخه حرفه ای پاکسازی نمایید.[/link] "
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "در یک تکرار بالاتر ارسال کن"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "آیا می دانستید؟ بهتره که ایمیل های کمتری را در دفعات بالاتری ارسال کنید. به نسخه حرفه ای بپیوندید و ما سایتتان را در هر 15 دقیقه چک می کنیم تا اطمینان یابیم که ایمیل هایتان به طور منظم در این تناوب ارسال شده اند.[link]با نسخه حرفه ای بهتر ارسال کنید.[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "محدودیت ها را به فراموشی بسپارید"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "محدودیت 2000 مشترک در نسخه رایگان را بردارید و به هر چند تعداد کاربری که مایل هستید ارسال کنید. [link]از این محدودیت خلاص شوید![/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "مشترکین برتر خود را شناسایی کنید"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "ببینید که در هر خبرنامه کدام پیوند ها کلیک های بیشتری داشته اند. ببینید که کدام مشترکین طرفدار درجه یک شما هستند و جزئیات پیشرفته ای را درباره آن ها بدانید. [link]با نسخه حرفه ای داده های بیشتری را دریافت کنید.[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "پشتیبانی سریع تری داشته باشید"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "از صف رهایی یابید، مستقیماً به صندوق مخاطبان با الویت بروید.[link]پاسخگویی سریع تری با نسخه حرفه ای داشته باشید.[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "قالب های بیشتری دریافت کنید"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "آیا تطابق رنگ ها خوب نیست؟ نگران نباشید، ما با طراحان تراز اولی کار می کنیم تا برایتان تعداد زیادی قالب آماده کنیم، جدیدترین ها در نسخه حرفه ای موجودند. [link]قالب های بیشتری را با نسخه حرفه ای دریافت کنید.[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "خوانندگان خود را با Google Analytics ردیابی کنید"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr ""
+"تصدیق کنید آنچه را که مشترکین شما هنگامی آنها را به وب سایت خود رهسپار می کنید انجام می دهند و نرخ نگهداری خود را بهبود بخشید. \n"
+"[link]با نسخه حرفه ای خوانندگان خود را با GA ردیابی کنید[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "تضمین شادی 30 روزه"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "هنوز در خصوص محصول ما و تیم 9 نفره ما تردید دارید؟ جای نگرانی نیست، ما آنقدر از کارمان اطمینان داریم که فرجه ای 30 روزه به شما جهت انصراف می دهیم. ما به محض اینکه شما نارضایتی خود را اعلام نمایید پولتان را پس می دهیم.[link]هم اکنون بدون استرس کاربر نسخه حرفه ای شوید[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "با استفاده از نسخه حرفه ای سازنده باشید!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "ما 3 لایسنس متفاوت جهت رفع نیازهایتان داریم:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "به ازای %s در هر سال، 1 سایت را تحت پوشش نسخه حرفه ای داشته باشید."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "هم اکنون دریافتش کنید!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "آزادکار"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "به ازای %s در هر سال، 4 سایت را تحت پوشش نسخه حرفه ای داشته باشید."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "به ازای %s در هر سال، تمام سایت هایتان را تحت پوشش نسخه حرفه ای داشته باشید."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "[link]قوانین و توافقات[/link] را سهل و آسان بخوانید."
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "داشبورد وضعیت"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "به"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "شما بازخوردی روی این آمارها دارید؟ [link] با ما تماس بگیرید[/link] تا در جریان قرار بگیریم."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "فهرست ها و مشترکین"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "جستجوی مشترکین"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "برگشت به فهرست‌ها"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "ویرایش فهرست‌ها"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "درون ریزی "
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "برون بری"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "فهرست نشده"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "هرگز باز یا کلیک نشده"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "این مشترک برای همیشه حذف شود؟"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "این مشترکین برای همیشه حذف شوند؟"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "انتقال به فهرست"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "افزودن به فهرست"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "حذف کردن از فهرست"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "حذف کردن از تمام فهرست ها"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "حذف مشترکان"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "تأیید مشترکین تأیید نشده"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "ایمیل تصدیق را دوباره بفرست"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "مشاهده تمام فهرست ها"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "مشترکینی که در هیچ فهرستی نیستند"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "آخرین باز کردن"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "آخرین کلیک کردن"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "تمام مشترکین این صفحه انتخاب شده اند."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "انتخاب تمام %1$s مشترک."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "تمام %1$s مشترک انتخاب شده اند."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "عدم انتخاب"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "فهرست هایی که در آن ها مشترک، اشتراک یافته بود."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "یک فهرست انتخاب کنید"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "ساختار"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "فایل CSV"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "اکسل برای سیستم عامل ویندوز"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "فقط برون بری مشترکین تاْیید شده"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "فهرست فیلد ها جهت خروجی گرفتن"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "لغو اشتراک شده از: %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "توجه: پی ببرید که چه چیزی را این مشترک باز کرده و کلیک کرده با کمک [link]نسخه پولی[/link] ما."
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "تاریخ ایجاد"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "دریافت تمام کاربران شبکه"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "برای استفاده شخصی شما است و هرگز به مشترکین شما نشان داده نمی شود."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "فهرست را به روز کن"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "افزودن فهرست"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "چگونه می خواهید درون ریزی کنید؟"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "کپی کردن در یک کادر متنی"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "بارگذاری یک فایل"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "درون ریزی از %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "سپس فهرست خود را اینجا بچسبانید"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "نیازه که این یک استایل CSV باشد و یا یک چسبانیدن از سوی Gmail، Hotmail یا Yahoo. [link] مثال هایی را در سایت پشتیبانی ما[/link] ببینید."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "نیازه که این یک استایل CSV باشد. [link] مثال هایی را در سایت پشتیبانی ما[/link] ببینید."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "آیا این مشترکین تقاضا داشتند در فهرست شما باشند؟"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "اگر پاسخ منفی است، خود را یک spammer حساب کنید."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link] بیشتر بخوانید در support.mailpoet.com [/link]"
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "مقایسه داده ها"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "نادیده گرفتن ستون..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "درون ریزی به عنوان \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "درون ریزی \"%1$s\" بعنوان فیلد تاریخ"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "تایید فرمایید که تاریخ در حاشیه آبی با اصل خود انطباق دارد"
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "به عنوان 'فیلد تاریخ' مقایسه نکنید اگر که بیشتر ردیف ها برای آن ستون همین خطا را می دهد."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "خطای انطباق تاریخ."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "یک یا چند فهرست را برگزینید"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "فهرست هایی را که شما می خواهید آن مشترکین را در آن واردسازی نمایید انتخاب کنید."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "فهرست جدید"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "نام فهرست جدید خود را تایپ کنید"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "یادداشت:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "مشترکین \"%1$s\" را بعد از واردسازی دریافت خواهند کرد."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "تعداد %1$s مشترک را از افزونه %2$s درون ریزی کنید."
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "واردسازی از"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "فهرست‌های شما"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "فرم اشتراک MailPoet"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "اشتراک از خبرنامه های شما."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "برای تائید اشتراکتان، ایمیل خود را بررسی کنید."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "شما با موفقیت مشترک ما شدید."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "عنوان:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "جهت اشتراک در خبرنامه شیک ما به سادگی ایمیل خود را در زیر اضافه کنید. یک ایمیل تأیید برای شما ارسال خواهد شد!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "اجازه دهید مشترکین فهرست هایشان را انتخاب کنند: "
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "سوال برای:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "نمایش عنوان‌ها در ورودی‌ها"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "عنوان دکمه:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "پیام موفقیت:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "نسخه iframe"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "یک فرم را انتخاب نمایید:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet Newsletters"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "ایجاد و ارسال خبرنامه‌ها یا نامه‌های الکترونیک. جذب مشترکین با یک ابزارک. درون‌ریزی و مدیریت لیست‌ها. MailPoet یک افزونه عالی است که با علاقمندی توسط <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">یک تیم شش نفره حفظ و پشتیبانی شده است</a>."
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
