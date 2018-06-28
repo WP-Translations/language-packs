@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Display Authors Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/display-authors-widget\n"
+"Last-Translator: Sovichet Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/display-authors-widget/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-21 15:03:30+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:45:49\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: display-authors-widget.php:44
+msgid "Displays authors by role."
+msgstr "បង្ហាញ​អ្នក​និពន្ធ​តាម​តួនាទី។"
+
+#: display-authors-widget.php:57
+msgctxt "Name of the widget in widget area."
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget"
+
+#: display-authors-widget.php:134
+msgid "(%d)"
+msgstr "(%d)"
+
+#: display-authors-widget.php:189
+msgid "Authors"
+msgstr "អ្នក​និពន្ធ"
+
+#: display-authors-widget.php:206
+msgid "Title:"
+msgstr "ឈ្មោះ៖"
+
+#: display-authors-widget.php:211
+msgid "Role:"
+msgstr "តួនាទី៖"
+
+#: display-authors-widget.php:221
+msgid "Display Post Count?"
+msgstr "បង្ហាញ​ចំនួន​ប្រកាស​ទេ?"
+
+#: display-authors-widget.php:226
+msgid "Display Author Bio?"
+msgstr "បង្ហាញ​ជីវប្រវត្តិ​អ្នក​និពន្ធ​ទេ?"
+
+#: display-authors-widget.php:231
+msgid "Display Author Gravatar?"
+msgstr "បង្ហាញ​ក្រាវតា​អ្នក​និពន្ធ​ទេ?"
+
+#: display-authors-widget.php:236
+msgid "Display Author Name?"
+msgstr "បង្ហាញ​ឈ្មោះ​អ្នក​និពន្ធ​ទេ?"
+
+#: display-authors-widget.php:240
+msgid "Gravatar Size:"
+msgstr "ទំហំ​ក្រាវតា៖"
+
+#: display-authors-widget.php:245
+msgid "Gravatar Alignment:"
+msgstr "ការ​តម្រឹម​ក្រាវតា៖"
+
+#: display-authors-widget.php:247
+msgid "None"
+msgstr "គ្មាន"
+
+#: display-authors-widget.php:247
+msgid "Left"
+msgstr "ខាង​ឆ្វេង"
+
+#: display-authors-widget.php:247
+msgid "Right"
+msgstr "ខាង​ស្ដាំ"
+
+#: display-authors-widget.php:255
+msgid "Limit the number of authors displayed:"
+msgstr "កម្រិត​ចំនួន​អ្នក​និពន្ធ​ដែល​ត្រូវ​បង្ហាញ៖"
+
+#. Plugin Name of the plugin/theme
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxnet-themes.fi/downloads/display-authors-widget/"
+msgstr "https://foxnet-themes.fi/downloads/display-authors-widget/"
+
+#. Description of the plugin/theme
+msgid "Register widget to display authors by role in a sidebar."
+msgstr "ចុះ​បញ្ជី​ធាតុ​ក្រាហ្វិក ដើម្បី​បង្ហាញ​អ្នក​និពន្ធ​តាម​តួនាទី​នៅ​ក្នុង​របារ​ចំហៀង។"
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "http://foxnet.fi/en"
+msgstr "http://foxnet.fi/en"
