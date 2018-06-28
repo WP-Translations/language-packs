@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Receiptful for EDD\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/receiptful-for-edd\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/receiptful-for-edd/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-03-05 09:44:01+00:00\n"
+"PO-Revision-Date: 2017-09-22 01:17:47\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-edd-receiptful-admin.php:94
+msgid "<strong>Default receipt email settings are unavailable. You're sending awesome emails through Receiptful.</strong>"
+msgstr "<strong>Default receipt email settings are unavailable. You're sending awesome emails through Receiptful.</strong>"
+
+#: includes/admin/class-edd-receiptful-admin.php:119
+msgid "Receipful"
+msgstr "Receipful"
+
+#: includes/admin/class-edd-receiptful-admin.php:120
+msgid "Setings for Receiptful"
+msgstr "Setings for Receiptful"
+
+#: includes/admin/class-edd-receiptful-admin.php:125
+msgid "API Key"
+msgstr "API Key"
+
+#: includes/admin/class-edd-receiptful-admin.php:126
+msgid "Add your API key (<a href=\"%s\" target=\"_blank\">which you can find here</a>) to get started."
+msgstr "Add your API key (<a href=\"%s\" target=\"_blank\">which you can find here</a>) to get started."
+
+#: includes/admin/class-edd-receiptful-admin.php:150
+msgid "<a href=\"%s\">Edit My Template</a> | <a href=\"%s\">View Statistics</a>"
+msgstr "<a href=\"%s\">Edit My Template</a> | <a href=\"%s\">View Statistics</a>"
+
+#: includes/admin/class-edd-receiptful-admin.php:174
+msgid "Email restrictions"
+msgstr "Email restrictions"
+
+#: includes/admin/class-edd-receiptful-admin.php:179
+msgid "List of emails to restrict the coupon usage with. Separate by comma (,)"
+msgstr "List of emails to restrict the coupon usage with. Separate by comma (,)"
+
+#: includes/class-receiptful-email.php:99
+msgid "Error sending customer receipt via Receiptful. Error Message: %s. Receipt added to resend queue."
+msgstr "Error sending customer receipt via Receiptful. Error Message: %s. Receipt added to resend queue."
+
+#: includes/class-receiptful-email.php:108
+msgid "Customer receipt sent via Receiptful."
+msgstr "Customer receipt sent via Receiptful."
+
+#: includes/class-receiptful-email.php:121
+msgid "Error sending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s. Receipt added to resend queue."
+msgstr "Error sending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s. Receipt added to resend queue."
+
+#: includes/class-receiptful-email.php:130
+msgid "Error sending customer receipt via Receiptful. Error Code: %s Error Message: %s."
+msgstr "Error sending customer receipt via Receiptful. Error Code: %s Error Message: %s."
+
+#: includes/class-receiptful-email.php:165
+msgid "Error resending customer receipt via Receiptful. Error Message: %s. Receipt added to resend queue."
+msgstr "Error resending customer receipt via Receiptful. Error Message: %s. Receipt added to resend queue."
+
+#: includes/class-receiptful-email.php:174
+msgid "Customer receipt resent via Receiptful."
+msgstr "Customer receipt resent via Receiptful."
+
+#: includes/class-receiptful-email.php:179
+msgid "Error resending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s. Receipt added to resend queue."
+msgstr "Error resending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s. Receipt added to resend queue."
+
+#: includes/class-receiptful-email.php:188
+msgid "Error resending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s."
+msgstr "Error resending customer receipt via Receiptful. Error Code: %1$s Error Message: %2$s."
+
+#: includes/class-receiptful-email.php:218
+#: includes/class-receiptful-email.php:311
+msgid "Nameless product"
+msgstr "Nameless product"
+
+#: includes/class-receiptful-email.php:260
+msgid "Discount"
+msgstr "Discount"
+
+#: includes/class-receiptful-email.php:268
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: includes/class-receiptful-email.php:270
+msgid "Taxes"
+msgstr "Taxes"
+
+#: includes/class-receiptful-email.php:486
+#: includes/class-receiptful-email.php:497
+msgid "Download %s"
+msgstr "Download %s"
+
+#: includes/class-receiptful-front-end.php:56
+msgid "Receipt"
+msgstr "Receipt"
+
+#: includes/class-receiptful-front-end.php:73
+msgid "View receipt online"
+msgstr "View receipt online"
+
+#: includes/class-receiptful-front-end.php:75
+msgid "Sorry, no online receipt available"
+msgstr "Sorry, no online receipt available"
+
+#: includes/class-receiptful-front-end.php:115
+msgid "This discount is only valid for certain emails. Please use the correct email."
+msgstr "This discount is only valid for certain emails. Please use the correct email."
+
+#: includes/edd-cron-functions.php:27
+msgid "Every quarter"
+msgstr "Every quarter"
+
+#: receiptful-edd.php:303
+msgid "Receiptful has been activated. Please click <a href=\"edit.php?post_type=download&page=edd-settings&tab=extensions\">here</a> to add your API key & supercharge your receipts."
+msgstr "Receiptful has been activated. Please click <a href=\"edit.php?post_type=download&page=edd-settings&tab=extensions\">here</a> to add your API key & supercharge your receipts."
+
+#: receiptful-edd.php:329
+msgid "Settings"
+msgstr "Settings"
+
+#. Plugin Name of the plugin/theme
+msgid "Receiptful for EDD"
+msgstr "Receiptful for EDD"
+
+#. #-#-#-#-#  receiptful-for-edd.pot (Receiptful for EDD 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://receiptful.com"
+msgstr "http://receiptful.com"
+
+#. Description of the plugin/theme
+msgid "Receiptful replaces and supercharges the default EDD receipts. Just activate, add API and be awesome."
+msgstr "Receiptful replaces and supercharges the default EDD receipts. Just activate, add API and be awesome."
+
+#. Author of the plugin/theme
+msgid "Receiptful"
+msgstr "Receiptful"
