@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FeedPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/feedpress\n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/feedpress/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-23 13:30:06+00:00\n"
+"PO-Revision-Date: 2017-12-21 12:20:05\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. #-#-#-#-#  feedpress.pot (FeedPress 1.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: feedpress.php:24
+#: feedpress.php:25
+msgid "FeedPress"
+msgstr "FeedPress"
+
+#: feedpress.php:298
+msgid "There was something wrong with the feed creation:"
+msgstr "Besleme oluşturma esnasında yanlış giden birşeyler var:"
+
+#: feedpress.php:320
+msgid "Configuration updated."
+msgstr "Yapılandırma güncellendi."
+
+#: feedpress.php:332
+msgid "There was something wrong with your FeedPress authentication. Please retry."
+msgstr "FeedPress yetkilendirmesi esnasında birşeyler yolunda gitmedi. Lütfen tekrar deneyin."
+
+#: feedpress.php:355
+msgid "FeedPress Configuration"
+msgstr "FeedPress Yapılandırması"
+
+#: feedpress.php:359
+msgid "How does this work?"
+msgstr "Nasıl çalışır bu?"
+
+#: feedpress.php:360
+msgid "This plugin automatically redirects all or parts of your existing feeds to FeedPress."
+msgstr "Bu eklenti varolan beslemelerinizin tümünü veya bir kısmını otomatik olarak FeedPress'e yönlendirir."
+
+#: feedpress.php:361
+msgid "You just have to connect to FeedPress on this page. You will now be able to create and select the feeds you want to redirect to. You may optionally redirect your comments feed using the same procedure."
+msgstr ""
+
+#: feedpress.php:362
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr ""
+
+#: feedpress.php:363
+msgid "Additionally, when you publish a new article on your blog, FeedPress will be pinged by the plugin and your feed will be updated in realtime."
+msgstr "İlaveten, blog'unuzda yeni bir yazı yayımladığınızda FeedPress eklenti tarafından uyarılır ve beslemeniz gerçek zamanlı güncellenir."
+
+#: feedpress.php:369
+msgid "Connect to FeedPress"
+msgstr "FeedPress'e Bağlan"
+
+#: feedpress.php:373
+msgid "You are authenticated on FeedPress with the username:"
+msgstr "FeedPress'te şu kullanıcı adı ile yetkilendirildiniz:"
+
+#: feedpress.php:374
+msgid "Disconnect from FeedPress"
+msgstr "FeedPress ile Bağlantıyı Kes"
+
+#: feedpress.php:376
+msgid "Main feeds"
+msgstr "Ana beslemeler"
+
+#: feedpress.php:380
+msgid "Redirect my feeds here:"
+msgstr "Beslemelerimi buraya yönlendir:"
+
+#: feedpress.php:385
+#: feedpress.php:408
+#: feedpress.php:458
+#: feedpress.php:510
+#: feedpress.php:550
+msgid "None"
+msgstr "Hiçbiri"
+
+#: feedpress.php:401
+#: feedpress.php:424
+msgid "Create a new feed on FeedPress"
+msgstr "FeedPress'te yeni bir besleme oluştur"
+
+#: feedpress.php:403
+msgid "Redirect my comments feed here:"
+msgstr "Yorum beslemelerimi buraya yönlendir:"
+
+#: feedpress.php:426
+msgid "Category feeds"
+msgstr "Kategori beslemeleri"
+
+#: feedpress.php:430
+#: feedpress.php:442
+msgid "Category:"
+msgstr "Kategori:"
+
+#: feedpress.php:431
+#: feedpress.php:483
+#: feedpress.php:535
+msgid "Delete"
+msgstr "Sil"
+
+#: feedpress.php:438
+#: feedpress.php:474
+msgid "Redirect a category"
+msgstr "Bir kategoriyi yönlendir"
+
+#: feedpress.php:478
+msgid "Tag feeds"
+msgstr "Etiket beslemeleri"
+
+#: feedpress.php:482
+#: feedpress.php:494
+msgid "Tag:"
+msgstr "Etiket:"
+
+#: feedpress.php:490
+#: feedpress.php:526
+msgid "Redirect a tag"
+msgstr "Bir etiketi yönlendir"
+
+#: feedpress.php:530
+msgid "Custom URL redirection"
+msgstr "Özel URL yönlendirmesi"
+
+#: feedpress.php:534
+#: feedpress.php:546
+msgid "Path:"
+msgstr "Yol:"
+
+#: feedpress.php:542
+#: feedpress.php:564
+msgid "Redirect a URL"
+msgstr "Bir URL yönlendir"
+
+#: feedpress.php:544
+msgid "If you want to redirect a specific path, fill this simple form."
+msgstr "Belirli bir yola yönlendirmek istiyorsanız bu basit formu doldurun."
+
+#: feedpress.php:546
+msgid "Example: /feed/podcast"
+msgstr "Örnek: /feed/podcast"
+
+#: feedpress.php:566
+msgid "Advanced Options"
+msgstr "Gelişmiş Seçenekler"
+
+#: feedpress.php:570
+msgid "Do not redirect not configured category or tag feeds."
+msgstr "Yapılandırılmamış kategori veya etiket beslemeleri yönlendirilmesin."
+
+#: feedpress.php:574
+msgid "Do not redirect search result feeds."
+msgstr "Arama sonucu beslemeleri yönlendirilmesin."
+
+#: feedpress.php:578
+msgid "Do not redirect author feeds."
+msgstr "Yazar beslemeleri yönlendirilmesin."
+
+#: feedpress.php:582
+msgid "Do not redirect ANY feeds (useful if you just want the plugin for realtime updates)."
+msgstr "Herhangi besleme yönlendirilmesin (gerçek zamanlı güncelleme isteyenler için kullanışlıdır)."
+
+#: feedpress.php:588
+#: feedpress.php:592
+msgid "Activate transparent mode: The feed is not redirected to FeedPress but requests are still reported."
+msgstr "Saydam modu etkinleştir: Besleme FeedPress'e yönlendirilmez fakat talepler raporlanmaya devam edilir."
+
+#: feedpress.php:593
+msgid "This feature is only available to"
+msgstr "Bu özellik yalnızca %s için mevcuttur"
+
+#: feedpress.php:593
+msgid "Premium Members"
+msgstr "Premium Üyeler"
+
+#: feedpress.php:593
+msgid "starting at $2.50 per month"
+msgstr "ayda 2.50$ ile başlama"
+
+#: feedpress.php:599
+msgid "Do not ping FeedPress when a new article is published."
+msgstr "Yeni bir yazı yayınlandığında FeedPress uyarılmasın."
+
+#: feedpress.php:603
+msgid "Activate debug mode."
+msgstr "Hata ayıklama modunu etkinleştir."
+
+#: feedpress.php:607
+msgid "Save"
+msgstr "Sakla"
+
+#: feedpress.php:619
+msgid "Create a new FeedPress feed"
+msgstr "Yeni bir FeedPress beslemesi oluştur"
+
+#: feedpress.php:621
+msgid "Fill the form below to create your feed on FeedPress."
+msgstr "FeedPress'te beslemenizi oluşturmak için aşağıdaki formu doldurun."
+
+#: feedpress.php:625
+msgid "Original feed URL:"
+msgstr "Orijinal besleme URL'si:"
+
+#: feedpress.php:628
+msgid "Alias name for the feed:"
+msgstr "Besleme için takma ad:"
+
+#: feedpress.php:633
+msgid "Create"
+msgstr "Oluştur"
+
+#: feedpress.php:847
+msgid "Warning: The options have changed. You have to update your FeedPress settings."
+msgstr "Uyarı: Seçenekler değişti. FeedPress ayarlarınızı güncellemek zorundasınız."
+
+#: feedpress.php:847
+#: feedpress.php:851
+msgid "Update settings"
+msgstr "Ayarları güncelle"
+
+#: feedpress.php:851
+msgid "Warning: You have enabled the Append category option in FeedPress. This option doesn't exist anymore, please update your FeedPress settings."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://feedpress.it"
+msgstr "http://feedpress.it"
+
+#. Description of the plugin/theme
+msgid "Redirects all feeds to a FeedPress feed and enables realtime feed updates."
+msgstr "Tüm beslemeleri bir FeedPress beslemesine yönlendirir ve gerçek zamanlı besleme güncellemesini devreye alır."
+
+#. Author of the plugin/theme
+msgid "Maxime VALETTE"
+msgstr "Maxime VALETTE (çeviri mapazarbasi)"
+
+#. Author URI of the plugin/theme
+msgid "http://maximevalette.com"
+msgstr "http://maximevalette.com"
