@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I Luv 2 Test\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/blogly-lite\n"
+"Last-Translator: Sovichet Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/iluv2test/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-28 13:39:36+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:45:49\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "អូ៎! រក​មិន​ឃើញ​ទំព័រ​នោះ​ទេ។"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "រក​មិន​ឃើញ​អ្វី​ឡើង​នៅ​ទីតាំង​នេះ។ ព្យាយាម​តំណ​មួយ​ផ្សេង​ទៀត​នៅ​ខាងក្រោម ឬ​ស្វែងរក?"
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "ចំណាត់​ក្រុម​ដែល​ប្រើ​ច្រើន"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "ព្យាយាម​រក​មើល​នៅ​ក្នុង​ប័ណ្ណសារ​ប្រចាំខែ។ %1$s"
+
+#: archive.php:29
+msgid "Author: %s"
+msgstr "អ្នក​និពន្ធ៖ %s"
+
+#: archive.php:37
+msgid "Day: %s"
+msgstr "ថ្ងៃ៖ %s"
+
+#: archive.php:40
+msgid "Month: %s"
+msgstr "ខែ៖ %s"
+
+#: archive.php:43
+msgid "Year: %s"
+msgstr "ឆ្នាំ៖ %s"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:49
+msgid "Images"
+msgstr "រូបភាព"
+
+#: archive.php:52
+msgid "Videos"
+msgstr "វីដេអូ"
+
+#: archive.php:55
+msgid "Quotes"
+msgstr "ពាក្យ​សម្រង់"
+
+#: archive.php:58
+msgid "Links"
+msgstr "តំណ"
+
+#: archive.php:61
+#: sidebar.php:29
+msgid "Archives"
+msgstr "បណ្ណសារ"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "មតិ​ចំនួន %1$s នៅ​លើ &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "ការ​រកមើល​មតិ​យោបល់"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; មតិ​ចាស់ៗ"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "មតិ​ថ្មីៗ &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "បាន​បិទ​ការ​បញ្ចេញ​មតិ។"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "Leave a comment"
+msgstr "បញ្ចេញ​មតិ​មួយ"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "1 Comment"
+msgstr "មតិ 1"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "% Comments"
+msgstr "មតិ %s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31
+#: content-audio.php:31
+#: content-chat.php:35
+#: content-image.php:33
+#: content-link.php:31
+#: content-quote.php:29
+#: content-single.php:30
+#: content-status.php:31
+#: content.php:37
+#: single-quote.php:29
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-chat.php:41
+#: content-image.php:39
+#: content-link.php:37
+#: content-quote.php:35
+#: content-single.php:33
+#: content-status.php:37
+#: content.php:43
+#: single-quote.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-page.php:33
+#: content-single.php:16
+msgid "Pages:"
+msgstr "ទំព័រ៖"
+
+#: content-page.php:43
+#: inc/template-tags.php:141
+#: inc/template-tags.php:179
+msgid "Edit"
+msgstr "កែប្រែ"
+
+#: footer.php:8
+msgid "Proudly powered by %s"
+msgstr "ឧបត្ថម្ភ​ដោយ %s"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "រូបរាង៖ %1$s ដោយ %2$s។"
+
+#: inc/customizer.php:54
+#: inc/customizer.php:64
+msgid "Logo"
+msgstr "ឡូហ្គោ"
+
+#: inc/customizer.php:70
+msgid "Footer Logo"
+msgstr "ឡូហ្គោ​ផ្នែក​ក្រោយ"
+
+#: inc/customizer.php:77
+msgid "Colors"
+msgstr "ពណ៌"
+
+#: inc/customizer.php:90
+msgid "Link color"
+msgstr "ពណ៌​តំណ"
+
+#: inc/customizer.php:103
+msgid "Accent color"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Page %s"
+msgstr "ទំព័រ %s"
+
+#: inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "ប្រកាស​រុករក"
+
+#: inc/template-tags.php:75
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> ប្រកាស​ចាស់ៗ"
+
+#: inc/template-tags.php:95
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ប្រកាស​ថ្មីៗ <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "ភីង​ត្រឡប់៖"
+
+#: inc/template-tags.php:161
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">និយាយ​ថា៖</span>"
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s នៅ %2$s"
+
+#: inc/template-tags.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "មតិ​របស់​អ្នក​កំពុង​ស្ថិត​ក្នុង​ការ​សម្របសម្រួល។"
+
+#: inc/template-tags.php:369
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">បាន​ផ្សាយ​នៅ %1$s</span><span class=\"byline\"> ដោយ %2$s</span>"
+
+#: inc/themesetup.php:29
+msgid "Sidebar"
+msgstr "របារខាង"
+
+#: no-results.php:25
+msgid "Nothing Found"
+msgstr "រក​មិន​ឃើញ​អ្វី​ទេ"
+
+#: no-results.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ត្រៀម​ខ្លួន​ផ្សាយ​ប្រកាស​ដំបូង​របស់​អ្នក​ហើយ​ឬ​នៅ? <a href=\"%1$s\">ចាប់​ផ្ដើម​នៅ​ទីនេះ</a>។"
+
+#: no-results.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "សូម​ទោស, មិន​មាន​អ្វី​ដែល​ត្រូវ​នឹង​ពាក្យ​ស្វែងរក​របស់​អ្នក​ទេ។ សូម​សាកល្បង​ប្រើ​ពាក្យ​គន្លឹះ​ដទៃ​ទៀត។"
+
+#: no-results.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "យើង​រក​មិន​ឃើញ​អ្វី​ដែល​អ្នក​កំពុង​រក​ទេ។ ប្រហែល​ការ​ស្វែងរក​អាច​ជួយ​អ្នក​បាន។"
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "លទ្ធផល​ស្វែងរក​សម្រាប់៖ %s"
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "ស្វែងរក"
+
+#: sidebar.php:20
+msgid "Menu"
+msgstr "ម៉ឺនុយ"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "មេតា"
+
+#. Theme Name of the plugin/theme
+msgid "Blogly Lite"
+msgstr "Blogly Lite"
+
+#. Theme URI of the plugin/theme
+msgid "http://themefurnace.com/blog/portfolio/blogly-lite/"
+msgstr "http://themefurnace.com/blog/portfolio/blogly-lite/"
+
+#. Description of the plugin/theme
+msgid "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+msgstr "Blogy គឺ​ជា​សំបក​រូបរាង​សម្រាប់​ប្លក់​ផ្ទាល់​ខ្លួន ដែល​មាន​សណ្ឋាន​រីករួម ហើយ​ប្រើ​ប្រដាប់​កែតម្រូវ​ដែល​អ្នក​អាច​ប្ដូរ​ពាក្យ, ផ្ទុក​ឡើង​ឡូហ្គោ និង​រូបភាព​ផ្ទៃ​ក្រោយ​បាន​យ៉ាង​ងាយ។ អ្នក​ក៏​អាច​ធ្វើ​វិសិដ្ឋកម្ម​ទៅ​កំណែ​ជាន់​ខ្ពស់​ដែល​មាន​ជម្រើស​កែតម្រូវ​កាន់​តែ​ច្រើង​ជាង​មុន, ទំនុក​បម្រុង និង​ធាតុ​ក្រាហ្វិក​សម្រាប់​បណ្ដាញ​សង្គម, dribbble, flickr និង​ការ​ផ្សាយ​ពាណិជ្ជកម្ម http://themefurnace.com/blog/portfolio/blogly/"
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
