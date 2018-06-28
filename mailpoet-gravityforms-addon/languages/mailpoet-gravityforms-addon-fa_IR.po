@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Gravity Forms Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Fariborz Zabihian <cybpedia@gmail.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/wysija/mailpoet-gravity-forms-add-on/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 15:33+0100\n"
+"PO-Revision-Date: 2017-09-19 23:43:22\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:38
+msgid "Documentation"
+msgstr "مستندات"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:41
+#, php-format
+msgid "Thank you for using %s :) Should you need help using %s please read the documentation."
+msgstr "از اینکه از %s :) استفاده می‌کنید متشکریم؛ آیا در استفاده از  %s به کمک نیاز خواهید داشت، لطفاً مستندات افزونه را مطالعه کنید."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:43
+#, php-format
+msgid "%s Documentation"
+msgstr "%s مستندات"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:49
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "بعداز <a href=\"%s\">مطالعه مستندات</a>, برای کمک بیشتر <a href=\"%s\">به انجمن مراجعه کنید</a>."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:54
+msgid "Community Support"
+msgstr "پشتیبانی انجمن"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:60
+msgid "Found a bug?"
+msgstr "خطا پیدا شده؟"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:63
+#, php-format
+msgid "If you find a bug within <strong>%s</strong> you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "اگر با خطای درون برنامه برخورد کردید <strong>%s</strong> می‌توانید یک تیکت از طریق <a href=\"%s\">Github issues ارسال کنید</a>. اطمینان حاصل کنید که راهنمای ویژه  <a href=\"%s\">را مطالعه کرده‌اید</a> پیش از آنکه گزارش خود را ارسال کنید. تاحد امکان آگاه باشید."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:65
+msgid "Report a bug"
+msgstr "گزارش خطا"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:70
+msgid "For more information:"
+msgstr "برای اطلاعات بیشتر:"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:72
+msgid "Project on WordPress.org"
+msgstr "پروژه‌های WordPress.org"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:73
+msgid "Project on Github"
+msgstr "پروژه‌های Github"
+
+#: includes/admin/class-mailpoet-gravity-forms-install.php:103
+msgid "What's new:"
+msgstr "تازه‌ها:"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:119
+msgid "Subscriber fields"
+msgstr "فیلدهای مشترک خبرنامه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:123
+msgid "Use First Name from Field ID"
+msgstr "استفاده از نام کوچک برای شناسه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:129
+msgid "Use Last Name from Field ID"
+msgstr "استفاده از نام خانوادگی برای شناسه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:135
+msgid "Use Email Address from Field ID"
+msgstr "استفاده از آدرس پست‌الکترونیک برای شناسه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:142
+msgid "Enable multiselect"
+msgstr "فعال‌سازی انتخاب چند گزینه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:146
+msgid "No"
+msgstr "نه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:147
+msgid "Yes"
+msgstr "بله"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:153
+msgid "MailPoet lists"
+msgstr "لیست‌های افزونه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:171
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:182
+msgid "Single checkbox label"
+msgstr "برچسب چک‌باکس تکی"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:183
+msgid "This is ignored when multiselect is enabled."
+msgstr "هنگامی‌که حالت انتخاب چند گزینه فعال است، نادیده گرفته می‌شود"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:184
+msgid "Default: Yes, please subscribe me to your newsletter."
+msgstr "پیش‌فرض: بله، لطفاً مرا مشترک خبرنامه خود کنید"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:185
+msgid "Custom Fields"
+msgstr "فیلد دلخواه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:186
+msgid "You need to tell MailPoet from which Gravity Forms Fields it should take the users name and email address from."
+msgstr "شما نیازدارید تا  افزونه را آگاه سازید تا از کدام فیلدهای Gravity Forms باید نام کاربری و آدرس پست‌الکترونیک را دریافت کند."
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Enable Multiselect"
+msgstr "فعال‌سازی حالت چند انتخابی"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Let the user select multiple lists."
+msgstr "اجازه به کاربران برای انتخاب چند لیست"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "MailPoet Lists"
+msgstr "لیست‌های افزونه"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "Select which lists the user should be able to subscribe to."
+msgstr "انتخاب لیست‌هایی که کاربران قادر خواهند بود در آن مشترک شوند."
+
+#: includes/admin/views/view-html-settings.php:27
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما ذخیره شده است."
+
+#: includes/admin/views/view-html-settings.php:37
+msgid "MailPoet Gravity Forms Add-on Settings"
+msgstr "تنظیمات MailPoet Gravity Forms Add-on"
+
+#: includes/admin/views/view-html-settings.php:39
+msgid "This setting is used only if you are using single checkbox option in the \"MailPoet\" field settings of the form editor."
+msgstr "اگر از چک باکس تک‌گزینه‌ای در تنظیمات فیلد \"MailPoet\" از ویرایشگر فرم استفاده می‌کنید، فقط از این تنظیمات استفده کنید."
+
+#: includes/admin/views/view-html-settings.php:40
+msgid "Simply select the lists you want your subscribers to subscribe to and press \"Save Settings\"."
+msgstr "فقط لیست‌هایی که می‌خواهید مشترکین شما مشترک شوند و فقط دکمه \"ذخیره تنظیمات\" را بفشارند انتخاب کنید."
+
+#: includes/admin/views/view-html-settings.php:63
+msgid "Save Settings"
+msgstr "تنظیمات ذخیره‌سازی"
+
+#: includes/mailpoet-gravity-forms-core-functions.php:32
+#: includes/mailpoet-gravity-forms-core-functions.php:47
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "بله، لطفاً مرا در خبرنامه خود مشترک کنید."
+
+#: mailpoet-gravity-forms-addon.php:229
+msgid "Settings"
+msgstr "تنطیمات"
+
+#: mailpoet-gravity-forms-addon.php:289
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "متأسفیم, <strong>%s</strong> نیازمند وردپرس است"
+
+#: mailpoet-gravity-forms-addon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms. Activate it now or <a href=\"%s\" target=\"_blank\">purchase it today!</a>"
+msgstr "متأسفیم, <strong>%s</strong> نیازمند فرم‌های Gravity است. حالا آن را فعال کنید یا <a href=\"%s\" target=\"_blank\">امروز آن‌را خریداری کنید!</a>"
+
+#: mailpoet-gravity-forms-addon.php:311
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms "
+msgstr "متأسفیم, <strong>%s</strong> نیازمند فرم‌های Gravity است"
+
+#: mailpoet-gravity-forms-addon.php:322
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "متأسفیم, <strong>%s</strong> این افزونه برای کارکردن نیازمند خبرنامه \"MailPoet\" است. لطفاً افزونه مذکور را نصب و فعال کنید <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
