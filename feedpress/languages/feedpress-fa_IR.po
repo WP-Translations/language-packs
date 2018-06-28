@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FeedPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/feedpress\n"
+"Last-Translator: Reza Moghadam <r.moghadam@hotmail.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/wp-translations/feedpress/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-23 13:30:06+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:04:10\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. #-#-#-#-#  feedpress.pot (FeedPress 1.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: feedpress.php:24
+#: feedpress.php:25
+msgid "FeedPress"
+msgstr "خوراک"
+
+#: feedpress.php:298
+msgid "There was something wrong with the feed creation:"
+msgstr "چیزی اشتباه است با ایجاد خوراک وجود دارد:"
+
+#: feedpress.php:320
+msgid "Configuration updated."
+msgstr "پیکربندی به روز رسانی است."
+
+#: feedpress.php:332
+msgid "There was something wrong with your FeedPress authentication. Please retry."
+msgstr "در چیزی اشتباه با احراز هویت FeedPress شما وجود دارد. لطفا دوباره سعی کنید."
+
+#: feedpress.php:355
+msgid "FeedPress Configuration"
+msgstr "FeedPress پیکربندی"
+
+#: feedpress.php:359
+msgid "How does this work?"
+msgstr "چگونه این کار می کند؟"
+
+#: feedpress.php:360
+msgid "This plugin automatically redirects all or parts of your existing feeds to FeedPress."
+msgstr "این افزونه به طور خودکار تغییرمسیر تمام و یا بخش هایی از غذاهای موجود خود را به FeedPress."
+
+#: feedpress.php:361
+msgid "You just have to connect to FeedPress on this page. You will now be able to create and select the feeds you want to redirect to. You may optionally redirect your comments feed using the same procedure."
+msgstr "شما فقط باید برای اتصال به FeedPress در این صفحه. شما در حال حاضر قادر خواهد بود برای ایجاد و انتخاب فیدهایی را که می خواهید به تغییر مسیر به. شما به صورت اختیاری ممکن است خوراک نظرات خود را با استفاده از همان روش تغییر مسیر."
+
+#: feedpress.php:362
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "هنگامی که شما وارد آدرس ها فیدهای شما به طور خودکار هدایت می شوید و شما لازم نیست که به هیچ اقدام دیگری نیست."
+
+#: feedpress.php:363
+msgid "Additionally, when you publish a new article on your blog, FeedPress will be pinged by the plugin and your feed will be updated in realtime."
+msgstr "علاوه بر این، هنگامی که یک مقاله جدید در وبلاگ خود شما منتشر، FeedPress خواهد شد توسط پلاگین پینگ و خوراک خود را در زمان واقعی به روز خواهد شد."
+
+#: feedpress.php:369
+msgid "Connect to FeedPress"
+msgstr "اتصال به FeedPress"
+
+#: feedpress.php:373
+msgid "You are authenticated on FeedPress with the username:"
+msgstr "شما در حال در FeedPress با نام کاربری تصدیق:"
+
+#: feedpress.php:374
+msgid "Disconnect from FeedPress"
+msgstr "قطع اتصال از FeedPress "
+
+#: feedpress.php:376
+msgid "Main feeds"
+msgstr "خوراک اصلی"
+
+#: feedpress.php:380
+msgid "Redirect my feeds here:"
+msgstr "برای تغییر مسیر فیدهای من اینجا را کلیک کنید:"
+
+#: feedpress.php:385
+#: feedpress.php:408
+#: feedpress.php:458
+#: feedpress.php:510
+#: feedpress.php:550
+msgid "None"
+msgstr "هیچ کدام"
+
+#: feedpress.php:401
+#: feedpress.php:424
+msgid "Create a new feed on FeedPress"
+msgstr "خوراک جدید در FeedPress است"
+
+#: feedpress.php:403
+msgid "Redirect my comments feed here:"
+msgstr "تغییر مسیر نظر من اینجا را تغذیه کنید:"
+
+#: feedpress.php:426
+msgid "Category feeds"
+msgstr "رده تغذیه"
+
+#: feedpress.php:430
+#: feedpress.php:442
+msgid "Category:"
+msgstr "دسته"
+
+#: feedpress.php:431
+#: feedpress.php:483
+#: feedpress.php:535
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: feedpress.php:438
+#: feedpress.php:474
+msgid "Redirect a category"
+msgstr "هدایت به دسته"
+
+#: feedpress.php:478
+msgid "Tag feeds"
+msgstr "ابرچست فوراک"
+
+#: feedpress.php:482
+#: feedpress.php:494
+msgid "Tag:"
+msgstr "برچسب"
+
+#: feedpress.php:490
+#: feedpress.php:526
+msgid "Redirect a tag"
+msgstr "تغییر مسیر یک برچسب"
+
+#: feedpress.php:530
+msgid "Custom URL redirection"
+msgstr "تغییر مسیر URL سفارشی"
+
+#: feedpress.php:534
+#: feedpress.php:546
+msgid "Path:"
+msgstr "مسیر:"
+
+#: feedpress.php:542
+#: feedpress.php:564
+msgid "Redirect a URL"
+msgstr "هدایت یک URL:"
+
+#: feedpress.php:544
+msgid "If you want to redirect a specific path, fill this simple form."
+msgstr "اگر شما می خواهید به تغییر مسیر یک مسیر خاص، پر کردن این فرم ساده است."
+
+#: feedpress.php:546
+msgid "Example: /feed/podcast"
+msgstr "به عنوان مثال: / خوراک / پادکست"
+
+#: feedpress.php:566
+msgid "Advanced Options"
+msgstr "گزینه های  پیشرفته"
+
+#: feedpress.php:570
+msgid "Do not redirect not configured category or tag feeds."
+msgstr "دسته پیکربندی نشده و یا خوراک برچسب تغییر مسیر نیست."
+
+#: feedpress.php:574
+msgid "Do not redirect search result feeds."
+msgstr "آیا نتیجه جستجو فید تغییر مسیر نیست."
+
+#: feedpress.php:578
+msgid "Do not redirect author feeds."
+msgstr "خوراک نویسنده تغییر مسیر نیست."
+
+#: feedpress.php:582
+msgid "Do not redirect ANY feeds (useful if you just want the plugin for realtime updates)."
+msgstr "آیا هیچ یک از feed (مفید اگر شما فقط می خواهید این افزونه برای به روز رسانی بیدرنگ) تغییر مسیر نیست."
+
+#: feedpress.php:588
+#: feedpress.php:592
+msgid "Activate transparent mode: The feed is not redirected to FeedPress but requests are still reported."
+msgstr "فعال کردن حالت شفاف: خوراک هدایت می شوید به FeedPress نیست اما درخواست هنوز هم گزارش شده است."
+
+#: feedpress.php:593
+msgid "This feature is only available to"
+msgstr "این قابلیت تنها در دسترس"
+
+#: feedpress.php:593
+msgid "Premium Members"
+msgstr "لیست کاربران"
+
+#: feedpress.php:593
+msgid "starting at $2.50 per month"
+msgstr "با شروع در 2.50 $ در هر ماه"
+
+#: feedpress.php:599
+msgid "Do not ping FeedPress when a new article is published."
+msgstr "آیا FeedPress پینگ نیست که یک مقاله جدید منتشر شده است."
+
+#: feedpress.php:603
+msgid "Activate debug mode."
+msgstr "فعال کردن حالت اشکال زدایی."
+
+#: feedpress.php:607
+msgid "Save"
+msgstr "ذخیره"
+
+#: feedpress.php:619
+msgid "Create a new FeedPress feed"
+msgstr "ایجاد یک خوراک FeedPress جدید"
+
+#: feedpress.php:621
+msgid "Fill the form below to create your feed on FeedPress."
+msgstr "فرم زیر را برای ایجاد خوراک خود را در FeedPress را پر کنید."
+
+#: feedpress.php:625
+msgid "Original feed URL:"
+msgstr "آدرس خوراک مقاله:"
+
+#: feedpress.php:628
+msgid "Alias name for the feed:"
+msgstr "نام نام مستعار خوراک:"
+
+#: feedpress.php:633
+msgid "Create"
+msgstr "ساخت"
+
+#: feedpress.php:847
+msgid "Warning: The options have changed. You have to update your FeedPress settings."
+msgstr "هشدار: گزینه ها تغییر کرده است. شما باید برای به روز رسانی تنظیمات FeedPress خود را."
+
+#: feedpress.php:847
+#: feedpress.php:851
+msgid "Update settings"
+msgstr "به‌روزرسانی تنظیمات"
+
+#: feedpress.php:851
+msgid "Warning: You have enabled the Append category option in FeedPress. This option doesn't exist anymore, please update your FeedPress settings."
+msgstr "هشدار: شما در این گزینه رده افزودنپرونده در FeedPress را فعال کرده اید. این گزینه وجود ندارد، لطفا روز رسانی تنظیمات FeedPress شما."
+
+#. Plugin URI of the plugin/theme
+msgid "http://feedpress.it"
+msgstr "www.IPExperts.ir"
+
+#. Description of the plugin/theme
+msgid "Redirects all feeds to a FeedPress feed and enables realtime feed updates."
+msgstr "تغییرمسیر تمام خوردها به یک خوراک FeedPress و به روز رسانی ها را قادر می سازد خوراک بیدرنگ است."
+
+#. Author of the plugin/theme
+msgid "Maxime VALETTE"
+msgstr "ماکسیم VALETTE"
+
+#. Author URI of the plugin/theme
+msgid "http://maximevalette.com"
+msgstr "www.IPExperts.ir"
