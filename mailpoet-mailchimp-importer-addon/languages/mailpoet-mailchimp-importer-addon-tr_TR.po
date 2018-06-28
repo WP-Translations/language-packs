@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet MailChimp Importer Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Mehmet HAKAN <mhakan1974@yahoo.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/mailpoet-mailchimp-importer-add-on/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-04 01:49+0100\n"
+"PO-Revision-Date: 2017-12-21 12:20:12\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:38
+#: mailpoet-mailchimp-importer-addon.php:169
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:41
+msgid "Thank you for using MailPoet MailChimp Importer Add-on :) Should you need help using MailPoet MailChimp Importer Add-on please read the documentation."
+msgstr "MailPoet MailChimp Importer eklentisini kullandığınız için teşekkürler :) MailPoet MailChimp Importer eklentisi ile ilgili yardıma ihtiyaç duyuyorsanız dökümantasyonlarımızı okuyabilirsiniz."
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:43
+msgid "MailPoet MailChimp Importer Add-on Documentation"
+msgstr "MailPoet MailChimp Importer Eklentisi Dökümantasyon"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:49
+msgid "Support"
+msgstr "Destek"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr " <a href=\"%s\">Dökümantasyonlarımızı okuduktan</a> sonra daha fazla yardım almak için <a href=\"%s\">topluluk forum</a> kısmını kullanabilirsiniz."
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:54
+msgid "Community Support"
+msgstr "Topluluk Destek"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Bug mı buldunuz?"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:63
+#, php-format
+msgid "If you find a bug within MailPoet MailChimp Importer Add-on you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "MailPoet MailChimp Importer Eklentisinde bir sorun bulursanız <a href=\"%s\">Github sorunlar</a> kısmından bize ulaştırabilirsiniz. Rapor etmeden önce <a href=\"%s\">katkı kılavuzunu</a> okuyunuz. Mümkün olduğunca açıklayıcı olmaya çalışınız."
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:65
+msgid "Report a bug"
+msgstr "Bug raporlaması yapın"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:70
+msgid "For more information:"
+msgstr "Daha fazla bilgi için:"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:71
+msgid "Project on WordPress.org"
+msgstr "Wordpress.org Projeleri"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-help.php:72
+msgid "Project on Github"
+msgstr "GitHub Üzerindeki Proje"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-importers.php:32
+msgid "MailPoet MailChimp Importer"
+msgstr "MailPoet MailChimp Importer"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-importers.php:32
+msgid "Import your subscribers from your MailChimp campaigns into MailPoet via a csv file."
+msgstr "Bir MailChimp kampanyanızdan üyelerinizi bir csv dosyası ile MailPoet içerisine aktar."
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-menus.php:32
+msgid "MailPoet MailChimp Importer Settings"
+msgstr "MailPoet MailChimp Importer Ayarları"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-admin-menus.php:32
+msgid "MailPoet PMPro"
+msgstr "MailPoet PMPro"
+
+#: includes/admin/class-mailpoet-mailchimp-importer-addon-install.php:125
+msgid "What's new:"
+msgstr "Yeni neler var:"
+
+#: includes/admin/importers/class-mailchimp-importer.php:103
+#: includes/admin/importers/class-mailchimp-importer.php:190
+#: includes/admin/importers/class-mailchimp-importer.php:230
+#: includes/admin/importers/class-mailchimp-importer.php:245
+msgid "Sorry, there has been an error."
+msgstr "Üzgünüz, bir hata oluştu."
+
+#: includes/admin/importers/class-mailchimp-importer.php:104
+msgid "The file does not exist, please try again."
+msgstr "Dosya bulunamadı, tekrar deneyin."
+
+#: includes/admin/importers/class-mailchimp-importer.php:191
+msgid "The CSV is invalid."
+msgstr "CSV dosyanız geçersiz."
+
+#: includes/admin/importers/class-mailchimp-importer.php:202
+#, php-format
+msgid "Import complete - imported <strong>%s</strong> subscribers and skipped <strong>%s</strong>."
+msgstr "Alma işlemi tamamlandı - <strong>%s</strong> üye eklendi, <strong>%s</strong> atlandı."
+
+#: includes/admin/importers/class-mailchimp-importer.php:212
+msgid "All done!"
+msgstr "Hepsi tamam!"
+
+#: includes/admin/importers/class-mailchimp-importer.php:212
+msgid "View Subscribers"
+msgstr "Aboneleri Görüntüle"
+
+#: includes/admin/importers/class-mailchimp-importer.php:263
+msgid "Import MailChimp to MailPoet"
+msgstr "MailChimp'ten MailPoet'e aktar"
+
+#: includes/admin/importers/class-mailchimp-importer.php:285
+msgid "Hi there! Upload a CSV file containing your campaign subscribers from your MailChimp list of your choosing to import into MailPoet. Choose a .csv file to upload, then click \"Upload file and import\"."
+msgstr "Merhaba! MailPoet içerisine aktar kısmından MailChimp kampanya üyelerinizi bir CSV dosyasıyla yükleyin. Bir .csv dosyası seçin ve sonra \"Dosya yükle ve aktar\" kısmını tıklayın."
+
+#: includes/admin/importers/class-mailchimp-importer.php:293
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "İçe aktarma dosyasını yüklemeden önce şu hataları gidermelisiniz:"
+
+#: includes/admin/importers/class-mailchimp-importer.php:302
+msgid "Choose a file from your computer:"
+msgstr "Bilgisayarınızdan bir dosya seçin:"
+
+#: includes/admin/importers/class-mailchimp-importer.php:308
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maksimum boyut: %s"
+
+#: includes/admin/importers/class-mailchimp-importer.php:313
+msgid "OR enter path to file:"
+msgstr "VEYA bir dosya yolu girin:"
+
+#: includes/admin/importers/class-mailchimp-importer.php:320
+msgid "Delimiter"
+msgstr "Ayraç"
+
+#: includes/admin/mailpoet-mailchimp-importer-admin-functions.php:19
+msgid "MailPoet MailChimp Importer Add-on"
+msgstr "MailPoet MailChimp Importer Eklentisi"
+
+#: mailpoet-mailchimp-importer-addon.php:148
+msgid "Import"
+msgstr "İthal Et"
+
+#: mailpoet-mailchimp-importer-addon.php:229
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Üzgünüz, <strong>%s</strong> WordPress gerekli."
+
+#: mailpoet-mailchimp-importer-addon.php:240
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Üzgünüz, <strong>%s</strong> MailPoet Newsletters bu eklentinin çalışması için gereklidir. Lütfen öncelikle <strong><a href=\"%s\">MailPoet Newsletters</a></strong> eklentisini yükleyerek etkinleştirin."
