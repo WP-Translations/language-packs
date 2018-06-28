@@ -1,0 +1,5996 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: johnymas Johny <johnymas@gmail.com>\n"
+"Language-Team: Slovenian (Slovenia) (http://www.transifex.com/wysija/wysija/language/sl_SI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-09-22 15:22:58\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Dodaj izbirno polje na blagajni, da se lahko vaše stranke naročijo na vaše eNovičke."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Odločite se katera sporočila stranke samodejno prejmejo, glede na izdelke, ki jih kupijo. To je Premium dodatek za WooCommerce."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Doda novo polje v obrazce, da se lahko vaši obiskovalci naročijo na vaše MailPoet e-novice."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Doda izbirno polje na obrazec za registracijo, da se lahko vaši novi uporabniki naročijo na sezname po želji."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Doda izbirno polje v vaše obrazce in omogoča, da izberete, na katere sezname bodo uporabniki dodani."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Preprečite lažne naročnine z WangGuard, brezplačnim orodjem in vtičnikom."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Če imate ta problem, potem je to rešitev za vas. Povsem brezplačno."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall je Premium vtičnik za dodajanje vsebine za paywall. Ta dodatek ureja naročnine vaših strank."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Dodajte obrazec v glavo ali nogo vaše spletne strani, ali v luštkan okvir med vaše prispevke z GetConversionovimi brezplačnimi vtičniki. S tem dodatkom lahko vtičnike povežete z MailPoetom.<br/></br>Prejmite 30% popusta ob nakupu Premium verzije njihovega dodatka s klikom <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">tukaj</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Preizkusite jih sami, mi smo bili navdušeni nad brezplačnimi verzijami."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Postavi naročniški obrazec v pop-up, footer ali slide-in, da pridobiš nove naročnike s tem Premium vtičnikom."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Avtorji so naredili odlično delo."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Premium uporabniki prihranijo do 20% s kuponom: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Premium verzija vam omogoča, da dodate obrezec za naročanje v pojavno okno."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Morali boste poznati CSS, če ga želite oblikovati po svojih željah"
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Premium uporabniki s tem kuponom prihranijo 25%: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Ta Premium dodatek omogoča dodajanje MailPoetovih obrazcev na mnoga mesta, tudi na Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Zelo zmogljiv in domiseln uporabniški vmesnik."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Ta brezplačni dodatek omogoča dizajniranje in postavitev obrazcev na začetek ali na konec prispevkov."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Brezplačno in popularno pri naših uporabnikih."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "Exit popupi niso samo \"moderni\", najverjetneje povečujejo konverzijo in tako povečajo marketing, vpise in prodajo. xBounce prikazuje inline popup preden upodabnik zapusti tvojo spletno stran."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "Ko bo kurzor miške zapustil okno, se bo pojavilo pojavno okence za izhod."
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Ta brezplačen vtičnik omogoča vstavljanje obrazca v pojavno okno. To je vse."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "To je brezplačna verzija, zmogljivejše Premium verzije."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Tvoja nova spletna stran še ni objavljena? Postavi stran \"coming soon\" za pridobitev emailov s tem Premium vtičnikom."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Dobro zasnovan vtičnik za preprosto idejo."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Premium uporabniki prohranijo do 20% s tem kuponom: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Tale Premium vtičnik vam omogoča, da vstavite lep obrazec tik pod glavo strani. Nič več, nič manj."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Izbirno polje je dodano kot opcija za vaše stranke, da se lahko prijavijo na e-novice med tem, ko naročajo v vaši spletni trgovini."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Hitro ustvarite e-novice prijavne obrazce za vaš MailPoet seznam pošiljanja z uporabo moči in fleksibilnosti, ki jo ponujajo Ninja obrazci. "
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Ta vtičnik priporočamo kot alternativo za WPML za večjezične strani. Je učinkovit, neposreden in pušča jedro tvoje strani praktično nedotaknjeno. Vsak jezik ima svojo lastno stran v tvoji Wordpress večjezični namestitvi. Dela odlično s tvojim MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "ni bil aktiviran, kot bi bilo potrebno <strong><a href=\"%s\">%s</a></strong> da bi bil instaliran in aktiviran naprej"
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Skri to sporočilo"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "je bil aktiviran."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "je bil deaktiviran."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet pravi: "
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Spletno mesto"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Nakup"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Namesti iz WordPress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Konfiguriraj"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Ne najdete dodatka, ki ga imate v mislih? <a href=\"%s\">Predlagajte nam ga</a> z našim kontaktnim obrazcem."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "To polje ne vsebuje podatkov"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "Leto"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Mesec"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Dnevno"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Ne moremo dostopati do CSV datoteke. Preverite dostopne pravice do direktorija \"%1$s\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Očitno je s seznamom, ki ga želite naložiti, nekaj narobe."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Napaka med vnašanjem e-poštnih naslovov."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Napaka med vnašanjem seznama."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Seznam, ki ste ga prilepili, je prevelik za brskalnik. Rajši <strong>naložite datoteko</strong>."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Podatki, ki jih želite uvoziti očitno niso v CSV formatu (Comma Separated Values)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Preberi več"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "Prva vrstica CSV datoteke mora biti glava: \"email\",\"priimek\",\"ime\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "Druga vrstica CSV datoteke mora vsebovati podatke. Primer:  \"janez.novak@example.com\",\"Novak\",\"Janez\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Prvi dve vrstici naložene datoteke sta sledeči:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Vrstica je prazna"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Ponovno preverite, kaj želite uvoziti."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "V prvih 10 vrsticah nismo našli veljavnega e-naslova."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Vaša uvožena datoteka je neveljavna."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "Živjo! %1$s ima posodobitev (verzijo %2$s), <a href=\"%3$s\">klikni tukaj za posodobitev</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Osvežite strn na kateri ste trenutno"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Vrnite se na MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Posodobite vtičnik"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Uporabite email z vašo domeno, kot je naprimer <strong>info@%s</strong> zato, da se izognete spam označbi ali celo blokadi."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Če želite uporabiti veš Gmail naslov, morate pošiljati z Gmailom. Preverite<a id=\"tip-send-with\" href=\"%s\">nastavitve pošiljanja</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Hvala!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Tema, ki ste jo izbrali se ni mogla namestiti."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Vaš eMail ne more biti shranjen"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Vaš email je bil shranjen"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Stil ne more biti shranjen"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Stil je bil shranjen"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Slika je bila izbrisana"
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Izbor slik ni bil shranjen."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Izbor slik je bil shranjen."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Prosim izberite članek."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Nobena objava se ne ujema z iskanjem."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Vaš email predogled je bil poslan na %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Nismo se mogli povezati z API, stran je mogoče izklopljena. Prosimo poskusite ponovno kasneje."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Vaš zahtevek ni uspel"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Zahtevek uspešen"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Uspešno povezano na %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Imate %1$s sporočil v vašem nabiralniku"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Trenutno ni nobenega zavrnjenega sporočila za obdelavo!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Mogoče morate obkljukati možnost <i>Samo-podpisan certifikat</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Ali ste prepričani da ste izbrali pravilna vrata? Lahko pustite prazno, če ne veste katera nastaviti"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Izbrati morate tip za to polje"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Določiti morate ime za to polje"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Ta datoteka ne obstaja"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Shranjeno! Spremembe so že aktivne v vašem gradniku."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Shranjeno! Dodaj ta obrazec v [link_widget]gradnik[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Vaš obrazec ni mogel biti shranjen."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Vaš obrazec je bil shranjen."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Uporabnik je bil vstavljen"
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Uporabnik ni bil vstavljen."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Uporabnik je bil posodobljen."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Uporabnik ni bil posodobljen."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Vstavite obrazec za naročanje"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Naročite Premium sedaj"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Ups. Prekoračili ste mejo 2000 naročnikov za brezplačno verzijo MailPoet-a (skupaj %1$s). Pošiljanje je sedaj onemogočeno. Prosimo nadgradite vašo verzijo na [link]premium[/link] za pošiljanje brez omijitve."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Ups! Skoraj ste že dosegli mejo %1$s naročnikov za MailPoet-ovo brezplačno verzijo. Nadgradite na [link]Premium[/link] verzijo za pošiljanje brez omejitve in še več.¸"
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elementi izbrisani"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Element je bil izbrisan."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Naloži"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Slike novic"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "Slike iz WordPress-ovih objav"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Varnostna napaka med zahtevkom"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Varnostne težave"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Stran za dobrodošlico!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Namestitev MailPoet Newsletter Premium vričnika"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Popolnoma nov MailPoet. Naj se zabava začne."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Ostanite na tekočem! Naročite se na naše e-novice"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Pošiljali vam bomo mesečne novičke z:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Pomembnimi posodobitvami vtičnika"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "Kuponi"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "Nasveti za vas, ali vaše stranke"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Na čem trenutno delamo"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "Novice od nas, ekipe"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Prvič? Poglejte ga med delom"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Začnete lahko z ogledom tega videa enega od naših uporabnikov."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Delite svoje podatke"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Premalo vemo o naših uporabnikih. Iščemo [link]anonimne podatke[/link] za izboljšanje vtičnika. [ajaxlink]Da, tudi jaz se strinjam![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Mi vemo premalo o naših uporabnikih. Iščemo [link]neškodljive podatke[link] za izgradnjo boljšega vtičnika. Hvala, a vi že delite!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Kaj lahko storite"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minutni vodič za začetnike"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "Vaš MailPoet pride s primerom eMail Novičk. Lahko si ga boste ogledali ko boste zaprli to stran. Kliknite na urejanje in se začnite z njim igrati."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Postrezi si! Ali pa nam dovoli, da ti pomagamo."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Imamo dokumentacijski in opravilni sistem na [link]support.mailpoet.com[link]. Odgovarjamo v roku 24 ur."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Kaj je novega?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Premium verzija je veljavna za vašo stran."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Premium licenca ne obstaja za vašo stran. Kupite jo [link]tukaj[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Čakalna vrsta je prazna!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Korak %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Vstavite [newsletter:total] za prikaz število prispevkov, [newsletter:post_title] za prikaz naslov zadnega prispevka in [newsletter:number] za prikaz zaporedne številke eNovičk."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Prva stvar, ki jo vaš naročnik vidi. Bodite kreativni in povečajte vašo zanimivost že na zažetku!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Prvi korak: glavne podrobnosti"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "enkrat na dan ob..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "tedensko na..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "mesečno na..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "mesečno vsako..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "takoj."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "v katerikoli vlogi,"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Če obstaja nova vsebina..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Če se nekdo naroči na seznam..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Ko je nov WordPress uporabnik dodan na vašo stran..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "ur(e) kasneje."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "dni kasneje."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "tednov kasneje."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "takoj"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "ur"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "dni"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "tednov"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Shranjujem eMail novičke..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Napraka pri shranjevanju..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Novičke uspešno shranjene."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Pošiljam pedogled"
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Rezultat spam testa"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Drugi korak:  \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Pošiljanje je pavzirano."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Pošiljanje se nadaljuje."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopija od"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Novičke so bile podvojene."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s eMailov vsakih %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Vaše nastavitve pošiljanja ([settings]) ne zmorejo tako hitrega pošiljanja [number] naročnikom. Pričakujte zamike dostave. [link]Preberite več[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Zadnji korak: zadnje podrobnosti"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Izberite datum"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Shrani in zapri"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Pošlji kasneje"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Urnik"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktiviraj sedaj"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Pošlji"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Poslali boste eMail novičke. Prosimo za potrditev."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Ali ste prepričani da želite ignorirati %1$s naročnikov na seznamu %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Novičke izbrisane."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Bilten zbrisan."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Novičke ne moreje biti izbrisane."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Preberite več."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Autor:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategorije:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Zadnji članki so že poslani."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Spodnji prispevki so bili dodani z gradnikom %sAvtomatična zadnja vsebina%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sZa urajanje%s, označite z miško, da se pokaže gum za urejanje spodaj."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Korak 1:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "Hej, kliknite na to besedilo!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Za urejanje, enostavno kliknite na te blok besedila."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Korak 2:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "Igrajte se s to sliko"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Postavite kurzor na sliko na levi strani."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Korak 3:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "spustite vsebino tukaj"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Povleci in spusti %1$sbesedilo, objavo, delilce. %2$s Poglej na desno!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Lahko tudi %1$ssocialne oznake %2$s kot so te:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Korak 4:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "in noga?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Spremenite vsebino noge v MailPoet strani z %1$snastavitvami%2$s."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Novičke uspešno kreirane."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Mankajo informacije."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Vaša Google kampanija lahko vsebuje samo latinske znake, številke, presledek in vezaje!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Novičke so dodane na urnik."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Novičke so bile shranjene kot osnutek"
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "eMail Novičke"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Prosimo izberite novičke"
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Želite izbrisat to novičko za vedno?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Želite izbrisati te novičke za vedno?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Pošiljam serijo emailov..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Poglej novičke"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Novička bo deaktivirana, morali jo boste ponovno aktivirati, ko končate z urejanjem. Želite nadaljevati?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Seznam je bil izbrisan."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Pošiljanje prekinjeno."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Trenutno ni novičk."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Statistika: %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Vaše zahteva ne ustraza nobenemu naročniku. Spremenite svoje filtre!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "Del od %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Zoznam vytvorený na základe časti informačného letáku."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Nov seznam \"%1$s\" je bil kreiran iz tega segmenta."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Ta segment je bil odjavljen iz vseh seznamov."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Táto časť bola vyradená z rady tohoto informačného letáku. "
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Segment je bil odjavljen iz liste \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Ta segment ne more biti odjavljen iz [IMPORT] seznama."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Izbor objav"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Prikaži in vstavi možnosti"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Nazaj na izbor"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Nalagam rezultate"
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Vstavljam izbrane članke"
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "izbrano"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Napaka pri nalaganju, datoteka %1$s je prevelika! (MAX: %2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Nalagam teme"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Podrobnosti in PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Nazaj"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Prenesi"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Ponovno naloži"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Datoteke za Photoshop so na voljo kot del [link]Premium storitev[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Prikaži vse teme"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s glasov)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Vaš glas je bil sprejet."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Vaš glas ne more biti sprejet."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Pozor! Če boste ponovno naložili to temo, se bodo vse datoteke v mapi:/wp-content/uploads/wysija/themes/%1$s prepisale. Ali ste prepričani, da želite ponovno namestiti temo?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Poglej vse teme od %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Prensti original Photoshop datoteko"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Prenesi kot .zip"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Poglej avtorjevo spletno stran"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Povprečna ocena: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Moja ocena: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Prenosov: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Značke: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Zadnja posodobitev: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Vsebuje: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Izbor zaznamkov"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Izbor delilcev"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Dodaj / Uredi skupino člankov"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Pokaži možnosti prikaza"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Skrij možnosti prikaza"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Parametri slike"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Izbriši sliko za vse novičke?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Možno, da je ta slika v članku. Zbrišem vseeno?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Poskušali ste naložiti preveč datotek."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s presega maksimalno dovoljeno velikost za to stran."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Datoteka je prazna. Poskusite z drugo."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Ta vrsta datoteke ni dovoljena. Prosimo poskusite z drugo."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Ta datoteka ni slika. Prosimo poskusite z drugo."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Spomin presežen. Prosimo poskusite z manjšo datoteko."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Ta datoteka je večja kot maksimalna velikost. Prosim poskusite z drugo."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Napaka pri nalaganju. Prosimo poskusite ponovno kasneje."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Napaka pri nastavitvah serverja. Prosimo kontaktirajte administratorja serverja."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Naložite lahko zgolj 1 datoteko."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP napaka."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Neuspešno nalaganje."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Prosimo poskusite naložiti to datoteko z %1$s brskalniškim nalagalnikom %2$s"
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s presega maksimalno velikost datoteke za nalagalnih več datotek v vašem brskalniku."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO napaka."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Varnostna napaka."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Datoteka preklicana."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Nalaganje prekinjeno."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Opusti"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Mletje in pomoč;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "premakni v smeti."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "Datoteka &#8220;%s&#8221; ni bila uspešno naložena."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d datotek je bilo uspešno naloženih."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Shranjeno."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Novičke ne obstajajo."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Nastavite testni eMail"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Testovanie pripojenia pre zpracovanie nedoručiteľných správ."
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Zpracovávanie nedoručiteľných správ"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Naročniki bodo sedaj morali aktivirati njihovo naročilo preko eMaila. To je priporočljivo."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Od zdaj naprej bodo nepotrjeni naročniki prejeli tvoje novičke brez, da bi aktivirali njihovo naročnino."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Práve sa spracuvávajú nedoručiteľné správy."
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Keď nastavujete systém pre odchytávanie nedoručiteľných emailov, musíte mať rôzne adresy pre odosielanie a odchytávanie "
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Ali ste prepričani, da želite izbrisati ta obrazec?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Skoraj ste že na koncu. Kliknite to [link]povezavo[/link] za aktivacijo vaše licence, ki ste jo ravnokar kupili."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Ponovno naložim MailPoet?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Nov obrazec"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Ta obrazec ne obstaja"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopiraj"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Nov obrazec z imenom \"%1$s\" je bil kreiran."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Ta obrazec je že bil izbrisan."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Obrazec \"%1$s\" je bil izbrisan."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Nov obrazec"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Ta obrazec ne obstaja."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Nastavitve gradnika"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Ste že plačali? Klikinite tukaj za aktivacijo"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Preverjam licenco"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Zadnjih 7 dni"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Zadnji mesec"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Zadnjih 30 dni"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Zadnjih 90 dni"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Zadnjih 180 dni"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Zadnjih 365 dni"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Poljubni datumi"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Naročnik je bil shranjen."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Naročnikov na stran:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Izberite vsaj 1 naročnika!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Oups! Ne najdem nobenega naročnika."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Naročnik ni bil shranjen."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Naročnik je bil spremenjen. [link]Uredi ponovno[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Naročnik ni bil spremenjen."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s naročnikov je bilo dodanih na \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s naročnik je bil dodanih na \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s naročnikov je bilo premaknjenih na \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s naročnik je bil premaknjen na \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s naročnikov je bilo odstranjenih iz vseh obstoječih seznamov."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s naročnik je bil odstranjen iz vseh obstoječih seznamov."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s naročnikov je bilo izbrisanih iz \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s naročnik je bil izbrisan iz \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s naročnikov je bilo potrjenih."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s naročnik je bil potrjen."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Nobeden eMail ni bil poslan."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Uredi sezname"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Urejanje seznama %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Kaj pa če naredite nov seznam?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Seznam %1$s je bil podvojen."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Dodaj naročnika"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Naročnika ni bilo mogoče najti, najvrjetneje zato ker je bil izbrisan."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Uredi"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Seznam %1$s je bil izbrisan."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Ta seznam ne obstaja ali pa ga ni mogoče izbrisati."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Seznam je bil posodobljen."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Vaš nov seznam čaka na prvega naročnika."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Uvoz iz vtičnika %1$s je zaključen."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Uvoz iz vtičnika %1$s je bil prekinjen."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Uvoz naročnikov iz vtičnikov"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Ni vtičnikov iz katerih bi lahko uvažali podatke."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Uvoz naročnikov"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Izbrana vrednost se že ujema z drugim stolpcem."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Lahko potrdite, da ta vrstica ustreza temu polju?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "katere ste prilepili"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Odjavljeno"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Zavrnjeno"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Naročeno"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Morate izbrati vsaj en seznam."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s naročnikov dodanih na %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s emailov se pojavi več kot enkrat v vaši datoteki: %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s email-ov ni veljavenih: %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Izvozi naročnike"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s naročnikov je bilo izbrisanih."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s naročnik je bil izbrisan."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s naročikov je bilo izvoženih. Poglejte izvoženo datoteko [link]tukaj[/link]."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Izvažam %1$s naročnikov"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Stran ne obstaja."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Prosimo preverite vašo povezavo na to stran."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Izpisali ste se!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Super, nikoli ne boste več slišali od nas!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Ste že izpisani."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Ali ste naredili napako? [link]Prekličite izpis[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Bili ste izpisani!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Uredite vašo naročnino."
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Uredite vaš naročniški profil: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "Email %1$s že obstaja."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Profil Novič je bil posodobljen."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Naročilo brez JavaScript je onemogočeno."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Zdi se da je bil vaš gradnik izbrisan iz Wordpress-ovega [link]prostora za gradnike[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Nalagam..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "Zgodila se je napaka. [link]Prikaži več podrobnosti[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Pokaži podrobnosti.[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Enkrat vsako minuto"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "Enkrat na dve minute"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "Enkrat na pet minut"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "Enkrat na deset minut"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "Enkrat na petnajst minut"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "Enkrat na trideset minut"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "Enkrat na dve ure"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Enkrat na teden"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "Enkrat na 28 dni"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "MailPoet stran"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "Tvoja PHP verzija je zastarela. Če ne kmalu nadradiš, nova verzija MailPoet ne bo delovala."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]Preberi kako lahko nadgradiš tvojo verzijo PHP-ja.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Ne upoštevaj[/link] tega sporočila."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Napaka pri preverjanju polja"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Polje \"%1$s\" je obvezno v tabeli \"%2$s\"."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Polje \"%1$s\" mora biti veljaven eMail."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Ni statistike za prikaz!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Vaše nastavitve serverja ne dovoljujejo popolne naložitve MailPoet-a!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Preberite na spletu."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Kliknite tu za ogled medijskih datotek."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Filter po tipu"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Članki"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Strani"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Kategorije in značke"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtriraj po statusu"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Potrebno je aktivirati MailPoet Premium vtičnik."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Potrdim aktivacijo MailPoet Premium vtičnika?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktiviraj MailPoet Premium Verzijo"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Čestitamo, vaša Premium licenca je aktivna. Še zadnji korak..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Potrdi namestitev MailPoet Premium vtičnika?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Nameščam MailPoet Premium Verzijo"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Prenesi Premium vtičnik."
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Ne dela vedno tako kot bi si mi želeli kajne? Pripravilo smo [link]stran za podporo[/link] z vso dokumentacijo."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "MailPoet verzija:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Naročniki"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Modul"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Statistika"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Poišči pomoč!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Kupite Premium!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Kontaktiraj pomoč"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Dodaj svoje [stars] na [link]wordpress.org[/link] in pomagati ohraniti ta osnovni vtičnik brezplačen."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "MailPoet verzija:"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Prosimo najprej izberite seznam!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Z izbrisom tega seznama ne boste izbrisali nobenega naročnika."
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Ali želite naložiti to verzijo?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Ni rezultatov."
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Prosimo vnesite <%= chars %> več znakov<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Prosimo izbrišite<%= chars %> znake<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Izberete lahko samo <%= chars %> elementov<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Nalagam več rezultatov..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Iščem..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Naprej &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "%lt; Nazaj"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Slika"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "od"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Zapri"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Ta funkcija zahteva \"inline frames\". Vi imate iFrame izklopljene ali pa jih vaš brskalnih ne podpira."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Ravnanje z odklonjenimi sporočili"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Zadeva"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Prejeli smo %1$s sporočil od uporabnika %2$s"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Ta akcija bo izvedena po %1$s sporočilih"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Nimate sporočil"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Da, dela! Lahko začnete izstreljevati sporočila na luno."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Nastavitve po popolne! Uspešno ste poslali preko Gmail-a."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Iščete hitrejšo medodo pošiljanja? [link]Preberite več[/link] o pošiljanju s profesionalnim SMTP-jem."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] deluje z MailPoet-om"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Testni email uspešno poslan na %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "PHP dodatek openssl ni omogočen na vašem serverju. Kontaktirajte vašega gostitelja če želite uporabljati SSL povezavo."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Možno je da, email naslov za odklonjena sporočila \"%1$s\", povzroča probleme. Polje pustite prazno in poskusite ponovno."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Nastavili ste SMTP geslo ampak ne potrebujete avtentifikacije? Morda morata vklopiti SMTP avtentifikacijo."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Vaš server mogoče nima mail strežnika. To lahko preverite tako, da se izpišete in potem kliknete na \"Izgubljeno geslo?\" na prijavni strani. Ste prejeli resetirano geslo po emailu od Wordpress-a?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Shranjujem obrazec..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Shrani"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Spremenite prikaz"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Izbrati morete vsaj 1 seznam"
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Vaš naročnik potrebuje vsaj 2 opciji na izbiro"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Določiti morate vrednost za vaše potrdiveno polje"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Dodaj novo polje"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Spremeni polje po meri"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Ste prepričani, da želite izbrisati to polje po meri?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "januar"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "februar"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "marec"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "april"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "maj"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "junij"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "julij"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "avgust"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "september"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "oktober"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "november"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "december"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Preverite vaš nabiralnik ali spam mapo za potrditev naročnine."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "Email"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Pošlji"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Naroči se!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Delilnik"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Ime"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Priimek"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Seznam izborov"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Izberi seznam(e):"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Naključno besedilo ali HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Naročite se na naše eNovičke in se pridružite našim [total_subscribers] naročnikom."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Dodaj novo polje"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Uredi polje"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Izbriši polje"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "Naročilo na MailPoet"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "vsako minuto"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "vsaki 2 minuti"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "vsakih 5 minut"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "vsakih 10 minut"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "vsakih 15 minut"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "vsakih 30 minut"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "vsako uro"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "vsaki 2 uri"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Vizualno"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Vaš server ne podpira izmenjave (remote exchange)."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Kontaktirajte vašega administratorja za spremembo tega, to se da nastavit."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Vaš server ne more poganjati MailPoet-a."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Vaš server nimam ene ali več pomembnih PHP funkcij za normalen potek: %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Prosimo kontaktirajte vašega gostitelja ali administratorja, da vam to popravi."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Moj prvi seznam"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Ta seznam bo avtomatično kreiran ob namestitvi MailPoet-a."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5 minutni uporabniški priročnik"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Te tabele se ne da krreirati ob namestitvi: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Prosim vpišite svoje ime"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Prosimo vpišite svoj priimek"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Potrdilo naročnine"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Naročite se na naše eNovičke"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Vaša spletna stran očitno nima licence. Prosimo prijavite se v [link]urejevalnik računa [/link] za dodajanje licence za to stran."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Licenca za \"%1$s\" ne obstaja. Če imate Premium verzijo, dodajte to domeno v vašem [link]upravljalniku računa[/link]."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "Obnovi zdaj."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Vaša Premium licenca je potekla."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "To domeno lahko dodate v vašem [link]upravljalniku računa[/link]."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Vaša licenca ne dovoljuje več domen. Nadgradite jo v vašem [link]upravljalniku računa[/link]."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Naročite [link]MailPoet Premium [/link] za ogled povezave."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "DKIM podpisa ne morate uporabiti..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "V tem eMailu manjka zadeva ali vsebina"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Napaka pri pošiljanju sporočila <b><i>%s</i></b> na <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Uspešno poslano na <b><i>%s</i></b>"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "Email ID %s ni objavljen."
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Naročnik ni najden: <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "Naročnik <b><i>%s</i></b> ni potrjen"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "Odjavi se"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "ni dostavljeno"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "odklonjeno"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "neodprto"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "odprto"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "kliknjeno"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "odjavljeno"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Današna statistika"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Danes ste poslali %1$s eMailov"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s od katerih je %2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Tukaj je seznam odbitih eMailov."
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Nazdravje, vaš MailPoet novičkarski vtičnik."
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Vsaša dnevna statistika"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Profesionalne eNovičke (by Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "eNovičke (by Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "Uporabniki WordPress-a"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "Uvožen seznam %1$s"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Ta seznam je avtomatično generiran ob uvozu naročnikv iz vtičnika: \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" uvožen iz %1$s"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Seznam obstaja v \"%1$s\" in je bil uvožen avtomatično."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "Na čakanju je še %1$s emailov"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Email bo poslan %1$s ob %2$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Status pošiljanja"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Skupaj v seriji"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Naslednji poiskus čez %s minut"
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Da se izognemo omjitvi s časom smo proces osvežili."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Proces je bil osvežen da se izognemo izgubi povezave."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "eNovičke se že ošiljajo. Vaše najnovejše eNovičke bodo poslane za tem."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Proces pošiljanja se je ustavil zaradi prevelikega števila napak."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Vse nedostavljene emaile smo obdržali v čakalni vrsti, tako da jih boste lahko ponovno poslali kasneje."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Prosimo preverite vaše email nastavitve in se prepričajte, da lahko pošljete testni email."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Če ste v kratkem uspešno poslali veliko emailov, so te napake možne zaradi omejitve na serverju."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Vaš server očitno zavrača nadaljno pošiljanje emailov."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Nabiralnik je poln"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Ko je nabiralnik poln"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Nabiralnik ni na voljo"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Ko nabiralnik ni na voljo"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Sporočilo zakasnjejo"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Ko je sporočilo zakasnjeno"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Trajno neuspešno"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Ko je trajno neuspešno"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Potrebno ukrepanje"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Ko boste morali potrditi, da ste človek, posredujte na:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Blokiraj IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Ko ste označeni kot spammer posredujte odbita sporočila na"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Ko je odboj čuden in nismo prepričani kaj narediti, posredujemo na:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Mapa \"%1$s\" ni zapisliva, prosimo spremenite pravice te mape, da se bo lahko MailPoet pravilno naložil."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Preberi dokumentacijo"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "MySQL uporabnik, ki ste ga nastavili za WordPress stran (wp-config.php) nima dovolj pravic za kreiranje MySQL tabel. Prosimo posodobitetega uporabnika ali kontaktirajte vašega administratorja strani za dokončanje MailPoet namestitve. MySql napaka: (%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Glava"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Noga"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Mapa \"%1$s\" ni zapisliva, prosimo spremenite pravice te mape, da se bo lahko MailPoet pravilno naložil."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Tema z imenom %1$s že obstaja. Če jo želite prepisati, obkljukajte to funkcijo pred začetkom prenosa."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Tema %1$s je bila uspešno nameščena na vašo stran."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Teme nismo uspeli pravilno namestiti. Očitno je format nepravilen."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Tema %1$s je bila izbrisana."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Teme %1$s ni bilo mogoče izbrisati."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "ponedeljek"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "torek"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "sreda"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "četrtek"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "petek"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "sobota"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "nedelja"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "1."
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2."
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3."
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "zadnji"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$s."
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "Mail poet je bil uspešno ponovno naložen z enako verzijo. Nastavitve in podatki so bili izbrisani."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet se ne more namestiti v mapo <em>wp-content/uploads/wysija</em>, ker mora biti ta zapisliva. Spremenite vaše pravice in ponovite namestitev."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet je bil izbrisan. Na vaši strani ni več MailPoet-a."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Posodobitev MailPoet-a na verzijo \"%1$s\" je spodletela!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Naključno besedilo ali navodila"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Email naslov ni veljaven!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Naročnik že obstaja. [link]Kliknite za urejanje[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Oups! Vi ste že naročeni!"
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Oups! Ne moremo vas dodati!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Nov naročnik na %1$s"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Zdravo,\n"
+"\n"
+"Naročnik %1$s se je pravkar prijavil na tvoj seznam '%2$s'\n"
+"\n"
+"Lep pozdrav,\n"
+"\n"
+"MailPoet Vtičnik"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "En naročnik manj na %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Zdravo,\n"
+"\n"
+"Naročnik %1$s se je pravkar odjavil s tvojega seznama '%2$s'\n"
+"\n"
+"Lep pozdrav,\n"
+"\n"
+"MailPoet Vtičnik"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Seznam \"%1$s\" je bil sinhroniziran."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Seznam ne obstaja ali ga ni mogoče sinhronizirati."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Stran ni dosegljiva."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Vaša potrditvena povezava je potekla, prosimo naročite se ponovno."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Naročili ste se na: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Pozdravljeni, dodali smo vas na naš seznam. Kmalu boste od nas dobil novičke."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Ste že naročeni na: %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Ste že naročeni."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Spustite vaš logotip v glavo."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Spustite vašo sliko za nogo tukaj."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Če pustite to olje razno, to ne bo prikazano ko boste poslali email"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Kliknite tukaj za dodajanje naslova ali besedila."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Poravnaj levo"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Poravnaj na sredino"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Poravnaj desno"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Dodaj povezavo / Alternativno besedilo"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Izbriši povezavo"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Izbriši sliko"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Izbriši"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Uredi besedilo"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Odstani besedilo"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Naslovi & besedila"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Horizontalne črte"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Horizontalna črta po meri"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "WordPress prispevki"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Besedilo"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Poglej v brskalniku\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Naslov 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Naslov 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Naslov 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Povezave"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "podčrtano"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Besedilo v nogi"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Ozadje noge"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "eNovičke"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Ozadje"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Ozadje glave"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Seznam socijalnih zaznamkov"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Seznam delilnikov"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Izbrisali boste temo: %1$s. Ali ste prepričani, da si to želite?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Dodaj povezavo & Alternativno besedilo"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Obkljukaj ta kvadratek če si želite transparentnosti"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Vstavite dinamične podatke o vaših naročnikih, novičkah, današnjem datumu, etc..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Možnosti izbora"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Uredi avtomatično zadnjo vsebino"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Dodate lahko le en gradnik, kadar oblikujete obvestilo poslano takoj po objavi članka"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Predogled brez slik"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Naročnik"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Ime"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Priimek"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Email naslov"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "Prikazno ime WordPress uporabnika"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Skupaj naročnikov"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Zadeva eNovičke"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Objavi obvestilo "
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Skupno število objav ali strani"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Naslov zadnje objave"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Številka izdaje"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Datum"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Številka trenutnega dneva v mesecu."
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Trenutni dan v mescu v klasični obliki (npr. 1., 2., 3.,...)."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Polno ime trenutnega dneva"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Številka trenutnega meseca"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Polno ime trenutnega meseca"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Povezava za odjavo"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Uredi povezavo na naročniško stran"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Povezava \"poglej v brskalniku\""
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Polja po meri"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Shranjujem privzet stil..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Privzet stil shranjen."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Nastavljen kot privzet stil."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Vstavite blok tukaj"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Načrtovano"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Potrdite naročnino na %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Zdravo!\n"
+"\n"
+"Super! Naročili ste se na našo stran.\n"
+"Sedaj morate le še aktivirati vašo naročnino na: [lists_to_confirm] s klikom na spodnjo povezavo: \n"
+"\n"
+"[activation_link]Kliknite tukaj za potrditev naročnine.[/activation_link]\n"
+"\n"
+"Hvala in lep pozdrav,\n"
+"\n"
+"Vaša ekipa!\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Problem s branjem sporočila? [link]Poglejte eNovičke v vašem brskalniku.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Da, dodajte me na vaš mailing seznam."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Kdo lahko ustvari eNovičke?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Kdo lahko ureja naročnine?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Kdo laho spreminja MailPoet nastavitve?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Kdo lahko vidi zavihek tem in vizualni urejevalnik?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Kdo lahko vidi zavihek z stili in vizualni urejevalnik?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "prazno"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "Vsebina polja <strong>od emaila</strong>, ki ste jo vnesli, (%1$s), ni vljaven email naslov."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "Vsebina polja <strong>odgovori na</strong>, ki ste jo vnesli, (%1$s), ni vljaven email naslov."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Vaše nastavitve so shranjene."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Namesto tega uporabi `povezava_poglej_si_v_brskalniku`."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Poglej"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Vaše zadnje eNovičke se pošiljajo."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Vaše avtomatične eNovičke so bile aktivrane."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Ime"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Opis"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Omogoči"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Naročanje"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Ni seznama za pošiljanje."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Status"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Ustvarjeno:"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Kliknite tukaj za odjavo."
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Kliknite tukaj in se naročite"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP naslov"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Datum naročila"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Arhivska stran kratkih kod (shortcodes)"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Prilepite to kratko kodo na stran za prikaz zadnjih eNovičk."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Uups, ni novičk za prikaz."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Predogled v novem zavihku"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Ups! Nekaj gre narobe med aktivacijo Mailpoet cron-a."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Ups! Nekaj gre narobe med deaktivacijo Mailpoet cron-a."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Ne pošlji pozneje"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com lahko obišče vašo stran vsakih 15 minut, enako kot \"cron job\", da bi zagotovil, da se elektronska sporočila odpošljejo pravočasno."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Premium uporabniki so obiskani vsakih 5 minut."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "... ali pa [link]nastavi periodično opravilo na svojem serverju[/link]."
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Začenja se čarovnija..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Čakajoč na prvi obisk!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Oglej si podrobnosti."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Onemogoči."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "V nekaj minutah boš tukaj videl/a čas našega zadnjega obiska."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Nastavitev crona na serverju"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Najprej "
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Tukaj je primer ukaza za nastavitev na tvojem serverju:"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "Za druge primere ukazov si oglej [link]ta članek[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "Za boljši nadzor lahko nastaviš eno cron opravilo na rutino"
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Pošiljam"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Ravnanje z odklonjenimi sporočili"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Dnevno"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Tedensko"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Mesečno"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Ne, hvala!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "Ok, nastavljeno"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Čakanje na prvi obisk tvojega cron opravila!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Preveri sedaj."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Tvoje periodično opravilo deluje!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Ups, nekaj ne deluje."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Oglej si navodila za namestitev"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Nazaj na stran \"Nastavitve\""
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Ups! Trenutno se ne moremo povezati z MailPoet serverjem. Mogoče stran ne deluje ali pa si za proxijem ali firewallom."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Zadnji obisk je bil nekaj sekund nazaj."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Zadnji obisk je bil  %1$s minut nazaj."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Zadnji obisk je bil  %1$s minuto nazaj."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Težava! Mapiloet.com ni uspel obiskati tvoje strani, ker:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Si na intranetu. Moral/a boš sam/a nastaviti svoje periodično opravilo."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr "Tvoj .htaccess, firewall ali server blokirajo naš IP (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Namesto tega nastavi [link]isvoje periodično opravilo[/link]."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "Ali prosi za pomoč svojega spletnega skrbnika!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Rutinsko pošiljanje se začne čez:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Rutinsko pošiljanje nedostavljenih sporočil se začne čez:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Dnevno rutinsko pošiljanje se začne čez:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Tedensko rutinsko pošiljanje se začne čez:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Mesečno rutinsko pošiljanje se začne čez:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "ni podatkov"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Aktivirano!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "V čakalni vrsti"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Ni poslano"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Odbita"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Poslan"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Samo odprt"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Odprt in kliknen"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Odprto in Odjavljeno"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Ocenjen"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Najboljše povezave"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Povezave"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Unikatnih klikov"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Klikov skupaj"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Trenutno gledajo"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Poglej naročnike"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Podvoji"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Poslano"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Seznami"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "Od"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Odgovori:"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Odbito"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Naročnik je odprl %1$s od %2$s emailov"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Naročnik je odprl %1$s od %2$s email"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Kliki"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Naprava"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Odprto"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Datum pošiljanja"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Izbriši"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Množična akcija"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Potrdi"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Stran %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "od %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Razdeli naročnike na %1$s strani."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Število naročnikov na eni strani:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Spremeni"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Dodaj"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Vse eNovičke"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Išči eNovičke"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Nazaj"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Ustvari nov email"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "... ali podvoji enega in kopiraj njegov dizajn."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Vse"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Osnutek"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Pavza"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Običajne eNovičke"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Avtomatične eNovičke"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Pokaži vse mesece"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Poglej vse sezname"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filter"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Vse poslane"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "Na čakanju"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Pošiljanje neuspešno"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Ne odprte"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Odprt"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Kliknjeno"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Pri tem delu"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Umakni iz čakalne vrste"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Ustvari nov seznam"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Odjava od vseh seznamov"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Odjavi s seznama: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Izvozi v CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Odprto, kliknjeno, odjavljeno"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Spremenjeno"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Poslano"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Poslano %1$s od %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s od %2$s poslano."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Naročeno da se pošlje čez %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Naročeno da se pošlje %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Predogled"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Statistika"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Naslednič poslano čez %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Naslednič poslano ob %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Dnevno poslano ob %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Tedensko poslano na %1$s ob %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Poslano mesečno na %1$s ob %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Poslano mesečno na %1$s %2$s ob %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "če je nova vsebina"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pavza"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Ni aktivno."
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Ponovno zaženi"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Ni še poslano."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Pošlji takoj."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Pošlji takoj ko se nekdo naroči na seznam %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Pošlji čez %2$s, ko se nekdo naroči na seznam %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "katerakoli vloga"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Pošlji takoj ko je nov uporabnik dodan na vašo stran kot %1$s."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Pošlji čez %2$s, ko se nov uporabnik doda na vašo stran kot %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Pošiljanje na dogodek"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Pošiljanje %1$s naročnikom."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Zadnja skupina emailov bi se mogla začeti pošiljati čez nekaj minut."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Preostali čas: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s emailov planiranih."
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Zadnja skupina je bila poslana pred %1$s."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Ne čakaj, pošlji takoj."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Za obnovitev pošiljanja [link]naročite Premium sedaj![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "poglej povezave z [link]Premium licenco[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Iskanje prejemnikov"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Email status"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Status naročnika"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Kliknjeno na"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Naročeno"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Poglej status ali uredi"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Kakšen tip eNovičk je to?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Avtomatično pošlji."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Zadeva"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "To je zadeva vašega emaila. Bodite kreativni, ker je to prva stvar, ki jo važ naročnik vidi!"
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Oups! Vaš brskalnik morda ni odprt. Pridobit si najnovejši [linkchrome]Chrome[/linkchrom], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] ali [linksafari]Safari[/linksafari]. Se vam zdi, da deluje normalno? [link_ignore]Opusti[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Shrani in ponovno aktiviraj"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Naslednji korak"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Vsebina"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Slike"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Stili"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Teme"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Povlecite spodnje gradnike v vaš email"
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Avtomatična zadnja vsebina"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Socijalni zaznamki"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Dodaj slike"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Dodaj več tem"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Se naša orodna vrstica ne naloži?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konflikt"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Nekje mora biti aktiviran vtičnik ali tema tretjega ponudnika, ki moti naš vmesnik. [link]Read more.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Pošlji predogled"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Shrani spremembe"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "nazaj na Korak 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Če potrdite spremembo teme, bo ta povozila vašo glavo, nogo, delilnike in stile."
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Bodite kreativni! To je prvo kar bojo vaši naročniki videli. Premamite jih, da odprejo vaš emal!"
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Ko..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Seznami naročnikov, ki bodo uporabljeni v tej kamaniji."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Pošiljatel"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Ime & email vas ali vašega podjetja."
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Odgovorite na: ime & email"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Ko naročnik klikne na \"odgovori\", bo ta naslov tisti, ki bo prejel email."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Nastavite urnik"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ignorirajte trenutne naročnike"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Ne pošlji obstoječim naročnikom, samo bodočim."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Shrani kot osnutek in zapri"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "ali [link]pojdite nazaj na urejanje[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Lokalni čas je <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Običajne eNovičke"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Avtomatične eNovice"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Dodano"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Naslov:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Alternativno besedilo:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "To besedilo je prikazano ko eMail klient blokira prikaz slik, kar se zgodi v večini primerov."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Naloži temo (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Vodič[/link] za kreiranje vaše lastne teme."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Brezplačno"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "največja dovoljena velikost datoteke: %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Če obstaja tema z istim imenom, jo prepiši."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Iskanje"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Vstavi izbrano"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Kateri povzetek se uporablja? [link] Preberi več[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Prikaži..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "povztek"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "celotna objava"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "Samo naslov"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Format naslova"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "Naslov 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "Naslov 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "Naslov 2"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "pokaži kot seznam"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Pozicija naslova"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "v besedilnem bloku"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "nad besedilnim blokom in sliko"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Poravnava naslova"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "levo"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "sredina"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "desno"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Poravnava slike"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "Izmenično levo & desno"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "brez slike"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Širina slike"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Vključi avtorja"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "ne"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "nad vsebino"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "pod vsebino"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Pred:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Vključi kategorije"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "besedilo \"Preberi več\" "
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Barva ozadja"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Možnosti množične vstavitve"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Razvrsti po"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "najnovejše"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "najstarejše"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Pokaži delilnik"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "da"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Barva ozadja s spremenljivko"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Končano"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Izberite vrsto objave"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Maksimalno število objav za prikaz"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "In tudi taksonomije..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Izberi..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Velikost"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "majhno"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "srednje"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr " Spletni brskalnik na vaši napravi ne more biti uporabljen za nalaganje datotek. Morda lahko uporabljate <a href=\"http://wordpress.org/extend/mobile/\">domačo aplikacijo za vašo napravo</a> namesto tega."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Oprostite, vaš prostor je prenapolnjen (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Dovoljene datoteke"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Spustite datoteke tukaj"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "ali"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "izberite datoteke"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Največja dovoljena velikost datoteke: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Vaš brskalnika ima nekaj omejitev pri nalaganju večjih datotek z \"nalagateljem več datotek\". Prosimo uporabite brskalnikov nalagalnik za datoteke večje od 100MB."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Prosimo posodobite vaš Wordpress na zadjo verzijo, če želite da dobite najnovejši sistem za nalaganje datotek."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Izberite datoteke za nalaganje."
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Prekliči nalaganje"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Največja velikost datoteke za nalaganje: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Če želite izkoristite vse zmožnosti nalagalnika, kot je nalaganje več datotek na enkrat, potem ga prosimo nadgradite na lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Ta zavihek bo napolnjej z slikami iz vašega trenutnega in prejšnjih eNovičk."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Ta zavihek bo zapolnjen z slikami iz WordPress Objave."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Dobrodošl v %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Hvala! Pojdi na MailPoet."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "MailPoet uporabljaš že od %s."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Uau! Hvala, ker si že tako dolgo pripadaš naši skupnosti."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Nadgradili ste se! Kot bi imeli novo igračko, samo še bolje."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Hitro vprašanje..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Naročite se na nape eNovičke"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Ohranite osnovnejše strani pri vtičniku brezplačne"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Imate radi mucke?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "Mi ljubimo zvezde..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Vsakič, ko eden izmed naših uporabnikov pozabi napisati oceno, mucka umre. Res žalostno, srce se nam para. [link]Napišite svojo oceno[/link] in rešite mucko danes."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Sledite nam in ne zgrešite ničesar!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Skrij!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Zgodovina sprememb"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Posodobili ste se na %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Živjo! Imamo kratko vprašanje za vas:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Če potrdite, bo vsi vaši MailPoet podatki izbrisani (eNovičke, teme, statistika, seznami, naročniki, itd)."
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Potrdi ponovno namestitev"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Ta funkcija ne more delovati ker je funkcija \"komentarji\" v vtičniku JetPack omogočena."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Registracija je onemogočena na tej strani."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Naročniki lahko izbirajo med naslednjimi seznami:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Nastavil bom kronsko opravil ona mojem strežniku, za izvajanje tako pogosto kakor hočem. Preberi o [link]nastavitvah kako nastaviti kronsko opravilo sam[link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Uporabi ta URL v Cron opravilu: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Ne hvala! Imam dovolj obiskovalcev na moji strani. Njihovi obiski bodo sprožili MailPoetov Cron samodejno."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Sem Premium uporabnik, MailPoet.com bo poskrbel da so moji emaili poslani ob pravem času."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Če želim lahko [link]ustvarim dodatno Cron opravilo[/link] na koncu da poveč frekcenco pošiljanja."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Če želite lahko [link]ustvarim dodatno Cron opravilo[/link] na koncu, da povečam frekvenco."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Nastavite vaš DNS z dodajanjem ključa/vrednosti v TXT zapis kot je prikazano spodaj."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Preberi več"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Ključ"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Vrednost"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Uporabljate starejši DKIM ključ, katerega Gmail ne podpira"
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Če ste posodobili boste morali spremeniti tudi vaš DNS."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Posodobite DKIM ključ"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domena"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Vloge in dovoljenja"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Poglej vse"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Ko se nekdo vpiše"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Ko se nekdo izpiše"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Dnevno poročilo poslanih emailov"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Ne"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Da"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Osnovno"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Obrazci"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Potrditev naročila"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Za pošiljanje uporabi..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Napredno"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Dodatki"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Shrani nastavitve"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Naslov vašega podjetja"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "To besedilo bo prikazano v nogi vašega emaila in bo pomagalo pri filtrih vsiljene pošte."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "Email obvestila"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Vpišite eMail naslove, ki bodo prejemali obvestila (ločeno z vejico)"
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Pošiljatel obvestila"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Izberite ime in email naslov, ki bo prikazan kot pošiljatel eNovičk."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Naroči se v komentarjih"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Obiskovalci, ki komentirajo vašo objavo lahko kliknejo na kvadratek \"naroči se\"."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Naroči se pri registraciji"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Dovoli uporabnikom, ki se registrirajo, da se naročijo na eNovičke."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Povezava do verzije brskalnika"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Prikaže se na vrhu vaši eNovičk. Ne pozabite vključiti ozake povezave, npr.: [link]The link[link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Besedilo povezave na \"Odjavi se\""
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "To spremeni napis na povezavi za odjavljanje v nogi vaših eNovičk."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Stran za odjavljanje z eNovičk"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Naročnik je preusmerjen na stran po vaši izbiri, po tem ko klikne na povezavo za odjavo na dnu eNovičk."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Omogoči potrditev naročila"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Prepreči, da bi se ljudje naročili na vaše eNovičke nevede. Tako ohranjate vaše prave naročnike."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Nauči se več."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "Zadeva emaila"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "Vsebina emaila"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Ne pozabite vključiti: <br><br>[activation_link]Potrdite vašo naročnino.[/activation_link]. <br><br>Opcijsko: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Potrditvena stran"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Ko naročnik klikne na povezavo za aktivacijo, so preusmerjeni na stran po vaši izbiri."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Omrežna metoda"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Metoda, ki jo izbere vaš omrežni administrator."
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Ni nastavljeno!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Vaša spletna stran"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Najenostavnejša rešitev za majhne sezname. Vaš spletni gostitelj nastavi omejitev pošiljanja emailov."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Tretja oseba"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Poslano s profesionalnim SMTP ponudnikom je odlična izbira za majhne in velke sezname. Za vas smo se izpogajali za promocijske ponudbe z nekaterimi ponudniki."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Metoda dostave"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Pošljite si nekaj testnih emailov, da boste videli če ta metoda dobro deluje z vašim serverjom."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Ta eMail storitev deluje na 95&#37; serverjev"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Ta medota deluje na 5&#37; serverjev"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "lokacija Sendmail-a"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Uporabite enako metodo, kot je tista, ki ste jo uporabili na vaši WP strani."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP gostitelj"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "npr.: smtp.mydomain.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Uporabnik"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Geslo"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktivirajte če so vaša SMTP vrata blokirana."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP vrata"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Varna povezava"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Avtentifikacija"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Pustite to možnost vklopljeno. Samo majhen del SMTP ponudnikov zahteva da je Avtentifikacija izklopljena."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Testiraj metodo"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Pošlji testni eMail"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Pošlji..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Vaš spletni gostitelj ima omejitev. Priporočamo 70 emailov na uro. [link]Preberite več o tem[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "emaili"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "To je hitro!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Predlagamo da nastavite Cron opravilo. [link]Preberite več[/link] na support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "Ključ API"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Lahko spremenite privzet email in ime za odgovor na vaše eNovičke. Ta možnost je tudi uporabljena pri aktivacijskih emailih in administratorskih obvestilih (v Osnovno)."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Odbiti emaili"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Na kateri eMail naslov naj se preusmeri vsa odbita pošta? Naročite [link]Premium verzijo[/link] za avtomatično ravnanje z njimi."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Kupite Premium verzijo."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Naročniki lahko urejajo svoj profil."
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Dodaj povezavo v nogo vseh eNovičk, da bojo lahko naročniki urejali njihov profil in sezname. [link]Poglejte vašo stran za urejanje rofila.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Predogled strani"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Stran za urejanje naročniškega profila"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Izberi stran, ki bo prikazovala naročnikov profil."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Dovoljite HTML urejanje"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "To dovoli urejanje HTML vsebine v blokih z besedilom z vizualnim urejevalnikom."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Delite anonimne podatke."
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Delite anonimne podatke in pomagajte izboljšati vtičnik. [link]Preberi več[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "ostalo"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "umetnost"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "poslovno"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "izobraževanje"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "spletna trgovina"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "prehrana"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "zavarovanje"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "državno"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "zdravje in šport"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "proizvodnja"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "oglaševanje in mediji"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "ne profitna"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotografija"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "potovanje"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "nepremičnine"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "vera"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "tehnologija"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "industrija"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Izberite svojo industrijo."
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Kratka koda za prikaz števila vseh naročnikov"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Prilepite to kodo za prikaz števila naročnikov na vaši strani."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Nabor znakov"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Kvadrati ali čudni znaki se prikazujejo na vaših emailih? Spremenite kodiranje znakov za vaš jezik."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Omogoči MailPoet-ov Cron"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Nobeden od vaših emailov v čakalni vrsti ni bil poslan? Potem aktivirajte to možnost"
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Način za iskanje napak"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Omogoči to za prikaz napak v MailPoetu. Naši člani podporne ekipe bodo od vas zahtevali vklopitev te možnosti, če boste iskali pomoč."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Naredi ali ne naredi. Ni vmesne poti."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Geeky nastavitve - napredne"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Totalno geeky nastavitve"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Skrij"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Pokaži"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Ponovno inštaliraj od začetka"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Si želite začeti od začetka? To bo izbrisalo celoten MailPoet in ga naložilo ponovno."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Ponovna namestitev..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Želite izbrati vaše splošne nastavitve?"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Ene nastavitve za vse strani"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Vsili vsem stranem, da pošiljajo z unikatmim email naslovom. Samo enkrat je potrebno nastaviti Avtomatično ravnanje z odbito pošto (Premium), SPF in DKIM."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Uporabniki lahko še vedno spremeni naslov za odgovor na njihove eNovičke. Mrežni administrator lahko še vedno ureja metode pošiljanja za vsako stran."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Nastavite vsako stran posebej"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Nastavi SPF in DKIM samostojno za vsako stran."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Nastavitve in dovoljenja"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Dovolite administratorjem strani da spreminjajo metodo pošiljanja"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Dovolite administratorjem strani da deaktivirajo Potrdilo naročnine"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Privzeta mrežna metoda pošiljanja"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF in DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Vaš SPF zapis"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "OD email naslov za vse strani, ki uporabljajo to metodo"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Ustvari nov obrazec"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Seznam ni določen"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Uporabnikova izbira : %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Uredi obrezec"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Ups! Za urejanje tega obrazca potrebujete vsaj 1 seznam."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Dodaj seznam"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Uredi ime"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Seznam obrazcev"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Ta obrazec doda naročnika na naslednji sezanm:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Izberite seznam"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Po naročitvi..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "pokaži sporočilo"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "pojdi na stran"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Ta obrazec lahko enostavno dodate v [link]gradnikih[/link] vaše teme."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] in  [link_shortcode]shortcode[/link_shortcode] verzije so tudi na voljo."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Vnos teksta"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Območje teksta"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Izbirna polja"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Potrditveno polje"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "izberite"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Izberite tip polja:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Ime polja:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Avtomatično dodaj odstavke"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Število vrstic:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Izberi seznam na katerega želite dodati:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Leto, mesec, dan"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Leto, mesec"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Mesec (januar, februar, ...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Tip datuma:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Dodaj predmet"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Nalepka:"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Prikaži nalepko v vpisnem oknom:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Vrstni red:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Izberi današnji datum:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Je to polje obvezno?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Samo številke"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Samo črke"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Alfanumerično"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Telefonska številka, (+,-,#,(,) in presledki dovoljeni)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Potrdi za:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Ničesar"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Sladka izkušnja naše Premium podpore"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Vsa vaša statistika na eni strani"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Poglej celoten zajem zaslona"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Zabavajte se pri izboljševanju"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Poglejte svoje najboljše eNovice, najaktivnejše naročnike, najboljše povezave, sezname in domene na eni strani. Se lahko s tem izboljšajo vaše eNovice?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Povečajte število naročnikov"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Ali moj obrazec za naročanje v stranski vrstici dobili več naročnikov, kot tisti v nogi? To je čas, da ugotovite."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Primerjaj sedanjost in preteklost"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Ali vam gre bolje kot pred 3 meseci? Izberite so časovni okvir in poglejte vaš napredek."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Dosežite naročnikovo mapo 'prejeto'"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Pridobite vaš 'spam' rezultat v enem kliku med tem ko oblikujete vaše eNovičke. Z našim [link]mail testerjem[link], hišnim orodjem, je to zelo enostavno."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Spam filter obožuje DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Dodajte DKIM podpis v vaše eNovičke za povečanje učinkovitosti vaši eNovičk. [link]Preberite vodič za namestitev[link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Prepusti nam nastavitve"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Naša mednarodna in prijazna ekipa vam pomaga optimizirati vaše nastavitve do najmanjših podrobnosti in vam pomaga, da ste na red za pošiljanje. V povprečju odgovarjamo hitreje kot v desetih urah. Zelo hitro."
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Avtomatizirajte dolgočasne strani"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Pustite, da MailPoet sam odstrani <strong>odbite in neveljavne naslove<strong> avtomatično. [link]Poglej vodič[/link]."
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Še več, MailPoet vsakih 15 min preverja vašo strani, da se prepriča, da so vaše novičke poslane pravočasno. Brez dodatnih nastavitev!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 dni garancije! Vrnemo denar!"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Odličen način, da preiskusite Premium podporo. "
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Muca je tu zgolj za to, da zapolni prazen prostor. Izgleda lačna kajne? Obožujemo muce!"
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Nič več omejitve pri 2000 naročnikih"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Brezplačna verzija vam omejuje pošiljanje vaih eNovičk več kot 2000 potrjenim naročnikom. Premium verzija to dopušča. "
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "In še več..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Poglejte kaj se zgodi ko vaš naročnik pride na vašo stran, hvala Google Analyticsu campaign tracking"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Podrobna statistika za vsakega naročnika"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Statistika kliknjenih povezav za vsako eNovičko"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Bloger"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Freelancer"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Agencija"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "na leto"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Ena stran"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Štiri strani"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Neomejeno št. strani"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Multisite Ready."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Kupite zdaj"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Ste že kupili?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Imate vprašanje? [link]Kontaktirajte nas[link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Sledite vsemu z več statistike"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Iščete odogovre? Zakaj so določene kampanije delale dobro? Kateri način je najbolj učinkovit za pridobivanje naročnikov. Pridobite si popolen pogled z našo povsem novo statistično ploščo. [link]Pridobite si staristično ploščo v Premium verziji[/link]."
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Avtomatično očistite vašo mailing seznam"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Pošiljajte kot profesionalci in ohranite visok ogled vašega strežnika. Hvala našemu naprednemu orodju za čiščenje, se končno lahko izognete pošiljanju starim ali neveljavnim eMail naslovom. [link]Izboljšajte vaše sezname z Premium verzijo[/link]."
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Pošiljajte v hitrejšem intervalu"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Ste vedeli? Boljše je pošiljati mahjno število ePošte v hitrejših intervalih. Postanite naročnik Premium verzije in mi bomo poskrbeli, da bo vaša stran vsakih 15min pošiljala ePošto. [link]Pošiljajte boljše z Premium verzijo[/link]."
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Pozabite na omejitve"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Odstranite mejo 2000 naročnikov brezplačne verzije in pošljite kolikor naročnikom želite. [link]Znebite se omejitve[/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Raziščite vaše najboljše naročnike"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Raziščite katere povezave so najboljše v vsaki eNovički. Ugotovite kateri naročniki so vaši največji oboževalci in si pridobite še več podrobnosti o njih. [link]Pridobite več podatkov z Premium verzijo[/link]."
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Dobite hitro podporo"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Preskočite čakalno vrsto in pridite v našo prioritetni seznam. [link]Pridobite hitro podporo z Premium verzijo[/link]."
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Dobite več tem"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Niste dobolj dobri pri izbiranju barv? Ne skrbite, mi delamo z najboljšimi oblikovalci, ki vas zalagajo z velikim številom tem, ki so samo za Premium uporabnike. [link]Dobite več tem s Premium verzijo[/link]."
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Sledite vašim bralcom z Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Poglejte kaj vaši naročniki naredijo, ko se povežejo na vašo stran in še izboljšajte vaš obisk. [link]Sledite svojim bralcem z GA v Premium verziji[/link]."
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 dni sreče garantiramo"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Še vedno imate dvome o našem prodkutu in ekipi devetih? Brez problema, smo dovolj samozavestni, da vam ponudimo 30 dnevno preizkusno dobo. Še ne boste zadovoljni, vam takoj vrnemo denar. [link]Postanite Premium uporabniki brez tveganja[/link]."
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Bodite produktivni zahvaljujoč Premium verziji."
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Na voljo imamo 3 različne verzije, da ustrežemo vašim potrebam."
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Za %s na leto, opremite 1 stran s Premium verzijo."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Kupite jo zdaj!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Freelancer"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Za %s na leto, opremite 4 strani s Premium verzijo."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Za %s na leto, opremite vse vaše strani s Premium verzijo."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Preberite naša preprosta in enostavna [link]pogoje uporabe[/link]."
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Statistični podatki"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Za"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Ali imate odziv na statistiki? [link]Kontaktirajte nas[link] direktno in nam to povejte."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Seznami in naročniki"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Iskanje naročnikov"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Nazaj na sezname"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Uredi seznam"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Uvozi"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Izvozi"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Nerazvrščen"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Nikoli odprto ali kliknjeno"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Izbrišem tega naročnika za vedno?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Izbrišem te naročnike za vedno?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Premakni na seznam"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Dodaj na seznam"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Izbriši iz seznama"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Izbriši iz vseh seznamov"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Izbriši naročnike"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Potrdi nepotrjene naročnike"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Ponovno pošlji potrditveni eMail"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Poglej vse sezname"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Naročniki, ki niso na nobenem seznamu"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Nazadnje odprto"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Nazadnje kliknjeno"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Vsi naročniki na tej strani so izbrani"
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Izberi vseh %1$s naročnikov."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Vseh %1$s naročnikov je izbranih."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Počisti izbor"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Seznam na katerega se je naročnik naročil."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Izberi iz seznama"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Format"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV datoteka"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel za Windows"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Izvozi samo potrjene naročnike"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Seznam polj za izvoz"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Odjavljen %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Opomba: Izvedite kaj je ta naročnik odprl in kliknil z [link]Premium verzijo.[/link]"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Ustvarjen"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Posodobljen"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Dobi vse MS uporabnike"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Za vašo uporabo in nikoli pokazano vašim naročnikom."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Posodobi seznam"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Dodaj seznam"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Kako želite uvoziti?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Kopiraj/prilepi v besedilno okno"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Naložite datoteko"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Uvozi iz %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Potem prilepite svoj seznam tukaj"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "To mora biti v CSV stilu ali preprosto prilepite iz Gmaila, Hotmaila, ali Yahoo-ja. Poglej [link]primere na naši podporni strani[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "To mora biti v CSV formatu. Poglej [link]primer na naši podporni strani[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "So te naročniki želeli biti na vaši naročniški listi?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Če je odgovor \"ne\", potem ste spamer!"
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Preberite več na support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Ujemanje podatkov"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Ignoriraj stoplec..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "uvozi kot \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "uvozi \"%1$s\" kot datumsko polje"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Preveri, da se datum v modrem ujema z originalnim."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "EN označite kot 'podatkovno območje' , če večina vrstic za ta stolpec vrača enako napako."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Napaka ujemajočega datuma."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Izberite en ali več seznamov"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Izberite sezname, na katere želite uvoziti naročnike."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Nov seznam"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Napišite ime vašega novega seznama"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Opomba:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "naročniki bodo prejeli \"%1$s \" po uvozu."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Uvoz %1$s  naročnikov iz vtičnika: %2$s "
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Vstavite iz"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Vaši seznami"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "Naroči se na MailPoet"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Obrazec za naročilo na vaše eNovičke."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Preverite vašo dohodno pošto za potrditev naročnine."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Uspešno ste se naročili."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Naslov:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Za naročilo naših dandy novičk preprosti vpišite vaš email spodaj. Potrditveni email vam bo poslan!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Naj naročnik izbere seznam:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Vprašaj po:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Prikaži nalepke v vpisnih oknih"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Nalepka gumba:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Sporočilo ob uspešnem vpisu:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe verzija"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Izberi obrazec:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet eNovičke"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "Ustvari in pošlji bilten ali samodejne emaile. Pridobi naročnike z vtičnikom. Uvozin in urejaj svoje liste. MailPoet je prisrčen vtičnik vzdrževan in podprt z ljubeznijo s strani <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">številne ekipe</a>."
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
