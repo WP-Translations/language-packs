@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoilWP Boilerplate Generator\n"
+"Report-Msgid-Bugs-To: https://github.com/seb86/WordPress-Plugin-Boilerplate/issues\n"
+"Last-Translator: Franck\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/boilwp-boilerplate-generator/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-04-22 18:28+0100\n"
+"PO-Revision-Date: 2017-11-03 11:41:17\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/boilerplate-generator-form.php:18
+msgid "Description of the plugin goes here."
+msgstr "La description de l'extension plugin va ici."
+
+#: includes/boilerplate-generator-form.php:163
+msgid "Invalid plugin size. Please go back and try again."
+msgstr "Taille de l'extension non valide. Merci de revenir en arrière et essayer à nouveau."
+
+#: includes/boilerplate-generator-form.php:167
+msgid "Invalid boilerplate type. Please go back and try again."
+msgstr "Type de boilerplate non valide. Merci de revenir en arrière et essayer à nouveau."
+
+#: includes/boilerplate-generator-form.php:242
+msgid "What type of WordPress plugin do you wish to develop?"
+msgstr "Quel type d'extension WordPress voulez-vous développer&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:244
+msgid "Custom WordPress Plugin"
+msgstr "Extension WordPress personnalisée"
+
+#: includes/boilerplate-generator-form.php:247
+msgid "WooCommerce Extension"
+msgstr "Extension WooCommerce"
+
+#: includes/boilerplate-generator-form.php:250
+msgid "WooCommerce Payment Gateway"
+msgstr "Passerelle de paiement WooCommerce"
+
+#: includes/boilerplate-generator-form.php:255
+msgid "What is the size of your plugin development?"
+msgstr "Quelle est la taille du développement de votre extensions&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:257
+msgid "Standard (e.g. WooCommerce, Easy Digital Downloads)"
+msgstr "Standard (par exemple WooCommerce, Easy Digital Downloads)"
+
+#: includes/boilerplate-generator-form.php:260
+msgid "Small (e.g. Widgets, Shortcodes, Custom Post Type)"
+msgstr "Petit (par exemple Widgets, Shortcodes, Type de contenu personnalisé)"
+
+#: includes/boilerplate-generator-form.php:265
+#: includes/boilerplate-generator-form.php:389
+#: includes/boilerplate-generator-form.php:395
+msgid "Plugin Name"
+msgstr "Nom de l'extension"
+
+#: includes/boilerplate-generator-form.php:266
+msgid "Enter the name of the plugin"
+msgstr "Entrer le nom de l'extension"
+
+#: includes/boilerplate-generator-form.php:270
+msgid "Plugin Description"
+msgstr "Description de l'extension"
+
+#: includes/boilerplate-generator-form.php:271
+msgid "Enter a description of the plugin"
+msgstr "Entrer la description de l'extension"
+
+#: includes/boilerplate-generator-form.php:275
+msgid "Plugin URI"
+msgstr "URI de l'extension"
+
+#: includes/boilerplate-generator-form.php:276
+msgid "Enter the URI of the plugin"
+msgstr "Entrer l'URI de l'extension"
+
+#: includes/boilerplate-generator-form.php:280
+msgid "Plugin Slug"
+msgstr "Identifiant de l'extension"
+
+#: includes/boilerplate-generator-form.php:281
+msgid "Enter the plugin slug"
+msgstr "Entrer l'identifiant de l'extension"
+
+#: includes/boilerplate-generator-form.php:282
+msgid "Example \"my-plugin-is-awesome\""
+msgstr "Exemple \"mon-extension-est-super\""
+
+#: includes/boilerplate-generator-form.php:286
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/boilerplate-generator-form.php:287
+msgid "Enter the name of the author"
+msgstr "Entrer le nom de l'auteur"
+
+#: includes/boilerplate-generator-form.php:291
+msgid "Author URI"
+msgstr "URI de l'auteur"
+
+#: includes/boilerplate-generator-form.php:292
+msgid "Enter the URI of the author"
+msgstr "Entrer l'URI de l'auteur"
+
+#: includes/boilerplate-generator-form.php:296
+msgid "Network?"
+msgstr "Réseau&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:297
+msgid "False"
+msgstr "Faux"
+
+#: includes/boilerplate-generator-form.php:298
+msgid "True"
+msgstr "Vrai"
+
+#: includes/boilerplate-generator-form.php:302
+msgid "View Advanced Options"
+msgstr "Afficher les options avancées"
+
+#: includes/boilerplate-generator-form.php:306
+msgid "GitHub Plugin URI"
+msgstr "URI GitHub de l'extension"
+
+#: includes/boilerplate-generator-form.php:307
+msgid "Enter the GitHub repository this plugin will be stored at"
+msgstr "Entrer l'URI du dépôt GitHub où cette extension sera stockée"
+
+#: includes/boilerplate-generator-form.php:311
+msgid "Will this plugin be supporting the GitHub updater?"
+msgstr "Est-ce que cette extension prendra en charge la mise à jour GitHub&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:313
+#: includes/boilerplate-generator-form.php:330
+#: includes/boilerplate-generator-form.php:336
+msgid "No"
+msgstr "Non"
+
+#: includes/boilerplate-generator-form.php:314
+#: includes/boilerplate-generator-form.php:329
+#: includes/boilerplate-generator-form.php:335
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/boilerplate-generator-form.php:316
+msgid "How do I support the GitHub updater?"
+msgstr "Comment dois-je prendre en charge la mise à jour GitHub&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:320
+msgid "GitHub Branch"
+msgstr "Branche GitHub"
+
+#: includes/boilerplate-generator-form.php:321
+msgid "Master"
+msgstr "Master"
+
+#: includes/boilerplate-generator-form.php:322
+msgid "Other"
+msgstr "Autre"
+
+#: includes/boilerplate-generator-form.php:324
+msgid "If other, specify the branch that the GitHub updater plugin will be checking."
+msgstr "Si autre, précisez la branche que la mise à jour GitHub de l'extension devra vérifier."
+
+#: includes/boilerplate-generator-form.php:328
+msgid "Will this plugin be published on WordPress.org?"
+msgstr "Est-ce que cette extension sera publiée sur WordPress.org&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:334
+msgid "Will you be using Transifex?"
+msgstr "Utiliserez-vous Transifex&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:340
+msgid "Transifex Project Name"
+msgstr "Nom du projet sur Transifex"
+
+#: includes/boilerplate-generator-form.php:342
+msgid "Enter the name of your Transifex project. e.g. wordpress-plugin-boilerplate"
+msgstr "Entrer le nom de votre projet Transifex par exemple wordpress-plugin-boilerplate"
+
+#: includes/boilerplate-generator-form.php:346
+msgid "Transifex Resources Slug"
+msgstr "Identifiant de la ressource sur Transifex "
+
+#: includes/boilerplate-generator-form.php:348
+msgid "Enter the name of your Transifex resources slug. e.g. wordpress-plugin-boilerplate"
+msgstr "Entrer le nom de l'identifiant de votre ressource Transifex par exemple wordpress-plugin-boilerplate"
+
+#: includes/boilerplate-generator-form.php:352
+msgid "Minimum WordPress Version Required"
+msgstr "Version minimum de WordPress requise"
+
+#: includes/boilerplate-generator-form.php:354
+msgid "Leave empty to use the latest stable version."
+msgstr "Laisser vide pour utiliser la dernière version stable."
+
+#: includes/boilerplate-generator-form.php:358
+msgid "Memory Limit"
+msgstr "Limite de mémoire"
+
+#: includes/boilerplate-generator-form.php:360
+msgid "Set the amount of memory the plugin requires for it to function. Default is 320 (320 = 32MB)"
+msgstr "Fixer la quantité de mémoire nécessaire au fonctionnement de l'extension. Par défaut c'est 320 (320 = 32 Mo)"
+
+#: includes/boilerplate-generator-form.php:364
+msgid "Plugin Market URI"
+msgstr "URI de commercialisation de l'extension"
+
+#: includes/boilerplate-generator-form.php:366
+msgid "Enter the url to where you are marketing this plugin."
+msgstr "Entrez l'url de l'endroit où vous commercialisez cette extension."
+
+#: includes/boilerplate-generator-form.php:370
+msgid "Documentation URI"
+msgstr "URI de la documentation"
+
+#: includes/boilerplate-generator-form.php:372
+msgid "Enter the url to where the documentation for this plugin is located."
+msgstr "Entrer l'url où se trouve la documentation de cette extension."
+
+#: includes/boilerplate-generator-form.php:376
+msgid "WordPress Plugin URI"
+msgstr "URI de l'extension WordPress"
+
+#: includes/boilerplate-generator-form.php:378
+msgid "Replace \"your-plugin-name\" with the name of the plugin slug given for your wordpress repository."
+msgstr "Remplacer \"nom-de-votre-extension\" avec le nom de l'identifiant de l'extension fourni pour votre dépôt WordPress."
+
+#: includes/boilerplate-generator-form.php:382
+msgid "WordPress Support Plugin URI"
+msgstr "URI du support WordPress de l'extension"
+
+#: includes/boilerplate-generator-form.php:384
+msgid "Replace \"plugin-name\" with the name of the plugin slug given for your wordpress repository."
+msgstr "Remplacer \"nom-extension\" avec le nom de l'identifiant de l'extension fourni pour votre dépôt WordPress."
+
+#: includes/boilerplate-generator-form.php:388
+msgid "Menu Name"
+msgstr "Nom du menu"
+
+#: includes/boilerplate-generator-form.php:390
+msgid "Enter the name of your plugin menu within the admin. If left empty, by default it will be the name of the plugin above."
+msgstr "Entrer le nom du menu de votre extension à l'intérieur de l'admin. Si c'est laissé vide, par défaut, ce sera le nom de l'extension ci-dessus."
+
+#: includes/boilerplate-generator-form.php:394
+msgid "Title Name"
+msgstr "Nom du titre"
+
+#: includes/boilerplate-generator-form.php:396
+msgid "Enter the title of your plugin pages within the admin. If left empty, by default it will be the name of the plugin above."
+msgstr "Entrer le titre des pages de votre extension à l'intérieur de l'admin. Si c'est laissé vide, par défaut, ce sera le nom de l'extension ci-dessus."
+
+#: includes/boilerplate-generator-form.php:400
+msgid "What level must the user have to control the plugin?"
+msgstr "Quel niveau doit avoir l'utilisateur pour contrôler l'extension&nbsp;?"
+
+#: includes/boilerplate-generator-form.php:402
+msgid "Enter the user level that is required for the plugin to be controlled."
+msgstr "Entrer le niveau utilisateur requis pour contrôler l'extension."
+
+#: includes/boilerplate-generator-form.php:402
+msgid "See Roles and Capabilities</a> for more info."
+msgstr "Afficher les rôles et capacités</a> pour plus d'infos."
+
+#: includes/boilerplate-generator-form.php:406
+msgid "Generate Plugin"
+msgstr "Générer l'extension"
+
+#: just-generate.php:93
+#: just-generate.php:105
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on essaye de tricher ?"
