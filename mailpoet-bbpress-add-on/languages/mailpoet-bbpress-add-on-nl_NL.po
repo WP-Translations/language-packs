@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet bbPress Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Thom\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/mailpoet-bbpress-add-on/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-28 16:37+0100\n"
+"PO-Revision-Date: 2017-11-03 11:51:02\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-bbpress-addon-admin-profile.php:39
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: includes/admin/class-mailpoet-bbpress-addon-admin-profile.php:42
+msgid "Subscribe to MailPoet"
+msgstr "Abonneren op MailPoet"
+
+#: includes/admin/class-mailpoet-bbpress-addon-admin-profile.php:43
+msgid "If checked, you are subscribed to the newsletters provided by this site."
+msgstr "Indien aangevinkt, ben je geabonneerd op de aangeboden nieuwsbrieven van deze site."
+
+#: includes/admin/class-mailpoet-bbpress-addon-install.php:125
+msgid "What's new:"
+msgstr "Wat is er nieuw:"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:33
+msgid "MailPoet Integration"
+msgstr "MailPoet-integratie"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:58
+msgid "Enable checkbox on Registration."
+msgstr "Aanvinkvakje bij registratie inschakelen."
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:65
+msgid "Checkbox label text"
+msgstr "Labeltekst aanvinkvakje"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:72
+msgid "Pre-check the checkbox?"
+msgstr "Aanvinkvakje aanvinken?"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:79
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:158
+msgid "Lists"
+msgstr "Lijsten"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:108
+msgid "Yes, please subscribe me to your newsletters."
+msgstr "Ja, abonneer mij alsjeblieft op je nieuwsbrieven."
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:112
+msgid "HTML tags like <code>&lt;strong&gt;</code> and <code>&lt;em&gt;</code> are allowed in the label text."
+msgstr "HTML-tags als <code>&lt;strong&gt;</code> en <code>&lt;em&gt;</code> zijn toegestaan in de labeltekst."
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:127
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:130
+msgid "No"
+msgstr "Nee"
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:149
+msgid "Here you can assign the customer to the lists you enable when they subscribe. Simply tick the lists you want your customers to subscribe to and press \"Save Changes\"."
+msgstr "Hier kun je de klanten toewijzen aan de lijsten die je inschakelt wanneer zij zich abonneren. Vink eenvoudig de lijsten aan waar klanten zich op kunnen abonneren en klik op \"Wijzigingen opslaan\"."
+
+#: includes/admin/mailpoet-bbpress-addon-admin-functions.php:157
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/mailpoet-bbpress-addon-functions.php:20
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Ja, schrijf mij a.u.b. in voor uw nieuwsbrief."
+
+#: mailpoet-bbpress-addon.php:150
+msgid "Settings"
+msgstr "Instellingen"
+
+#: mailpoet-bbpress-addon.php:171
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: mailpoet-bbpress-addon.php:244
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Sorry, <strong>%s</strong> vereist WordPress"
+
+#: mailpoet-bbpress-addon.php:255
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires bbPress for this plugin to work. Please install and activate <strong><a href=\"%s\">bbPress</a></strong> first."
+msgstr "Sorry, <strong>%s</strong> vereist bbPress voor deze plugin om te werken. Installeer en activeer alsjeblieft <strong><a href=\"%s\">bbPress</a></strong> eerst."
+
+#: mailpoet-bbpress-addon.php:266
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Sorry, <strong>%s</strong> vereist MailPoet Newsletters voor deze plugin om te werken. Installeer en activeer alsjeblieft <strong><a href=\"%s\">MailPoet Newsletters</a></strong> eerst."
