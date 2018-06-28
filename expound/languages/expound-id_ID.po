@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Expound\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/expound\n"
+"Last-Translator: idoet <idoet@protonmail.ch>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/expound/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-04 21:42:13+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:48:36\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman tersebut tidak ditemukan."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tidak ada yang ditemukan di lokasi ini. Mungkin Anda bisa mencoba salah satu link di bawah ini atau melakukan pencarian?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Kategori Paling Banyak Digunakan"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Coba cari di arsip bulanan. %1$s"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentar pada &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar terdahulu"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Komentar lebih baru &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentar ditutup"
+
+#: content-page.php:18
+#: content-single.php:20
+#: image.php:94
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: featured-content.php:19
+#: featured-content.php:50
+#: related-content.php:22
+msgid "Permalink to %s"
+msgstr "Permalink ke %s"
+
+#: featured-content.php:24
+msgid "Continue reading &rarr;"
+msgstr "Selengkapnya &rarr;"
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:77
+msgid "Social Menu"
+msgstr "Menu Sosial"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: functions.php:264
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga didukung oleh %s"
+
+#: functions.php:266
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s oleh %2$s"
+
+#: header.php:36
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "Langsung ke isi"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Diterbitkan pada <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> di <a href=\"%3$s\" title=\"Tautan ke gambar ukuran penuh\">%4$s &times; %5$s</a> dalam <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Sebelumnya"
+
+#: image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Selanjutnya <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:103
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Kirim komentar\">Kirim komentar</a> atau berikan lacakbalik: <a class=\"trackback-link\" href=\"%s\" title=\"URL Lacakbalik untuk tulisan Anda\" rel=\"trackback\">URL Lacakbalik</a>."
+
+#: image.php:105
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Komentar ditutup, tetapi Anda dapat memberikan lacakbalik: <a class=\"trackback-link\" href=\"%s\" title=\"URL Lacakbalik untuk tulisan Anda\" rel=\"trackback\">URL Lacakbalik</a>."
+
+#: image.php:107
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Lacakbalik ditutup, tetapi Anda dapat <a class=\"comment-link\" href=\"#respond\" title=\"Kirim komentar\">mengirim komentar</a>."
+
+#: image.php:109
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Komentar maupun lacakbalik sekarang ditutup."
+
+#: inc/extras.php:70
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Navigasi tulisan"
+
+#: inc/template-tags.php:42
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:43
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:48
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Tulisan lebih lama"
+
+#: inc/template-tags.php:52
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tulisan lebih baru <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Ping-balik:"
+
+#: inc/template-tags.php:75
+#: inc/template-tags.php:96
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/template-tags.php:85
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">berkata:</span>"
+
+#: inc/template-tags.php:88
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda menunggu moderasi."
+
+#: inc/template-tags.php:94
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#. translators: 1: who, 2: when
+#: inc/template-tags.php:132
+msgid "%1$s / %2$s"
+msgstr "%1$s / %2$s"
+
+#. translators: min=minute
+#: inc/template-tags.php:161
+msgid "%s min ago"
+msgid_plural "%s mins ago"
+msgstr[0] "%s menit yang lalu"
+
+#: inc/template-tags.php:166
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s jam yang lalu"
+
+#: inc/template-tags.php:171
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s hari yang lalu"
+
+#: inc/template-tags.php:176
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "%s minggu yang lalu"
+
+#: inc/template-tags.php:181
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] "%s bulan yang lalu"
+
+#: inc/template-tags.php:186
+msgid "%s year ago"
+msgid_plural "%s years ago"
+msgstr[0] "%s tahun yang lalu"
+
+#: inc/template-tags.php:198
+msgid "ago"
+msgstr "yang lalu"
+
+#. translators: 1: when, 2: where (category)
+#: inc/template-tags.php:208
+#: inc/template-tags.php:214
+msgid "%1$s in %2$s."
+msgstr "%1$s di %2$s."
+
+#: inc/template-tags.php:220
+msgid "Tags: "
+msgstr "Tag:"
+
+#: index.php:23
+msgid "%s"
+msgstr "%s"
+
+#: index.php:26
+msgid "Tag Archives: %s"
+msgstr "Arsip Tag: %s"
+
+#: index.php:33
+msgid "Author Archives: %s"
+msgstr "Arsip Penulis: %s"
+
+#: index.php:41
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian:%s"
+
+#: index.php:43
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#: index.php:45
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: index.php:47
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian: %s"
+
+#: index.php:49
+msgid "Archives"
+msgstr "Arsip"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan tulisan pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang Anda cari. Silakan coba lagi dengan kata kunci yang lain."
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: related-content.php:10
+msgid "Related posts"
+msgstr "Tulisan terkait"
+
+#: searchform.php:9
+msgctxt "assistive text"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#. Theme Name of the plugin/theme
+msgid "Expound"
+msgstr "Expound"
+
+#. Description of the plugin/theme
+msgid "An awesome magazine theme for your WordPress site. Responsive layout, post thumbnails support, featured posts, an easy-to-use social menu and much more."
+msgstr "Tema majalah yang mengagumkan untuk situs WordPress Anda. Tata letak yang responsif, mendukung tulisan dengan thumbnail, tulisan pilihan, menu sosial yang mudah digunakan dan banyak lagi."
+
+#. Author of the plugin/theme
+msgid "Konstantin Kovshenin"
+msgstr "Konstantin Kovshenin"
+
+#. Author URI of the plugin/theme
+msgid "http://kovshenin.com"
+msgstr "http://kovshenin.com"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Template"
+msgstr "Full-width Template"
