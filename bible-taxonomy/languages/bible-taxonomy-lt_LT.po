@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bible Taxonomy\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/wp-translations/bible-taxonomy/language/lt_LT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-07 17:21+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:06\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#. Translators: first placeholder for plugin name, second for version number
+#: bible-taxonomy.php:60
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s neaktyvintas"
+
+#. Translators: first placeholder for current WordPress version, second for
+#. required version
+#: bible-taxonomy.php:62
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "Jūs naudojate WordPress versiją %1$s. Šis papildinys reikalauja %2$s arba aukštesnės versijos, todėl buvo deaktyvuotas! Prašome atnaujinti WordPress ir bandyti dar kartą."
+
+#: bible-taxonomy.php:63
+msgid "Back to WordPress admin"
+msgstr "Grįžti į WordPress admin"
+
+#: bible-taxonomy.php:80
+#: bible-taxonomy.php:81
+msgid "Bible taxonomy"
+msgstr "Biblijos taksonomija"
+
+#: bible-taxonomy.php:82
+msgid "Search Bible references"
+msgstr "Biblinių nuorodų paieška"
+
+#: bible-taxonomy.php:83
+msgid "All Bible references"
+msgstr "Visos Biblijos nuorodos"
+
+#: bible-taxonomy.php:84
+msgid "Parent Bible reference"
+msgstr "Pirminė Biblijos nuoroda"
+
+#: bible-taxonomy.php:85
+msgid "Parent Bible reference:"
+msgstr "Pirminė Biblijos nuoroda"
+
+#: bible-taxonomy.php:86
+msgid "Edit Bible reference"
+msgstr "Redaguoti Biblijos nuorodą"
+
+#: bible-taxonomy.php:87
+msgid "Update Bible reference"
+msgstr "Atnaujinti Biblijos nuorodą"
+
+#: bible-taxonomy.php:88
+msgid "Add New Bible reference"
+msgstr "Pridėti naują Biblijos nuorodą"
+
+#: bible-taxonomy.php:89
+msgid "New Bible reference"
+msgstr "Nauja Biblijos nuoroda"
+
+#: bible-taxonomy.php:90
+msgid "Bible Taxonomy"
+msgstr "Biblijos Taksonomija"
