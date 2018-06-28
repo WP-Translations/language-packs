@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Meta Tags\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/apple-meta-tags/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-03-21 11:47+0100\n"
+"PO-Revision-Date: 2017-09-19 23:06:32\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:91
+msgid "WordPress Apple Tags Settings"
+msgstr "Настройки WordPress Apple Tags"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+msgid "Apple Tags"
+msgstr "Apple Tags"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:101
+msgid "Enable iOS Web-App Mode"
+msgstr "Включить режим веб-приложения iOS"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:104
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:140
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:160
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:196
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:241
+msgid "No"
+msgstr "Нет"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:105
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:141
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:161
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:197
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:242
+msgid "Yes"
+msgstr "Да"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:111
+msgid "Web App Status Bar Color"
+msgstr "Цвет статусной строки веб-приложения"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:114
+msgid "Default (Grey)"
+msgstr "По умолчанию (серый)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:115
+msgid "Black"
+msgstr "Чёрный"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:116
+msgid "Black Translucent"
+msgstr "Черный прозрачный"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:122
+msgid "Web App Title"
+msgstr "Заголовок веб-приложения"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:127
+msgid "Viewport"
+msgstr "Viewport"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:137
+msgid "Detect Telephone Numbers"
+msgstr "Искать номера телефонов"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:148
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:153
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:169
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:174
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:179
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:184
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:189
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:204
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:209
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:214
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:219
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:224
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:229
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:234
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:250
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:255
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:260
+msgid "Upload"
+msgstr "Загрузить"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:157
+msgid "Touch Icon Precomposed"
+msgstr "Touch Icon Precomposed"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:163
+msgid "Use glossy bookmark icon."
+msgstr "Использовать глянцевый значок закладки."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:168
+msgid "URL to iPod Touch Icon"
+msgstr "URL к иконке iPod Touch"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:173
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:178
+msgid "URL to iPad Touch Icon"
+msgstr "URL к иконке iPad Touch"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:183
+msgid "URL to iPhone 4 Touch Icon"
+msgstr "URL к иконке iPhone 4 Touch"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:188
+msgid "URL to iPhone 5 Touch Icon"
+msgstr "URL к иконке iPhone 5 Touch"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:193
+msgid "Use Startup Screens"
+msgstr "Использовать экраны запуска"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:203
+msgid "URL to iPhone Portrait startup screen"
+msgstr "URL к вертикальному экрану запуска iPhone"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:208
+msgid "URL to Retina Portrait iPhone startup screen"
+msgstr "URL к вертикальному Retina экрану запуска iPhone"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:213
+msgid "URL to 4-inch Portrait Retina iPhone startup screen"
+msgstr "URL к 4-дюймовому вертикальному экрану запуска iPhone"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:218
+msgid "URL to iPad Portrait startup screen"
+msgstr "URL к вертикальному экрану запуска iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:223
+msgid "URL to iPad Landscape startup screen"
+msgstr "URL к горизонтальному экрану запуска iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:228
+msgid "URL to Retina iPad Portrait startup screen"
+msgstr "URL к вертикальному Retina экрану запуска iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:233
+msgid "URL to Retina iPad Landscape startup screen"
+msgstr "URL к горизонтальному Retina экрану запуска iPad"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:238
+msgid "Use Smart App Banner (iOS6+)"
+msgstr "Использовать умный баннер приложения (iOS6+)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Safari has a Smart App Banner feature in iOS 6 and later that provides a standardized method of promoting apps on the App Store from your website."
+msgstr "В iOS6 и поздних версиях у вас Safari есть функция умного баннера приложения, она предоставляет стандартизированный метод продвижения приложения на App Store с вашего сайта."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Read for more information"
+msgstr "Прочитайте для дополнительной информации"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:249
+msgid "App Store ID"
+msgstr "App Store ID"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:254
+msgid "Affiliate ID"
+msgstr "Партнерский ID"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:259
+msgid "App Argument"
+msgstr "Аргументы URL"
