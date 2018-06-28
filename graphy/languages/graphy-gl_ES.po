@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/graphy\n"
+"Last-Translator: Onyrosgaming\n"
+"Language-Team: Galician (Spain) (http://www.transifex.com/wp-translations/graphy/language/gl_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:00+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:43:07\n"
+"Language: gl_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "Esa páxina non se pode atopar"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Asemella que non hai nada neste lugar. ¿E se probas unha busca?"
+
+#: archive.php:21
+msgid "Category: "
+msgstr "Categoría"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "Etiqueta"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:54
+msgid "Images"
+msgstr "Imaxes"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "Vídeo"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:63
+msgid "Links"
+msgstr "Ligazóns"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "Estado"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "Arquivos"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "%1$s responses"
+msgstr[1] "%1$s responses"
+
+#: comments.php:34
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:35
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios máis antigos"
+
+#: comments.php:36
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios máis recentes &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comentarios pechados."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Non se atopou nada"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publica-lo teu primeiro artigo? <a href=\"%1$s\">Empeza aquí</a>."
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr "Non se axustou nada aos teus termos de busca. Por favor téntao de novo con algunhas outras palabras clave"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que non atopamos o que estás tentando localizar. É posible que a busca poida axudar."
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:21
+msgid "Pages:"
+msgstr "Paxinas:"
+
+#: content.php:20
+#: content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">Continua lendo &rarr;</span>"
+
+#: footer.php:17
+msgid "Powered by "
+msgstr "Motorizado por"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "Pé 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Pé 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "Pé 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "Pé 4"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Saltar ao contido"
+
+#: inc/customizer.php:25
+msgid "Hide Tagline"
+msgstr "Agochar Etiqueta de liña"
+
+#: inc/customizer.php:32
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "Subir logo"
+
+#: inc/customizer.php:47
+msgid "Replace Title"
+msgstr "Reemprazar título"
+
+#: inc/customizer.php:56
+msgid "Add Border Radius"
+msgstr "Engadir radio do borde"
+
+#: inc/customizer.php:67
+msgid "Link Color"
+msgstr "Cor das ligazóns"
+
+#: inc/customizer.php:76
+msgid "Link Hover Color"
+msgstr "Vencellar color flotante"
+
+#: inc/customizer.php:85
+msgid "Hide Serach"
+msgstr "Agochar busca"
+
+#: inc/customizer.php:92
+msgid "Article"
+msgstr "Artigo"
+
+#: inc/customizer.php:99
+msgid "Display"
+msgstr "Amosar"
+
+#: inc/customizer.php:104
+msgid "Summary"
+msgstr "Resumo"
+
+#: inc/customizer.php:105
+msgid "Full text"
+msgstr "O texto completo"
+
+#: inc/customizer.php:112
+msgid "Hide Author"
+msgstr "Agochar autor"
+
+#: inc/customizer.php:121
+msgid "Hide Categories"
+msgstr "Agochar catergorías"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "Páxina %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Ir as entradas"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas máis antigas"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas máis recentes <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "Entrada anterior"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%título"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "Seguinte entrada"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%título"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "Publicado o"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "por"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Deixa o teu comentario."
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: inc/template-tags.php:117
+#: inc/template-tags.php:125
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da busca para: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr "Graphy"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr "http://themegraphy.com/graphy-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr "Graphy é un tema de WordPress para blogs que están desñados para ter tipografías belas. Desenvolveuse usando deseño responsivo de móbiles, asegurando que o teu blog non será menos vistoso cando sexa visto nun smartphone ou tablet. Graphy ten cinco dispoñibles (unha barra lateral, catro rodapés), e usando o widget da barra lateral, tamén capacítate para facer un deseño de dúas columnas. Ademáis, a presentación do widget do rodapé axústase automáticamente dependendo de cantas están sendo usadas. Graphy tamén soporta Personalizador, Menú Personalizado, Cabeceira Personalizada, permitindo configuración flexible."
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "Takao Utsumi"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Non hai barra lateral"
