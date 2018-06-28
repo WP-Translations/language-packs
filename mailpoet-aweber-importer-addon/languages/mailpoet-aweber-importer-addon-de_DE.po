@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Aweber Importer Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Roland Prüfer <ipad@smart.ms>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/mailpoet-aweber-importer-add-on/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-04 02:27+0100\n"
+"PO-Revision-Date: 2017-09-20 00:41:37\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:38
+#: mailpoet-aweber-importer-addon.php:169
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:41
+msgid "Thank you for using MailPoet Aweber Importer Add-on :) Should you need help using MailPoet Aweber Importer Add-on please read the documentation."
+msgstr "Vielen Dank, dass Sie MailPoet Aweber Importer Add-on :) nutzen. Wenn Sie Unterstützung bei der Nutzung von MailPoet Aweber Importer Add-on benötigen, lesen Sie bitte die Dokumentation."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:43
+msgid "MailPoet Aweber Importer Add-on Documentation"
+msgstr "Dokumentation für MailPoet Aweber Importer Add-on"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:49
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "Nachdem Sie <a href=\"%s\">die Dokumentation</a> gelesen haben, können Sie das <a href=\"%s\">Community Forum</a> nutzen."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:54
+msgid "Community Support"
+msgstr "Unterstützung durch die Community."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Fehler gefunden?"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:63
+#, php-format
+msgid "If you find a bug within MailPoet Aweber Importer Add-on you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Wenn Sie einen Fehler innerhalb MailPoet Aweber Importer Add-on finden, können Sie ein Ticket via <a href=\"%s\">Github</a> öffnen. Bitte lesen Sie die <a href=\"%s\">Anleitung zur Mitarbeit</a>, bevor Sie einen Meldung abschicken. Bitte beschreiben Sie den Fehler so genau wie möglich."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:65
+msgid "Report a bug"
+msgstr "Einen Fehler melden."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:70
+msgid "For more information:"
+msgstr "Weitere Informationen:"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:71
+msgid "Project on WordPress.org"
+msgstr "Projekt auf Wordpress.org"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-help.php:72
+msgid "Project on Github"
+msgstr "Projekt auf Github"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-importers.php:32
+msgid "MailPoet Aweber Importer"
+msgstr "MailPoet Aweber Importer"
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-admin-importers.php:32
+msgid "Import your subscribers from your Aweber campaigns into MailPoet via a csv file."
+msgstr "Importieren Sie Ihre Abonnenten von Aweber über eine CSV-Datei in MailPoet."
+
+#: includes/admin/class-mailpoet-aweber-importer-addon-install.php:125
+msgid "What's new:"
+msgstr "Aktuelle News:"
+
+#: includes/admin/importers/class-aweber-importer.php:103
+#: includes/admin/importers/class-aweber-importer.php:190
+#: includes/admin/importers/class-aweber-importer.php:230
+#: includes/admin/importers/class-aweber-importer.php:245
+msgid "Sorry, there has been an error."
+msgstr "Entschuldigung, es ist ein Fehler aufgetreten."
+
+#: includes/admin/importers/class-aweber-importer.php:104
+msgid "The file does not exist, please try again."
+msgstr "Die Datei gibt es nicht, versuchen Sie es noch einmal."
+
+#: includes/admin/importers/class-aweber-importer.php:191
+msgid "The CSV is invalid."
+msgstr "Die CSV-Datei is ungültig. Bitte überprüfen Sie, ob die Datei defekt ist oder das falsche Dateiformat besitzt."
+
+#: includes/admin/importers/class-aweber-importer.php:202
+#, php-format
+msgid "Import complete - imported <strong>%s</strong> subscribers and skipped <strong>%s</strong>."
+msgstr "Import beendet - <strong>%s</strong> Abonnenten importiert und <strong>%s</strong> übersprungen."
+
+#: includes/admin/importers/class-aweber-importer.php:212
+msgid "All done!"
+msgstr "Alles fertig!"
+
+#: includes/admin/importers/class-aweber-importer.php:212
+msgid "View Subscribers"
+msgstr "Übersicht der Abonnenten"
+
+#: includes/admin/importers/class-aweber-importer.php:263
+msgid "Import Aweber to MailPoet"
+msgstr "Import von Aweber in MailPoet"
+
+#: includes/admin/importers/class-aweber-importer.php:285
+msgid "Hi there! Upload a CSV file containing your campaign subscribers from your Aweber list of your choosing to import into MailPoet. Choose a .csv file to upload, then click \"Upload file and import\"."
+msgstr "Hallo! Sie können eine CSV-Datei mit Ihren Abonnenten aus Aweber aus einer von Ihnen gewählten Liste hochladen und in MailPoet importieren. Wählen Sie dafür eine .csv-Datei aus und klicken Sie auf \"Datei hochladen und importieren\"."
+
+#: includes/admin/importers/class-aweber-importer.php:293
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Ehe du die Importdatei hochladen kannst, musst du folgende Fehler beheben:"
+
+#: includes/admin/importers/class-aweber-importer.php:302
+msgid "Choose a file from your computer:"
+msgstr "Wähle eine Datei von deinem Computer:"
+
+#: includes/admin/importers/class-aweber-importer.php:308
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Maximale Größe: %s"
+
+#: includes/admin/importers/class-aweber-importer.php:313
+msgid "OR enter path to file:"
+msgstr "ODER geben Sie den Pfad zur Datei ein:"
+
+#: includes/admin/importers/class-aweber-importer.php:320
+msgid "Delimiter"
+msgstr "Trennzeichen"
+
+#: includes/admin/mailpoet-aweber-importer-admin-functions.php:19
+msgid "MailPoet Aweber Importer Add-on"
+msgstr "MailPoet Aweber Importer Add-on"
+
+#: mailpoet-aweber-importer-addon.php:148
+msgid "Import"
+msgstr "Daten importieren"
+
+#: mailpoet-aweber-importer-addon.php:229
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Entschuldigung, aber <strong>%s</strong> benötigt WordPress"
+
+#: mailpoet-aweber-importer-addon.php:240
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Entschuldigung, aber <strong>%s</strong> benötigt MailPoet Newsletters, damit dieses Plugin funktioniert. Bitte installieren und aktivieren Sie zuerst <strong><a href=\"%s\">MailPoet Newsletters</a></strong>."
