@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: Kaspars Dambis <kaspars@konstruktors.com>\n"
+"Language-Team: Latvian (http://www.transifex.com/wp-translations/custom-404-error-page/language/lv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:09:19\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "Lapa, ko izmantot kļūdai 404 (netika atrasts)"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "Kļūdas 404 lapa"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "Noklusētā (404.php veidne)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "Pievienot jaunu"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "Pielāgota kļūdas 404 lapa"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "Izmanto jebkuru lapu kā kļūdas 404 lapu."
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
