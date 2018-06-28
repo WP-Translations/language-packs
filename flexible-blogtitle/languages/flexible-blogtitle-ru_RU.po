@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Blogtitle\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/flexible-blogtitle/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-28 21:33+0700\n"
+"PO-Revision-Date: 2017-09-20 04:10:16\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:366
+msgid "settings"
+msgstr "настройки"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:396
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:493
+msgid "Settings"
+msgstr "Настройки"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:498
+msgid "Automatically show in page title"
+msgstr "Автоматически показывать в заголовке страницы"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:500
+#, php-format
+msgid "If this function is not set, you have to insert <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> manually in the <code>header.php</code> of your theme.<br />See <a href=\"%s\" title=\"Open readme.txt\">readme.txt</a> or the <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"See online documentary\">online documentary</a> for more information."
+msgstr "Если эта функция не установлена, вы должны вручную вставить <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> в <code>header.php</code> вашей темы.<br />Смотрите <a href=\"%s\" title=\"Open readme.txt\">readme.txt</a> или <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"Смотреть онлайн документацию\">онлайн документацию</a> для дополнительной информации."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:505
+msgid "Replace blogname with the current title"
+msgstr "Заменить имя блога текущим заголовком"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:507
+msgid "Replaces the name of the blog set in <a href=\"options-general.php\" title=\"\">Settings › General</a> with the title for the current site."
+msgstr "Заменяет имя блога, установленное в <a href=\"options-general.php\" title=\"\">Настройки › Общие</a> заголовком текущего сайта."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:510
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:519
+msgid "New rule"
+msgstr "Новое правило"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:522
+msgid "If"
+msgstr "Если"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:524
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:612
+msgid "Object"
+msgstr "Объект"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:525
+msgid "Post ID"
+msgstr "ID записи"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:526
+msgid "Page ID"
+msgstr "ID страницы"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:527
+msgid "Post/page title"
+msgstr "Заголовок страницы/публикации"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:528
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:541
+msgid "Category"
+msgstr "Категория"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:529
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:552
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:530
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:568
+msgid "Term"
+msgstr ""
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:534
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:613
+msgid "Operator"
+msgstr "Оператор"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:535
+msgid "is"
+msgstr "-"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:536
+msgid "is not"
+msgstr "не"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:537
+msgid "contains"
+msgstr "содержит"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:590
+msgid "Enter value..."
+msgstr "Введите значение..."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:591
+msgid "change blogtitle to:"
+msgstr "изменить заголовок блога на:"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:601
+msgid "Add rule"
+msgstr "Добавить правило"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:610
+msgid "Select all rules"
+msgstr "Выбрать все правила"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:614
+msgid "Value"
+msgstr "Значение"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:615
+msgid "New blogtitle"
+msgstr "Новый заголовок блога"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:616
+msgid "Delete rule"
+msgstr "Удалить правило"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:643
+msgid "Delete"
+msgstr "Удалить"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:655
+msgid "Delete selected rules"
+msgstr "Удалить выбранные правила"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:657
+msgid "Apply"
+msgstr "Применить"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:661
+msgid "Do you speak more than one language?<br /><a href=\"\" title=\"\">Help translating Flexible Blogtitle</a> and make it easier for other users to use."
+msgstr "Вы говорите больше, чем на одном языке?<br /><a href=\"\" title=\"\">Помогите перевести Flexible Blogtitle</a> и сделайте его проще для использования другими пользователями."
