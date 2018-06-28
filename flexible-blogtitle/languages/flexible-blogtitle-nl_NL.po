@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Blogtitle\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Thom\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/flexible-blogtitle/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-28 21:33+0700\n"
+"PO-Revision-Date: 2017-11-03 11:51:14\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:366
+msgid "settings"
+msgstr "instellingen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:396
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:493
+msgid "Settings"
+msgstr "Instellingen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:498
+msgid "Automatically show in page title"
+msgstr "Automatisch tonen in paginatitel"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:500
+#, php-format
+msgid "If this function is not set, you have to insert <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> manually in the <code>header.php</code> of your theme.<br />See <a href=\"%s\" title=\"Open readme.txt\">readme.txt</a> or the <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"See online documentary\">online documentary</a> for more information."
+msgstr "Als deze functie niet is ingesteld, moet u <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> handmatig invoegen in de <code>header.php</code> van uw thema.<br />Bekijk <a href=\"%s\" title=\"readme.txt openen\">readme.txt</a> of de <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"Online documentatie bekijken\">online documentatie</a> voor meer informatie."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:505
+msgid "Replace blogname with the current title"
+msgstr "Blognaam vervangen met de huidige titel"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:507
+msgid "Replaces the name of the blog set in <a href=\"options-general.php\" title=\"\">Settings › General</a> with the title for the current site."
+msgstr "Vervangt de naam van de blog ingesteld in <a href=\"options-general.php\" title=\"\">Instellingen › Algemeen</a> met de titel van de huidige site."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:510
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:519
+msgid "New rule"
+msgstr "Nieuwe regel"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:522
+msgid "If"
+msgstr "Als"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:524
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:612
+msgid "Object"
+msgstr "Object"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:525
+msgid "Post ID"
+msgstr "Bericht-ID"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:526
+msgid "Page ID"
+msgstr "Pagina-ID"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:527
+msgid "Post/page title"
+msgstr "Bericht-/paginatitel"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:528
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:541
+msgid "Category"
+msgstr "Categorie"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:529
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:552
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:530
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:568
+msgid "Term"
+msgstr "Term"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:534
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:613
+msgid "Operator"
+msgstr "Operator"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:535
+msgid "is"
+msgstr "is"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:536
+msgid "is not"
+msgstr "is niet"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:537
+msgid "contains"
+msgstr "bevat"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:590
+msgid "Enter value..."
+msgstr "Waarde invoeren..."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:591
+msgid "change blogtitle to:"
+msgstr "blogtitel wijzigen naar:"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:601
+msgid "Add rule"
+msgstr "Regel toevoegen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:610
+msgid "Select all rules"
+msgstr "Alle regels selecteren"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:614
+msgid "Value"
+msgstr "Waarde"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:615
+msgid "New blogtitle"
+msgstr "Nieuwe blogtitel"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:616
+msgid "Delete rule"
+msgstr "Regel verwijderen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:643
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:655
+msgid "Delete selected rules"
+msgstr "Geselecteerde regels verwijderen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:657
+msgid "Apply"
+msgstr "Toepassen"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:661
+msgid "Do you speak more than one language?<br /><a href=\"\" title=\"\">Help translating Flexible Blogtitle</a> and make it easier for other users to use."
+msgstr "Spreekt u meer dan één taal?<br /><a href=\"\" title=\"\">Help met het vertalen van Flexible Blogtitle</a> en maak het gebruik voor andere gebruikers makkelijker."
