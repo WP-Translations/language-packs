@@ -1,0 +1,3845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-06-28T08:50:34+00:00\n"
+"PO-Revision-Date: 2017-09-21 23:47:54\n"
+"Language: \n"
+": вернутыя\n"
+
+#: wysija-newsletters/helpers/notifications.php:59
+msgid "unopened"
+msgstr "непрачытаныя"
+
+#: wysija-newsletters/helpers/notifications.php:62
+msgid "opened"
+msgstr "прачытаныя"
+
+#: wysija-newsletters/helpers/notifications.php:65
+msgid "clicked"
+msgstr "націснута"
+
+#: wysija-newsletters/helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "якія адпісаліся"
+
+#: wysija-newsletters/helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Сённяшняя статыстыка:"
+
+#: wysija-newsletters/helpers/notifications.php:77
+msgid "Today you have sent %1$s emails"
+msgstr "Сёння вы адправілі %1$s лістоў"
+
+#: wysija-newsletters/helpers/notifications.php:79
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s з якіх былі %2$s"
+
+#: wysija-newsletters/helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Вось спіс вернутых лістоў."
+
+#: wysija-newsletters/helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Ура, Ваша ўбудова рассылання MailPoet "
+
+#: wysija-newsletters/helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Ваша штодзённая статыстыка рассылання"
+
+#: wysija-newsletters/helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Прафесійныя рассыланні (ад Satollo)"
+
+#: wysija-newsletters/helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "Рассыланні (ад Tribulant)"
+
+#: wysija-newsletters/helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "Карыстальнікі WordPress"
+
+#: wysija-newsletters/helpers/plugins_import.php:229
+msgid "%1$s's import list"
+msgstr "%1$s's спіс імпарту"
+
+#: wysija-newsletters/helpers/plugins_import.php:230
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Спіс ствараецца аўтаматычна на базе імпарт падпісантаў убудовы: \"%1$s"
+
+#: wysija-newsletters/helpers/plugins_import.php:336
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" імпартавана з %1$s"
+
+#: wysija-newsletters/helpers/plugins_import.php:337
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Спіс існаваўшых у \"%1$s\" і быў імпартаваны аўтаматычна."
+
+#: wysija-newsletters/helpers/queue.php:91
+msgid "There are %1$s pending email(s)"
+msgstr "Ёсць %1$s адкладзеных ліст(лістоў)"
+
+#: wysija-newsletters/helpers/queue.php:97
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Ліст будзе адпраўлены %1$s у %2$s"
+
+#: wysija-newsletters/helpers/queue.php:114
+msgid "Send Process"
+msgstr "Працэс адпраўкі"
+
+#: wysija-newsletters/helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Усяго партый"
+
+#: wysija-newsletters/helpers/queue.php:203
+msgid "Next try in %s minutes."
+msgstr "Наступная спроба цягам %s хвілін"
+
+#: wysija-newsletters/helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Працэс абнаўляецца, каб пазбегнуць абмежавання па часе."
+
+#: wysija-newsletters/helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Працэс абнаўляецца, каб пазбегнуць магчымай страты злучэння."
+
+#: wysija-newsletters/helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Рассыланні ўжо адпраўлены. Ваша апошняе рассыланне будзе адпраўлена пазней."
+
+#: wysija-newsletters/helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Працэс рассылання спынены, паколькі тут занадта шмат памылак."
+
+#: wysija-newsletters/helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Мы захавалі ўсё недастаўленыя лісты ў чарзе, так што Вы зможаце аднавіць працэс адпраўкі пазней."
+
+#: wysija-newsletters/helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Калі ласка, праверце налады вашай пошты і пераканаецеся, што Вы можаце паслаць узор гэтага ліста."
+
+#: wysija-newsletters/helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Калі Вы нядаўна паспяхова паслалі шмат лістоў, гэтыя памылкі могуць быць злучаны з абмежаваннямі Вашага сервера."
+
+#: wysija-newsletters/helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Ваш сервер, мабыць, адмаўляецца адпраўляць больш лістоў."
+
+#: wysija-newsletters/helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Паштовая скрыня перапоўнена"
+
+#: wysija-newsletters/helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Калі паштовая скрыня перапоўнена"
+
+#: wysija-newsletters/helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Паштовая скрыня недаступная"
+
+#: wysija-newsletters/helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Калі паштовая скрыня недаступная"
+
+#: wysija-newsletters/helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Паведамленне затрымоўваецца"
+
+#: wysija-newsletters/helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Калі паведамленне затрымоўваецца"
+
+#: wysija-newsletters/helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Збой увесь час"
+
+#: wysija-newsletters/helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Калі збой увесь час"
+
+#: wysija-newsletters/helpers/rules.php:102
+msgid "Action Required"
+msgstr "Неабходныя дзеянні"
+
+#: wysija-newsletters/helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Калі Вам трэба пацвердзіць, што Вы чалавек, наперад да:"
+
+#: wysija-newsletters/helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Заблакаваныя IP"
+
+#: wysija-newsletters/helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Калі Вы будзеце пазначаны як спамер у вернутых паведамленнях"
+
+#: wysija-newsletters/helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Калі зварот дзіўны, і мы не ўпэўнены, што рабіць, наперад да:"
+
+#: wysija-newsletters/helpers/server.php:104
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Тэчка  \"%1$s\"  недаступная для запісу, калі ласка, змяніце правы доступу да гэтай тэчкі для таго каб MailPoet мог усталявацца правільна."
+
+#: wysija-newsletters/helpers/server.php:104
+#: wysija-newsletters/helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Чытаць дакументацыю"
+
+#: wysija-newsletters/helpers/server.php:149
+#: wysija-newsletters/helpers/server.php:172
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "Карыстальнік MySQL, якога вы наладзілі на вашым WordPress сайце (WP-config.php) не мае дастатковых прывілеяў для стварэння табліц MySQL. Калі ласка, змяніце карыстальніка самастойна або звярніцеся да адміністратара вашага сайта з тым, каб завяршыць ўстаноўку MailPoet. MySQL памылкі:(%1$s)"
+
+#: wysija-newsletters/helpers/themes.php:125
+msgid "Header"
+msgstr "Шапка"
+
+#: wysija-newsletters/helpers/themes.php:156
+msgid "Footer"
+msgstr "Падвал"
+
+#: wysija-newsletters/helpers/themes.php:256
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Тэчка  \"%1$s\"  недаступная для запісу, калі ласка, змяніце правы доступу да гэтай тэчкі для таго каб Mailpoet змог усталявацца правільна."
+
+#: wysija-newsletters/helpers/themes.php:309
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Шаблон з назвай %1$s ужо існуе. Для перазапісу пастаўце галачку ў адпаведным полі перад загрузкай."
+
+#: wysija-newsletters/helpers/themes.php:340
+msgid "The theme %1$s has been installed on your site."
+msgstr "Шаблон %1$s усталяваны на Ваш сайт."
+
+#: wysija-newsletters/helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Мы не змаглі ўсталяваць Ваш шаблон. Падобна, няправільны фармат."
+
+#: wysija-newsletters/helpers/themes.php:359
+msgid "Theme %1$s has been deleted."
+msgstr "Шаблон %1$s выдалены."
+
+#: wysija-newsletters/helpers/themes.php:362
+msgid "Theme %1$s could not be deleted."
+msgstr "Шаблон %1$s не атрымалася выдаліць."
+
+#: wysija-newsletters/helpers/toolbox.php:128
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s год"
+msgstr[1] "%1$s год"
+msgstr[2] "%1$s год"
+msgstr[3] "%1$s гады"
+
+#: wysija-newsletters/helpers/toolbox.php:129
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s тыдзень"
+msgstr[1] "%1$s тыдняў"
+msgstr[2] "%1$s тыдняў"
+msgstr[3] "%1$s тыдні"
+
+#: wysija-newsletters/helpers/toolbox.php:130
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s дзень"
+msgstr[1] "%1$s дзён"
+msgstr[2] "%1$s дзён"
+msgstr[3] "%1$s дні"
+
+#: wysija-newsletters/helpers/toolbox.php:131
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s гадзіна"
+msgstr[1] "%1$s гадзін"
+msgstr[2] "%1$s гадзін"
+msgstr[3] "%1$s гадзіны"
+
+#: wysija-newsletters/helpers/toolbox.php:132
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s хвіліна"
+msgstr[1] "%1$s хвілін"
+msgstr[2] "%1$s хвілін"
+msgstr[3] "%1$s хвілін"
+
+#: wysija-newsletters/helpers/toolbox.php:133
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s секунда"
+msgstr[1] "%1$s секунд"
+msgstr[2] "%1$s секунд"
+msgstr[3] "%1$s секунд"
+
+#: wysija-newsletters/helpers/toolbox.php:290
+msgid "Monday"
+msgstr "Панядзелак"
+
+#: wysija-newsletters/helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "Аўторак"
+
+#: wysija-newsletters/helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "Серада"
+
+#: wysija-newsletters/helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "Чацвер"
+
+#: wysija-newsletters/helpers/toolbox.php:294
+msgid "Friday"
+msgstr "Пятніца"
+
+#: wysija-newsletters/helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "Субота"
+
+#: wysija-newsletters/helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "Нядзеля"
+
+#: wysija-newsletters/helpers/toolbox.php:308
+#: wysija-newsletters/helpers/toolbox.php:328
+msgid "1st"
+msgstr "1"
+
+#: wysija-newsletters/helpers/toolbox.php:309
+#: wysija-newsletters/helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2"
+
+#: wysija-newsletters/helpers/toolbox.php:310
+#: wysija-newsletters/helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3"
+
+#: wysija-newsletters/helpers/toolbox.php:311
+msgid "Last"
+msgstr "апошні"
+
+#: wysija-newsletters/helpers/toolbox.php:337
+msgid "%1$sth"
+msgstr "%1$s"
+
+#: wysija-newsletters/helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet пасля паспяховай пераўсталёўкі, выкарыстоўвае тую ж версію. Ранейшыя налады і дадзеныя выдалены."
+
+#: wysija-newsletters/helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet нельга пераўсталяваць, таму што Ваш каталог <em>wp-content/uploads/wysija</em> павінен быць даступны для запісу. Змяніце свае правы доступу і пераўсталюеце."
+
+#: wysija-newsletters/helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet паспяхова выдалены. Цяпер Ваш сайт вычышчаны ад MailPoet."
+
+#: wysija-newsletters/helpers/update.php:577
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Працэдура абнаўлення MailPoet да версіі \"%1$s\" - не атрымалася!"
+
+#: wysija-newsletters/helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Выпадковы тэкст ці інструкцыі"
+
+#: wysija-newsletters/helpers/user.php:126
+#: wysija-newsletters/helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Email не сапраўдны!"
+
+#: wysija-newsletters/helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Падпісант ужо існуе. [link]Націсніце, каб змяніць[/link]."
+
+#: wysija-newsletters/helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Увага! Вы ўжо падпісаны."
+
+#: wysija-newsletters/helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Ой! Мы не змаглі дадаць Вас."
+
+#: wysija-newsletters/helpers/user.php:872
+msgid "New subscriber to %1$s"
+msgstr "Новы падпісант на \"%1$s\""
+
+#: wysija-newsletters/helpers/user.php:873
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: wysija-newsletters/helpers/user.php:875
+msgid "One less subscriber to %1$s"
+msgstr "Адным падпісантам менш на %1$s"
+
+#: wysija-newsletters/helpers/user.php:876
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: wysija-newsletters/helpers/user.php:992
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Спіс \"%1$s\" сінхранізаваны."
+
+#: wysija-newsletters/helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Спіс не існуе ці немагчыма сінхранізаваць."
+
+#: wysija-newsletters/helpers/user.php:1105
+#: wysija-newsletters/helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Старонка недаступная."
+
+#: wysija-newsletters/helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Ваша спасылка пацверджання мінула, калі ласка, падпішыцеся зноў."
+
+#: wysija-newsletters/helpers/user.php:1161
+#: wysija-newsletters/models/config.php:215
+msgid "You've subscribed to: %1$s"
+msgstr "Вы падпісаліся на: %1$s"
+
+#: wysija-newsletters/helpers/user.php:1169
+#: wysija-newsletters/models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Мы дадалі ваш адрас у спіс атрымальнікаў рассылкі. Хутка мы вам пра сябе нагадаем."
+
+#: wysija-newsletters/helpers/user.php:1208
+msgid "You are already subscribed to : %1$s"
+msgstr "Вы ўжо падпісаліся на: %1$s"
+
+#: wysija-newsletters/helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Вы ўжо падпісаны"
+
+#: wysija-newsletters/helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Перацягнеце лагатып сюды ў «шапку»."
+
+#: wysija-newsletters/helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Перацягнеце сюды малюнак для «падвала»."
+
+#: wysija-newsletters/helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Калі вы нічога не дадасце ў гэты блок, у рассылцы ён будзе прапушчаны."
+
+#: wysija-newsletters/helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Націсніце сюды, каб дадаць загаловак ці тэкст."
+
+#: wysija-newsletters/helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Выраўняць па левым краі"
+
+#: wysija-newsletters/helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Выраўняць па цэнтры"
+
+#: wysija-newsletters/helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Выраўняць па правым краі"
+
+#: wysija-newsletters/helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Дадаць спасылку / Альтэрнатыўны тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Выдаліць спасылку"
+
+#: wysija-newsletters/helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Выдаліць малюнак"
+
+#: wysija-newsletters/helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Выдаліць"
+
+#: wysija-newsletters/helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Рэдагаваць тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Выдаліць тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:63
+#: wysija-newsletters/views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Загалоўкі і тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:64
+#: wysija-newsletters/helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Гарызантальная лінія"
+
+#: wysija-newsletters/helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Карыстацкая гарызантальная лінія"
+
+#: wysija-newsletters/helpers/wj_engine.php:66
+#: wysija-newsletters/views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "Артыкул з WordPress"
+
+#: wysija-newsletters/helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Паглядзець у браўзэры\""
+
+#: wysija-newsletters/helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Загаловак 1"
+
+#: wysija-newsletters/helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Загаловак 2"
+
+#: wysija-newsletters/helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Загаловак 3"
+
+#: wysija-newsletters/helpers/wj_engine.php:72
+#: wysija-newsletters/helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Спасылкі"
+
+#: wysija-newsletters/helpers/wj_engine.php:73
+msgid "underline"
+msgstr "падкрэсленне"
+
+#: wysija-newsletters/helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Тэкст падвала"
+
+#: wysija-newsletters/helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Фон падвала"
+
+#: wysija-newsletters/helpers/wj_engine.php:76
+#: wysija-newsletters/helpers/wj_engine.php:100
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:64
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:96
+msgid "Newsletter"
+msgstr "Рассылка"
+
+#: wysija-newsletters/helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Фон"
+
+#: wysija-newsletters/helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Фон шапкі"
+
+#: wysija-newsletters/helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Абярыце сацыяльныя закладкі"
+
+#: wysija-newsletters/helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Абярыце падзельнік"
+
+#: wysija-newsletters/helpers/wj_engine.php:84
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Вы збіраецеся выдаліць шаблон: %1$s. Вы сапраўды гэта жадаеце зрабіць?"
+
+#: wysija-newsletters/helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Дадаць спасылку і альтэрнатыўны тэкст"
+
+#: wysija-newsletters/helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Усталюеце гэты сцяжок калі Вы жадаеце празрыстасць"
+
+#: wysija-newsletters/helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Ўстаўце дынамічныя дадзеныя аб падпісантах, сённяшнюю дату, і г.д. …"
+
+#: wysija-newsletters/helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Выбар варыянта"
+
+#: wysija-newsletters/helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Змяніць аўтаматычны апошні змест"
+
+#: wysija-newsletters/helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Вы можаце дадаць толькі адзін віджэт пры распрацоўцы апавяшчэння артыкула, адразу ж пасля публікацыі артыкула"
+
+#: wysija-newsletters/helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Прагляд без малюнкаў"
+
+#: wysija-newsletters/helpers/wj_engine.php:94
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:17
+msgid "Subscriber"
+msgstr "Падпісант"
+
+#: wysija-newsletters/helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Імя"
+
+#: wysija-newsletters/helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Прозвішча"
+
+#: wysija-newsletters/helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Email адрас"
+
+#: wysija-newsletters/helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "Адлюстроўваемае імя WordPress карыстальніка"
+
+#: wysija-newsletters/helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Усяго падпісантаў"
+
+#: wysija-newsletters/helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Тэма рассылкі"
+
+#: wysija-newsletters/helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Апавяшчэнні публікацый"
+
+#: wysija-newsletters/helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Агульная колькасць публікацый ці старонак"
+
+#: wysija-newsletters/helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Загаловак апошняга артыкула"
+
+#: wysija-newsletters/helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "№ выпуску"
+
+#: wysija-newsletters/helpers/wj_engine.php:106
+#: wysija-newsletters/views/back/config.php:2159
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:100
+msgid "Date"
+msgstr "Дата"
+
+#: wysija-newsletters/helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Бягучы дзень і лік месяца"
+
+#: wysija-newsletters/helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Бягучы дзень месяца ў парадкавым, гэта значыць: 2, 3 і т. д."
+
+#: wysija-newsletters/helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Поўная назва бягучага дня"
+
+#: wysija-newsletters/helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Бягучы лік месяца"
+
+#: wysija-newsletters/helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Поўная назва бягучага месяца"
+
+#: wysija-newsletters/helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Спасылка Адпісацца"
+
+#: wysija-newsletters/helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Рэдагаваць спасылку на старонку падпіскі"
+
+#: wysija-newsletters/helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Спасылка Паглядзець у браўзэры"
+
+#: wysija-newsletters/helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Карыстацкія палі"
+
+#: wysija-newsletters/helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Захаванне стылю па змаўчанню…"
+
+#: wysija-newsletters/helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Стыль па змаўчанню захаваны."
+
+#: wysija-newsletters/helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Усталяваць як стыль па змаўчанню."
+
+#: wysija-newsletters/helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Устаўце блок тут"
+
+#: wysija-newsletters/helpers/wp_tools.php:259
+#: wysija-newsletters/views/back/campaigns.php:121
+#: wysija-newsletters/views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Запланаваныя"
+
+#: wysija-newsletters/models/config.php:213
+msgid "Confirm your subscription to %1$s"
+msgstr "Пацвердзіце падпіску на %1$s"
+
+#: wysija-newsletters/models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Добры дзень!\n"
+"\n"
+"Вы аформілі падпіску на рассылку на нашым сайце(сайтах): [lists_to_confirm].\n"
+"\n"
+"Для завяршэння падпіскі перайдзіце па спасылцы ніжэй:\n"
+"\n"
+"[activation_link]Я пацвярджаю падпіску.[/activation_link]\n"
+"\n"
+"Дзякуй,\n"
+"\n"
+"Каманда сайта\n"
+""
+
+#: wysija-newsletters/models/config.php:221
+#: wysija-newsletters/models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Праблема з адлюстраваннем ліста? [link]Пагледзіце гэтую рассылку ў браўзэры.[/link]"
+
+#: wysija-newsletters/models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Так, дадайце мяне ў свой спіс рассылкі."
+
+#: wysija-newsletters/models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Хто можа ствараць рассылкі?"
+
+#: wysija-newsletters/models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Хто можа кіраваць падпісантамі?"
+
+#: wysija-newsletters/models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Хто можа змяняць налады MailPoet?"
+
+#: wysija-newsletters/models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Хто можа бачыць укладку Тэмы ў візуальным рэдактары?"
+
+#: wysija-newsletters/models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Хто можа бачыць укладку Стылі ў візуальным рэдактары?"
+
+#: wysija-newsletters/models/config.php:312
+#: wysija-newsletters/models/config.php:321
+msgid "empty"
+msgstr "пуста"
+
+#: wysija-newsletters/models/config.php:314
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>Ад электроннай пошты</strong> значэнне, якой Вы ўвялі (%1$s) - несапраўдны адрас электроннай пошты."
+
+#: wysija-newsletters/models/config.php:323
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "<strong>Адказ</strong> значэння ліста якое Вы ўвялі (%1$s) - несапраўдны адрас электроннай пошты."
+
+#: wysija-newsletters/models/config.php:545
+msgid "Your settings are saved."
+msgstr "Вашы налады захаваны."
+
+#: wysija-newsletters/models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Выкарыстоўвайце `view_in_browser_link` замест гэтага."
+
+#: wysija-newsletters/models/email.php:126
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: wysija-newsletters/views/back.php:18
+msgid "View"
+msgstr "Прагляд"
+
+#: wysija-newsletters/models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Ваша апошняе рассылка адпраўляецца."
+
+#: wysija-newsletters/models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Ваша аўтаматычная рассылка актывавана."
+
+#: wysija-newsletters/models/list.php:23
+#: wysija-newsletters/views/back/campaigns.php:336
+#: wysija-newsletters/views/back/config.php:1701
+#: wysija-newsletters/views/back/subscribers.php:715
+#: wysija-newsletters/views/back/subscribers.php:827
+msgid "Name"
+msgstr "Назва рассылкі"
+
+#: wysija-newsletters/models/list.php:24
+#: wysija-newsletters/views/back/subscribers.php:835
+msgid "Description"
+msgstr "Апісанне"
+
+#: wysija-newsletters/models/list.php:25
+msgid "Enabled"
+msgstr "Уключана"
+
+#: wysija-newsletters/models/list.php:26
+msgid "Ordering"
+msgstr "Сартаванне"
+
+#: wysija-newsletters/models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Не існуе спіса для адпраўкі."
+
+#: wysija-newsletters/models/user.php:25
+#: wysija-newsletters/models/user_field.php:23
+#: wysija-newsletters/views/back/campaigns.php:339
+#: wysija-newsletters/views/back/subscribers.php:275
+#: wysija-newsletters/views/back/subscribers.php:514
+#: wysija-newsletters/views/back/subscribers.php:973
+#: wysija-newsletters/views/front/confirm.php:83
+msgid "Status"
+msgstr "Статус"
+
+#: wysija-newsletters/models/user.php:26
+msgid "Created on"
+msgstr "Створана"
+
+#: wysija-newsletters/models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Націсніце тут каб адпісацца"
+
+#: wysija-newsletters/models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Націсніце тут каб падпісацца"
+
+#: wysija-newsletters/models/user_field.php:22
+#: wysija-newsletters/views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP адрас"
+
+#: wysija-newsletters/models/user_field.php:24
+msgid "Subscription date"
+msgstr "Дата падпіскі"
+
+#: wysija-newsletters/modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Шорткод старонкі Архіў"
+
+#: wysija-newsletters/modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Устаўце гэты шорткод у старонку для адлюстравання спісу мінулых рассылак."
+
+#: wysija-newsletters/modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Авой! Няма рассылак для адлюстравання."
+
+#: wysija-newsletters/modules/archive_std/archive_std_view.php:163
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: wysija-newsletters/views/back/campaigns.php:478
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:88
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:118
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:160
+msgid "Preview in new tab"
+msgstr "Прагляд у новай укладцы"
+
+#: wysija-newsletters/modules/cron_std/cron_std.php:98
+#: wysija-newsletters/modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:249
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:270
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:282
+#: wysija-newsletters/views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Адпраўка"
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:347
+msgid "Last visit was %1$s minutes ago."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:349
+msgid "Last visit was %1$s minute ago."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:357
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr ""
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:390
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:124
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:166
+msgid "N/A"
+msgstr "Н/Д"
+
+#: wysija-newsletters/modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr ""
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:29
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:35
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:37
+msgid "In queue"
+msgstr "У чарзе"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:30
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:36
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:38
+msgid "Not sent"
+msgstr "Не адпраўлена"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: wysija-newsletters/views/back/campaigns.php:222
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:37
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:39
+msgid "Bounced"
+msgstr "Вернутыя"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: wysija-newsletters/views/back/campaigns.php:109
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:33
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:35
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:63
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:65
+msgid "Sent"
+msgstr "Адпраўлена"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:33
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:32
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:34
+msgid "Opened only"
+msgstr "Толькі адкрыта"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:34
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:31
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:33
+msgid "Opened & Clicked"
+msgstr "Адкрыта і націснута"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Адкрылі і адпісаліся"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std.php:222
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:139
+#: wysija-newsletters-premium/modules/stats_newsletter/stats_newsletter.php:143
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:101
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:105
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:135
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:139
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:179
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:183
+msgid "Rate"
+msgstr "Адсотак"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:55
+msgid "Top links"
+msgstr "Лепшыя спасылкі"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:63
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:97
+msgid "Link"
+msgstr "Спасылка"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Унікальныя клікі"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Усяго клікаў"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Цяпер праглядаецца"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: wysija-newsletters/views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Паглядзець падпісантаў"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: wysija-newsletters/views/back/campaigns.php:15
+#: wysija-newsletters/views/back/campaigns.php:504
+#: wysija-newsletters/views/back/campaigns.php:526
+#: wysija-newsletters/views/back/campaigns.php:551
+#: wysija-newsletters/views/back/config.php:1771
+#: wysija-newsletters/views/back/subscribers.php:16
+#: wysija-newsletters/views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Скапіяваць"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:71
+msgid "Sent on"
+msgstr "Дата адпраўкі"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: wysija-newsletters/views/back/campaigns.php:340
+#: wysija-newsletters/views/back/campaigns.php:940
+#: wysija-newsletters/views/back/campaigns.php:1088
+#: wysija-newsletters/views/back/campaigns.php:1526
+#: wysija-newsletters/views/back/config.php:1702
+#: wysija-newsletters/views/back/subscribers.php:274
+#: wysija-newsletters/views/back/subscribers.php:550
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:75
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:70
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:20
+msgid "Lists"
+msgstr "Спісы падпісантаў"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: wysija-newsletters/views/back/statistics.php:47
+msgid "From"
+msgstr "Ад"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Адказаць на"
+
+#: wysija-newsletters/modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Адмовы"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Падпісант адкрыў %1$s з %2$s электронных лістоў"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Падпісант адкрыў %1$s з %2$s лістоў"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:68
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:66
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:71
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:67
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:18
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:98
+msgid "Clicks"
+msgstr "Націснутыя"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:99
+msgid "Device"
+msgstr "Прылада"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: wysija-newsletters/views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Дата адкрыцця"
+
+#: wysija-newsletters/modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Дата адпраўкі"
+
+#: wysija-newsletters/views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Усе рассылкі"
+
+#: wysija-newsletters/views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Пошук рассылкі"
+
+#: wysija-newsletters/views/back/campaigns.php:15
+#: wysija-newsletters/views/back/campaigns.php:507
+#: wysija-newsletters/views/back/campaigns.php:529
+#: wysija-newsletters/views/back/campaigns.php:554
+#: wysija-newsletters/views/back/config.php:1774
+#: wysija-newsletters/views/back/subscribers.php:16
+#: wysija-newsletters/views/back/subscribers.php:756
+#: wysija-newsletters/views/back.php:18
+#: wysija-newsletters/views/back.php:20
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: wysija-newsletters/views/back/campaigns.php:54
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Back"
+msgstr "Назад"
+
+#: wysija-newsletters/views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Стварыць новую рассылку"
+
+#: wysija-newsletters/views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "ці скапіюйце ніжэй, каб выкарыстоўваць дызайн."
+
+#: wysija-newsletters/views/back/campaigns.php:106
+#: wysija-newsletters/views/back/campaigns.php:204
+#: wysija-newsletters/views/back/subscribers.php:75
+msgid "All"
+msgstr "Усё"
+
+#: wysija-newsletters/views/back/campaigns.php:115
+#: wysija-newsletters/views/back/campaigns.php:365
+#: wysija-newsletters/views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Чарнавік"
+
+#: wysija-newsletters/views/back/campaigns.php:118
+#: wysija-newsletters/views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Паўза"
+
+#: wysija-newsletters/views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Стандартныя рассылкі"
+
+#: wysija-newsletters/views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Аўтаматычныя рассылкі"
+
+#: wysija-newsletters/views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Паказаць усе месяцы"
+
+#: wysija-newsletters/views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Прагляд па спісах"
+
+#: wysija-newsletters/views/back/campaigns.php:192
+#: wysija-newsletters/views/back/statistics.php:49
+#: wysija-newsletters/views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Фільтраваць"
+
+#: wysija-newsletters/views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Усе адпраўленыя"
+
+#: wysija-newsletters/views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "У чарзе"
+
+#: wysija-newsletters/views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Не атрымалася адправіць"
+
+#: wysija-newsletters/views/back/campaigns.php:216
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:114
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:141
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:276
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:183
+msgid "Unopened"
+msgstr "Не адкрыта"
+
+#: wysija-newsletters/views/back/campaigns.php:219
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:110
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:137
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:265
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:179
+msgid "Opened"
+msgstr "Адкрыта"
+
+#: wysija-newsletters/views/back/campaigns.php:225
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:144
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:133
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:252
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:175
+msgid "Clicked"
+msgstr "Націснута"
+
+#: wysija-newsletters/views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "З гэтым сегментам"
+
+#: wysija-newsletters/views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Выдаліць з чаргі"
+
+#: wysija-newsletters/views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Стварыць новы спіс"
+
+#: wysija-newsletters/views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Адпісаць ад усіх спісаў"
+
+#: wysija-newsletters/views/back/campaigns.php:282
+msgid "Unsubscribe from list: %1$s"
+msgstr "Адпісаць ад спісу: %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Экспарт у CSV"
+
+#: wysija-newsletters/views/back/campaigns.php:290
+#: wysija-newsletters/views/back/subscribers.php:178
+#: wysija-newsletters/views/back.php:209
+msgid "Apply"
+msgstr "Ужыць"
+
+#: wysija-newsletters/views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Адкрылі, націснулі, адпісаліся"
+
+#: wysija-newsletters/views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Дата змены"
+
+#: wysija-newsletters/views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Дата адпраўкі"
+
+#: wysija-newsletters/views/back/campaigns.php:365
+msgid "Sent to %1$s out of %2$s"
+msgstr "Адпраўлена %1$s з %2$s"
+
+#: wysija-newsletters/views/back/campaigns.php:365
+msgid "%1$s out of %2$s sent."
+msgstr "Адпраўлена: %1$s з %2$s."
+
+#: wysija-newsletters/views/back/campaigns.php:427
+msgid "Scheduled to be sent in %1$s"
+msgstr "Запланаваныя будуць адпраўлены ў %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:430
+msgid "Scheduled to be sent on %1$s"
+msgstr "Запланаваныя будуць адпраўлены на %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:478
+#: wysija-newsletters/views/back/config.php:189
+msgid "Preview"
+msgstr "Прагляд"
+
+#: wysija-newsletters/views/back/campaigns.php:497
+#: wysija-newsletters/views/back/campaigns.php:520
+#: wysija-newsletters/views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Статыстыка"
+
+#: wysija-newsletters/views/back/campaigns.php:595
+msgid "Next send out in %1$s"
+msgstr "Наступная адпраўка ў %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:598
+msgid "Next send out on %1$s"
+msgstr "Наступная адпраўка на %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:605
+msgid "Sent daily at %1$s."
+msgstr "Адпраўляць штодня ў %1$s."
+
+#: wysija-newsletters/views/back/campaigns.php:608
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Адпраўляць штотыдзень %1$s у %2$s"
+
+#: wysija-newsletters/views/back/campaigns.php:611
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Адпраўляць штомесяц %1$s у %2$s"
+
+#: wysija-newsletters/views/back/campaigns.php:614
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Адпраўляць штомесяц %1$s %2$s у %3$s"
+
+#: wysija-newsletters/views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "калі ёсць новая публікацыя"
+
+#: wysija-newsletters/views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Паўза"
+
+#: wysija-newsletters/views/back/campaigns.php:657
+#: wysija-newsletters/views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Неактыўны."
+
+#: wysija-newsletters/views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Зводка"
+
+#: wysija-newsletters/views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Яшчэ не адпраўлена."
+
+#: wysija-newsletters/views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Адпраўляць неадкладна."
+
+#: wysija-newsletters/views/back/campaigns.php:735
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Адпраўляць адразу пасля таго, як хтосьці падпісваецца на спіс рассылкі %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:737
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Адпраўляць %2$s пасля таго як хтосьці падпісваецца на спіс рассылкі %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:744
+msgid "any role"
+msgstr "любая роля"
+
+#: wysija-newsletters/views/back/campaigns.php:748
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Адправіць адразу пасля дадавання новага карыстальніка на ваш сайт, як %1$s."
+
+#: wysija-newsletters/views/back/campaigns.php:751
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Адправіць %2$s пасля дадавання новага карыстальніка на ваш сайт, як %1$s."
+
+#: wysija-newsletters/views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Адпраўка кожнай падзеі"
+
+#: wysija-newsletters/views/back/campaigns.php:788
+msgid "Sent to %1$s subscribers."
+msgstr "Адпраўлена %1$s падпісантам."
+
+#: wysija-newsletters/views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Апошняя партыя лістоў варта пачаць адпраўляць аўтаматычна праз некалькіх хвілін."
+
+#: wysija-newsletters/views/back/campaigns.php:810
+msgid "Time remaining: %1$s"
+msgstr "Пакінуты час: %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:843
+msgid " %1$s email(s) scheduled."
+msgstr " %1$s ліст(лістоў) запланавана."
+
+#: wysija-newsletters/views/back/campaigns.php:847
+msgid "Latest batch was sent %1$s ago."
+msgstr "Апошняя група была даслана %1$s назад."
+
+#: wysija-newsletters/views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Не чакайце і адпраўляйце прама цяпер."
+
+#: wysija-newsletters/views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Каб аднавіць адпраўку [link]перайдзіце на Прэміум цяпер![/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "паглядзіце спасылкі з [link]Прэміум ліцэнзіяй[/link]."
+
+#: wysija-newsletters/views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Пошук атрымальнікаў"
+
+#: wysija-newsletters/views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Статус ліста"
+
+#: wysija-newsletters/views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Статус падпісанта"
+
+#: wysija-newsletters/views/back/campaigns.php:949
+#: wysija-newsletters/views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Націскаў"
+
+#: wysija-newsletters/views/back/campaigns.php:959
+#: wysija-newsletters/views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Дата падпіскі"
+
+#: wysija-newsletters/views/back/campaigns.php:1000
+#: wysija-newsletters/views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Паглядзець статыстыку ці адрэдагаваць"
+
+#: wysija-newsletters/views/back/campaigns.php:1065
+#: wysija-newsletters/views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Які тып гэтага рассылання?"
+
+#: wysija-newsletters/views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Аўтаматычна адпраўлена…"
+
+#: wysija-newsletters/views/back/campaigns.php:1079
+#: wysija-newsletters/views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Назва рассылання"
+
+#: wysija-newsletters/views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Гэта назва рассылання. Выявіце крэатыўнасць, гэта першае, што ўбачаць Вашы падпісанты."
+
+#: wysija-newsletters/views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Ваш браўзэр можа не падтрымліваць. Загрузіце новы [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] ці [linksafari]Safari[/linksafari]. Здаецца што працуе?[link_ignore]Адхіліць[/link_ignore]."
+
+#: wysija-newsletters/views/back/campaigns.php:1125
+#: wysija-newsletters/views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Захаваць і актываваць"
+
+#: wysija-newsletters/views/back/campaigns.php:1127
+#: wysija-newsletters/views/back/campaigns.php:1313
+#: wysija-newsletters/views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Наступны крок"
+
+#: wysija-newsletters/views/back/campaigns.php:1196
+#: wysija-newsletters/views/back/config.php:1900
+msgid "Content"
+msgstr "Змест"
+
+#: wysija-newsletters/views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Малюнкі"
+
+#: wysija-newsletters/views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Стылі"
+
+#: wysija-newsletters/views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Шаблоны"
+
+#: wysija-newsletters/views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Перацягнеце віджэты ніжэй у макет рассылання."
+
+#: wysija-newsletters/views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Аўтаматычны апошні змест"
+
+#: wysija-newsletters/views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Сацыяльныя закладкі"
+
+#: wysija-newsletters/views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Дадаць малюнакі"
+
+#: wysija-newsletters/views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Дадаць яшчэ тэмы"
+
+#: wysija-newsletters/views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Наша панэль прылад не загружаецца?"
+
+#: wysija-newsletters/views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Канфлікт"
+
+#: wysija-newsletters/views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Павінна быць актыўны 3-і ўдзельнік, убудова іншых распрацоўнікаў ці тэма парушаючая наш інтэрфейс.  [link]Падрабязней.[/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:1302
+#: wysija-newsletters/views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Адправіць прагляд"
+
+#: wysija-newsletters/views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Захаваць змены"
+
+#: wysija-newsletters/views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "вярнуцца да Кроку 1"
+
+#: wysija-newsletters/views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Калі Вы пераключыцеся на гэты шаблон, то гэта заменіць Вашу шапку, падвал, падзельнікі і стылі"
+
+#: wysija-newsletters/views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Будзьце крэатыўныя! Гэта першае, што бачаць падпісанты. Спакусіце іх адкрыць Ваш ліст."
+
+#: wysija-newsletters/views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Адпраўляць, калі…"
+
+#: wysija-newsletters/views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Спіс падпісантаў, які будзе выкарыстоўвацца для гэтай кампаніі."
+
+#: wysija-newsletters/views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Адпраўнік"
+
+#: wysija-newsletters/views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Вашае імя і электронная пошта ці Вашай кампаніі."
+
+#: wysija-newsletters/views/back/campaigns.php:1543
+#: wysija-newsletters/views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Імя і адрас - куды прыходзяць адказы"
+
+#: wysija-newsletters/views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Калі падпісанты націскаюць \"адказаць\", то каму яны будуць адпраўляць свой ліст."
+
+#: wysija-newsletters/views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Расклад"
+
+#: wysija-newsletters/views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ігнараваць бягучых падпісантаў"
+
+#: wysija-newsletters/views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Не адпраўляць бягучым падпісантам, толькі для будучых."
+
+#: wysija-newsletters/views/back/campaigns.php:1593
+#: wysija-newsletters/views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Захаваць як чарнавік і зачыніць"
+
+#: wysija-newsletters/views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "ці проста [link]вярнуцца да дызайну[/link]."
+
+#: wysija-newsletters/views/back/campaigns.php:1745
+msgid "Local time is <code>%1$s</code>"
+msgstr "Мясцовы час  <code>%1$s</code>"
+
+#: wysija-newsletters/views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Стандартнае рассыланне"
+
+#: wysija-newsletters/views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Аўтаматычнае рассыланне"
+
+#: wysija-newsletters/views/back/campaigns.php:1882
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:34
+msgid "Added"
+msgstr "Дададзена"
+
+#: wysija-newsletters/views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Адрас:"
+
+#: wysija-newsletters/views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Альтэрнатыўны тэкст:"
+
+#: wysija-newsletters/views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Гэты тэкст адлюстроўваецца, калі паштовыя праграмы блакуюць малюнкі."
+
+#: wysija-newsletters/views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Загрузіць тэму (.zip)"
+
+#: wysija-newsletters/views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Кіраўніцтва[/link] па стварэнню ўласнай тэмы."
+
+#: wysija-newsletters/views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Бясплатна"
+
+#: wysija-newsletters/views/back/campaigns.php:1967
+#: wysija-newsletters/views/back/subscribers.php:928
+msgid "total max upload file size : %1$s"
+msgstr "агульны максімальны памер загружанага файла: %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Калі шаблон з такім жа імем існуе, перазапісаць яго."
+
+#: wysija-newsletters/views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Пошук"
+
+#: wysija-newsletters/views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Уставіць абранае"
+
+#: wysija-newsletters/views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Які ўрывак выкарыстоўваць? [link]Падрабязней[/link]"
+
+#: wysija-newsletters/views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Паказаць…"
+
+#: wysija-newsletters/views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "урывак"
+
+#: wysija-newsletters/views/back/campaigns.php:2044
+msgid "full post"
+msgstr "поўны запіс"
+
+#: wysija-newsletters/views/back/campaigns.php:2045
+msgid "title only"
+msgstr "толькі загаловак"
+
+#: wysija-newsletters/views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Фармат загалоўка"
+
+#: wysija-newsletters/views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "загаловак 1"
+
+#: wysija-newsletters/views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "загаловак 2"
+
+#: wysija-newsletters/views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "загаловак 3"
+
+#: wysija-newsletters/views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "паказаць як спіс"
+
+#: wysija-newsletters/views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Пазіцыя загалоўка"
+
+#: wysija-newsletters/views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "у тэкставым блоку"
+
+#: wysija-newsletters/views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "над тэкставым блокам і малюнкам"
+
+#: wysija-newsletters/views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Выраўноўванне загалоўка"
+
+#: wysija-newsletters/views/back/campaigns.php:2067
+#: wysija-newsletters/views/back/campaigns.php:2083
+msgid "left"
+msgstr "злева"
+
+#: wysija-newsletters/views/back/campaigns.php:2068
+#: wysija-newsletters/views/back/campaigns.php:2084
+msgid "center"
+msgstr "цэнтр"
+
+#: wysija-newsletters/views/back/campaigns.php:2069
+#: wysija-newsletters/views/back/campaigns.php:2085
+msgid "right"
+msgstr "справа"
+
+#: wysija-newsletters/views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Выраўноўванне малюнка"
+
+#: wysija-newsletters/views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "альтэрнатыўны левы і правы"
+
+#: wysija-newsletters/views/back/campaigns.php:2086
+msgid "no image"
+msgstr "няма малюнка"
+
+#: wysija-newsletters/views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Шырыня малюнка"
+
+#: wysija-newsletters/views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Уключыць аўтара"
+
+#: wysija-newsletters/views/back/campaigns.php:2107
+#: wysija-newsletters/views/back/campaigns.php:2122
+#: wysija-newsletters/views/back/campaigns.php:2162
+msgid "no"
+msgstr "не"
+
+#: wysija-newsletters/views/back/campaigns.php:2108
+#: wysija-newsletters/views/back/campaigns.php:2123
+msgid "above content"
+msgstr "над тэкстам"
+
+#: wysija-newsletters/views/back/campaigns.php:2109
+#: wysija-newsletters/views/back/campaigns.php:2124
+msgid "below content"
+msgstr "ніжэй тэкста"
+
+#: wysija-newsletters/views/back/campaigns.php:2112
+#: wysija-newsletters/views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Папярэднік:"
+
+#: wysija-newsletters/views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Уключыць рубрыкі"
+
+#: wysija-newsletters/views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "Тэкст \"Падрабязней\""
+
+#: wysija-newsletters/views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Колер фону"
+
+#: wysija-newsletters/views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Параметры пакетнай устаўкі"
+
+#: wysija-newsletters/views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Сартаваць па"
+
+#: wysija-newsletters/views/back/campaigns.php:2154
+msgid "newest"
+msgstr "навізне"
+
+#: wysija-newsletters/views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "даўніне"
+
+#: wysija-newsletters/views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Паказваць падзельнік паміж артыкуламі"
+
+#: wysija-newsletters/views/back/campaigns.php:2161
+msgid "yes"
+msgstr "так"
+
+#: wysija-newsletters/views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Колер фону з альтэрнатыўным"
+
+#: wysija-newsletters/views/back/campaigns.php:2197
+#: wysija-newsletters/views/back/campaigns.php:2279
+#: wysija-newsletters/views/back/campaigns.php:2317
+#: wysija-newsletters/views/back/campaigns.php:2352
+#: wysija-newsletters/views/back/config.php:2225
+msgid "Done"
+msgstr "Гатова"
+
+#: wysija-newsletters/views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Тып артыкула"
+
+#: wysija-newsletters/views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Максімум артыкулаў для адлюстравання"
+
+#: wysija-newsletters/views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "І тэрмінаў таксама..."
+
+#: wysija-newsletters/views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Абярыце…"
+
+#: wysija-newsletters/views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Памер:"
+
+#: wysija-newsletters/views/back/campaigns.php:2307
+msgid "small"
+msgstr "маленькі"
+
+#: wysija-newsletters/views/back/campaigns.php:2308
+msgid "medium"
+msgstr "сярэдні"
+
+#: wysija-newsletters/views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: wysija-newsletters/views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: wysija-newsletters/views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Браўзэр Вашай прылады нельга выкарыстоўваць для загрузкі файлаў. Вы можаце выкарыстоўваць <a href=\"http://wordpress.org/extend/mobile/\">роднае прыкладанне для Вашай прылады</a> замест гэтага."
+
+#: wysija-newsletters/views/back/campaigns.php:2471
+#: wysija-newsletters/views/back/campaigns.php:2627
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Выбачце, Вы запоўнілі Вашу квоту сховішча (%s Мб)."
+
+#: wysija-newsletters/views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Дазволеныя файлы"
+
+#: wysija-newsletters/views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Перацягвайце файлы сюды"
+
+#: wysija-newsletters/views/back/campaigns.php:2527
+#: wysija-newsletters/views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Абярыце файлы"
+
+#: wysija-newsletters/views/back/campaigns.php:2544
+#: wysija-newsletters/views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Адмена"
+
+#: wysija-newsletters/views/back/campaigns.php:2549
+msgid "Maximum upload file size: %d%s."
+msgstr "Максімальны памер загружанага файла: %d%s."
+
+#: wysija-newsletters/views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Ваш браўзэр мае некаторыя абмежаванні загрузкі вялікіх файлаў для загрузкі некалькіх файлаў. Калі ласка, выкарыстоўвайце браўзэрны загрузнік для файлаў больш 100 Мб."
+
+#: wysija-newsletters/views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Калі ласка, абнавіце свой WordPress да апошняй версіі, каб атрымліваць апошнія абнаўленні сістэмы."
+
+#: wysija-newsletters/views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Абярыце файлы для загрузкі"
+
+#: wysija-newsletters/views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Адмяніць запампоўку"
+
+#: wysija-newsletters/views/back/campaigns.php:2691
+#: wysija-newsletters/views/back/campaigns.php:2708
+msgid "Maximum upload file size: %d%s"
+msgstr "Максімальны памер загружанага файла: %d%s"
+
+#: wysija-newsletters/views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Калі Вы жадаеце выкарыстоўваць усе магчымасці загрузкі адразу некалькі файлаў, калі ласка, абнавіцеся да lighttpd 1.5."
+
+#: wysija-newsletters/views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Гэтая ўкладка будзе запоўнена малюнкамі з Вашай бягучай і папярэдніх рассыланняў."
+
+#: wysija-newsletters/views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Гэтая ўкладка будзе запоўнена малюнкамі з Вашых запісаў WordPress."
+
+#: wysija-newsletters/views/back/campaigns.php:2817
+msgid "Welcome to %1$s"
+msgstr "Сардэчна запрашаем у %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:2875
+#: wysija-newsletters/views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Дзякуй! Зараз давайце папрацуем з MailPoet."
+
+#: wysija-newsletters/views/back/campaigns.php:2902
+msgid "You have been a MailPoet user for %s."
+msgstr ""
+
+#: wysija-newsletters/views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr ""
+
+#: wysija-newsletters/views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Вы абнавіліся! Гэта прама як займець новы гаджэт, толькі яшчэ лепш."
+
+#: wysija-newsletters/views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr ""
+
+#: wysija-newsletters/views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Падпішыцеся на нашае рассыланне"
+
+#: wysija-newsletters/views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Мы даём вам гэтую ўбудову бясплатна"
+
+#: wysija-newsletters/views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Любіце кацянят?"
+
+#: wysija-newsletters/views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "А мы любім зоркі…"
+
+#: wysija-newsletters/views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Кожны раз, калі адзін з нашых карыстальнікаў забывае напісаць водгук, памірае кацяня. Гэта сумна і разбівае нашыя сэрцы. [link]Дадаць свой водгук[/link] і выратаваць сёння кацяня."
+
+#: wysija-newsletters/views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Сачыце за намі і нічога не прапускайце!"
+
+#: wysija-newsletters/views/back/campaigns.php:2967
+#: wysija-newsletters/views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Схаваць!"
+
+#: wysija-newsletters/views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Спіс змен"
+
+#: wysija-newsletters/views/back/campaigns.php:2992
+msgid "You've updated to %1$s"
+msgstr "Вы абнавіліся да %1$s"
+
+#: wysija-newsletters/views/back/campaigns.php:3132
+#: wysija-newsletters/views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Вітаем! Маем кароткае пытанне да вас:"
+
+#: wysija-newsletters/views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Калі Вы гэта пацвердзіце, усе бягучыя дадзеныя MailPoet будуць выдалены (рассыланні, тэмы, статыстыка, спісы, падпісанты і г.д.)"
+
+#: wysija-newsletters/views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Пацвердзіць пераўсталёўку"
+
+#: wysija-newsletters/views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Гэтая функцыя не можа працаваць, таму што ўключаны ўбудова JetPack \"Каментары\"."
+
+#: wysija-newsletters/views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Рэгістрацыя на гэтым сайце адключана."
+
+#: wysija-newsletters/views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Падпісанты могуць выбіраць з гэтых рассыланняў:"
+
+#: wysija-newsletters/views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Я наладжу cron заданні на сваім серверы для выканання з частатою, як я жадаю. Прачытайце о [link]стварэнні cron заданняў самастойна[/link]."
+
+#: wysija-newsletters/views/back/config.php:216
+#: wysija-newsletters/views/back/config.php:245
+#: wysija-newsletters/views/back/config.php:255
+#: wysija-newsletters-premium/helpers/extend_config.php:338
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Выкарыстоўвайце гэты URL у сваім заданні cron: [cron_url]"
+
+#: wysija-newsletters/views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Не, дзякуй! Мне хапае наведвальнікаў на маім сайце. Іх наведванне запусціць cron MailPoet's аўтаматычна."
+
+#: wysija-newsletters/views/back/config.php:244
+#: wysija-newsletters-premium/helpers/extend_config.php:337
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Я Прэміум карыстальнік, MailPoet.com пераканацца, што мае лісты адпраўляюцца ў тэрмін."
+
+#: wysija-newsletters/views/back/config.php:245
+#: wysija-newsletters-premium/helpers/extend_config.php:338
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Калі я захачу, я магу [link]стварыць дадатковую працу Cron[/link] на маім баку, каб павялічыць частату."
+
+#: wysija-newsletters/views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Калі я захачу, я магу [link]стварыць дадатковую працу Cron[/link] на маім боку, каб павялічыць частату."
+
+#: wysija-newsletters/views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Наладзьце DNS, дадаўшы ключ/значэнне запісу ў TXT, як паказана ніжэй."
+
+#: wysija-newsletters/views/back/config.php:331
+#: wysija-newsletters/views/back/config.php:828
+msgid "Read more"
+msgstr "Чытаць далей"
+
+#: wysija-newsletters/views/back/config.php:334
+msgid "Key"
+msgstr "Ключ"
+
+#: wysija-newsletters/views/back/config.php:334
+msgid "Value"
+msgstr "Значэнне"
+
+#: wysija-newsletters/views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Вы выкарыстоўваеце стары DKIM ключ, які не падтрымліваецца Gmail."
+
+#: wysija-newsletters/views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Вы павінны будзеце абнавіць Вашы DNS калі Вы абнавілі."
+
+#: wysija-newsletters/views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Абнаўленне DKIM ключа"
+
+#: wysija-newsletters/views/back/config.php:345
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:60
+msgid "Domain"
+msgstr "Дамен"
+
+#: wysija-newsletters/views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Ролі і дазволы"
+
+#: wysija-newsletters/views/back/config.php:430
+msgid "View all"
+msgstr "Прагледзець усё"
+
+#: wysija-newsletters/views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Калі хтосьці падпісваецца"
+
+#: wysija-newsletters/views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Калі хтосьці адпісваецца"
+
+#: wysija-newsletters/views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Адпраўляць ліст са штодзённай зводкай"
+
+#: wysija-newsletters/views/back/config.php:477
+#: wysija-newsletters/views/back/config.php:725
+#: wysija-newsletters/views/back/config.php:1001
+#: wysija-newsletters/views/back/config.php:1026
+#: wysija-newsletters/views/back/config.php:1045
+#: wysija-newsletters/views/back/config.php:1167
+#: wysija-newsletters/views/back/config.php:1174
+#: wysija-newsletters/views/back/config.php:1602
+#: wysija-newsletters/views/back/config.php:1626
+#: wysija-newsletters/views/back/config.php:2584
+#: wysija-newsletters/views/back/config.php:2660
+#: wysija-newsletters/views/back/config.php:2679
+#: wysija-newsletters/views/back/subscribers.php:1262
+#: wysija-newsletters-premium/helpers/extend_config.php:191
+msgid "No"
+msgstr "Не"
+
+#: wysija-newsletters/views/back/config.php:486
+#: wysija-newsletters/views/back/config.php:725
+#: wysija-newsletters/views/back/config.php:1035
+#: wysija-newsletters/views/back/config.php:1054
+#: wysija-newsletters/views/back/config.php:1167
+#: wysija-newsletters/views/back/config.php:1174
+#: wysija-newsletters/views/back/config.php:1635
+#: wysija-newsletters/views/back/config.php:2583
+#: wysija-newsletters/views/back/config.php:2659
+#: wysija-newsletters/views/back/config.php:2678
+#: wysija-newsletters/views/back/subscribers.php:1261
+#: wysija-newsletters-premium/helpers/extend_config.php:191
+msgid "Yes"
+msgstr "Так"
+
+#: wysija-newsletters/views/back/config.php:593
+#: wysija-newsletters/views/back/config.php:603
+#: wysija-newsletters/views/back/config.php:612
+#: wysija-newsletters/views/back/config.php:623
+#: wysija-newsletters/views/back/config.php:1389
+#: wysija-newsletters-premium/helpers/extend_config.php:130
+msgid "Save settings"
+msgstr "Захаваць налады"
+
+#: wysija-newsletters/views/back/config.php:648
+msgid "Your company's address"
+msgstr "Адрас Вашай кампаніі"
+
+#: wysija-newsletters/views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Гэты адрас будзе дадавацца ў падвале Вашых рассыланняў. Гэта дапаможа пазбегнуць СПАМ-фільтры."
+
+#: wysija-newsletters/views/back/config.php:655
+msgid "Email notifications"
+msgstr "Адрас для апавяшчэнняў"
+
+#: wysija-newsletters/views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Увядзіце адрасы электроннай пошты тых людзей, якія павінны атрымліваць апавяшчэнні (праз коску)."
+
+#: wysija-newsletters/views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Адпраўнік апавяшчэнняў"
+
+#: wysija-newsletters/views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Абярыце АД каго і адрас электроннай пошты для апавяшчэнняў па электроннай пошце."
+
+#: wysija-newsletters/views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Падпіска ў каментарах"
+
+#: wysija-newsletters/views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Наведвальнікі, якія пакінулі свой каментар на артыкул могуць усталяваць сцяжок, каб падпісацца."
+
+#: wysija-newsletters/views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Форма рэгістрацыі падпіскі"
+
+#: wysija-newsletters/views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Дазволіць карыстальнікам якія рэгіструюцца на Вашым сайце падпісвацца на абраны Вамі спіс."
+
+#: wysija-newsletters/views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Спасылка на браўзэрную версію"
+
+#: wysija-newsletters/views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Адлюстроўваецца зверху Вашага рассылання. Не забудзьцеся складаць спасылку тэгамі, а менавіта: [link]Гэта спасылка[/link]"
+
+#: wysija-newsletters/views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Тэкст спасылкі \"Адпісацца ад рассылкі\""
+
+#: wysija-newsletters/views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Гэта зменіць назву спасылкі для адпіскі ўнізе Вашага рассылання."
+
+#: wysija-newsletters/views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Старонка адпіскі"
+
+#: wysija-newsletters/views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Падпісант накіроўваецца на Вашу абраную старонку, пасля націску на спасылку для адмовы ад падпіскі, у ніжняй частцы рассылання."
+
+#: wysija-newsletters/views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Уключыць пацверджанне рэгістрацыі"
+
+#: wysija-newsletters/views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Прадухіліце людзей ад непажаданай падпіскі на свой спіс, гэты параметр забяспечыць Вам захаваць ліст чыстым."
+
+#: wysija-newsletters/views/back/config.php:727
+msgid "Learn more."
+msgstr "Падрабязней."
+
+#: wysija-newsletters/views/back/config.php:735
+msgid "Email subject"
+msgstr "Тэма ліста"
+
+#: wysija-newsletters/views/back/config.php:740
+msgid "Email content"
+msgstr "Змест ліста"
+
+#: wysija-newsletters/views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Не забывайце ўстаўляць: <br><br>[activation_link]Пацвердзіце сваю падпіску.[/activation_link]. <br><br>Дадаткова: [lists_to_confirm]."
+
+#: wysija-newsletters/views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Старонка пацверджання"
+
+#: wysija-newsletters/views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Калі падпісанты націскаюць на спасылку актывацыі, яны перанакіроўваюцца на Вашу абраную старонку."
+
+#: wysija-newsletters/views/back/config.php:793
+msgid "Network's Method"
+msgstr "Сеткавы метад"
+
+#: wysija-newsletters/views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Метад усталяваны сеткавым адміністратарам."
+
+#: wysija-newsletters/views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Не наладжана!"
+
+#: wysija-newsletters/views/back/config.php:812
+#: wysija-newsletters/views/back/config.php:1417
+msgid "Your own website"
+msgstr "З Вашага сайта"
+
+#: wysija-newsletters/views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Самае простае з усіх рашэнняў для малых спісаў. Ваш хостынг усталёўвае ліміт лістоў у дзень."
+
+#: wysija-newsletters/views/back/config.php:827
+#: wysija-newsletters/views/back/config.php:1430
+msgid "Third party"
+msgstr "Трэці бок"
+
+#: wysija-newsletters/views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Адпраўка праз прафесійнага пастаўшчыка SMTP, выдатны выбар для вялікіх і малых спісаў. Мы дамовіліся пра адмысловыя прапановы з некалькімі пастаўшчыкамі для Вас."
+
+#: wysija-newsletters/views/back/config.php:837
+#: wysija-newsletters/views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Спосаб дастаўкі"
+
+#: wysija-newsletters/views/back/config.php:838
+#: wysija-newsletters/views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Адпраўце сабе некалькі тэставых лістоў, каб праверыць, які спосаб працуе з Вашым серверам."
+
+#: wysija-newsletters/views/back/config.php:855
+#: wysija-newsletters/views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Гэты механізм дастаўкі лістоў працуе на 95&#37; сервераў"
+
+#: wysija-newsletters/views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Гэты метад працуе на 5&#37; сервераў"
+
+#: wysija-newsletters/views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Шлях да Sendmail"
+
+#: wysija-newsletters/views/back/config.php:884
+#: wysija-newsletters/views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Выкарыстоўвайце той жа метад, які выкарыстоўваецца для WP сайта."
+
+#: wysija-newsletters/views/back/config.php:898
+#: wysija-newsletters/views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP імя хаста"
+
+#: wysija-newsletters/views/back/config.php:899
+#: wysija-newsletters/views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "напрыклад: smtp.mydomain.com"
+
+#: wysija-newsletters/views/back/config.php:916
+#: wysija-newsletters/views/back/config.php:1517
+#: wysija-newsletters-premium/helpers/extend_config.php:175
+msgid "Login"
+msgstr "Логін"
+
+#: wysija-newsletters/views/back/config.php:933
+#: wysija-newsletters/views/back/config.php:1107
+#: wysija-newsletters/views/back/config.php:1535
+#: wysija-newsletters-premium/helpers/extend_config.php:179
+msgid "Password"
+msgstr "Пароль"
+
+#: wysija-newsletters/views/back/config.php:951
+#: wysija-newsletters/views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Актываваць, калі Вашы SMTP порты заблакаваны."
+
+#: wysija-newsletters/views/back/config.php:973
+#: wysija-newsletters/views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP порт"
+
+#: wysija-newsletters/views/back/config.php:993
+#: wysija-newsletters/views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Абароненае падлучэнне"
+
+#: wysija-newsletters/views/back/config.php:1010
+#: wysija-newsletters/views/back/config.php:1611
+msgid "Authentication"
+msgstr "Аўтэнтыфікацыя"
+
+#: wysija-newsletters/views/back/config.php:1011
+#: wysija-newsletters/views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Пакіньце Так. Толькі малая частка SMTP сэрвісаў, просяць каб ідэнтыфікацыя была выключана."
+
+#: wysija-newsletters/views/back/config.php:1064
+#: wysija-newsletters/views/back/config.php:1646
+msgid "Test method"
+msgstr "Тэставы метад"
+
+#: wysija-newsletters/views/back/config.php:1068
+#: wysija-newsletters/views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Адправіць тэставы ліст"
+
+#: wysija-newsletters/views/back/config.php:1075
+#: wysija-newsletters/views/back/config.php:1658
+msgid "Send..."
+msgstr "Адпраўляць па"
+
+#: wysija-newsletters/views/back/config.php:1077
+#: wysija-newsletters/views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Ваш хостынг мае свае ліміты. Мы прапануем 70 электронных лістоў у гадзіну, каб быць у бяспецы. [link]Падрабязней[/link]."
+
+#: wysija-newsletters/views/back/config.php:1089
+#: wysija-newsletters/views/back/config.php:1669
+msgid "emails"
+msgstr "лістоў"
+
+#: wysija-newsletters/views/back/config.php:1097
+#: wysija-newsletters/views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Хутка!"
+
+#: wysija-newsletters/views/back/config.php:1097
+#: wysija-newsletters/views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Мы раім Вам усталяваць CRON. [link]Падрабязней[/link] на support.mailpoet.com"
+
+#: wysija-newsletters/views/back/config.php:1106
+msgid "API Key"
+msgstr ""
+
+#: wysija-newsletters/views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Вы можаце змяніць стандартны паштовы адрас для Вашага рассылання. Гэтая опцыя таксама выкарыстоўваецца для актывацыі лістоў і апавяшчэнняў адміністратара (у Асноўныя)."
+
+#: wysija-newsletters/views/back/config.php:1143
+#: wysija-newsletters-premium/helpers/extend_config.php:165
+msgid "Bounce Email"
+msgstr "Адрас для зваротаў"
+
+#: wysija-newsletters/views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "На які адрас варта адпраўляць усе лісты зваротаў? Атрымайце [link]Прэміум версію[/link] для аўтаматычнай апрацоўкі."
+
+#: wysija-newsletters/views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Купіць Прэміум версію."
+
+#: wysija-newsletters/views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Падпісанты могуць рэдагаваць свой профіль?"
+
+#: wysija-newsletters/views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Дадайце спасылку ўнізе ўсіх Вашых рассыланняў для таго каб падпісанты маглі рэдагаваць свае профілі і спісы.  [link]Паглядзіце Вашу ўласную старонку профіля падпісанта.[/link]"
+
+#: wysija-newsletters/views/back/config.php:1155
+#: wysija-newsletters-premium/helpers/extend_config.php:90
+msgid "Preview page"
+msgstr "Прагляд старонкі"
+
+#: wysija-newsletters/views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Старонка профіля падпісанта"
+
+#: wysija-newsletters/views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Абярыце старонку для адлюстравання профіля падпісантаў."
+
+#: wysija-newsletters/views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Дазволіць рэдагаванне HTML"
+
+#: wysija-newsletters/views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Гэта дазволіць Вам змяняць HTML тэкставых блокаў у візуальным рэдактары."
+
+#: wysija-newsletters/views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Падзяліцца ананімнымі дадзенымі"
+
+#: wysija-newsletters/views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Падзеліцеся ананімнымі дадзенымі і дапамажыце нам палепшыць убудову. [link]Падрабязней[/link]."
+
+#: wysija-newsletters/views/back/config.php:1184
+msgid "other"
+msgstr "іншае"
+
+#: wysija-newsletters/views/back/config.php:1185
+msgid "art"
+msgstr "мастацтва"
+
+#: wysija-newsletters/views/back/config.php:1186
+msgid "business"
+msgstr "бізнэс"
+
+#: wysija-newsletters/views/back/config.php:1187
+msgid "education"
+msgstr "адукацыя"
+
+#: wysija-newsletters/views/back/config.php:1188
+msgid "e-commerce"
+msgstr "электронная камерцыя"
+
+#: wysija-newsletters/views/back/config.php:1189
+msgid "food"
+msgstr "харчаванне"
+
+#: wysija-newsletters/views/back/config.php:1190
+msgid "insurance"
+msgstr "страхаванне"
+
+#: wysija-newsletters/views/back/config.php:1191
+msgid "government"
+msgstr "урад"
+
+#: wysija-newsletters/views/back/config.php:1192
+msgid "health and sports"
+msgstr "здароўе і спорт"
+
+#: wysija-newsletters/views/back/config.php:1193
+msgid "manufacturing"
+msgstr "вытворчасць"
+
+#: wysija-newsletters/views/back/config.php:1194
+msgid "marketing and media"
+msgstr "маркетынг і медыя"
+
+#: wysija-newsletters/views/back/config.php:1195
+msgid "non profit"
+msgstr "некамерцыйная"
+
+#: wysija-newsletters/views/back/config.php:1196
+msgid "photography"
+msgstr "фатаграфаванне"
+
+#: wysija-newsletters/views/back/config.php:1197
+msgid "travel"
+msgstr "вандраванне"
+
+#: wysija-newsletters/views/back/config.php:1198
+msgid "real estate"
+msgstr "нерухомасць"
+
+#: wysija-newsletters/views/back/config.php:1199
+msgid "religious"
+msgstr "рэлігійны"
+
+#: wysija-newsletters/views/back/config.php:1200
+msgid "technology"
+msgstr "тэхналогія"
+
+#: wysija-newsletters/views/back/config.php:1202
+msgid "Industry"
+msgstr "Галіна"
+
+#: wysija-newsletters/views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Абярыце Вашу галіну."
+
+#: wysija-newsletters/views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Шорткод для адлюстравання агульнай колькасці падпісантаў"
+
+#: wysija-newsletters/views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Устаўце гэты шорткод для адлюстравання колькасці пацверджаных падпісантаў у артыкул ці старонку."
+
+#: wysija-newsletters/views/back/config.php:1221
+msgid "Charset"
+msgstr "Кадыроўка"
+
+#: wysija-newsletters/views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Вашы лісты адлюстроўваюцца квадратамі ці дзіўнымі знакамі? Абярыце кадыроўку для Вашай мовы."
+
+#: wysija-newsletters/views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Уключыць MailPoet Cron"
+
+#: wysija-newsletters/views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Ніводзін з вашых лістоў не быў адпраўлены? Таму ўключыце гэтую опцыю."
+
+#: wysija-newsletters/views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Рэжым адладкі"
+
+#: wysija-newsletters/views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Уключыце для адлюстравання памылак у MailPoet. Наша служба падтрымкі можа папытаць Вас уключыць гэты параметр, калі Вы папытаеце іх дапамогі."
+
+#: wysija-newsletters/views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Рабіць ці не. Тут няма спробаў."
+
+#: wysija-newsletters/views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Адмысловыя налады"
+
+#: wysija-newsletters/views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Паказаць адмысловыя налады"
+
+#: wysija-newsletters/views/back/config.php:1260
+msgid "Hide"
+msgstr "Схаваць"
+
+#: wysija-newsletters/views/back/config.php:1260
+#: wysija-newsletters/views/back/statistics.php:10
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:105
+#: wysija-newsletters-premium/modules/stats_top_links/stats_top_links_view.php:136
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:154
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:68
+msgid "Show"
+msgstr "Паказаць"
+
+#: wysija-newsletters/views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Пераўсталяваць нанова"
+
+#: wysija-newsletters/views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Жадаеце пачаць усё спачатку? Гэта знішчыць MailPoet і пераўсталюе нанова."
+
+#: wysija-newsletters/views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Пераўсталяваць цяпер"
+
+#: wysija-newsletters/views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Абраць Вашу любімую канфігурацыю?"
+
+#: wysija-newsletters/views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Адна канфігурацыя для ўсіх сайтаў"
+
+#: wysija-newsletters/views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Прымусова ўсім сайтам адпраўляць з унікальным адрасам АД электроннай пошты. Вам трэба толькі адзін раз наладзіць аўтаматычную апрацоўку зваротаў (Прэміум), SPF і DKIM."
+
+#: wysija-newsletters/views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Карыстальнікі могуць змяніць свой адрас для адказу на іх рассыланне. Сеткавыя адміністратары могуць па-ранейшаму рэдагаваць метад адпраўкі для кожнага сайта."
+
+#: wysija-newsletters/views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Сканфігуруйце кожны сайт уручную"
+
+#: wysija-newsletters/views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Сканфігуруйце SPF і DKIM асобна для кожнага сайта."
+
+#: wysija-newsletters/views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Канфігурацыя і правы доступу"
+
+#: wysija-newsletters/views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Дазволіць адміністратарам сайта, змяняць метад адпраўкі"
+
+#: wysija-newsletters/views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Дазволіць адміністратарам сайта адключаць пацверджанне Падпісацца"
+
+#: wysija-newsletters/views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Спосаб адпраўкі ў сеткі па змаўчанню"
+
+#: wysija-newsletters/views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF і DKIM"
+
+#: wysija-newsletters/views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Ваш SPF запіс"
+
+#: wysija-newsletters/views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "АД адрас электроннай пошты для сайтаў, якія выкарыстоўваюць гэты метад"
+
+#: wysija-newsletters/views/back/config.php:1710
+#: wysija-newsletters/widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Стварыць новую форму"
+
+#: wysija-newsletters/views/back/config.php:1750
+msgid "No list specified"
+msgstr "Не ўказаны спіс"
+
+#: wysija-newsletters/views/back/config.php:1755
+msgid "User choice: %s"
+msgstr "Карыстальнік абраў: %s"
+
+#: wysija-newsletters/views/back/config.php:1803
+msgid "Edit form"
+msgstr "Рэдагаваць форму"
+
+#: wysija-newsletters/views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Каб адрэдагаваць форму, неабходна мець прынамсі 1 спіс."
+
+#: wysija-newsletters/views/back/config.php:1806
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Дадаць спіс"
+
+#: wysija-newsletters/views/back/config.php:1815
+msgid "Edit name"
+msgstr "Рэдагаваць імя"
+
+#: wysija-newsletters/views/back/config.php:1816
+msgid "List of forms"
+msgstr "Спіс формаў"
+
+#: wysija-newsletters/views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Гэтая форма дадае падпісантаў у гэтыя спісы:"
+
+#: wysija-newsletters/views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Абярыце спіс"
+
+#: wysija-newsletters/views/back/config.php:1866
+msgid "After submit..."
+msgstr "Пасля адпраўкі…"
+
+#: wysija-newsletters/views/back/config.php:1868
+msgid "show message"
+msgstr "паказаць паведамленне"
+
+#: wysija-newsletters/views/back/config.php:1869
+msgid "go to page"
+msgstr "перайсці на старонку"
+
+#: wysija-newsletters/views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Вы можаце лёгка дадаць гэтую форму ў свае тэмы [link]Вобласць віджэтаў[/link]."
+
+#: wysija-newsletters/views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]іфрэйм[/link_iframe] і [link_shortcode]шорткод[/link_shortcode] версіі таксама даступныя."
+
+#: wysija-newsletters/views/back/config.php:2154
+msgid "Text Input"
+msgstr "Увод тэксту"
+
+#: wysija-newsletters/views/back/config.php:2155
+msgid "Text Area"
+msgstr "Тэкставая вобласць"
+
+#: wysija-newsletters/views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Перамыкачы"
+
+#: wysija-newsletters/views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Чэкбокс"
+
+#: wysija-newsletters/views/back/config.php:2158
+msgid "Select"
+msgstr "Выбар"
+
+#: wysija-newsletters/views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Абярыце тып поля:"
+
+#: wysija-newsletters/views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Назвы палёў:"
+
+#: wysija-newsletters/views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Аўтаматычнае даданне пунктаў"
+
+#: wysija-newsletters/views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Колькасць радкоў:"
+
+#: wysija-newsletters/views/back/config.php:2302
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: wysija-newsletters/views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Абярыце спіс, які неабходна дадаць:"
+
+#: wysija-newsletters/views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Год, месяц, дзень"
+
+#: wysija-newsletters/views/back/config.php:2422
+msgid "Year, month"
+msgstr "Год, месяц"
+
+#: wysija-newsletters/views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Месяц (Студзень, Люты, …)"
+
+#: wysija-newsletters/views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Тып даты:"
+
+#: wysija-newsletters/views/back/config.php:2530
+msgid "Add item"
+msgstr "Дадаць пункт"
+
+#: wysija-newsletters/views/back/config.php:2565
+msgid "Label:"
+msgstr "Пазнака:"
+
+#: wysija-newsletters/views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Паказаць пазнаку пры ўводзе:"
+
+#: wysija-newsletters/views/back/config.php:2619
+msgid "Order:"
+msgstr "Парадак:"
+
+#: wysija-newsletters/views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Папярэдні выбар бягучай даты:"
+
+#: wysija-newsletters/views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Гэтае поле абавязкова?"
+
+#: wysija-newsletters/views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Толькі лічбы"
+
+#: wysija-newsletters/views/back/config.php:2724
+msgid "Letters only"
+msgstr "Толькі літары"
+
+#: wysija-newsletters/views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Літарна-лічбавыя"
+
+#: wysija-newsletters/views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Нумар тэлефона, (+, -, #, (,) і прабелы дазваляюцца)"
+
+#: wysija-newsletters/views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Праверка для:"
+
+#: wysija-newsletters/views/back/config.php:2734
+msgid "Nothing"
+msgstr "Нічога"
+
+#: wysija-newsletters/views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Салодкія ўражанні з нашым Прэміум"
+
+#: wysija-newsletters/views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Уся Ваша статыстыка ў адной панэлі"
+
+#: wysija-newsletters/views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Паглядзець поўны скрыншот"
+
+#: wysija-newsletters/views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Атрымлівайце задавальненне ад паляпшэння"
+
+#: wysija-newsletters/views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Глядзіце свае лепшыя рассыланні, падпісантаў, спасылкі, лісты і дамены на адным экране. Ці зможаце Вы перасягнуць свае мінулыя рассыланні?"
+
+#: wysija-newsletters/views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Павялічце лік сваіх падпісантаў"
+
+#: wysija-newsletters/views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Мая форма ў сайдбары атрымлівае больш падпісантаў, чым у футэры? Час высвятліць гэта."
+
+#: wysija-newsletters/views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Параўнаеце мінулае і сучаснае"
+
+#: wysija-newsletters/views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Вы робіце лепш, чым 3 месяца назад? Абярыце дыяпазон дат, каб выявіць змены ў сваіх выніках."
+
+#: wysija-newsletters/views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Дасягнуць іх тэчкі ўваходных"
+
+#: wysija-newsletters/views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Атрымаеце сваю спам адзнаку ў 1 клік, пакуль Вы распрацоўваеце сваё рассыланне з дапамогай [link]mail-tester[/link], нашай уласнай папулярнай прылады."
+
+#: wysija-newsletters/views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Спам фільтры любяць DKIM"
+
+#: wysija-newsletters/views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Дадайце DKIM подпіс у рассыланне для павелічэння дастаўляльнасці вашых рассыланняў. [link]Прачытайце кіраўніцтва.[/link]"
+
+#: wysija-newsletters/views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Давайце наладзім яго"
+
+#: wysija-newsletters/views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Наш міжнародны і дружны калектыў дапаможа Вам аптымізаваць налады ў дэталях і пераканаецца што ў Вас усё добра. Мы адказваем на пытанні ў сярэднім за 10 гадзін. Даволі хутка!"
+
+#: wysija-newsletters/views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Аўтаматызацыя сумных рэчаў"
+
+#: wysija-newsletters/views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Дазвольце ўбудове выдаляць <strong>звароты і несапраўдныя адрасы</strong> аўтаматычна. [link]Гл. кіраўніцтва.[/link]"
+
+#: wysija-newsletters/views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Акрамя таго, MailPoet правярае кожныя 15 хвілін Ваш сайт, <strong>гэтак жа, як планоўшчык заданняў \"cron\"</strong>, каб пераканацца, што Вашы лісты адпраўляюцца своечасова. Без усталёўкі!"
+
+#: wysija-newsletters/views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 дзённы зварот грошай"
+
+#: wysija-newsletters/views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Выдатны спосаб паспрабаваць Прэміум. Ніхто не павінен быць абмежаваны."
+
+#: wysija-newsletters/views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Кацяня проста, каб запоўніць прабел. Ён выглядае галодным, ці не так? Мы любім кацянят."
+
+#: wysija-newsletters/views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Больш няма ліміту ў 2000 падпісантаў"
+
+#: wysija-newsletters/views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Бясплатная версія блакуе адпраўку Вашых рассыланняў, калі ў Вас ёсць 2000 пацверджаных падпісантаў. Прэміум здымае гэта абмежаванне."
+
+#: wysija-newsletters/views/back/premium.php:116
+msgid "And more..."
+msgstr "І шмат іншага…"
+
+#: wysija-newsletters/views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Даведайцеся, што робяць Вашы падпісанты, калі яны прыходзяць на Ваш сайт, дзякуючы адсочванню кампаній Google Analytics"
+
+#: wysija-newsletters/views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Дэталёвая статыстыка па кожным падпісанце"
+
+#: wysija-newsletters/views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Статыстыка пераходаў па спасылках для кожнага рассылання"
+
+#: wysija-newsletters/views/back/premium.php:132
+#: wysija-newsletters/views/back/premium.php:286
+msgid "Blogger"
+msgstr "Блогер"
+
+#: wysija-newsletters/views/back/premium.php:135
+msgid "Freelance"
+msgstr "Фрыланс"
+
+#: wysija-newsletters/views/back/premium.php:138
+#: wysija-newsletters/views/back/premium.php:296
+msgid "Agency"
+msgstr "Агенцтва"
+
+#: wysija-newsletters/views/back/premium.php:148
+#: wysija-newsletters/views/back/premium.php:152
+#: wysija-newsletters/views/back/premium.php:156
+msgid "per year"
+msgstr "у год"
+
+#: wysija-newsletters/views/back/premium.php:162
+msgid "Single Site"
+msgstr "Адзін сайт"
+
+#: wysija-newsletters/views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Чатыры сайты"
+
+#: wysija-newsletters/views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Неабмежаваны лік сайтаў"
+
+#: wysija-newsletters/views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Падтрымка сеткі сайтаў."
+
+#: wysija-newsletters/views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Купіць цяпер"
+
+#: wysija-newsletters/views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Ужо заплацілі?"
+
+#: wysija-newsletters/views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Ёсць пытанні па продажах? [link]Звяжыцеся[/link]."
+
+#: wysija-newsletters/views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Маніторыць усё з большым лікам статыстыкі"
+
+#: wysija-newsletters/views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Шукае адказы? Чаму такая і такая кампанія працавала так добра? Якая ваша найбольш эфектыўная форма падпіскі? Атрымаць выразны малюнак з нашай новай статыстыкі прыборнай панэлі! [link] Атрымаць прыборную панэль статыстыкі ў Прэміум.[/link]"
+
+#: wysija-newsletters/views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Ачысціць аўтаматычна спіс рассылання"
+
+#: wysija-newsletters/views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Адправіць як ПРО пакет і працягваць пасылаць высокую рэпутацыю вашага сервера. Дзякуючы нашаму перадавому інструменту ачысткі спісу, можна, нарэшце, пазбегнуць адпраўкі на старыя або пашкоджаныя адрасы электроннай пошты. [link] Трымайце спіс чыстым з Premium. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Адправіць на больш высокай частаце"
+
+#: wysija-newsletters/views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Ці вы ведалі? Гэта лепш, каб адправіць менш лістоў на больш высокіх частотах. Атрымайце прэміум і мы будзем пінгаваць ваш сайт кожныя 15 хвілін, пераканаўшыся, што вашыя лісты адпраўляюцца гладка на гэтай частаце. [link] Адаслаць лепш з Premium. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Забудзьцеся пра абмежаванні"
+
+#: wysija-newsletters/views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Здыміце абмежаванне ў 2000 падпісчыкаў у межах бясплатнай версіі, і адпраўляйце любым абанентам, як вы хочаце. [link] Пазбаўцеся ад гэтага абмежавання![/link]"
+
+#: wysija-newsletters/views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Даследуйце вашых топавых падпісантаў"
+
+#: wysija-newsletters/views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Даведайцеся, якія спасылкі з'яўляюцца галоўнымі хітамі ў кожнай рассылцы. Высвятліце, якія абаненты вашы прыхільнікі нумар адзін і атрымайце дадатковыя звесткі пра іх. [link] Атрымаць больш інфармацыі з прэміум. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Атрымаць хутчэйшую падтрымку"
+
+#: wysija-newsletters/views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Прапусціце чаргу, ідзіце прама да нашай прыярытэтнай паштовай скрыні. [link] атрымаць хуткую падтрымку прэміум-класа. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Атрымаць больш тэм"
+
+#: wysija-newsletters/views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Нядобрая адпаведнасць колеру? Не хвалюйцеся, мы працуем з вядучымі дызайнерамі, каб даць вам мноства тэм, найноўшым з'яўляюцца Прэміум эксклюзівы. [link] Атрымаць больш тэм у Прэміум. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Адсочваць сваіх чытачоў у рамках Google Analytics"
+
+#: wysija-newsletters/views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Пераканайцеся, што вашыя абаненты робяць, як толькі вы прывялі іх на свой сайт і павысце каэфіцыент ўтрымання. [link] Адсочваць вашых чытачоў з АГ ў Premium. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "Гарантыя 30 дзён шчасця"
+
+#: wysija-newsletters/views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Па-ранейшаму ўзнікаюць сумневы з нагоды нашай прадукцыі і нашай каманды 9? Не хвалюйцеся, мы будзем дастаткова ўпэўненымі, каб даць вам 30 дзён, каб паспрабаваць яго. Мы вернем вам у адно імгненне, калі вы не задаволеныя. [link]Атрымаць прэміум цяпер без стрэсу. [/link]"
+
+#: wysija-newsletters/views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Будзьце прадуктыўныя дзякуючы Прэміум!"
+
+#: wysija-newsletters/views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "У нас ёсць 3 розных ліцэнзій, даступных, каб адпавядаць вашым патрэбам:"
+
+#: wysija-newsletters/views/back/premium.php:287
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Для %s у год, атрымаеце 1 сайт пакрыты Прэміум."
+
+#: wysija-newsletters/views/back/premium.php:288
+#: wysija-newsletters/views/back/premium.php:292
+#: wysija-newsletters/views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Атрымаць цяпер!"
+
+#: wysija-newsletters/views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Фрылансер"
+
+#: wysija-newsletters/views/back/premium.php:291
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Для %s у год, атрымаеце 4 Вашых сайтаў, пакрытых Прэміум."
+
+#: wysija-newsletters/views/back/premium.php:297
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Для %s у год, атрымаеце ўсе Вашы сайты, пакрытыя Прэміум."
+
+#: wysija-newsletters/views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Прачытайце нашы простыя і лёгкія [link]умовы.[/link]"
+
+#: wysija-newsletters/views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Панэль статыстыкі"
+
+#: wysija-newsletters/views/back/statistics.php:48
+msgid "To"
+msgstr "Для"
+
+#: wysija-newsletters/views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "У вас ёсць меркаванне па гэтай статыстыцы? [link]Звяжыцеся з намі[/link] напроста, дайце нам ведаць."
+
+#: wysija-newsletters/views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Спісы і падпісанты"
+
+#: wysija-newsletters/views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Пошук падпісантаў"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Назад да спісаў"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Рэдагаваць спісы"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+#: wysija-newsletters/views/back/subscribers.php:1235
+#: wysija-newsletters/views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Імпарт"
+
+#: wysija-newsletters/views/back/subscribers.php:34
+#: wysija-newsletters/views/back/subscribers.php:166
+#: wysija-newsletters/views/back/subscribers.php:465
+msgid "Export"
+msgstr "Экспарт"
+
+#: wysija-newsletters/views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Не ў спісе"
+
+#: wysija-newsletters/views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Ніколі не адкрывалі ці націскалі"
+
+#: wysija-newsletters/views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Выдаліць гэтага падпісанта назаўжды?"
+
+#: wysija-newsletters/views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Выдаліць гэтых падпісантаў назаўжды?"
+
+#: wysija-newsletters/views/back/subscribers.php:119
+#: wysija-newsletters/views/back.php:202
+msgid "Bulk Actions"
+msgstr "Масавыя дзеянні"
+
+#: wysija-newsletters/views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Перамясціць у спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Дадаць у спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Выдаліць са спісу"
+
+#: wysija-newsletters/views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Выдаліць з усіх спісаў"
+
+#: wysija-newsletters/views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Выдаліць падпісантаў"
+
+#: wysija-newsletters/views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Пацвердзіць непацверджаных падпісантаў"
+
+#: wysija-newsletters/views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Адправіць паўторна пацверджанне па электроннай пошце"
+
+#: wysija-newsletters/views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Прагляд усіх спісаў"
+
+#: wysija-newsletters/views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Падпісанты не ў спісе"
+
+#: wysija-newsletters/views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Апошняе адкрытае"
+
+#: wysija-newsletters/views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Апошняе націснутае"
+
+#: wysija-newsletters/views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "На гэтай старонцы будуць абраны ўсе падпісанты."
+
+#: wysija-newsletters/views/back/subscribers.php:297
+msgid "Select all %1$s subscribers."
+msgstr "Абраць усіх %1$s падпісантаў."
+
+#: wysija-newsletters/views/back/subscribers.php:300
+msgid "All %1$s subscribers are selected."
+msgstr "Усе %1$s падпісантаў абраны."
+
+#: wysija-newsletters/views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Ачысціць выбар"
+
+#: wysija-newsletters/views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Спісы на якія падпісант быў падпісаны."
+
+#: wysija-newsletters/views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Абярыце спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:414
+msgid "Format"
+msgstr "Фармат"
+
+#: wysija-newsletters/views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "Файл CSV"
+
+#: wysija-newsletters/views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel для Windows"
+
+#: wysija-newsletters/views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Экспарт толькі пацверджаных падпісантаў"
+
+#: wysija-newsletters/views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Спіс палёў для экспарту"
+
+#: wysija-newsletters/views/back/subscribers.php:587
+#: wysija-newsletters/views/front/confirm.php:140
+msgid "Unsubscribed on %1$s"
+msgstr "Адпісаўся ад %1$s"
+
+#: wysija-newsletters/views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Нататка: Пазнайце, што адкрыў і націснуў гэты падпісант у нашай [link]Прэміум версіі.[/link]"
+
+#: wysija-newsletters/views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Дата стварэння"
+
+#: wysija-newsletters/views/back/subscribers.php:764
+msgid "Update"
+msgstr "Абнавіць"
+
+#: wysija-newsletters/views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Атрымаць усіх карыстальнікаў MS"
+
+#: wysija-newsletters/views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Для ўласнага выкарыстання і не паказываць Вашым падпісантам."
+
+#: wysija-newsletters/views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Абнавіць спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Дадаць спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Як Вы жадаеце імпартаваць?"
+
+#: wysija-newsletters/views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Скапіяваць і ўставіць у тэкставае поле"
+
+#: wysija-newsletters/views/back/subscribers.php:885
+#: wysija-newsletters/views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Загрузіць файл"
+
+#: wysija-newsletters/views/back/subscribers.php:900
+msgid "Import from %1$s"
+msgstr "Імпарт з %1$s"
+
+#: wysija-newsletters/views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Затым устаўце спіс тут"
+
+#: wysija-newsletters/views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Гэта павінен быць CSV стыль ці проста ўстаўце з Gmail, Hotmail ці Yahoo. Паглядзіце [link]прыклады на сайце нашай падтрымкі[/link]."
+
+#: wysija-newsletters/views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Гэта павінен быць CSV стыль. Паглядзіце [link]прыклады на нашым сайце падтрымкі[/link]."
+
+#: wysija-newsletters/views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Хіба гэтыя падпісанты прасілі ўнесці сябе ў Ваш спіс?"
+
+#: wysija-newsletters/views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Калі адказ \"не\", лічыце сябе спамерам."
+
+#: wysija-newsletters/views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Падрабязней на support.mailpoet.com[/link]."
+
+#: wysija-newsletters/views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Параўнаць дадзеныя"
+
+#: wysija-newsletters/views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Прапусціць слупок…"
+
+#: wysija-newsletters/views/back/subscribers.php:1022
+msgid "Import as \"%1$s\""
+msgstr "Імпартаваць як \"%1$s\""
+
+#: wysija-newsletters/views/back/subscribers.php:1023
+msgid "Import \"%1$s\" as date field"
+msgstr "Імпартаваць \"%1$s\" як поле даты"
+
+#: wysija-newsletters/views/back/subscribers.php:1103
+#: wysija-newsletters/views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Пацвердзіце, што дата ў блакітным полі супадае з рэальнай."
+
+#: wysija-newsletters/views/back/subscribers.php:1107
+#: wysija-newsletters/views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Не адпавядае як 'поле даты', калі большасць радкоў для гэтага слупка вяртаюць тую ж памылку."
+
+#: wysija-newsletters/views/back/subscribers.php:1107
+#: wysija-newsletters/views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Памылка адпаведнасці даты."
+
+#: wysija-newsletters/views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Абярыце адзін ці некалькі спісаў"
+
+#: wysija-newsletters/views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Абярыце спісы, у якія Вы жадаеце імпартаваць гэтых падпісантаў."
+
+#: wysija-newsletters/views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Новы спіс"
+
+#: wysija-newsletters/views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Увядзіце імя свайго новага спісу"
+
+#: wysija-newsletters/views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Нататка:"
+
+#: wysija-newsletters/views/back/subscribers.php:1217
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "падпісанты атрымаюць \"%1$s\" пасля імпарту."
+
+#: wysija-newsletters/views/back/subscribers.php:1260
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Імпарт %1$s падпісантаў з убудовы: %2$s "
+
+#: wysija-newsletters/views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Уставіць форму"
+
+#: wysija-newsletters/views/back.php:249
+#: wysija-newsletters/views/back.php:251
+#: wysija-newsletters/views/back.php:262
+#: wysija-newsletters/views/back.php:264
+msgid "Page %1$s"
+msgstr "Старонка %1$s"
+
+#: wysija-newsletters/views/back.php:257
+msgid "of %1$s"
+msgstr "з %1$s"
+
+#: wysija-newsletters/views/back.php:295
+msgid "Split subscribers into %1$s pages."
+msgstr "Падзяліць падпісантаў на %1$s старонак."
+
+#: wysija-newsletters/views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Колькасць падпісантаў на старонцы:"
+
+#: wysija-newsletters/views/back.php:680
+msgid "Modify"
+msgstr "Змяніць"
+
+#: wysija-newsletters/views/back.php:682
+msgid "Add"
+msgstr "Дадаць"
+
+#: wysija-newsletters/views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Вашыя спісы"
+
+#: wysija-newsletters/views/front/widget_nl.php:90
+#: wysija-newsletters/widgets/wysija_nl.php:41
+#: wysija-newsletters/widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "Форма падпіскі MailPoet"
+
+#: wysija-newsletters/widgets/wysija_nl.php:42
+#: wysija-newsletters/widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Гэта форма для падпіскі на Вашы рассыланні."
+
+#: wysija-newsletters/widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Праверце Вашу паштовую скрыню і пацвердзіце сваю падпіску."
+
+#: wysija-newsletters/widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Вы паспяхова падпісаліся."
+
+#: wysija-newsletters/widgets/wysija_nl.php:78
+#: wysija-newsletters/widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Загаловак:"
+
+#: wysija-newsletters/widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Каб падпісацца на нашую рассылку, проста ўвядзіце ніжэй Ваш адрас электроннай пошты. Вам будзе адпраўлены ліст з пацверджаннем!"
+
+#: wysija-newsletters/widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Дазволіць падпісантам выбіраць спісы рассыланняў:"
+
+#: wysija-newsletters/widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Пытаць:"
+
+#: wysija-newsletters/widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Адлюстроўваць надпісы ў поле ўводу"
+
+#: wysija-newsletters/widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Надпіс на кнопцы:"
+
+#: wysija-newsletters/widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Паведамленне паспяховай падпіскі:"
+
+#: wysija-newsletters/widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe версія"
+
+#: wysija-newsletters/widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Абярыце форму:"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:33
+msgid "Go premium, you cannot send anymore!"
+msgstr "Атрымайце Прэміум, Вы не можаце адправіць больш!"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:89
+msgid "Google Analytics Campaign"
+msgstr "Кампаніі Google Analytics"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:90
+msgid "For example, \"Spring email\". [link]Read the guide.[/link]"
+msgstr "Да прыкладу, \"Вясновая пошта\". [link]Прачытайце кіраўніцтва.[/link]"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:109
+msgid "How spammy is this newsletter?"
+msgstr "Як гэта спам рассыланне?"
+
+#: wysija-newsletters-premium/helpers/extend_campaigns.php:110
+msgid "View your score"
+msgstr "Паглядзець свае ачкі"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:24
+msgid "Your Premium is activated."
+msgstr "Ваш прэміум актываваны."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:30
+msgid "Valid until %s"
+msgstr "Дзейнічае да %s"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:88
+msgid "DKIM signature"
+msgstr "DKIM подпіс"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:89
+msgid "Improve your spam score. Mailpoet can sign all your emails with DKIM. [link]Read more.[/link]"
+msgstr "Палепшыце Вашу спам адзнаку. Mailpoet можа падпісаць усе вашы лісты з DKIM. [link]Падрабязней.[/link]"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:107
+msgid "How does it work?"
+msgstr "Як гэта працуе?"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:109
+msgid "Create an email account dedicated solely to bounce handling."
+msgstr "Стварыць акаўнт электроннай пошты, прысвечаны выключна для апрацоўкі зваротаў."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:110
+msgid "Fill out the form below so we can connect to it."
+msgstr "Запоўніце форму ніжэй, каб мы маглі падлучыцца да яго."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:111
+msgid "Take it easy, the plugin does the rest."
+msgstr "Расслабся, убудова робіць усё астатняе."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:113
+msgid "Need help?"
+msgstr "Патрэбна дапамога?"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:113
+msgid "Check out [link]our guide[/link] on how to fill out the form."
+msgstr "Праверце [link]наша кіраўніцтва[/link] пра тое, як запоўніць форму."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:124
+msgid "There are plenty of reasons for bounces. Configure what to do in each scenario."
+msgstr "Ёсць шмат чыннікаў для зваротаў. Наладзьце, што рабіць у кожным з выпадкаў."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:145
+msgid "Actions & Notifications"
+msgstr "Дзеянні і Апавяшчэнні"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:170
+msgid "Hostname"
+msgstr "Імя хаста"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:182
+msgid "Port"
+msgstr "Порт"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:187
+msgid "POP3 without imap extension"
+msgstr "POP3 без пашырэння IMAP"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:188
+msgid "Connection method"
+msgstr "Спосаб падлучэння"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:192
+msgid "Secure connection(SSL)"
+msgstr "Бяспечнае злучэнне (SSL)"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:195
+msgid "Self-signed certificates"
+msgstr "Самападпісаныя сертыфікаты"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:216
+msgid "15 minutes"
+msgstr "15 хвілін"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:217
+msgid "30 minutes"
+msgstr "30 хвілін"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:218
+msgid "1 hour"
+msgstr "1 гадзіна"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:219
+msgid "2 hours"
+msgstr "2 гадзіны"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:220
+msgid "Twice daily"
+msgstr "Двойчы ў дзень"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:227
+msgid "Activate bounce and check every..."
+msgstr "Актываваць звароты і праверыць кожны…"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:230
+msgid "Does it work? Try to connect."
+msgstr "Ці працуе гэта? Паспрабуйце падлучыцца."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Do nothing"
+msgstr "Нічога не рабіць"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Delete the user"
+msgstr "Выдаліць карыстальніка"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:247
+msgid "Unsubscribe the user"
+msgstr "Адпісаць карыстальніка"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:256
+msgid "Unsubscribe the user and add him to the list \"%1$s\" "
+msgstr "Адпісаць карыстальніка і дадаць яго ў спіс \"%1$s\" "
+
+#: wysija-newsletters-premium/helpers/extend_config.php:266
+msgid "after %1$s try"
+msgid_plural "after %1$s tries"
+msgstr[0] "праз %1$s спрабаваць"
+msgstr[1] "праз %1$s спрабаваць"
+msgstr[2] "праз %1$s спрабаваць"
+msgstr[3] "праз %1$s спрабаваць"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:329
+msgid "Tip"
+msgstr "Парада"
+
+#: wysija-newsletters-premium/helpers/extend_config.php:329
+msgid "you can send as fast as every 15 minutes since Mailpoet guarantees Premium users can send this fast."
+msgstr "Вы можаце адпраўляць так хутка, як кожныя 15 мінуць, бо Mailpoet гарантуе Прэміум карыстальнікам гэтую хуткую адпраўку."
+
+#: wysija-newsletters-premium/helpers/extend_config.php:372
+#: wysija-newsletters-premium/helpers/extend_config.php:380
+msgid "Who can view the statistics page?"
+msgstr "Хто можа праглядаць старонку статыстыкі?"
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:26
+msgid "%1$s emails received."
+msgstr "Атрымана %1$s лістоў."
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:39
+msgid "Total of %1$s clicks:"
+msgstr "Усяго %1$s пстрычак:"
+
+#: wysija-newsletters-premium/helpers/extend_subscribers.php:48
+msgid "%1$s click"
+msgid_plural "%1$s clicks"
+msgstr[0] "%1$s клік"
+msgstr[1] "%1$s клікаў"
+msgstr[2] "%1$s клікаў"
+msgstr[3] "%1$s клікаў"
+
+#: wysija-newsletters-premium/helpers/premium.php:199
+msgid "Test the statistics page."
+msgstr "Пратэстуйце старонку статыстыкі."
+
+#: wysija-newsletters-premium/helpers/premium.php:265
+#: wysija-newsletters-premium/helpers/premium.php:272
+msgid "Renew my license now."
+msgstr ""
+
+#: wysija-newsletters-premium/helpers/premium.php:266
+#: wysija-newsletters-premium/helpers/premium.php:273
+msgid "Did you renew already?"
+msgstr ""
+
+#: wysija-newsletters-premium/helpers/premium.php:266
+#: wysija-newsletters-premium/helpers/premium.php:273
+msgid "Verify your license again."
+msgstr ""
+
+#: wysija-newsletters-premium/helpers/premium.php:269
+msgid "Your MailPoet Premium license is expiring in %s day(s)."
+msgstr ""
+
+#: wysija-newsletters-premium/helpers/premium.php:274
+msgid "Your MailPoet Premium license has expired."
+msgstr ""
+
+#: wysija-newsletters-premium/helpers/premium.php:348
+msgid "The theme is available in Premium version only. [link]12 good reasons to upgrade.[/link]"
+msgstr "Тэма даступная ў Прэміум версіі. [link]12 добрых чыннікаў для абнаўлення.[/link]"
+
+#: wysija-newsletters-premium/modules/stats_new_subscribers/stats_new_subscribers_view.php:47
+msgid "new subscribers"
+msgstr "новыя падпісанты"
+
+#: wysija-newsletters-premium/modules/stats_new_subscribers/stats_new_subscribers_view.php:47
+msgid "new subscriber"
+msgstr "новы падпісант"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:97
+msgid "Open rate (based on received newsletters)"
+msgstr "Адсотак адкрыццяў (на аснове атрыманых рассыланняў)"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:131
+msgid "Click rate (based on opened newsletters)"
+msgstr "Націсніце адзнаку (на аснове адкрытых рассыланняў)"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:148
+msgid "Un-clicked"
+msgstr "Не націснута"
+
+#: wysija-newsletters-premium/modules/stats_subscriber/stats_subscriber.php:175
+msgid "Subscriber stats"
+msgstr "Статыстыка пра падпісантаў"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions.php:24
+msgid "Subscriptions by form"
+msgstr "Падпіскі па форме"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions.php:29
+msgid "Subscriptions by list"
+msgstr "Падпіскі па спісе"
+
+#: wysija-newsletters-premium/modules/stats_subscriptions/stats_subscriptions_view.php:79
+msgid "Hover your mouse over the bars to discover the forms' names."
+msgstr "Навядзіце ўказальнік мышы на бары, каб выявіць імёны формаў."
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:52
+msgid "Top domains"
+msgstr "Лепшыя дамены"
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:67
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:66
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:19
+msgid "Opens"
+msgstr "Адкрытыя"
+
+#: wysija-newsletters-premium/modules/stats_top_domains/stats_top_domains_view.php:70
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:69
+msgid "Rates"
+msgstr "Адсотак"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:53
+msgid "Top newsletters"
+msgstr "Лепшыя рассыланні"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:53
+msgid "Top auto-responders"
+msgstr "Топ аўтаадказнікаў"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:68
+msgid "Unsubscribes"
+msgstr "Адмяніў падпіску"
+
+#: wysija-newsletters-premium/modules/stats_top_newsletters/stats_top_newsletters_view.php:92
+msgid "See detailed stats"
+msgstr "Глядзець падрабязную статыстыку"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:9
+msgid "Top subscribers"
+msgstr "Лепшыя падпісанты"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:21
+msgid "Subscribed since"
+msgstr "Падпісаны з"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:41
+msgid "View stats & edit"
+msgstr "Паглядзець статыстыку & адрэдагаваць"
+
+#: wysija-newsletters-premium/modules/stats_top_subscribers/stats_top_subscribers_view.php:88
+msgid "Opened newsletters"
+msgstr "Адкрытыя рассыланні"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr ""
+
+#: wysija-newsletters/views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "ці"
+
+#: wysija-newsletters/views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Асноўныя"
+
+#: wysija-newsletters/views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Формы"
+
+#: wysija-newsletters/views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Пацвярджанне рэгістрацыі"
+
+#: wysija-newsletters/views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Даслаць з…"
+
+#: wysija-newsletters/views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Дадаткова"
+
+#: wysija-newsletters/views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Дадаткі"
