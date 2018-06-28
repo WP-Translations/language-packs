@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WP e-Commerce Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Sebastien <sebastien@sebs-studio.com>\n"
+"Language-Team: Hebrew (Israel) (http://www.transifex.com/wysija/mailpoet-wp-e-commerce-add-on/language/he_IL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 18:12+0100\n"
+"PO-Revision-Date: 2017-09-19 23:05:32\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "מופעל"
+
+#: include/settings-newsletters.php:20
+msgid "Newsletters"
+msgstr "ניוזלטרים"
+
+#: mailpoet-wp-ecommerce-addon.php:64
+#: mailpoet-wp-ecommerce-addon.php:152
+msgid "Yes, add me to your mailing list"
+msgstr "כן, הוסף אותי לרשימת התפוצה שלך."
+
+#: mailpoet-wp-ecommerce-addon.php:85
+#: mailpoet-wp-ecommerce-addon.php:129
+msgid "MailPoet WP e-Commerce Add-On"
+msgstr "MailPoet WP e-Commerce Add-On"
+
+#: mailpoet-wp-ecommerce-addon.php:120
+msgid "Settings saved"
+msgstr "ההגדרות נשמרו"
+
+#: mailpoet-wp-ecommerce-addon.php:137
+msgid "Enable subscribe on checkout"
+msgstr "אפשר הרשמה בקופה"
+
+#: mailpoet-wp-ecommerce-addon.php:140
+msgid "Yes"
+msgstr "כן"
+
+#: mailpoet-wp-ecommerce-addon.php:141
+msgid "No"
+msgstr "לא"
+
+#: mailpoet-wp-ecommerce-addon.php:143
+msgid "Add a subscribe checkbox to your checkout page?"
+msgstr "להוסיף תיבת סימון של הרשמה לעמוד הקופה שלך?"
+
+#: mailpoet-wp-ecommerce-addon.php:149
+msgid "Checkout label"
+msgstr "תווית תיבת הסימון"
+
+#: mailpoet-wp-ecommerce-addon.php:166
+msgid "Save Settings"
+msgstr "שמור הגדרות"
+
+#: mailpoet-wp-ecommerce-addon.php:190
+msgid "Newsletter"
+msgstr "ניוזלטר"
+
+#: mailpoet-wp-ecommerce-addon.php:295
+#, php-format
+msgid "MailPoet WP e-Commerce Add-on requires WP e-Commerce. Please install and activate <a href=\"%s\">WP e-Commerce</a> first."
+msgstr "MailPoet WP e-Commerce Add-on צריך את WP e-Commerce. אנא התקן את <a href=\"%s\">WP e-Commerce</a> והפעל אותו קודם."
