@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FeedPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/feedpress\n"
+"Last-Translator: Gos Groc <gosgroc@gmail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/wp-translations/feedpress/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-23 13:30:06+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:04:10\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. #-#-#-#-#  feedpress.pot (FeedPress 1.5.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: feedpress.php:24
+#: feedpress.php:25
+msgid "FeedPress"
+msgstr "FeedPress"
+
+#: feedpress.php:298
+msgid "There was something wrong with the feed creation:"
+msgstr "Ha fallat alguna cosa en crear l'agregador:"
+
+#: feedpress.php:320
+msgid "Configuration updated."
+msgstr "Configuració actualitzada."
+
+#: feedpress.php:332
+msgid "There was something wrong with your FeedPress authentication. Please retry."
+msgstr "Ha fallat alguna cosa en l'autenticació del FeedPress. Torneu-ho a intentar."
+
+#: feedpress.php:355
+msgid "FeedPress Configuration"
+msgstr "Configuració del FeedPress"
+
+#: feedpress.php:359
+msgid "How does this work?"
+msgstr "Com funciona?"
+
+#: feedpress.php:360
+msgid "This plugin automatically redirects all or parts of your existing feeds to FeedPress."
+msgstr "Aquest connector redirigeix automàticament tots o alguns dels canals de continguts al FeedPress."
+
+#: feedpress.php:361
+msgid "You just have to connect to FeedPress on this page. You will now be able to create and select the feeds you want to redirect to. You may optionally redirect your comments feed using the same procedure."
+msgstr "Només heu de connectar el FeedPress a aquesta pàgina. A partir d'ara podeu crear i seleccionar els canals de continguts que vulgueu redirigir. Opcionalment podeu redirigir els canals de comentaris mitjançant el mateix procediment."
+
+#: feedpress.php:362
+msgid "Once you enter URLs your feeds will be redirected automatically and you do not need to take any further action."
+msgstr "Tan bon punt hagueu introduït les URL, els continguts es redirigiran automàticament i no haureu de fer res més."
+
+#: feedpress.php:363
+msgid "Additionally, when you publish a new article on your blog, FeedPress will be pinged by the plugin and your feed will be updated in realtime."
+msgstr "A més a més, quan publiqueu un article nou al blog, el connector farà ping al FeedPress i el canal s'actualitzarà en temps real."
+
+#: feedpress.php:369
+msgid "Connect to FeedPress"
+msgstr "Connecta't al FeedPress"
+
+#: feedpress.php:373
+msgid "You are authenticated on FeedPress with the username:"
+msgstr "Esteu autenticat al FeedPress amb el nom d'usuari: "
+
+#: feedpress.php:374
+msgid "Disconnect from FeedPress"
+msgstr "Desconnecta't del FeedPress"
+
+#: feedpress.php:376
+msgid "Main feeds"
+msgstr "Canals de continguts principals"
+
+#: feedpress.php:380
+msgid "Redirect my feeds here:"
+msgstr "Redirigeix els canals de continguts aquí:"
+
+#: feedpress.php:385
+#: feedpress.php:408
+#: feedpress.php:458
+#: feedpress.php:510
+#: feedpress.php:550
+msgid "None"
+msgstr "Cap"
+
+#: feedpress.php:401
+#: feedpress.php:424
+msgid "Create a new feed on FeedPress"
+msgstr "Crea un canal de continguts nou al FeedPress"
+
+#: feedpress.php:403
+msgid "Redirect my comments feed here:"
+msgstr "Redirigeix els canals de comentaris aquí:"
+
+#: feedpress.php:426
+msgid "Category feeds"
+msgstr "Canals de categories"
+
+#: feedpress.php:430
+#: feedpress.php:442
+msgid "Category:"
+msgstr "Categoria:"
+
+#: feedpress.php:431
+#: feedpress.php:483
+#: feedpress.php:535
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: feedpress.php:438
+#: feedpress.php:474
+msgid "Redirect a category"
+msgstr "Redirigeix una categoria"
+
+#: feedpress.php:478
+msgid "Tag feeds"
+msgstr "Canals d'etiquetes"
+
+#: feedpress.php:482
+#: feedpress.php:494
+msgid "Tag:"
+msgstr "Etiqueta:"
+
+#: feedpress.php:490
+#: feedpress.php:526
+msgid "Redirect a tag"
+msgstr "Redirigeix l'etiqueta"
+
+#: feedpress.php:530
+msgid "Custom URL redirection"
+msgstr "Personalitza la redirecció de la URL"
+
+#: feedpress.php:534
+#: feedpress.php:546
+msgid "Path:"
+msgstr "Camí:"
+
+#: feedpress.php:542
+#: feedpress.php:564
+msgid "Redirect a URL"
+msgstr "Redirigeix a l'URL"
+
+#: feedpress.php:544
+msgid "If you want to redirect a specific path, fill this simple form."
+msgstr "Si voleu redirigir un camí específic, ompliu aquest formulari."
+
+#: feedpress.php:546
+msgid "Example: /feed/podcast"
+msgstr "Exemple: /canal de continguts/podcast"
+
+#: feedpress.php:566
+msgid "Advanced Options"
+msgstr "Opcions avançades"
+
+#: feedpress.php:570
+msgid "Do not redirect not configured category or tag feeds."
+msgstr "No redirigeixis les categories no configurades o els canals d'etiquetes."
+
+#: feedpress.php:574
+msgid "Do not redirect search result feeds."
+msgstr "No redirigeixis els canals resultants de la cerca."
+
+#: feedpress.php:578
+msgid "Do not redirect author feeds."
+msgstr "No redirigeixis els continguts d'aquest autor."
+
+#: feedpress.php:582
+msgid "Do not redirect ANY feeds (useful if you just want the plugin for realtime updates)."
+msgstr "No redirigeixis CAP canal de continguts (és útil si només voleu el connector per a actualitzacions en temps real)."
+
+#: feedpress.php:588
+#: feedpress.php:592
+msgid "Activate transparent mode: The feed is not redirected to FeedPress but requests are still reported."
+msgstr "Activa el mode transparent: El canal de continguts no es redirigirà al FeedPress però les sol·licituds es llistaran."
+
+#: feedpress.php:593
+msgid "This feature is only available to"
+msgstr "Aquesta característica només està disponible a"
+
+#: feedpress.php:593
+msgid "Premium Members"
+msgstr "Membres premium"
+
+#: feedpress.php:593
+msgid "starting at $2.50 per month"
+msgstr "comença amb 2,50 $ al mes"
+
+#: feedpress.php:599
+msgid "Do not ping FeedPress when a new article is published."
+msgstr "No facis ping al FeedPress quan es publiqui un article nou."
+
+#: feedpress.php:603
+msgid "Activate debug mode."
+msgstr "Activa el mode de depuració."
+
+#: feedpress.php:607
+msgid "Save"
+msgstr "Desa"
+
+#: feedpress.php:619
+msgid "Create a new FeedPress feed"
+msgstr "Crea a canal de continguts FeedPress nou"
+
+#: feedpress.php:621
+msgid "Fill the form below to create your feed on FeedPress."
+msgstr "Ompliu el formulari de sota per crear un canal de continguts al FeedPress."
+
+#: feedpress.php:625
+msgid "Original feed URL:"
+msgstr "URL del canal de continguts original:"
+
+#: feedpress.php:628
+msgid "Alias name for the feed:"
+msgstr "Sobrenom per al canal de continguts:"
+
+#: feedpress.php:633
+msgid "Create"
+msgstr "Crea"
+
+#: feedpress.php:847
+msgid "Warning: The options have changed. You have to update your FeedPress settings."
+msgstr "Alerta: Les opcions han canviat. Heu d'actualitzar la configuració del FeedPress."
+
+#: feedpress.php:847
+#: feedpress.php:851
+msgid "Update settings"
+msgstr "Actualitza la configuració"
+
+#: feedpress.php:851
+msgid "Warning: You have enabled the Append category option in FeedPress. This option doesn't exist anymore, please update your FeedPress settings."
+msgstr "Alerta: Heu habilitat l'opció 'Afegeix una categoria' al FeedPress, però aquesta opció ja no existeix. Actualitzeu la configuració del FeedPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://feedpress.it"
+msgstr "http://feedpress.it"
+
+#. Description of the plugin/theme
+msgid "Redirects all feeds to a FeedPress feed and enables realtime feed updates."
+msgstr "Redirigeix tots els canals de continguts a un agregador FeedPress i habilita les actualitzacions dels continguts en temps real."
+
+#. Author of the plugin/theme
+msgid "Maxime VALETTE"
+msgstr "Maxime VALETTE"
+
+#. Author URI of the plugin/theme
+msgid "http://maximevalette.com"
+msgstr "http://maximevalette.com"
