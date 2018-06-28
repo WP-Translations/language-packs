@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bxSlider Integration for WordPress\n"
+"Report-Msgid-Bugs-To: http://github.com/marvinlabs/bxslider-for-wordpress/issues\n"
+"Last-Translator: Gordon Yu <g168661@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/wp-translations/bxslider-integration-for-wordpress/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-03-02 14:22:21+00:00\n"
+"PO-Revision-Date: 2017-09-22 01:16:50\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: src/php/settings.class.php:66
+#: src/php/settings.class.php:67
+#: src/php/settings.view.php:22
+msgid "bxSlider integration"
+msgstr "bxSlider 整合"
+
+#: src/php/settings.class.php:91
+msgid "General Settings"
+msgstr "一般設定"
+
+#: src/php/settings.class.php:98
+msgid "Include CSS"
+msgstr "帶入 CSS"
+
+#: src/php/settings.class.php:105
+msgid "Include the default stylesheet."
+msgstr "帶入預設 CSS 樣式表。"
+
+#: src/php/settings.class.php:107
+msgid "If not, you should style the slider yourself in your theme."
+msgstr "如果選擇不帶入，那你自己就要在佈景主題定義幻燈片使用的樣式。"
+
+#: src/php/settings.class.php:114
+msgid "Include JS"
+msgstr "帶入 JS"
+
+#: src/php/settings.class.php:121
+msgid "Include the bxSlider script."
+msgstr "帶入 bxSlider 的 js 腳本。"
+
+#: src/php/settings.class.php:123
+msgid "Uncheck this option only if your theme already provides a compatible bxSlider javascript. Else, leave it on."
+msgstr "只有在你的佈景主題已經內建 bxSlider 相容的 javascript 腳本時才能不勾選此項，否則請保留勾選。 "
+
+#: src/php/settings.class.php:131
+msgid "Slide transitions"
+msgstr "幻燈片轉場"
+
+#: src/php/settings.class.php:138
+msgid "Fade"
+msgstr "淡入淡出"
+
+#: src/php/settings.class.php:139
+msgid "Slide horizontally"
+msgstr "水平滑動"
+
+#: src/php/settings.class.php:140
+msgid "Slide vertically"
+msgstr "垂直滑動"
+
+#: src/php/settings.class.php:143
+msgid "The default type of transition to use to go from one slide to another one. "
+msgstr "從一張幻燈片轉換到另一張幻燈片時使用的預設轉場型式。"
+
+#: src/php/settings.class.php:144
+msgid "This can be overriden in the shortcode itself by passing the parameter <code>transition=fade</code>, <code>transition=horizontal</code> or <code>transition=vertical</code>."
+msgstr "此設定可以用帶有參數的短代碼 <code>transition=fade</code>, <code>transition=horizontal</code> or <code>transition=vertical</code>.覆蓋。"
+
+#: src/php/settings.class.php:153
+msgid "Gallery Shortcodes"
+msgstr "藝廊短代碼"
+
+#: src/php/settings.class.php:160
+msgid "Default WordPress galleries"
+msgstr "預設 WordPress 藝廊"
+
+#: src/php/settings.class.php:167
+msgid "Replace the default WordPress gallery for a bxSlider based one."
+msgstr "將預設的 WordPress 藝廊替換為 bxSlider 為基礎的藝廊。"
+
+#: src/php/settings.class.php:169
+msgid "All the galleries included in your posts and pages with the [gallery] shortcode will turn into cool dynamic galleries using the bxSlider script."
+msgstr "所有文章及頁面中使用 [gallery] 短代碼的藝廊將被轉換成 bxSlider 腳本的動態藝廊。"
+
+#: src/php/settings.class.php:177
+msgid "Exclude featured image"
+msgstr "排除特色圖片"
+
+#: src/php/settings.class.php:185
+msgid "Exclude the featured image from the galleries that show all the post images."
+msgstr "顯示所有文章內藝廊圖片時排除特色圖片。"
+
+#: src/php/settings.class.php:187
+msgid "This can be overriden in the shortcode itself by passing the parameter <code>exclude_featured=0</code> or <code>exclude_featured=1</code>."
+msgstr "此設定可以用帶有參數的短代碼 <code>exclude_featured=0</code> or <code>exclude_featured=1</code>.覆蓋。"
+
+#: src/php/settings.class.php:195
+msgid "Hide the carousel"
+msgstr "隱藏迴轉盤"
+
+#: src/php/settings.class.php:202
+msgid "You can hide the default thumbnail carousel shown above the gallery."
+msgstr "你可以隱藏在藝廊上方顯示的預設縮圖迴轉盤。"
+
+#: src/php/settings.class.php:204
+msgid "This can be overriden in the shortcode itself by passing the parameter <code>hide_carousel=0</code> or <code>hide_carousel=1</code>."
+msgstr "此設定可以用帶有參數的短代碼 <code>hide_carousel=0</code> or <code>hide_carousel=1</code>.覆蓋。"
+
+#: src/php/settings.class.php:212
+#: src/php/settings.class.php:387
+msgid "Adaptive height"
+msgstr "變動高度"
+
+#: src/php/settings.class.php:219
+#: src/php/settings.class.php:394
+msgid "Dynamically adjust slider height based on each slide's height."
+msgstr "根據每張幻燈片的高度動態調整幻燈片高度。"
+
+#: src/php/settings.class.php:221
+#: src/php/settings.class.php:396
+msgid "This can be overriden in the shortcode itself by passing the parameter <code>adaptive_height=0</code> or <code>adaptive_height=1</code>."
+msgstr "此設定可以用帶有參數的短代碼 <code>adaptive_height=0</code> or <code>adaptive_height=1</code>.覆蓋。"
+
+#: src/php/settings.class.php:229
+#: src/php/settings.class.php:404
+msgid "Auto start"
+msgstr "自動播放"
+
+#: src/php/settings.class.php:236
+msgid "Gallery slideshow will automatically start."
+msgstr "藝廊幻燈片將自動播放。"
+
+#: src/php/settings.class.php:238
+#: src/php/settings.class.php:413
+msgid "This can be overriden in the shortcode itself by passing the parameter <code>auto_start=0</code> or <code>auto_start=1</code>."
+msgstr "此設定可以用帶有參數的短代碼 <code>auto_start=0</code> or <code>auto_start=1</code>.覆蓋。"
+
+#: src/php/settings.class.php:246
+#: src/php/settings.class.php:421
+msgid "Duration"
+msgstr "間隔"
+
+#: src/php/settings.class.php:263
+#: src/php/settings.class.php:438
+msgid "Speed"
+msgstr "速度"
+
+#: src/php/settings.class.php:280
+msgid "Carousel thumb width"
+msgstr "縮圖寬度"
+
+#: src/php/settings.class.php:288
+#: src/php/settings.class.php:303
+msgid "a number without unit; Will be interpreted as a value in pixels"
+msgstr "一個不帶單位的數值，將被解讀為像素值 (pixels)。"
+
+#: src/php/settings.class.php:295
+msgid "Carousel thumb margin"
+msgstr "縮圖邊界留白"
+
+#: src/php/settings.class.php:310
+msgid "Carousel min thumbs"
+msgstr "迴轉盤最少縮圖數量"
+
+#: src/php/settings.class.php:318
+msgid "The minimum number of thumbnails to be shown. Thumbnails will be sized down if carousel becomes smaller than the original size"
+msgstr "要顯示縮圖的最少數量，如果迴轉盤尺寸小於原圖，縮圖將會自動減少。"
+
+#: src/php/settings.class.php:326
+msgid "Carousel max thumbs"
+msgstr "迴轉盤最多縮圖數"
+
+#: src/php/settings.class.php:334
+msgid "The maximum number of thumbnails to be shown. Thumbnails will be sized up if carousel becomes larger than the original size."
+msgstr "要顯示縮圖的最多數量，如果迴轉盤尺寸大於原圖，縮圖將會自動增加。"
+
+#: src/php/settings.class.php:342
+msgid "Skip thumbnails"
+msgstr "迴轉縮圖數"
+
+#: src/php/settings.class.php:350
+msgid "The number of thumbnails to move on transition. This value must be >= min thumbnails, and <= max thumbnails. If zero (default), the number of fully-visible thumbnails will be used."
+msgstr "每次轉換時移動的縮圖數量，此數值必須要 >= 最少縮圖數並 <= 最多縮圖數。若為 0 (預設值) 時，將會使用可見的縮圖數量。"
+
+#: src/php/settings.class.php:358
+#: src/php/settings.class.php:455
+msgid "Extra options"
+msgstr "額外選項"
+
+#: src/php/settings.class.php:366
+#: src/php/settings.class.php:463
+msgid "You may enter here any raw bxSlider option that may not be exposed as a plugin setting. Simply put the options as you would within the javascript. Here is an example:"
+msgstr "你可以在這裡輸入任何沒有在外掛設定曝光的原生 bxSlider 選項。只要將要加在 javascript 裡的選項加在這裡即可，例如:"
+
+#: src/php/settings.class.php:380
+msgid "Slider Shortcodes"
+msgstr "幻燈片短代碼"
+
+#: src/php/settings.class.php:411
+msgid "Slides will automatically transition after the page is loaded."
+msgstr "幻燈片將會在頁面載入後自動轉場播放。"
+
+#: src/php/settings.class.php:560
+msgid " is not a valid value"
+msgstr "不是一個有效的數值"
+
+#: src/php/settings.class.php:585
+msgid "must be an integer"
+msgstr "必須為整數"
+
+#: src/php/settings.class.php:596
+msgid "must be greater than %s"
+msgstr "必須要大於 %s"
+
+#: src/php/settings.class.php:607
+msgid "must be lower than %s"
+msgstr "必須要小於 %s"
+
+#: src/php/settings.class.php:628
+msgid "Options related to the shortcodes that output an image gallery: <code>[gallery]</code> or <code>[bxgallery]</code>."
+msgstr "關於使用輸出圖片藝廊的短代碼: <code>[gallery]</code> 或 <code>[bxgallery]</code>. 時的選項。"
+
+#: src/php/settings.class.php:635
+msgid "Options related to the shortcodes that output a generic slider: <code>[slider]</code> or <code>[bxslider]</code>."
+msgstr "關於使用輸出一般幻燈片短代碼: <code>[slider]</code> 或 <code>[bxslider]</code>.時的選項。"
+
+#. Description of the plugin/theme
+msgid "Replaces the native WordPress galleries by a slider based on the jQuery plugin: bxSlider"
+msgstr "使用基於 jQuery 外掛: bxSlider 替換 WordPress 原生藝廊為幻燈片方式展示。"
