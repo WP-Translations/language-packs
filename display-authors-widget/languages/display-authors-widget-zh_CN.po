@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Display Authors Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/display-authors-widget\n"
+"Last-Translator: Wang Yun <me@mogita.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/wp-translations/display-authors-widget/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-11-21 15:03:30+00:00\n"
+"PO-Revision-Date: 2017-09-19 22:03:51\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: display-authors-widget.php:44
+msgid "Displays authors by role."
+msgstr "按角色显示作者。"
+
+#: display-authors-widget.php:57
+msgctxt "Name of the widget in widget area."
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget"
+
+#: display-authors-widget.php:134
+msgid "(%d)"
+msgstr "（%d）"
+
+#: display-authors-widget.php:189
+msgid "Authors"
+msgstr "作者"
+
+#: display-authors-widget.php:206
+msgid "Title:"
+msgstr "标题："
+
+#: display-authors-widget.php:211
+msgid "Role:"
+msgstr "角色："
+
+#: display-authors-widget.php:221
+msgid "Display Post Count?"
+msgstr "显示文章数量？"
+
+#: display-authors-widget.php:226
+msgid "Display Author Bio?"
+msgstr "显示作者简介？"
+
+#: display-authors-widget.php:231
+msgid "Display Author Gravatar?"
+msgstr "显示作者头像？"
+
+#: display-authors-widget.php:236
+msgid "Display Author Name?"
+msgstr "显示作者名字？"
+
+#: display-authors-widget.php:240
+msgid "Gravatar Size:"
+msgstr "头像尺寸："
+
+#: display-authors-widget.php:245
+msgid "Gravatar Alignment:"
+msgstr "头像对齐方式："
+
+#: display-authors-widget.php:247
+msgid "None"
+msgstr "无"
+
+#: display-authors-widget.php:247
+msgid "Left"
+msgstr "左"
+
+#: display-authors-widget.php:247
+msgid "Right"
+msgstr "右"
+
+#: display-authors-widget.php:255
+msgid "Limit the number of authors displayed:"
+msgstr "要显示的作者数量限制："
+
+#. Plugin Name of the plugin/theme
+msgid "Display Authors Widget"
+msgstr "Display Authors Widget "
+
+#. Plugin URI of the plugin/theme
+msgid "https://foxnet-themes.fi/downloads/display-authors-widget/"
+msgstr "https://foxnet-themes.fi/downloads/display-authors-widget/"
+
+#. Description of the plugin/theme
+msgid "Register widget to display authors by role in a sidebar."
+msgstr "在侧边栏小挂件中按角色显示作者。"
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "http://foxnet.fi/en"
+msgstr "http://foxnet.fi/en"
