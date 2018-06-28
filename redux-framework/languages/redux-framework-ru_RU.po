@@ -1,0 +1,1424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"Report-Msgid-Bugs-To: https://github.com/ReduxFramework/ReduxFramework/issues\n"
+"Last-Translator: D S <itech.code@yandex.ru>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/redux-framework/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-04-02 04:45:17+00:00\n"
+"PO-Revision-Date: 2017-10-20 15:15:31\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: ReduxCore/core/enqueue.php:397
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:562
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Некоторые настройки не сохранены. Хотите сохранить их сейчас?"
+
+#: ReduxCore/core/enqueue.php:405
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:563
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Вы уверены? Сброс удалит все индивидуальные настройки!"
+
+#: ReduxCore/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Вы уверены? Сброс приведет к потере всех пользовательских значений в этом разделе."
+
+#: ReduxCore/core/enqueue.php:421
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:564
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "Ваши текущие настройки будут заменены значениями из этого набора. Вы хотите продолжить?"
+
+#: ReduxCore/core/enqueue.php:428
+msgid "Please Wait"
+msgstr "Пожалуйста, подождите"
+
+#: ReduxCore/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "Произошла ошибка при сохранении. Вот результат Ваших действий:"
+
+#: ReduxCore/core/enqueue.php:440
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr "Возникла проблема с Вашим действием. Пожалуйста, перезагрузите страницу или попробуйте позже."
+
+#: ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Предупреждение: Эта панель настроек не будет нормально работать без JavaScript!"
+
+#: ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "Настройки импортированы!"
+
+#: ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "Восстановлены значения по умолчанию!"
+
+#: ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "Настройки по умолчанию восстановлены."
+
+#: ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "Настройки сохранены!"
+
+#: ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "Настройки были изменены, Вам следует их сохранить!"
+
+#: ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "ошибка(и) были найдены!"
+
+#: ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "предупреждение(я) были найдены!"
+
+#: ReduxCore/core/panel.php:340
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr "<strong>В вашей панели найдены устаревшие копии файлов шаблонов Redux Framework</strong> &#8211; Это может быть причиной возникновения неполадок. Убедитесь, что вы обновили или удалили их."
+
+#: ReduxCore/framework.php:220
+msgid "Options panel created using %1$s"
+msgstr "Панель настроек создана с помощью %1$s"
+
+#. Plugin Name of the plugin/theme
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: ReduxCore/framework.php:224
+#: ReduxCore/framework.php:228
+msgid "Options"
+msgstr "Настройки"
+
+#: ReduxCore/framework.php:1381
+#: ReduxCore/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr "Системная информация"
+
+#: ReduxCore/framework.php:1684
+msgid "Enable"
+msgstr "Включить"
+
+#: ReduxCore/framework.php:1689
+msgid "Disable"
+msgstr "Отключить"
+
+#: ReduxCore/framework.php:1695
+msgid "moving the mouse over"
+msgstr "при наведении курсора"
+
+#: ReduxCore/framework.php:1697
+msgid "clicking"
+msgstr "нажатие"
+
+#: ReduxCore/framework.php:1701
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+"Подсказки - это облачка, выплывающие когда %d предлагает дополнительную информацию.\n"
+"Они могу быть %d по ссылке ниже."
+
+#: ReduxCore/framework.php:1706
+msgid "Hints"
+msgstr "Подсказки"
+
+#: ReduxCore/framework.php:1833
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ReduxCore/framework.php:2687
+msgid "Invalid security credential, please reload the page and try again."
+msgstr "Неверное удостоверение безопасности, пожалуйста, перезагрузите страницу и повторите попытку."
+
+#: ReduxCore/framework.php:2753
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Ваша панель не имеет полей. Нечего сохранять."
+
+#: ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr "Невозможно модифицировать требуемые файлы. Пожалуйста, удостоверьтесь, что"
+
+#: ReduxCore/inc/class.redux_filesystem.php:25
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr "имеет достаточные права на чтение/запись или введите информацию для доступа по FTP здесь."
+
+#: ReduxCore/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr "Пропустить"
+
+#: ReduxCore/inc/class.redux_helpers.php:577
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr "<code>%s</code> версия<strong style=\"color:red\">%s</strong> устарела. Основная версия — %s"
+
+#: ReduxCore/inc/class.redux_themecheck.php:61
+msgid "The theme you are testing has %s embedded. We invite you to read the %sTheme-Check Documentation%s to understand some warnings you will see because of Redux."
+msgstr "В теме, которую вы тестируете, имеется встроенный %s. Пожалуйста, прочтите %sДокументацию по проверке тем%s чтобы понять некоторые предупреждения, которые вы увидите из-за Redux."
+
+#: ReduxCore/inc/class.redux_themecheck.php:109
+msgid "The following directories & files are still located in your <strong>Redux</strong>  directory. They may cause errors in Theme-Check."
+msgstr "Следующие папки и файлы всё еще находятся в директории <strong>Redux</strong>. Они могут вызвать ошибки при Theme-Check."
+
+#: ReduxCore/inc/debug.php:41
+#: ReduxCore/inc/debug.php:69
+#: ReduxCore/inc/debug.php:76
+#: ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr "Настройки объектов"
+
+#: ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "Показать объект в консоли JavaScript"
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:597
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Некоторые настройки не сохранены. Хотите сохранить их сейчас?"
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:598
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Вы уверены? Сброс приведет к потере всех пользовательских значений."
+
+#: ReduxCore/inc/extensions/customizer/extension_customizer.php:599
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "Ваши текущие настройки будут заменены значениями из этого набора. Вы хотите продолжить?"
+
+#: ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:106
+msgid "Import Options"
+msgstr "Импорт настроек"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import from File"
+msgstr "Импорт из файла"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import from URL"
+msgstr "Импорт из URL"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:110
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "Загрузите вашу резервную копию настроек и нажмите Импорт для восстановления."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:115
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "Введите URL другого набора настроек и нажмите Импорт для загрузки новых параметров."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Import"
+msgstr "Импорт"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr "ВНИМАНИЕ! Данное действие заменит все существующие значения. Пожалуйста, будьте осторожны!"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Export Options"
+msgstr "Экспорт настроек"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "Здесь вы можете скопировать/скачать ваши текущие настройки панели управления. Сохраненные настройки могут быть использованы для восстановления конфигурации при любых сбоях или для переноса настроек на другой сайт."
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Copy Data"
+msgstr "Копировать данные"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Download Data File"
+msgstr "Скачать Data File"
+
+#: ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:129
+msgid "Copy Export URL"
+msgstr "Копировать URL экспорта"
+
+#: ReduxCore/inc/fields/background/field_background.php:124
+#: ReduxCore/inc/fields/color/field_color.php:73
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "Прозрачный"
+
+#: ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Background Clip"
+
+#: ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Background Origin"
+
+#: ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Привязка фона"
+
+#: ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: ReduxCore/inc/fields/background/field_background.php:277
+#: ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr "Медиа-файл не выбран"
+
+#: ReduxCore/inc/fields/background/field_background.php:314
+#: ReduxCore/inc/fields/media/field_media.php:198
+#: ReduxCore/inc/fields/slides/field_slides.php:126
+#: ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Загрузить"
+
+#: ReduxCore/inc/fields/background/field_background.php:321
+#: ReduxCore/inc/fields/media/field_media.php:205
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Убрать"
+
+#: ReduxCore/inc/fields/border/field_border.php:125
+#: ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "Все"
+
+#: ReduxCore/inc/fields/border/field_border.php:138
+#: ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Верх"
+
+#: ReduxCore/inc/fields/border/field_border.php:145
+#: ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Справа"
+
+#: ReduxCore/inc/fields/border/field_border.php:152
+#: ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Низ"
+
+#: ReduxCore/inc/fields/border/field_border.php:159
+#: ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Слева"
+
+#: ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr "Стиль границы"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "От"
+
+#: ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "До"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr "Ширина"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr "Высота"
+
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "ед. измерения"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Добавить/Изменить галерею"
+
+#: ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Очистить галерею"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "Обычная ссылка (a:link)"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "При наведении"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "Посещенная ссылка (a:visited)"
+
+#: ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "Ссылка в момент нажатия (a:active)"
+
+#: ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr "Добавить ещё"
+
+#: ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Пароль"
+
+#: ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ReduxCore/inc/fields/select/field_select.php:83
+#: ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr "Выбрать элемент"
+
+#: ReduxCore/inc/fields/select/field_select.php:134
+#: ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr "Не найдено ни одного элемента заданного типа."
+
+#: ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Слайд"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:73
+#: ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr "Новый %s"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:145
+#: ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "Заголовок"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:149
+#: ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "Описание"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:153
+#: ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:167
+#: ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "Удалить"
+
+#: ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr "Добавить %s"
+
+#: ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "Вкл."
+
+#: ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "Выкл."
+
+#: ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr "Шрифт"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:258
+#: ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr "Резервный шрифт"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:273
+#: ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr "Стиль шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr "Насыщенность (толщина) &amp; стиль шрифта."
+
+#: ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr "Стиль"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr "Подгруппа шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr "Наборы шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr "Подгруппы"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr "Скрипт шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:342
+#: ReduxCore/inc/fields/typography/field_typography.php:343
+#: ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:365
+#: ReduxCore/inc/fields/typography/field_typography.php:366
+#: ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr "Произвольное Преобразование"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:388
+#: ReduxCore/inc/fields/typography/field_typography.php:389
+#: ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr "Font Variant"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:408
+#: ReduxCore/inc/fields/typography/field_typography.php:409
+#: ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr "Text Decoration"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:432
+#: ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr "Размер Шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr "Размер"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:441
+#: ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr "Line Height"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:450
+#: ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:459
+#: ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr "Цвет Шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr "Стандартный шрифт"
+
+#: ReduxCore/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "Помогите улучшить нашу Панель Настроек!"
+
+#: ReduxCore/inc/tracking.php:130
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr "Пожалуйста, помогите улучшить нашу панель позволив собрать анонимную статистику о конфигурации, плагинах и шаблонах, чтобы точнее тестировать совместимость."
+
+#: ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "Разрешить отслеживание"
+
+#: ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "Запретить отслеживание"
+
+#: ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "Добро пожаловать в демо-панель Redux"
+
+#: ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr "Приступая к работе"
+
+#: ReduxCore/inc/tracking.php:152
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr "Эта панель демонстрирует многие важные свойства Redux.  Прежде чем углубляться, мы предлагаем Вам увеличить скорость обучения, просмотрев %1$s."
+
+#: ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr "наша документация"
+
+#: ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "Redux Генератор"
+
+#: ReduxCore/inc/tracking.php:153
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr "Хотите получить хороший старт? Используйте %1$s. Это создаст индивидуальный шаблон темы или автономную папку администратора в комплекте со всеми вещами Redux (с помощью Undescore и TGM). Избавьтесь от головной боли и попробуйте сегодня."
+
+#: ReduxCore/inc/tracking.php:154
+#: ReduxCore/inc/welcome/welcome.php:212
+msgid "Redux Extensions"
+msgstr "Расширения Redux"
+
+#: ReduxCore/inc/tracking.php:154
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr "Знаете ли вы, что у нас есть расширения, которые улучшают Redux? Посетите наш %1$s, чтобы узнать больше!"
+
+#: ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "папка с расширениями"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "Нравится Redux?"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr "Если так, пожалуйста %1$s и рассмотрите %2$s на развитие разработки Redux."
+
+#: ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "оставьте доброжелательный отзыв на WordPress.org"
+
+#: ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr "пожертвование"
+
+#: ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr "Новостная рассылка"
+
+#: ReduxCore/inc/tracking.php:156
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr "Если Вы хотите быть в курсе всего о Redux, пожалуйста подпишитесь на нашу рассылку"
+
+#: ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr "Адрес эл. почты"
+
+#: ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr "Закрыть"
+
+#: ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "Данное поле должно содержать корректное значение цвета."
+
+#: ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr "Вы должны ввести список числовых значений, разделённых запятой."
+
+#: ReduxCore/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Небезопасные строки были найдены в вашем CSS и отфильтрованы"
+
+#: ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "Данное поле должно содержать корректную дату."
+
+#: ReduxCore/inc/validation/email/validation_email.php:16
+#: ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Вы должны использовать корректный email для данной опции."
+
+#: ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Вы не должны вводить HTML в данное поле. Все HTML тэги будут удалены."
+
+#: ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "Вы не должны вводить специальные символы в данное поле. Все спец. символы будут удалены."
+
+#: ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Поле не должно быть пусто. Введите значение."
+
+#: ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Вы должны использовать числовое значение для данной опции."
+
+#: ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr "Данный краткий заголовок занят, пожалуйста, выберите другой. <code>%s</code> не занят."
+
+#: ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Вы должны использовать корректный URL для данной опции."
+
+#: ReduxCore/inc/welcome/views/about.php:2
+msgid "Welcome to Redux Framework %s"
+msgstr "Добро пожаловать в Redux Framework %s"
+
+#: ReduxCore/inc/welcome/views/about.php:5
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
+msgstr "Спасибо за обновление до последней версии! Redux Framework %s — это большой шаг вперёд в разработке Redux. Взгляните на обновления."
+
+#: ReduxCore/inc/welcome/views/about.php:8
+#: ReduxCore/inc/welcome/views/changelog.php:8
+#: ReduxCore/inc/welcome/views/credits.php:8
+#: ReduxCore/inc/welcome/views/extensions.php:82
+#: ReduxCore/inc/welcome/views/status_report.php:31
+#: ReduxCore/inc/welcome/views/support.php:8
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "Что такое Redux Framework?"
+
+#: ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+"Redux Framework — это ядро многих веб-продуктов. Это один из фреймворков, который используют разработчики\n"
+"для улучшения их разработок."
+
+#: ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "Новое в этом релизе"
+
+#: ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "Redux Framework - Журнал изменений"
+
+#: ReduxCore/inc/welcome/views/changelog.php:5
+#: ReduxCore/inc/welcome/views/status_report.php:28
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
+msgstr "Наша основная мантра в Redux — это обратная совместимость. С сотнями тысяч экземпляров по всему миру, вы можете быть уверены, что мы будем заботиться о вас и ваших клиентах."
+
+#: ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "Redux Framework - Общественное достижение"
+
+#: ReduxCore/inc/welcome/views/credits.php:5
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr "Мы осознаём, что мы — ничто без нашего комьюнити. Мы хотели бы поблагодарить всех, кто помогает создавать Redux. Спасибо за ваш вклад."
+
+#: ReduxCore/inc/welcome/views/credits.php:14
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"https://github.com/reduxframework/redux-framework/blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr "Redux создаётся разработчиками со всего мира. Хотите внести своё имя в список? <a href=\"https://github.com/reduxframework/redux-framework/blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+
+#: ReduxCore/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr "Redux Framework - Расширения"
+
+#: ReduxCore/inc/welcome/views/extensions.php:79
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
+msgstr "Улучшите ваш опыт с Redux. Наши расширения предоставят Вам функционал, с помощью которого вы выведете Ваш продукт на новый уровень."
+
+#: ReduxCore/inc/welcome/views/extensions.php:88
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
+msgstr "В то время как некоторые предназначены для разработчиков, такие расширения как Custom Fonts делают обычных пользователей счастливее."
+
+#: ReduxCore/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr "Redux Framework - Состояние системы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:38
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr "Пожалуйста, скопируйте следующую информацию и вставьте её в ваш тикет при обращении в службу поддержки:"
+
+#: ReduxCore/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr "Получить системный отчет"
+
+#: ReduxCore/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr "Понимание отчёта о состоянии"
+
+#: ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr "Скопировано!"
+
+#: ReduxCore/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr "Копия для поддержки"
+
+#: ReduxCore/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr "Окружение WordPress"
+
+#: ReduxCore/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr "URL домашней страницы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:66
+msgid "The URL of your site's homepage."
+msgstr "URL главной страницы Вашего сайта"
+
+#: ReduxCore/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr "URL сайта"
+
+#: ReduxCore/inc/welcome/views/status_report.php:71
+msgid "The root URL of your site."
+msgstr "Корневой URL Вашего сайта"
+
+#: ReduxCore/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr "Версия Redux"
+
+#: ReduxCore/inc/welcome/views/status_report.php:76
+msgid "The version of Redux Framework installed on your site."
+msgstr "Версия Redux Framework была установлена на Ваш сайт."
+
+#: ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr "Доступность для записи директроии данных Redux"
+
+#: ReduxCore/inc/welcome/views/status_report.php:83
+msgid "Redux and its extensions write data to the <code>uploads</code> directory. This directory must be writable."
+msgstr "Redux и его расширения сохраняют данные в папку <code>uploads</code>. Эта директория должна быть доступна для записи."
+
+#: ReduxCore/inc/welcome/views/status_report.php:88
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "Чтобы получить возможность сохранять данные, сделайте <code>%s</code> доступной для записи."
+
+#: ReduxCore/inc/welcome/views/status_report.php:93
+msgid "WP Version"
+msgstr "Версия WP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:94
+msgid "The version of WordPress installed on your site."
+msgstr "Версия WordPress, установленная на Вашем сайте."
+
+#: ReduxCore/inc/welcome/views/status_report.php:98
+msgid "WP Multisite"
+msgstr "Мультисайтовость WP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:99
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Включена или нет опция WordPress Multisite"
+
+#: ReduxCore/inc/welcome/views/status_report.php:107
+msgid "Permalink Structure"
+msgstr "Структура постоянны ссылок"
+
+#: ReduxCore/inc/welcome/views/status_report.php:108
+msgid "The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr "Текущая структура постоянных ссылок, как определено в  Консоль -> Настройки -> Постоянные ссылки"
+
+#: ReduxCore/inc/welcome/views/status_report.php:113
+msgid "Front Page Display"
+msgstr "Показать главную страницу"
+
+#: ReduxCore/inc/welcome/views/status_report.php:114
+msgid "The current Reading mode of Wordpress."
+msgstr "Текущий режим чтения Wordpress."
+
+#: ReduxCore/inc/welcome/views/status_report.php:122
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: ReduxCore/inc/welcome/views/status_report.php:123
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "Выбранная сейчас страница, которая выступает в роли Главной Страницы сайта"
+
+#: ReduxCore/inc/welcome/views/status_report.php:127
+msgid "Posts Page"
+msgstr "Страница постов"
+
+#: ReduxCore/inc/welcome/views/status_report.php:128
+msgid "The currently selected page in where blog posts are displayed."
+msgstr "Выбранная страница, на которой выводятся посты из блога"
+
+#: ReduxCore/inc/welcome/views/status_report.php:135
+msgid "WP Memory Limit"
+msgstr "Ограничение памяти WP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:136
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Максимальное количество памяти (RAM), которое может использовать ваш сайт в один момент времени."
+
+#: ReduxCore/inc/welcome/views/status_report.php:141
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%s - Мы рекомендуем значение не меньше 40MB. См.: <a href=\"%s\" target=\"_blank\">Увеличение памяти, выделяемой PHP</a>"
+
+#: ReduxCore/inc/welcome/views/status_report.php:148
+msgid "Database Table Prefix"
+msgstr "Префикс таблиц в БД"
+
+#: ReduxCore/inc/welcome/views/status_report.php:150
+msgid "The prefix structure of the current Wordpress database."
+msgstr "Структура префикса в текущей БД Wordpress"
+
+#: ReduxCore/inc/welcome/views/status_report.php:154
+msgid "WP Debug Mode"
+msgstr "Режим отладки WP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:155
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Показывает, находится ли WordPress в Режиме Отладки"
+
+#: ReduxCore/inc/welcome/views/status_report.php:163
+msgid "Language"
+msgstr "Язык"
+
+#: ReduxCore/inc/welcome/views/status_report.php:164
+msgid "The current language used by WordPress. Default = English"
+msgstr "Текущий язык, используемый WordPress. По умолчанию - Английский"
+
+#: ReduxCore/inc/welcome/views/status_report.php:172
+msgid "Browser"
+msgstr "Браузер"
+
+#: ReduxCore/inc/welcome/views/status_report.php:177
+msgid "Browser Info"
+msgstr "Информация о браузере"
+
+#: ReduxCore/inc/welcome/views/status_report.php:178
+msgid "Information about web browser current in use."
+msgstr "Информация о текущем используемом браузере"
+
+#: ReduxCore/inc/welcome/views/status_report.php:193
+msgid "Server Environment"
+msgstr "Окружение сервера"
+
+#: ReduxCore/inc/welcome/views/status_report.php:198
+msgid "Server Info"
+msgstr "Информация о сервере"
+
+#: ReduxCore/inc/welcome/views/status_report.php:199
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Информация о текущем сервере, на котором находится Ваш сайт"
+
+#: ReduxCore/inc/welcome/views/status_report.php:203
+msgid "Localhost Environment"
+msgstr "Среда Localhost"
+
+#: ReduxCore/inc/welcome/views/status_report.php:204
+msgid "Is the server running in a localhost environment."
+msgstr "Является ли запущенный сервер окружением localhost"
+
+#: ReduxCore/inc/welcome/views/status_report.php:214
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:215
+msgid "The version of PHP installed on your hosting server."
+msgstr "Версия PHP, установленная на сервер Вашего хостинга"
+
+#: ReduxCore/inc/welcome/views/status_report.php:220
+msgid "PHP Memory Limit"
+msgstr "Лимит памяти PHP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:221
+#: ReduxCore/inc/welcome/views/status_report.php:226
+msgid "The largest filesize that can be contained in one post."
+msgstr "Максимальный размер файла, который может содержаться в одном посте."
+
+#: ReduxCore/inc/welcome/views/status_report.php:225
+msgid "PHP Post Max Size"
+msgstr "Максимально допустимый размер данных, отправляемых методом POST"
+
+#: ReduxCore/inc/welcome/views/status_report.php:230
+msgid "PHP Time Limit"
+msgstr "Лимит времени PHP"
+
+#: ReduxCore/inc/welcome/views/status_report.php:231
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "Время (в секундах) которое Ваш сайт может потратить на одну операцию до таймаута (во избежание зависания сервера)."
+
+#: ReduxCore/inc/welcome/views/status_report.php:235
+msgid "PHP Max Input Vars"
+msgstr "Переменная PHP Max Input"
+
+#: ReduxCore/inc/welcome/views/status_report.php:236
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "Максимальное кол-во переменных, которые может использовать Ваш сервер в одной функции, избегая перегрузки."
+
+#: ReduxCore/inc/welcome/views/status_report.php:240
+msgid "PHP Display Errors"
+msgstr "Переменная PHP Display Errors"
+
+#: ReduxCore/inc/welcome/views/status_report.php:241
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Определяет, будет ли PHP выводить ошибки в браузер."
+
+#: ReduxCore/inc/welcome/views/status_report.php:252
+msgid "SUHOSIN Installed"
+msgstr "Установлен ли SUHOSIN"
+
+#: ReduxCore/inc/welcome/views/status_report.php:253
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin является усовершенствованной системой защиты установки PHP. Он был разработан для защиты серверов, с одной стороны против ряда хорошо известных проблем в PHP приложениях, а с другой стороны от потенциальных неизвестных уязвимостей в этих приложениях или самого ядра PHP. Если Suhosin включен на вашем сервере, возможно, он должен быть настроены для повышения его пределов представления данных."
+
+#: ReduxCore/inc/welcome/views/status_report.php:262
+msgid "MySQL Version"
+msgstr "Версия MySQL"
+
+#: ReduxCore/inc/welcome/views/status_report.php:263
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Версия MySQL, установленная на сервере Вашего хостинга."
+
+#: ReduxCore/inc/welcome/views/status_report.php:267
+msgid "Max Upload Size"
+msgstr "Максимальный размер загружаемого файла"
+
+#: ReduxCore/inc/welcome/views/status_report.php:268
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "Максимальный размер файла, который может загружен в вашу инсталляцию Wordpress."
+
+#: ReduxCore/inc/welcome/views/status_report.php:272
+msgid "Default Timezone is UTC"
+msgstr "Часовым поясом по умолчанию является UTC"
+
+#: ReduxCore/inc/welcome/views/status_report.php:275
+msgid "The default timezone for your server."
+msgstr "Часовой пояс Вашего сервера по умолчанию."
+
+#: ReduxCore/inc/welcome/views/status_report.php:278
+msgid "Default timezone is %s - it should be UTC"
+msgstr "Часовым поясом по умолчанию является %s - должен быть UTC"
+
+#: ReduxCore/inc/welcome/views/status_report.php:289
+msgid "Used when communicating with remote services with PHP."
+msgstr "Используется при общении с удаленными сервисами через PHP."
+
+#: ReduxCore/inc/welcome/views/status_report.php:295
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr "Ваш сервер не имеет fsockopen или cURL - cURL используется для связи с другими серверами. Пожалуйста, свяжитесь с вашим хостинг-провайдером."
+
+#: ReduxCore/inc/welcome/views/status_report.php:334
+msgid "Remote Post"
+msgstr "Удалённый POST"
+
+#: ReduxCore/inc/welcome/views/status_report.php:335
+msgid "Used to send data to remote servers."
+msgstr "Используется для отправки данных на удаленные сервера."
+
+#: ReduxCore/inc/welcome/views/status_report.php:340
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
+msgstr "wp_remote_post () не удалось. Многие продвинутые функции могут не работать. Обратитесь к хостинг-провайдеру."
+
+#: ReduxCore/inc/welcome/views/status_report.php:343
+#: ReduxCore/inc/welcome/views/status_report.php:358
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+#: ReduxCore/inc/welcome/views/status_report.php:350
+msgid "Remote Get"
+msgstr "Удалённый GET"
+
+#: ReduxCore/inc/welcome/views/status_report.php:351
+msgid "Used to grab information from remote servers for updates updates."
+msgstr "Используется, чтобы принимать информацию с удаленных серверов для обновления."
+
+#: ReduxCore/inc/welcome/views/status_report.php:356
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
+msgstr "wp_remote_get () не удалось. Это необходимо, чтобы получить информацию из удаленных серверов. Обратитесь к хостинг-провайдеру."
+
+#: ReduxCore/inc/welcome/views/status_report.php:390
+msgid "Active Plugins"
+msgstr "Активные плагины"
+
+#: ReduxCore/inc/welcome/views/status_report.php:406
+msgid "Visit plugin homepage"
+msgstr "Перейти на страницу плагина"
+
+#: ReduxCore/inc/welcome/views/status_report.php:430
+msgid "Redux Instance: "
+msgstr "Объект Redux:"
+
+#: ReduxCore/inc/welcome/views/status_report.php:437
+msgid "The opt_name argument for this instance of Redux."
+msgstr "Аргумент opt_name для данного объекта Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:445
+msgid "The global_variable argument for this instance of Redux."
+msgstr "Аргумент global_variable для данного объекта Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:453
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "Показывает, включен ли режим разработчика для данного объекта Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:458
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr "Показывает, включены ли AJAX-сервисы для данного объекта Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:463
+msgid "The page slug denotes the string used for the options panel page for this instance of Redux."
+msgstr "Краткий заголовок страницы обозначает строку, используемую для страницы панели настроек для этого экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:468
+msgid "The page permissions variable sets the permission level required to access the options panel for this instance of Redux."
+msgstr "Переменная \"page permissions\" устанавливает уровень прав для доступа к панели настроек для этого экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:473
+msgid "This variable set whether or not the menu is displayed as an admin menu item for this instance of Redux."
+msgstr "Эта переменная определяет, отображать или нет меню, как меню администратора для этого экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:478
+msgid "The page parent variable sets where the options menu will be placed on the WordPress admin sidebar for this instance of Redux."
+msgstr "Переменная \"page parent\" определяет, где будет меню настроек размещено в панели администрирования Wordpress для данного экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:484
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "Указывает на то, включен ли флаг компилятора для данного экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Indicates if output flag for globally shutting off all CSS output is enabled for this instance of Redux."
+msgstr "Указывает, включен ли флаг, который глобально отключает весь вывод CSS для данного экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:494
+msgid "The output_tag variable sets whether or not dynamic CSS will be generated for the customizer and Google fonts for this instance of Redux."
+msgstr "Переменная \"output_tag\" устанавливает, будет ли генерироваться динамический CSS для настройщика и шрифтов Google для данного экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:503
+msgid "The specified template path containing custom template files for this instance of Redux."
+msgstr "Указанный путь к шаблону, содержащий пользовательские файлы шаблонов для этого экземпляра Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:508
+msgid "List of template files overriding the default Redux template files."
+msgstr "Список файлов шаблона, которые перезаписывают стандартные файлы шаблонов Redux."
+
+#: ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "Указывает установленные расширения Redux и номера их версий."
+
+#: ReduxCore/inc/welcome/views/status_report.php:562
+msgid "Theme"
+msgstr "Тема"
+
+#: ReduxCore/inc/welcome/views/status_report.php:567
+msgid "Name"
+msgstr "Имя"
+
+#: ReduxCore/inc/welcome/views/status_report.php:568
+msgid "The name of the current active theme."
+msgstr "Название текущей активной темы."
+
+#: ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Version"
+msgstr "Версия"
+
+#: ReduxCore/inc/welcome/views/status_report.php:573
+msgid "The installed version of the current active theme."
+msgstr "Установленная версия текущей активной темы."
+
+#: ReduxCore/inc/welcome/views/status_report.php:578
+msgid "is available"
+msgstr "доступен"
+
+#: ReduxCore/inc/welcome/views/status_report.php:583
+msgid "Author URL"
+msgstr "Ссылка на автора"
+
+#: ReduxCore/inc/welcome/views/status_report.php:584
+msgid "The theme developers URL."
+msgstr "Ссылка на разработчиков темы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:588
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: ReduxCore/inc/welcome/views/status_report.php:589
+msgid "Displays whether or not the current theme is a child theme."
+msgstr "Отображает, является ли текущая тема дочерней"
+
+#: ReduxCore/inc/welcome/views/status_report.php:591
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+msgstr "Если Вы переносите Redux Framework или родительскую тему, Вам не надо собирать её лично, мы рекомендуем использовать дочернюю тему. Для справки: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
+
+#: ReduxCore/inc/welcome/views/status_report.php:599
+msgid "Parent Theme Name"
+msgstr "Имя родительской темы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:601
+msgid "The name of the parent theme."
+msgstr "Имя родительской темы."
+
+#: ReduxCore/inc/welcome/views/status_report.php:605
+msgid "Parent Theme Version"
+msgstr "Версия родительской темы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:608
+msgid "The installed version of the parent theme."
+msgstr "Установленная версия родительской темы."
+
+#: ReduxCore/inc/welcome/views/status_report.php:612
+msgid "Parent Theme Author URL"
+msgstr "URL автора родительской темы"
+
+#: ReduxCore/inc/welcome/views/status_report.php:615
+msgid "The parent theme developers URL."
+msgstr "URL разработчиков родительской темы."
+
+#: ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "Redux Framework - Техническая поддержка"
+
+#: ReduxCore/inc/welcome/views/support.php:5
+msgid "We are an open source project used by developers to make powerful control panels."
+msgstr "Мы - проект с открытым исходным кодом, используемый разработчиками для создания мощных административных панелей."
+
+#: ReduxCore/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr "Сгенерировать URL поддержки"
+
+#: ReduxCore/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr "Выберите тип поддержки"
+
+#: ReduxCore/inc/welcome/views/support.php:22
+#: ReduxCore/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr "Как получить поддержку"
+
+#: ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "Отправить запрос в поддержку"
+
+#: ReduxCore/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr "Нам нужно будет создать хэш поддержки, чтобы начать."
+
+#: ReduxCore/inc/welcome/views/support.php:33
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
+msgstr "Это даст вашему разработчика всю информацию, в которой он нуждается, чтобы исправить вашу проблему. Это действие будет посылать информацию надежно на удаленный сервер. Чтобы увидеть тип информации, который отправляется, пожалуйста, посмотрите на <a href=\"%s\">вкладке статус</a>."
+
+#: ReduxCore/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+"Сгенерировать\n"
+"URL поддержки."
+
+#: ReduxCore/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr "Выберите Ваш тип поддержки"
+
+#: ReduxCore/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr "Каким типом пользователя Вы являетесь?"
+
+#: ReduxCore/inc/welcome/views/support.php:52
+msgid "User"
+msgstr "Пользователь"
+
+#: ReduxCore/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr "Я — пользователь, использующий уже готовый продукт."
+
+#: ReduxCore/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr "Разработчик"
+
+#: ReduxCore/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr "Я — разработчик, собирающий продукт с помощью Redux."
+
+#: ReduxCore/inc/welcome/views/support.php:68
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
+msgstr "Пожалуйста, перейдите к трекеру Redux Framework и предоставьте нам свой адрес поддержки ниже. Просьба также представить любую информацию, которая поможет нам воспроизвести вашу проблему."
+
+#: ReduxCore/inc/welcome/views/support.php:74
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
+msgstr "Ниже перечислены Wordpress плагины и / или темы, установленные на вашем сайте, что используют Redux Framework. Мы напрямую не поддерживаем продукты, созданные с нашим фреймворком. Это ответственность разработчика плагина или темы. Вам нужно будет связаться с автором (ами) продуктов, перечисленных ниже с вашими вопросами поддержки."
+
+#: ReduxCore/inc/welcome/views/support.php:77
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
+msgstr "Пожалуйста, не забудьте включить для разработчика - с помощью вырезания и вставки - URL поддержки в поле ниже."
+
+#: ReduxCore/inc/welcome/views/support.php:215
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
+msgstr "Если разработчик не реагирует, прочитайте <a href=\"%s\" target=\"_blank\">следующую статью </a>, прежде чем просить поддержки у нас напрямую."
+
+#: ReduxCore/inc/welcome/welcome.php:168
+msgid "Support hash could not be generated. Please try again later."
+msgstr "Хэш поддержки не может быть сгенерирован. Пожалуйста, повторите попытку позже."
+
+#: ReduxCore/inc/welcome/welcome.php:188
+msgid "Welcome to Redux Framework"
+msgstr "Добро Пожаловать в Redux Framework"
+
+#: ReduxCore/inc/welcome/welcome.php:196
+msgid "Redux Framework Changelog"
+msgstr "Журнал Redux Framework"
+
+#: ReduxCore/inc/welcome/welcome.php:204
+#: class.redux-plugin.php:410
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: ReduxCore/inc/welcome/welcome.php:221
+msgid "The people that develop Redux Framework"
+msgstr "Люди, разрабатывающие Redux Framework"
+
+#: ReduxCore/inc/welcome/welcome.php:229
+msgid "Redux Framework Status"
+msgstr "Статус Redux Framework"
+
+#: ReduxCore/inc/welcome/welcome.php:334
+msgid "What's New"
+msgstr "Что нового?"
+
+#: ReduxCore/inc/welcome/welcome.php:338
+msgid "Extensions"
+msgstr "Дополнения"
+
+#: ReduxCore/inc/welcome/welcome.php:342
+msgid "Changelog"
+msgstr "Изменения"
+
+#: ReduxCore/inc/welcome/welcome.php:346
+msgid "Credits"
+msgstr "Благодарности"
+
+#: ReduxCore/inc/welcome/welcome.php:350
+msgid "Support"
+msgstr "Поддержка"
+
+#: ReduxCore/inc/welcome/welcome.php:354
+msgid "Status"
+msgstr "Статус"
+
+#: ReduxCore/inc/welcome/welcome.php:511
+msgid "View %s"
+msgstr "Смотреть %s"
+
+#: ReduxCore/templates/panel/footer.tpl.php:43
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ReduxCore/templates/panel/footer.tpl.php:46
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr "Сброс раздела"
+
+#: ReduxCore/templates/panel/footer.tpl.php:47
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr "Сбросить все"
+
+#: ReduxCore/templates/panel/footer.tpl.php:52
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr "Обработка..."
+
+#: ReduxCore/templates/panel/header.tpl.php:18
+msgid "Developer Mode Enabled"
+msgstr "Режим Разработчика"
+
+#: ReduxCore/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr "Раскрыть"
+
+#: class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework имеет встроенную демонстрацию."
+
+#: class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr "Нажмите здесь для активирования демонстрационных настроек."
+
+#: class.redux-plugin.php:407
+msgid "Docs"
+msgstr "Документация"
+
+#: class.redux-plugin.php:408
+msgid "Repo"
+msgstr "Репозиторий"
+
+#: class.redux-plugin.php:409
+msgid "Builder"
+msgstr "Билдер"
+
+#: class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr "Выключить демонстрационный режим"
+
+#: class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr "Включить демонстрационный режим"
+
+#: tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr "Должно вызываться после действий \"plugins_loaded\"."
+
+#: tests/includes/class-tivwp-dm-controller.php:138
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr "Неизвестное действие \"%1$s\" указано для %2$s"
+
+#: tests/includes/class-tivwp-dm-controller.php:143
+msgid "The unknown action has been replaced with \"%s\""
+msgstr "Неизвестное действие было заменено \"%s\""
+
+#: tests/includes/class-tivwp-dm-controller.php:158
+msgid "Automatic action performed: \"%s\""
+msgstr "Автоматическое действие произведено: \"%s\""
+
+#: tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr "Активировать плагины для разработки"
+
+#: tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr "Деактивировать плагины для разработки"
+
+#: tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно полномочий для доступа к этой странице."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/redux-framework"
+msgstr "http://wordpress.org/plugins/redux-framework"
+
+#. Description of the plugin/theme
+msgid "Redux is a simple, truly extensible options framework for WordPress themes and plugins."
+msgstr "Redux — простая оболочка с действительно расширенными настройками для тем и плагинов WordPress."
+
+#. Author of the plugin/theme
+msgid "Team Redux"
+msgstr "Team Redux"
+
+#. Author URI of the plugin/theme
+msgid "http://reduxframework.com"
+msgstr "http://reduxframework.com"
+
+#: ReduxCore/inc/welcome/views/status_report.php:412
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+"от %s\n"
+"доступа к этой странице.\""
