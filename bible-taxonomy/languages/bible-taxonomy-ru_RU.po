@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bible Taxonomy\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Alexander Ustimenko <ustimenko.alexander@gmail.com>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/bible-taxonomy/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-07 17:21+0000\n"
+"PO-Revision-Date: 2017-09-20 00:24:06\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#. Translators: first placeholder for plugin name, second for version number
+#: bible-taxonomy.php:60
+#, php-format
+msgid "%1$s %2$s not activated"
+msgstr "%1$s %2$s не активирован"
+
+#. Translators: first placeholder for current WordPress version, second for
+#. required version
+#: bible-taxonomy.php:62
+#, php-format
+msgid "You are running WordPress version %1$s. This plugin requires version %2$s or higher, and has been deactivated! Please upgrade WordPress and try again."
+msgstr "Вы рабротаете на WordPress версии %1$s. Этот плагин деактивирован, так как он требует версию %2$s и выше! Обновите WordPress и попробуйте ещё раз."
+
+#: bible-taxonomy.php:63
+msgid "Back to WordPress admin"
+msgstr "Вернуться в административную панель WordPress"
+
+#: bible-taxonomy.php:80
+#: bible-taxonomy.php:81
+msgid "Bible taxonomy"
+msgstr "Библейская таксономия"
+
+#: bible-taxonomy.php:82
+msgid "Search Bible references"
+msgstr "Поиск библейских ссылок"
+
+#: bible-taxonomy.php:83
+msgid "All Bible references"
+msgstr "Все библейские ссылки"
+
+#: bible-taxonomy.php:84
+msgid "Parent Bible reference"
+msgstr "Родительская библейская ссылка"
+
+#: bible-taxonomy.php:85
+msgid "Parent Bible reference:"
+msgstr "Родительская библейская ссылка:"
+
+#: bible-taxonomy.php:86
+msgid "Edit Bible reference"
+msgstr "Редактировать библейскую ссылку"
+
+#: bible-taxonomy.php:87
+msgid "Update Bible reference"
+msgstr "Обновить библейскую ссылку"
+
+#: bible-taxonomy.php:88
+msgid "Add New Bible reference"
+msgstr "Добавить новую библейскую ссылку"
+
+#: bible-taxonomy.php:89
+msgid "New Bible reference"
+msgstr "Новая библейская ссылка"
+
+#: bible-taxonomy.php:90
+msgid "Bible Taxonomy"
+msgstr "Библейская таксономия"
