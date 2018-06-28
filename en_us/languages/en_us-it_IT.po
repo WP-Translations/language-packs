@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WooCommerce Add-on\n"
+"Report-Msgid-Bugs-To: https://github.com/seb86/MailPoet-WooCommerce-Add-on/issues\n"
+"Last-Translator: Laura Sacco <laurasacco12@gmail.com>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/wysija/mailpoet-woocommerce-add-on/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-11-06 07:54+0100\n"
+"PO-Revision-Date: 2017-09-23 19:29:13\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:62
+msgid "General"
+msgstr "Generale"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:63
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:189
+msgid "Available Lists"
+msgstr "Liste disponibili"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:86
+msgid "Now your customers can subscribe to newsletters you have created with MailPoet as they order. These settings control how your customers subscribe."
+msgstr "Ora i tuoi clienti possono iscriversi alle newsletter che hai creato con MailPoet quando ordinano. Queste impostazioni controllano come iscrivere i clienti."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:91
+msgid "Enable subscription?"
+msgstr "Abilita l'iscrizione?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:92
+msgid "Tick this box to enable MailPoet subscription during checkout."
+msgstr "Seleziona questa casella per abilitare l'iscrizione MailPoet durante il checkout."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:100
+msgid "Multi-Subscription?"
+msgstr "Iscrizione multipla?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:101
+#, php-format
+msgid "If you have more than one newsletter. Allow your customers to select which lists they wish to subscribe too. <a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Edit Lists</a> <a class=\"button\" href=\"%s\">Available Lists</a>"
+msgstr "Se hai più di una newsletter. Permetti ai tuoi clienti di selezionare le liste a cui desiderano iscriversi. <a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Modifica liste</a> <a class=\"button\" href=\"%s\">Liste disponibili</a>"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:108
+msgid "No"
+msgstr "No"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:109
+msgid "Yes"
+msgstr "Si"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:115
+msgid "Enable Double Opt-in?"
+msgstr "Abilita verifica di iscrizione?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:116
+msgid "Controls whether a double opt-in confirmation message is sent, defaults to true."
+msgstr "Controlla se inviare un messaggio di conferma dell'iscrizione, abilitato per impostazione predefinita."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:124
+msgid "Default checkbox status"
+msgstr "Stato predefinito del checkbox"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:125
+msgid "The default state of the subscribe checkbox. Be aware some countries have laws against using opt-out checkboxes."
+msgstr "Lo stato predefinito del checkbox di iscrizione. Tieni presente che alcuni paesi hanno leggi contro l'uso di checkbox di iscrizione preselezionate."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:132
+msgid "Checked"
+msgstr "Selezionata"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:133
+msgid "Un-checked"
+msgstr "Deselezionata"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:139
+msgid "Subscribe checkbox label"
+msgstr "Etichetta del checkbox"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:140
+msgid "The text you want to display next to the \"Subscribe to Newsletter/s\" checkbox."
+msgstr "Il testo che vuoi mostrare vicino alla casella \"Iscriviti alla/e newsletter\""
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:145
+#: includes/mailpoet-woocommerce-core-functions.php:95
+msgid "Yes, please subscribe me to the newsletter/s."
+msgstr "Si grazie, iscrivimi alla/e newsletter."
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:151
+msgid "Subscription Position"
+msgstr "Posizione dell’iscrizione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:152
+msgid "Select where on the checkout page you want to display the subscription sign-up."
+msgstr "Seleziona dove vuoi mostrare l'iscrizione alla newsletter nella pagina di checkout. "
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:158
+msgid "Before Billing Form"
+msgstr "Prima del modulo di fatturazione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:159
+msgid "After Billing Form"
+msgstr "Dopo il modulo di fatturazione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:160
+msgid "Before Shipping Form"
+msgstr "Prima del modulo di spedizione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:161
+msgid "After Shipping Form"
+msgstr "Dopo il modulo di spedizione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:162
+msgid "Before Order Notes"
+msgstr "Prima delle note sull'ordine"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:163
+msgid "After Order Notes"
+msgstr "Dopo le note sull'ordine"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:164
+msgid "After Order Submit"
+msgstr "Dopo l'invio dell'ordine"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:170
+msgid "Remove all data on uninstall?"
+msgstr "Rimuovi tutti i dati alla disinstallazione?"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:171
+msgid "If enabled, all settings for this plugin will all be deleted when uninstalling via Plugins > Delete."
+msgstr "Se abilitato, tutte le impostazioni di questo plugin saranno eliminate quando viene disinstallato usando Plugin > Elimina"
+
+#: includes/admin/class-mailpoet-woocommerce-admin-settings.php:191
+msgid "Simply tick the lists you want your customers to subscribe to or allow the customer to choose from and press \"Save changes\"."
+msgstr "Seleziona le liste a cui vuoi iscrivere i clienti, o a cui possono scegliere di iscriversi e premi \"Salva i cambiamenti\"."
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:53
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:77
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: includes/admin/class-mailpoet-woocommerce-admin.php:78
+msgid "Community Support"
+msgstr "Supporto della community"
+
+#: includes/admin/settings/mailpoet-lists.php:25
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: includes/admin/settings/mailpoet-lists.php:26
+msgid "Newsletters"
+msgstr "Newsletter"
+
+#: includes/admin/views/html-notice-requirement-mailpoet.php:9
+msgid "Hold on a minute. You need to <a href=\""
+msgstr "Attendi un minuto. Hai bisogno di <a href=\""
+
+#: includes/admin/views/html-notice-requirement-wc.php:9
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce v"
+msgstr "<strong>%s</strong> richiede WooCommerce v"
+
+#: includes/admin/views/html-notice-requirement-wp.php:9
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade your WordPress setup."
+msgstr "<strong>%s</strong> richiede WordPress %s o superiore. Aggiorna la tua versione di WordPress."
+
+#: includes/mailpoet-woocommerce-core-functions.php:69
+msgid "Subscribe to Newsletter/s"
+msgstr "Iscriviti alla/e newsletter"
+
+#: includes/mailpoet-woocommerce-core-functions.php:144
+msgid "There appears to be a problem subscribing you to our newsletter/s. Please let us know so we can manually add you ourselves. Thank you."
+msgstr "Sembra esserci un problema nell'iscrizione alla nostra newsletter. Ti preghiamo di farcelo sapere in modo da poterti iscrivere manualmente. Grazie."
+
+#: includes/mailpoet-woocommerce-core-functions.php:177
+msgid "We have sent you an email to confirm your newsletter subscription. Please confirm your subscription. Thank you."
+msgstr "Ti abbiamo inviato un'email per confermare la tua iscrizione alla newsletter. Conferma l'iscrizione, grazie :)"
+
+#: includes/mailpoet-woocommerce-core-functions.php:182
+msgid "Thank you for subscribing to our newsletter/s."
+msgstr "Grazie per l'iscrizione alla nostra newsletter."
+
+#: mailpoet-woocommerce-addon.php:83
+#: mailpoet-woocommerce-addon.php:95
+msgid "Cheatin’ huh?"
+msgstr "Stai cercando di fare il furbo, eh?"
