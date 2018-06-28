@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Blogtitle\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: Albanian (http://www.transifex.com/wp-translations/flexible-blogtitle/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-28 21:33+0700\n"
+"PO-Revision-Date: 2018-02-20 20:54:35\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\Users\Kolja\Websites\www\wptest\wp-content\pluginslexible-blogtitle\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:366
+msgid "settings"
+msgstr "rregullime"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:396
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:493
+msgid "Settings"
+msgstr "Rregullime"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:498
+msgid "Automatically show in page title"
+msgstr "Shfaqe vetvetiu në titull faqeje"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:500
+#, php-format
+msgid "If this function is not set, you have to insert <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> manually in the <code>header.php</code> of your theme.<br />See <a href=\"%s\" title=\"Open readme.txt\">readme.txt</a> or the <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"See online documentary\">online documentary</a> for more information."
+msgstr "Nëse ky funksion s’është i përkufizuar, duhet të futni dorazi <code>&lt;?php the_flexible_blogtitle(); ?&gt;</code> te <code>header.php</code> e temës tuaj.<br />Për më tepër hollësi, shihni <a href=\"%s\" title=\"Open readme.txt\">readme.txt</a> ose <a href=\"http://www.koljanolte.com/wordpress/plugins/flexible-blogtitle/\" title=\"See online documentary\">dokumentimin në internet</a>."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:505
+msgid "Replace blogname with the current title"
+msgstr "Zëvendëso emrin e blogut me titullin e tanishëm"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:507
+msgid "Replaces the name of the blog set in <a href=\"options-general.php\" title=\"\">Settings › General</a> with the title for the current site."
+msgstr "Zëvendëson emrin e blogut të caktuar te <a href=\"options-general.php\" title=\"\">Rregullime › Të përgjithshme</a> me titullin për sajtin e atëçastëm."
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:510
+msgid "Save changes"
+msgstr "Ruaji ndryshimet"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:519
+msgid "New rule"
+msgstr "Rregull i ri"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:522
+msgid "If"
+msgstr "Nëse"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:524
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:612
+msgid "Object"
+msgstr "Objekt"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:525
+msgid "Post ID"
+msgstr "ID Postimi"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:526
+msgid "Page ID"
+msgstr "ID Faqeje"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:527
+msgid "Post/page title"
+msgstr "Titull postimi/faqeje"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:528
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:541
+msgid "Category"
+msgstr "Kategori"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:529
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:552
+msgid "Taxonomy"
+msgstr "Klasifikim"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:530
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:568
+msgid "Term"
+msgstr "Term"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:534
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:613
+msgid "Operator"
+msgstr "Operator"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:535
+msgid "is"
+msgstr "është"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:536
+msgid "is not"
+msgstr "s’është"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:537
+msgid "contains"
+msgstr "përmban"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:590
+msgid "Enter value..."
+msgstr "Jepni një vlerë…"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:591
+msgid "change blogtitle to:"
+msgstr "ndryshoje titullin e blogut në:"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:601
+msgid "Add rule"
+msgstr "Shtoni rregull"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:610
+msgid "Select all rules"
+msgstr "Përzgjidhi krejt rregullat"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:614
+msgid "Value"
+msgstr "Vlerë"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:615
+msgid "New blogtitle"
+msgstr "Titull i ri blogu"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:616
+msgid "Delete rule"
+msgstr "Fshije rregullin"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:643
+msgid "Delete"
+msgstr "Fshije"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:655
+msgid "Delete selected rules"
+msgstr "Fshiji rregullat e përzgjedhur"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:657
+msgid "Apply"
+msgstr "Zbatoje"
+
+#: C:\Users\Kolja\Websites\www\wptest\wp-content\plugins\flexible-blogtitle/flexible_blogtitle.php:661
+msgid "Do you speak more than one language?<br /><a href=\"\" title=\"\">Help translating Flexible Blogtitle</a> and make it easier for other users to use."
+msgstr "Flisni më tepër se një gjuhë?<br /><a href=\"\" title=\"\">Ndihmoni në përkthimin e Flexible Blogtitle</a> dhe bëjeni më të lehtë përdorimin e tij nga përdorues të tjerë."
