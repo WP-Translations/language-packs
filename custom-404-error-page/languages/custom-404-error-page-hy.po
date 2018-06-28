@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: Edgar Amiraghyan <admin@calkut.com>\n"
+"Language-Team: Armenian (http://www.transifex.com/wp-translations/custom-404-error-page/language/hy/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-20 00:42:45\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "Էջը գոյություն չունի: Սխալ 404"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "Էջի սխալը 404"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "Նախնական (404.php Կաղապար)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "Ավելացնել նորը"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "Կառավարում"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "Անհատական 404 էջի սխալ"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "Սահմանել ցանկացած էջ,որը կօգտագործվի որպես 404 ախալ էջ:"
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Է.Ամիրաղյան"
