@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom 404 Error Page\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/custom-404-page\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/wp-translations/custom-404-error-page/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-02-12 20:07:26+00:00\n"
+"PO-Revision-Date: 2017-09-22 09:24:32\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: custom-404-page.php:104
+msgid "Page for Error 404 (Not Found)"
+msgstr "Pagina da mostrare al posto di Errore 404 (Pagina non trovata)"
+
+#: custom-404-page.php:126
+msgid "Error 404 page"
+msgstr "Pagina per l'errore 404"
+
+#: custom-404-page.php:146
+msgid "Default (404.php template)"
+msgstr "Default (template 404.php)"
+
+#: custom-404-page.php:156
+msgid "Add New"
+msgstr "Aggiungi Nuova"
+
+#: custom-404-page.php:205
+msgid "Settings"
+msgstr "Impostazioni"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom 404 Error Page"
+msgstr "Pagina 404 personalizzata"
+
+#. Description of the plugin/theme
+msgid "Set any page to be used as 404 error page."
+msgstr "Imposta la pagina da utilizzare come pagina di errore 404."
+
+#. Author of the plugin/theme
+msgid "Kaspars Dambis"
+msgstr "Kaspars Dambis"
