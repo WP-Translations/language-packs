@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I Luv 2 Test\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/blogly-lite\n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/iluv2test/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-28 13:39:36+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:37:29\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страница не найдена."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Страница не найдена. Попробуйте воспользоваться ссылками ниже или поиском."
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "Популярные рубрики"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Посмотрите в архивах по месяцам. %1$s"
+
+#: archive.php:29
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:37
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:40
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:43
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Заметки"
+
+#: archive.php:49
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:52
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:55
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:58
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:61
+#: sidebar.php:29
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] "%1$s сообщений на &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s сообщений на &ldquo;%2$s&rdquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "Leave a comment"
+msgstr "Добавить комментарий"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31
+#: content-audio.php:31
+#: content-chat.php:35
+#: content-image.php:33
+#: content-link.php:31
+#: content-quote.php:29
+#: content-single.php:30
+#: content-status.php:31
+#: content.php:37
+#: single-quote.php:29
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-chat.php:41
+#: content-image.php:39
+#: content-link.php:37
+#: content-quote.php:35
+#: content-single.php:33
+#: content-status.php:37
+#: content.php:43
+#: single-quote.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-page.php:33
+#: content-single.php:16
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-page.php:43
+#: inc/template-tags.php:141
+#: inc/template-tags.php:179
+msgid "Edit"
+msgstr "Редактировать"
+
+#: footer.php:8
+msgid "Proudly powered by %s"
+msgstr "Работает на %s"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s by %2$s."
+
+#: inc/customizer.php:54
+#: inc/customizer.php:64
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:70
+msgid "Footer Logo"
+msgstr "Логотип подвала"
+
+#: inc/customizer.php:77
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:90
+msgid "Link color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer.php:103
+msgid "Accent color"
+msgstr "Основной цвет"
+
+#: inc/extras.php:134
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "Навигация"
+
+#: inc/template-tags.php:75
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+#: inc/template-tags.php:95
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Пингбэк:"
+
+#: inc/template-tags.php:161
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">сказал(а):</span>"
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: inc/template-tags.php:369
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Опубликовано %1$s</span><span class=\"byline\"> пользователем %2$s</span>"
+
+#: inc/themesetup.php:29
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: no-results.php:25
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: no-results.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать вашу первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: no-results.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ничего не найдено по вашему запросу. Попробуйте другие ключевые слова."
+
+#: no-results.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Ничего не найдено, попробуйте воспользоваться поиском."
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: sidebar.php:20
+msgid "Menu"
+msgstr "Меню"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "Прочее"
+
+#. Theme Name of the plugin/theme
+msgid "Blogly Lite"
+msgstr "Blogly Lite"
+
+#. Theme URI of the plugin/theme
+msgid "http://themefurnace.com/blog/portfolio/blogly-lite/"
+msgstr "http://themefurnace.com/blog/portfolio/blogly-lite/"
+
+#. Description of the plugin/theme
+msgid "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
