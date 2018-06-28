@@ -1,0 +1,5985 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Vidas Gruodis <vidiunia@gmail.com>\n"
+"Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/wysija/wysija/language/lt_LT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2017-09-22 15:22:56\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Įdėkite varnelę jūsų atsiskaitymo puslapyje, kad jūsų klientai galėtų užsisakyti MailPoet naujienlaiškius."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Nuspręskite kuriuos el. laiškus automatiškai gaus nauji vartotojai, atsižvelgiant į jų įsigytas prekes. Tai yra Premium papildinys, skirtas WooCommerce."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Įdėkite naują lauką, skirtą įdėjimui į jūsų formas, kad jūsų lankytojai galėtų užsiprenumeruoti jūsų MailPoet naujienlaiškius."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Įdėkite varnelę šio įskiepio registracijos formoje, kad jūsų nauji vartotojai galėtų prisijungti prie jūsų pasirinktų sąrašų."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Įdėkite varnelę savo formose ir pasirinkite į kuriuos sąrašus įdedamas vartotojas."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Sustabdykite netikras robotų registracijas naudojant WangGuard, nemokamą baltųjų sąrašų paslaugą ir įskiepį."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Jei turite problemą, tuomet tai jūsų sprendimas. Taip pat visiškai nemokamas."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall yra Premium įskiepis, leidžiantis įdėti turinį už mokėjimų sienos. Šis papildinys leidžia valdyti jūsų klientų klientų prenumeratas."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Šdėkite formą jūsų svetainės viršutiniame arba apatiniame stulpelyje, arba gražioje dėžutėje jūsų įrašuose naudojant GetConversion nemokamus įskiepius. Sujunkite juos su MailPoet naudojant šį papildinį. <br/></br>Gaukite 30% nuolaidą jų papildinio Premium versijai įsigyti, paspausdami <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">čia</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Pabandykite patys, mes buvome nustebinti nemokamų versijų galimybėmis."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Įdėkite prenumeratos formą iššokančiame lange, poraštėje ar šoninėje juostoje naudojant šį Premium įskiepį."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Autoriai įspūdingai padirbėjo."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Premium vartotojai sutaupo 20% naudodami šį kuponą: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Šis Premium įskiepis leidžia jums įdėti MailPoet formą iššokančiame lange."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Jūs privalote mokėti CSS norėdami sukurti norimą dizainą."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Premium vartotojai sutaupo 25% naudodami šį kuponą: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Šis Premium įskiepis leidžia jums įdėti MailPoet formas daugybėje vietų, taip pat ir į Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Labai galingas, neskaitant išdaigios sąsajos."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Nemokamas įskiepis leidžia jums sumaketuoti formą ir įdėti ją įrašo pradžioje arba pabaigoje."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Jis nemokamas ir yra populiarus tarp mūsų naudotojų."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr ""
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr ""
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Šis nemokamas įskiepis leidžia jums įdėti formą iššokančiame lange, tik tiek."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Tai yra nemokama galingesnės Premium versijos versija."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Jūsų nauja svetainė dar neįjungta? Įdėkite puslapį su tekstu apie svetainės atidarymą ir forma, leidžiančia surinkti el. pašto adresus, naudojant šį Premium įskiepį."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Gerai suprojektuotas įskiepis paprastos idėjos įgyvendinimui."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Premium vartotojai sutaupo 20% naudojant šį kuponą: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Šis Premium įskiepis leidžia jums įdėti gražią formą tiesiog po antrašte. Nei daugiau, nei mažiau."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Įdėkite varnelę. leidžiančią jūsų klientamsužsiprenumeruoti jūsų naujienlaiškį, apsiperkant jūsų e-parduotuvėje."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Greitai sukurkite naujienlaiškio prenumeratos formas, naudojant  Ninja Forms galią ir lankstumą."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Mes rekomenduojame šį įskiepį kaip gerą WPML alternatyvą daugiakalbėms svetainėms. Jis lankstus, aiškus ir nepaliečia jūsų svetainės branduolio. Kiekviena kalba turi savo svetainę jūsų WordPress Multisite diegime. Puikiai dirba su MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "nebuvo aktyvuotas, nes <strong><a href=\"%s\">%s</a></strong> turi būti įdiegtas ir aktyvus."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Paslėpti šį pranešimą"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "aktyvuota."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "deaktyvuota."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet sako:"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Tinklapis"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Pirkti"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Įdiegti iš Wordpress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktyvuoti"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Konfigūruoti"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Nerandate jums reikalingo įskiepio? <a href=\"%s\">Parašykite</a> mums susisiekimo formoje."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Šis laukas neturi reikšmių"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "Metai"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Mėnuo"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Diena"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Nepavyksta pasiekti CSV failo. Patikrinkite, ar turite teisę pasiekti aplanką &quot;%1$s&quot;"
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Sąraše, kurį bandote importuoti, greičiausiai yra klaidų."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Klaida įvedant el. pašto adresus."
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Klaida įvedant sąrašą."
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Sąrašas, kurį įklijavote, yra per didelis naršyklei. Vietoje to, <strong>Įkelkite failą</strong>."
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Failas, kurį bandote įkelti, nėra CSV formato (Comma Separated Values)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Skaityti daugiau"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "Pirmoje CSV failo eilutėje turėtų būti stulpelių antraštės: &quot;email&quot;, &quot;Pavardė&quot;, &quot;Vardas&quot;."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "Antroje CSV failo eilutėje turėtų būti reikšmių rinkinys: &quot;pvardenis@example.com&quot;, &quot;Pavardenis&quot;, &quot;Vardenis&quot;."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Pirmosios dvi įkelto failo eilutės yra tokios:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Eilutė yra tuščia."
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Dar kartą patikrinkite ką bandote importuoti "
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Negalime rasti tinkamų adresų pirmose 10 eilučių."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "Jūsų importuojamas failas yra netinkamas"
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "Ei! %1$s yra atnaujinimas (versija %2$s), <a href=\"%3$s\">spauskite čia, kad atnaujintumėte</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Perkraukite puslapį, kuriame dabar esate!"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Grįžti į MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Atnaujinti įskiepį"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Siekiant išvengti brukalų aplanko ar būti užblokuotais, naudokite Jūsų domeno el. pašto adresą, pvz. <strong>info@%s</strong>."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Jei norite naudoti Gmail adresą, turite siųsti iš Gmail. Patikrinkite <a id=\"tip-send-with\" href=\"%s\"> siuntimo nustatymus</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Ačiū!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Pasirinktos temos įkelti nepavyko."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Jūsų el. pašto adreso nepavyko įrašyti"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Jūsų el. pašto adresas įrašytas"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Stilių išsaugoti nepavyko"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Stiliai išsaugoti"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Paveikslėlis ištrintas."
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Paveikslėlių rinkinys neįrašytas."
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Paveikslėlių rinkinys įrašytas."
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Pasirinkite straipsnį."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Nėra įrašų, atitinkančių paieškos kriterijus."
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Elektroninis laiškas peržiūrai buvo išsiųstas adresu %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Nepavyko susisiekti su API, svetainė gali laikinai neveikti. Prašome pabandyti vėliau."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Jūsų užklausa nepavyko"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Užklausa sėkminga"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "Sėkmingai prisijungta prie %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Jūsų el. pašto dėžutėje yra %1$s pranešimų"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Šiuo metu nėra grąžintų el. laiškų, kuriuos reikėtų tvarkyti!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Jums gali tekti įjungti parinktį <i>Autoregistracijos sertifikatai</i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Ar tikrai pasirinkote tinkamą prievadą? Jei nežinote, ką nurodyti, galite palikti tuščią"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Jūs privalote pasirinkti šio lauko tipą"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Jūs privalote nurodyti šio lauko pavadinimą"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Toks laukas neegzistuoja"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Įrašyta! Valdiklio pokyčiai jau yra aktyvūs."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Įrašyta! Pridėkite šią formą prie [link_widget]valdiklio[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Jūsų formos nepavyksta išsaugoti."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Jūsų forma išsaugota."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Naudotojas įtrauktas."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Naudotojas nebuvo įtrauktas."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Naudotojas atnaujintas."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Naudotojas nebuvo atnaujintas."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Įterpkite prenumeratos formą"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Įsigykite „Premium“ versiją"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Oi. Viršijote 2000 abonentų limitą nemokamai „MailPoet“ versijai (iš viso %1$s). Siuntimas dabar yra išjungtas. Kad galėtumėte siųsti be limitų, įsigykite versiją [link]Premium[/link]."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Oi. Greitai pasieksite %1$s prenumeratorių apribojimą, uždėtą nemokamoje MailPoet versijoje. Kad galėtumėte siųsti be apribojimų ir naudotis kitomis funkcijomis, įsigykite [link]Premium[/link] versiją."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elementai ištrinti"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Elementas buvo ištrintas."
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Įkelti"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Naujienlaiškio paveikslėliai"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "„WordPress“ Įrašų atvaizdai"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Saugumo klaida siunčiant užklausą"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Saugumo problema"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Pasveikinimo puslapis!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Diegiamas įskiepis „MailPoet Newsletter Premium“"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Visiškai naujas įskiepis „MailPoet“. Pirmyn visu greičiu!"
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr ""
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Mes siunčiame mėnesinį naujienlaiškį su:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Svarbūs įskiepio atnaujinimai"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "Kuponai"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "Patarimai jums arba jūsų klientams"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Tiek kuo mes dirbame"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "Naujienos iš mūsų komandos"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Apsilankėte pirmą kartą? Pamatykite, kaip tai veikia"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Galite pradėti, peržiūrėdami vieno iš mūsų vartotojų sukurtą vaizdo įrašą."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Pasidalinkite savo duomenimis"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Mes per mažai žinome apie mūsų vartotojus. Mums būtini [link]anoniminiai duomenys[/link], kad galėtume sukurti geresnį įskiepį. [ajaxlink]Taip, noriu padėti![/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Mes per mažai žinome apie savo vartotojus. Mes renkame  [link]anoniminius duomenis[/link], kad sukurtume geresnį įskiepį. Dėkojame, jūs jau dalinatės!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Ką galite atlikti"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minučių gidas naujokams"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "„MailPoet“ pateikiamas su laiško pavyzdžiu. Jį pamatysite, uždarę šį įvadinį puslapį. Pradėkite redaguoti, norėdami jį išbandyti."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Prašome naudotis. Arba leiskite mums aptarnauti jus."
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Mes turime dokumentaciją ir bilietėlių sistemą svetainėje [link]support.mailpoet.com[/link]. Mes atsakome per 24 val."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Kas naujo?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Jūsų svetainei galioja „Premium“ versija."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Nėra „Premium“ versijos licencijos jūsų svetainei. Pirkite [link]čia[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Eilė tuščia!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "%1$s žingsnis"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Įdėkite [newsletter:total], kad parodyti įrašų skaičių,  [newsletter:post_title], kad parodyti vėliausio įrašo pavadinimą, ir [newsletter:number], kad parodyti laidos numerį."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Tai pirmas dalykas, kurį pamato jūsų prenumeratoriai. Būkite kūrybingi ir paskatinkite juos atidaryti laiškus!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Pirmasis žingsnis: pagrindinė informacija"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "kartą per dieną apie..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "kas savaitę per..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "kas mėnesį per..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "kas mėnesį kiekvieną..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "nedelsiant."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "bet kuriai Wordpress rolei"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Kai atsiranda naujas turinys..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Kai kas nors užsiprenumeruoja..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Kai pridedamas naujas vartotojas jūsų svetainėje"
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "valandai (-oms) praėjus."
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "dienai (-oms) praėjus."
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "savaitei (-ėms) praėjus."
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "nedelsiant"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "valandų"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "dienų"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "savaičių"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Naujienlaiškis įrašomas ..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Naujienlaiškio įrašymo klaida ..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Naujienlaiškis išsaugotas."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Siunčiamas bandomasis laiškas..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Tikrinimo pagal šlamšto požymius rezultatai"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Antras žingsnis: \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Siuntimas dabar prsitabdytas."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Siuntimas buvo atnaujintas."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopija"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Sukurta naujienlaiškio kopija."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s laiškų kas %2$s"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Pagal siuntimo nustatymus ([settings]) negalima greitai išsiųsti laiškus [number] prenumeratorių. Tikėkitės pristatymo vėlavimo. [link]Skaitykite plačiau[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Paskutinis žingsnis: paskutinės detalės"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Pasirinite datą"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Išsaugoti ir uždaryti"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Siųsti vėliau"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Tvarkaraštis"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktyvuoti dabar"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Siųsti"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Ar norite išsiųsti šį naujienlaiškį? Prašome patvirtinti."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Ar tikrai norite ignoruoti %1$s prenumeratorius iš sąrašo %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Naujienlaiškis ištrintas."
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Naujienlaiškiai ištrinti."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Naujienlaiškis negali būti ištrintas."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Skaityti daugiau."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Autorius:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategorijos:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Naujausi straipsniai jau išsiųsti."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Įrašai apačioje buvo pridėti su valdikliui %sAutomatinis naujausias turinys%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sNorėdami redaguoti%s, užveskite pelės žymeklį ant žemiau parodyto redagagavimo mygtuko."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Pirmas žingsnis:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "paspausk ant šito teksto!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Paspausk ant šito teksto, kad įgalintum redagavimą."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Antras žingsnis:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "pažaiskite su šiuo paveikslėliu"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Užveskite palės žymeklį ant kairėje esančio paveikslėlio."
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Trečias žingsnis"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "atvilkite turinį čia"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Vilkite ir dėkite %1$stekstą, įrašus, skirtukus.%2$sŽiūrėkite dešinėje!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Galite netgi naudoti naudoti %1$ssocialines žymeles%2$s tokias kaip šios:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Ketvirtas žingsnis"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "ir poraštę?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Pakeiskite poraštės turinį „MailPoet“ %1$sNustatymų%2$s puslapyje."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Naujienlaiškis sėkmingai sukurtas."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Trūksta informacijos."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Jūsų Google kampanijoje gali būti tik lotyniški simboliai, skaičiai, tarpai ir brūkšneliai!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Naujienlaiškio siuntimas suplanuotas."
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Naujienlaiškis buvo išsaugotas kaip juodraštis."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Naujienlaiškiai"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Pasirinkite naujienlaiškį."
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Ištrinti šį naujienlaiškį negrįžtamai?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Ištrinti šiuos naujienlaiškius negrįžtamai?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Siunčiama laiškų partija..."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Peržiūrėti naujienlaiškį"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Naujienlaiškis bus išjungtas. Baigę redaguoti, turėsite vėl jį suaktyvinti. Ar norite tęsti?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Sąrašas buvo ištrintas."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Siuntimas sustabdomas."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Naujienlaiškių nėra."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Statistika : %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Pagal jūsų užklausą nerasta jokių prenumeratorių. Pakeiskite filtravimą!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "%1$s sąrašo segmentas"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Sąrašas sukurtas naujienlaiškio segmento pagrindu."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Iš šio segmento buvo sukurtas naujas sąrašas &quot;%1$s&quot;."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Segmentui atšaukta visų sąrašų prenumerata."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Segmentas buvo pašalintas iš šio naujienlaiškio siuntimo eilės."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Segmentui atšaukta prenumerata iš sąrašo \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Nėra galimybės atšaukti prenumeratą segmentui iš [IMPORT] sąrašo."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Įrašo pasirinkimas"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Rodyti ir įterpti parinktis"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Atgal į atrankos puslapį"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Įkeliami rezultatai..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Įdedami pasirinkti straipsniai ..."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "pasirinkta"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Įkėlimo klaida – %1$s yra per didelis! (≤%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Įdiegti temas"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Detalės ir PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<<Atgal"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Parsisiųsti"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Įdiegti iš naujo"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "„Photoshop“ failas pateikiamas kaip [link]Premium[/link] versijos dalis."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Rodyti visas temas"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s balsų)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Jūsų balsas buvo užskaitytas."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Jūsų balsas negali būti užskaitytas"
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Dėmesio! Jei įdiegsite šią temą iš naujo, visi failai aplanke :/wp-content/uploads/wysija/themes /%1$s bus perrašyti. Ar tikrai norite įdiegti iš naujo?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Žiūrėti visas temas pagal %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Atsisiųsti originalų „Photoshop failą"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Atsisiųsti .zip formatu"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Eiti į autoriaus svetainę"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Vidutinis įvertinimas: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Mano įvertinimas: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Parsisiuntimai: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Žymės: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Atnaujinta: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Apima: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Žymių pasirinkimas"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Skirtukų pasirinkimas"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Pridėti / redaguoti pranešimų grupę"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Rodyti atvaizdavimo pasirinkimus"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Slėpti atvaizdavimo pasirinkimus"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Vaizdo parametrai"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Ištrinti atvaizdą visų naujienlaškiuose?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Šis paveikslėlis gali būti straipsnyje. Ištrinti vis tiek?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Bandėte įdėti į eilę per daug failų."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s viršija didžiausią įkeliamo failo dydį šioje svetainėje."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Šis failas yra tuščias. Bandykite kitą."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Šis failo tipas yra neleistinas. Bandykite kitą."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Šis failas yra ne vaizdas. Bandykite kitą."
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Viršytas atminties limitas. Bandykite kitą, dar mažesnį failą."
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Failas yra didesnis už didžiausią dydį. Bandykite kitą."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Klaida įkėlimo metu. Prašome pabandyti vėliau."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Konfigūracijos klaida. Prašome susisiekti su serverio administratoriumi."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Galite įkelti tik 1 failą."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "HTTP klaida."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Įkėlimas nepavyko."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Bandykite įkelti šį failą %1$snaršyklės įkėlimo įrankiu%2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s viršija didžiausią įkeliamo failo dydį naršyklės kelių failų įkėlimo įrankiui."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "IO klaida."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Saugumo klaida."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "Failas atšauktas."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Įkelimas sustabdytas."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Pamiršti"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Apdorojama..."
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "perkeltas į šiukšlinę."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; nebuvo įkeltas."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d failas(ai) sėkmingai užkrauti."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Išsaugota."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Naujienlaiškis neegzistuoja."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Siunčiamas bandomasis laiškas"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Grąžinamų laiškų tvarkymo ryšio patikra"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Grąžinamų laiškų apdorojimas"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Prenumeratoriai dabar turės suaktyvinti el. laiškų prenumeratą, kad  gautų jūsų naujienlaiškius. Šis nustatymas rekomenduojamas."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Nepatvirtinti prenumeratoriai dabar gaus jūsų naujienlaiškius, nereikės patvirtinti jų prenumeratų."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Sugrąžintus laiškus tvarkyti dabar!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Kuriant grąžintų laiškų tvarkymo sistemą, būtina turėti skirtingą adresą grąžinamiems laiškams ir persiuntimo adresą"
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Ar tikrai norite ištrinti šią formą?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Jau beveik baigta. Spustelėkite šią [link]nuorodą[/link], kad suaktyvintumėte ką tik įsigytą licenciją."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Įdiegti „MailPoet“ iš naujo?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Nauja forma"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Ši forma neegzistuoja"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopijuoti"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Sukurta Forma pavadinimu &quot;%1$s&quot;."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Ši forma jau buvo ištrinta."
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Forma pavadinimu &quot;%1$s&quot; buvo ištrinta."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Nauja forma"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Ši forma neegzistuoja."
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Valdiklio nustatymai"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Jau sumokėjote? Spauskite čia, kad aktyvuotumėte."
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Tikriname licenciją"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "Paskutinės 7 dienos"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Praėjęs mėnuo"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "Pastarosios 30 dienų"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "Pastarosios 90 dienų"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "Pastarosios 180 dienų"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "Pastarosios 365 dienų"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Pasirinktinės datos"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Prenumeratorius įrašytas."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Prenumeratorių skaičius puslapyje:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Pasirinkite bent 1 prenumeratorių!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Oi! Nepavyko rasti jokių prenumeratorių."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Prenumeratorius nebuvo įrašytas."
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Prenumeratorius buvo pakeistas. [link]Redaguoti vėl[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Prenumeratorius nebuvo pakeistas."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s prenumeratoriai buvo pridėti prie &quot;%2$s&quot;."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s prenumeratorius buvo pridėtas prie &quot;%2$s&quot;."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s  prenumeratoriai buvo perkelti į \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s  prenumeratorius buvo perkeltas į \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s  prenumeratoriai buvo pašalinti iš visų sąrašų"
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s  prenumeratorius buvo pašalintas iš visų sąrašų."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s  prenumeratoriai buvo pašalinti iš &quot;%2$s&quot;."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s  prenumeratoriai buvo pašalintas iš &quot;%2$s&quot;."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s  prenumeratoriai buvo patvirtinti."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s  prenumeratorius buvo patvirtintas."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "El. laiškas neišsiųstas"
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Redaguoti sąrašus"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Redaguoti sąrašą %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Gal kurti naują sąrašą?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Sukurta sąrašo &quot;%1$s&quot; kopija."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Pridėti prenumeratorių"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Nė vienas prenumeratorius nerastas, tikriausiai todėl, kad jis buvo ištrintas."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Sąrašas &quot;%1$s&quot; buvo ištrintas."
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Šis sąrašas neegzistuoja arba jo negalima ištrinti."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Sąrašas buvo atnaujintas."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Jūsų naujas sąrašas laukia savo pirmojo prenumeratoriaus."
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Importavimas iš įskiepio %1$s baigtas."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Importavimas iš įskiepio %1$s atšauktas."
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Importuoti prenumeratorius iš įskiepių"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Nėra įskiepio, iš kurio importuoti."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Importuoti prenumeratorius"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Pasirinkta reikšmė jau naudojama kitame stulpelyje."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Ar galite patvirtinti, kad šis stulpelis atitinka pasirinktą lauką?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "kuriuos įklijavote"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "Atsisakę prenumeratos"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "Nepatvirtinti"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Prenumeratoriai"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Turite pasirinkti bent vieną sąrašą."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s prenumeratoriai pridėti prie %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s el. pašto adresai kartojasi faile : %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s el. pašto adresai negalioja: %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Eksportuoti prenumeratorius"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s prenumeratoriai buvo panaikinti."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s prenumeratorius buvo panaikintas."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s prenumeratoriai buvo eksportuoti. Eksportuotą failą rasite [link]čia[/link]."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Eksportuojami %1$s prenumeratoriai"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Puslapis neegzistuoja."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Patikrinkite nuorodą į šį puslapį."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Jūs atsisakėte laiškų!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Daugiau laiškų jums nebesiųsime."
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Jūs jau atsisakėte laiškų."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Suklydote? [link] Atšaukite registracijos panaikinimą[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Jūs sėkmingai užsiregistravote!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Redaguokite savo prenumeratas"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Redaguokite savo profilį: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "El. pašto adresas %1$s jau yra."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Naujienlaiškių profilis atnaujintas."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Prenumerata be Java kodo yra išjungta."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Atrodo, kad valdiklis buvo panaikintas iš „WordPress“ [link]valdiklių srities[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Kraunasi ..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "Įvyko klaida. [link]Išsamiau.[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Rodyti daugiau informacijos.[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Kartą per minutę"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "Kartą per dvi minutes"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "Kartą per penkias minutes"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "Kartą per dešimt minučių"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "Kartą per penkiolika minučių"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "Kartą per trisdešimt minučių"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "Kartą per dvi valandas"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Kartą per savaitę"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "Kartą per 28 dienas"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "„MailPoet“ puslapis"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr ""
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr ""
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Išjungti[/link] šį pranešimą."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Laukų tikrinimo klaida"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Laukas &quot;%1$s&quot; yra būtinas lentelei &quot;%2$s&quot;."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Laukas &quot;%1$s&quot; turi būti galiojantis el. pašto adresas."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Nėra statistinių duomenų, kuriuos būtų galima įkelti!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Jūsų serverio konfigūracija neleidžia mums atlikti „MailPoet“ diegimo!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Tik skaityti."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Spustelėkite čia, norėdami peržiūrėti daugialypės terpės failus."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Filtruoti pagal tipą"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Įrašai"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Puslapiai"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Kategorijos ir žymos"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtruoti pagal statusą"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Būtina suaktyvinti įskiepį „MailPoet Premium“."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Patvirtinate MailPoet Premium įskiepio aktyvavimą?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktyvavuoti MailPoet Premium versiją"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Sveikiname, jūsų „Premium“ licencija yra aktyvi. Liko paskutinis žingsnis ..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Patvirtinate MailPoet Premium įskiepio įdiegimą?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Įdiegiama MailPoet Premium versija"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Atsisiųskite Premium įskiepį"
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Tai ne visada veikia taip, kaip norime jį, ar ne? Turime [link]atskirą paramos svetainę[/link] su dokumentacija ir registracijos sistema."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "„MailPoet“ Versija:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Prenumeratoriai"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Modulis"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Statistika"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Gaukite pagalbos!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Įsigykite „Premium“ versiją!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Susisiekite dėl techninės pagalbos"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Įvertinkite [stars] įskiepį svetainėje [link]wordpress.org[/link], kad jis liktų iš esmės nemokamas."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "„MailPoet“ Versija:"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Pirma pasirinkite!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Ištrynus sąrašą prenumeratoriai nebus ištrinti."
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Ar norite įdiegti šią versiją?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Rezultatų nerasta"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Prašome įvesti dar <%= chars %> simboliu<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Prašome ištrinti <%= chars %> simboliu<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Jūs galite pasirinkti tik <%= chars %> punktu<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Užkraunu daugiau rezultatų"
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Vyksta paieška..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Kitas &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&lt; Ankstesnis"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Vaizdas"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "iš"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Uždaryti"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Šiai funkcijai būtini įterptiniai polangiai (angl. iframes). Jūs juos išjungėte arba jūsų naršyklė jų nepalaiko."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Atmestų laiškų valdymas"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Antraštė"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Gavome %1$s pranešimus nuo vartotojo %2$s,"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Veiksmai bus vykdomi po %1$s pranešimų"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Pranešimų nėra"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Taip, tai veikia. Galite pradėti siųsti laiškus kad ir į Mėnulį."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Viskas atlikta! Jūs sėkmingai išsiuntėte laišką per „Gmail“."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Ieškote greitesnio būdo siųsti? [link]Skaitykite daugiau[/link], kaip siųsti per profesionalius SMTP serverius."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "„MailPoet“ gali naudoti siuntimo būdą [Send_method]"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Bandomasis el. laiškas sėkmingai išsiųstas %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "PHP plėtinys openssl nėra įjungtas serveryje. Paprašykite administratoriaus jį įjungti, jei norite naudoti SSL ryšį."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Problemą galėjo sukelti adresas &quot;%1$s&quot; el. laiškams grąžinti. Palikite laukelį tuščią ir bandykite dar kartą."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Jūs įrašėte SMTP slaptažodį, bet nereikalaujate autorizacijos, patikrinkite ar neturėtų būti įjungta autorizacija."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Jūsų lokalus kompiuteris gali neturėti pašto serverio. Kad patikrintumėte, prašome atsijungti ir paspausti nuorodą \"Pamiršote slaptažodį?\" prisijungimo puslapyje. Ar gavote slaptažodžio atstatymo el. laišką iš jūsų WordPress?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Išsaugoma forma ..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Įrašyti"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Redaguoti atvaizdavimą"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Turite pasirinkti bent 1 sąrašą"
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Jūsų prenumeratorius turi turėti bent 2 pasirinkimus"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Jūs turite nurodyti šio pasirinkimo reikšmę"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Pridėti naują lauką"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Redaguoti nestandartinį lauką"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Ar tikrai norite ištrinti šį nestandartinį lauką?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "Sausis"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "Vasaris"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "Kovas"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "Balandis"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "Gegužė"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "Birželis"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "Liepa"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "Rugpjūtis"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "Rugsėjis"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "Spalis"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "Lapkritis"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "Gruodis"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Patikrinkite savo pašto dėžutės įeinančių laiškų bei brukalų aplankus, kad patvirtintumėte prenumeratą."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "El. pašto adresas"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Siųsti"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Registruotis!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Skirtukas"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Vardas"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Pavardė"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Sąrašo pasirinkimas"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Pasirinkti sąrašą (-us):"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Bet koks tekstas ar HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Užsiprenumeruokite mūsų naujienlaiškį ir prisijunkite prie [total_subscribers] prenumeratorių."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Pridėti naują lauką"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Redaguoti lauką"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Trinti lauką"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "Prenumerata „MailPoet“"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "kiekvieną minutę"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "kas 2 minutes"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "kas 5 minutes"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "kas 10 minučių"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "kas 15 minučių"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "kas 30 minučių"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "kas valandą"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "kas 2 valandas"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Vaizdusis"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Jūsų serveris nepalaiko nuotolinių mainų."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Susisiekite su administratoriumi, kad tai pakeistų, jis turėtų būti konfigūruojamas."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Jūsų serveris negali paleisti „MailPoet“."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Jūsų serveris neturi vieno ar daugiau svarbių PHP funkcijų, kurių reikia normaliam funkcionavimui: %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Prašome susisiekti su jūsų serverio administratoriumi, kad pataisyti tai."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Mano pirmasis sąrašas"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Šis sąrašas buvo sukurtas automatiškai „MailPoet“ diegimo metu."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5 minučių naudotojo vedlys"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Šių lentelių nebuvo galima sukurti diegimo metu: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Įveskite vardą"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Įveskite pavardę"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Prenumeratos patvirtinimas"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Užsiprenumeruokite mūsų naujienlaiškį"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Atrodo jūsų svetainė neturi licencijos! Prisijunkite prie savo  [link]paskyros valdymo[/link] kad priskirtumėte licenciją šiai svetainei."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Nėra licencijos \"%1$s\". Jei turite Premium, pridėkite šį domeną jūsų [link]paskyros valdyme[/link]."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "Atsinaujinkite dabar."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Jūsų Premium licencijos galiojimo laikas baigėsi."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "Jūs galite pridėti šį domeną jūsų [link]paskyros valdyme[/link]."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Jūsų licencija neleidžia naudoti daugiau domenų. Pakeiskite į aukštesnio lygio licenciją  [link]paskiros valdyme[/link]."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Kad pamatytumėte šią nuorodą, įsigykite [link]MailPoet Premium[/link]."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "Jūs negalite naudoti DKIM parašo funkcijos..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "El. laiške nėra temos arba turinio"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Klaida siunčiant žinutę <b><i>%s</i></b> adresatui <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Sėkmingai išsiųsta adresatui <b><i>%s</i></b>"
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "El. laiškas ID %s nėra paskelbtas"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Prenumeratorius <b><i>%s</i></b> nerastas."
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "Prenumeratorius <b><i>%s</i></b> yra nepatvirtintas"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "Atsisakyti prenumeratos"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "nepristatytų"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "atmestų"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "neatidarytų"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "atidarytų"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "paspaudimų"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "atšauktų prenumeratų"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Šiandienos statistika"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Šiandien išsiuntėte %1$s el. laiškų"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s iš kurių buvo %2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Štai atmestų laiškų sąrašas"
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Valio, štai jūsų naujienlaiškių siuntimo Įskiepis „MailPoet“"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Jūsų kasdienė naujienlaiškių statistika"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "„Newsletter Pro“ (Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "„Newsletters“ (Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "„WordPress“ naudotojai"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s importo sątrašas"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Sąrašas sukurtas automatiškai importuojant įskiepio prenumeratorius: \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" importuota iš %1$s"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Sąrašas jau buvo \"%1$s\" ir buvo importuotas automatiškai."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "Turite %1$s laukiančių el. laiškų"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "El. laiškas bus išsiųstas %1$s %2$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Siuntimo procesas"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Viso iš siuntos"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Kitas bandymas po %s minučių."
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Preocesas atnaujintas, kad išvengti laiko limito."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Preocesas atnaujintas, kad išvengti galimo sujungimo praradimo."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Naujienlaiškiai jau siunčiami. Jūsų vėliausias naujienlaiškis bus išsiųstas vėliau."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Siuntimo preocesas sustabdytas dėl per didelio klaidų kiekio."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Mes išsaugojome visus nepristatytus laiškus eilėje, kad galėtumėte pratęsti siuntimo procesą vėliau."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Patikrinkite savo pašto konfigūraciją ir įsitikinkite, kad galite išsiųsti testinį el. laišką."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Jei neseniai sėkmingai išsiuntėte daug el. laiškų, šios klaidos galėjo atsirasti dėl jūsų serverio apribojimų."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Rodos jūsų serveris atsisako siųsti daugiau el. laiškų."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Pašto dėžutė pilna"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Kai pašto dėžutė pilna"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Pašto dėžutė nepasiekiama"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Kai pašto dėžutė nepasiekiama"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Žinutė užlaikyta"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Kai žinutė užlaikoma"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Galutinai nepavyko"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Kai galutinai nepavyksta"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Reikalingas veiksmas"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Kai reikia patvirtinti, kad jūs žmogus, persiųsti į:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "Blokuoti IP"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Kai jūs pažymimas kaip brukalų siuntėjas, persiųsti atmestą žinutę į"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Kai atmetimas yra keistas ir mes nežinome ką daryti, persiųsti į:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Aplankas &quot;%1$s&quot; neįrašomas, pakeiskite prieigos teises šiam aplankui, kad „MailPoet“ gali susikonfigūruoti tinkamai."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Skaityti dokumentaciją"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "MySQL vartotojas, kurį naudojate savo Wordpress svetainėje (wp-config.php)  neturi pakankamai teisių, kad galima būtų SUKURTI MySQL lenteles. Prašome pakeisti šio vartotojo teises arba susisiekti su svetainės administratoriumi, kad galėtumėte pabaigti MailPoet diegimą. MySQL klaidos: (%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Antraštė"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Poraštė"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Aplankas \"%1$s\" neturi rašymo teisių, prašome pakeisti teises, kad Mailpoet galėtų tinkamai susikonfigūruoti."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Tema pavadinimu %1$s jau egzistuoja. Jei norite ją pakeisti, uždėkite atitinkamą varnelę prieš užkraunant failą."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Tema %1$s įdiegta jūaų svetainėje."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Negalime įdiegti jūsų temos. Atrodo jos formatas yra netinkamas."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Tema %1$s ištrinta."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Negalime ištrinti temos %1$s."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "1 metai"
+msgstr[1] "%1$ metai"
+msgstr[2] "%1$ metų"
+msgstr[3] "%1$ metų"
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "1 savaitė"
+msgstr[1] "%1$ savaitės"
+msgstr[2] "%1$ savaičių"
+msgstr[3] "%1$ savaičių"
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "1 diena"
+msgstr[1] "%1$ dienos"
+msgstr[2] "%1$ dienų"
+msgstr[3] "%1$ dienų"
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "1 valanda"
+msgstr[1] "%1$ valandos"
+msgstr[2] "%1$ valandų"
+msgstr[3] "%1$ valandų"
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "1 minutė"
+msgstr[1] "%1$ minutės"
+msgstr[2] "%1$ minučių"
+msgstr[3] "%1$ minučių"
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "1 sekundė"
+msgstr[1] "%1$ sekundės"
+msgstr[2] "%1$ sekundžių"
+msgstr[3] "%1$ sekundžių"
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "Pirmadienis"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "Antradienis"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "Trečiadienis"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "Ketvirtadienis"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "Penktadienis"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "Šeštadienis"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "Sekmadienis"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "1as"
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2as"
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3ias"
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "Paskutinis"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$sas"
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "Ta pati „MailPoet“ versija buvo sėkmingai įdiegta iš naujo. Nustatymai ir duomenys buvo ištrinti."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "„MailPoet“ negalima įdiegti iš naujo, nes aplankas <em>wp-content/uploads/wysija</em> turi būti įrašomas. Pakeiskite teises ir diekite iš naujo."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "„MailPoet“ buvo pašalintas. Jūsų svetainėje „MailPoet“ nebėra."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Nepavyko atnaujinti „MailPoet“ į versiją &quot;%1$s&quot;!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Atsitiktinis tekstas arba instrukcijos"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "El. pašto adresas netinkamas!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Toks prenumeratorius jau yra. [link]Redaguoti[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Oi! Jus jau užsiprenumeravote mūsų naujienas."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Oi! Mes negalime Jūsų pridėti!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Naujas %1$s prenumeratorius "
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "Vienu prenumeratorium mažiau %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Sąrašas \"%1$s\" sinchronizuotas."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Sąrašas neegzistuoja arba negali būti sinchronizuotas."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Puslapis nepasiekiamas."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Jūsų patvirtinimo nuorodos galiojimas baigėsi, prašome užsiprenumeruoti dar kartą."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Užsiprenumeravote šį naujienlaiškį: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Jūsų adresą užregistravome. Netrukus jums parašysime."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Jūs jau prenumeruojate šį naujienlaiškį: %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Jūs jau užsiregistravote."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Įdėkite savo logotipą viršuje."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Įdėkite savo apatinės laiško dalies paveikslėlį čia."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Jei paliksite šią sritį tuščią, ji nebus rodoma išsiuntus el. laišką"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Paspauskite čia, kad pridėtumėte pavadinimą ar tekstą."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Lygiuoti kairėje"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Lygiuoti centre"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Lygiuoti dešinėje"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Pridėti nuorodą / alternatyvų tekstą"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Pašalinti nuorodą"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Pašalinti paveikslėlį"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Redaguoti tekstą"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Pašalinti tekstą"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Pavadinimai ir tekstas"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Horizontali linija"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Individualizuota horizontali linija"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "„WordPress“ įrašas"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Tekstas"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "&quot;Peržiūrėti naršyklėje&quot;"
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "1 antraštė"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "2 antraštė"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "3 antraštė"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Saitai"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "pabraukti"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Poraštės tekstas"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Poraštės fonas"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Naujienlaiškis"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Fonas"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Antraštės fonas"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Socialinių žymų pasirinkimas"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Skirtuko pasirinkimas"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Ruošiatės ištrinti temą: %1$s. Ar tikrai norite tai padaryti?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Pridėti nuorodą ir alternatyvų tekstą"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Pažymėkite šį langelį, jei norite, kad būtų permatoma"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Įterpti dinaminius duomenis apie jūsų prenumeratorius, naujienlaiškį, šiandienos datą ir t.t."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Pasirinkimo galimybės"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Redaguoti automatinį naujausią turinį"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Jūs galite įdėti tik vieną valdiklį kuriant pranešimą apie įrašą, siunčiamą iškart po straipsnio paskelbimo"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Peržiūrėti be paveikslėlių"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Prenumeratorius"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Vardas"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Pavardė"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "El. pašto adresas"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "WordPress vartotojo atvaizduojamas vardas"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Viso iš prenumeratorių"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Naujienlaiškio tema"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Įrašo priminimai"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Iš viso įrašų arba puslapių"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Vėliausio įrašo pavadinimas"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Laidos numeris"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Data"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Einamosios mėnesio dienos numeris"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Einamoji mėnesio diena įvardinta kelintiniu skaitvardžiu, t.y. antra, trečia, ir t.t."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Šios dienos pilnas pavadinimas"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Einamojo mėnesio numeris"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Pilnas einamojo mėnesio pavadinimas"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Prenumeratos atsisakymo nuoroda"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Prenumeratos redagavimo puslapio nuoroda"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Peržiūros naršyklėje nuoroda"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Nestandartiniai laukai"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Išsaugomas numatytasis stilius..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Numatytasis stilius išsaugotas."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Nustatyti kaip numatytąjį stilių."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Įterpti bloką čia"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Suplanuota"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Patvirtinkite prenumeratą: %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Sveikiname!\n"
+"\n"
+"Jūs užsiprenumeravote mūsų naujienlaiškį.\n"
+"Prašome aktyvuoti prenumeratą(as): [lists_to_confirm] paspaudžiant žemiau esančią nuorodą: \n"
+"\n"
+"[activation_link]Paspauskite, kad patvirtintumėte prenumeratą.[/activation_link]\n"
+"\n"
+"Dėkojame!\n"
+"\n"
+"Komanda\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Atvaizdavimo problemos? [link]Peržiūrėkite šį naujienlaiškį savo naršyklėje.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Taip, įtraukite mane į siuntimo sąrašą."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Kas gali kurti naujienlaiškius?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Kas gali valdyti prenumeratorius?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Kas gali pakeisti „MailPoet“ nustatymus?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Kas gali matyti temų kortelę vaizdžiajame redaktoriuje?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Kas gali matyti stilių kortelę vaizdžiajame redaktoriuje?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "tuščia"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "Jūsų įvesta <strong>Nuo</strong> reikšmė (%1$s) nėra tinkamas el. laiško adresas."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "Jūsų įvesta <strong>Atsakyti-kam</strong> reikšmė (%1$s) nėra tinkamas el. laiško adresas."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Jūsų nustatymai išsaugoti."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Vietoje to naudokite `view_in_browser_link` "
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Peržiūrėti"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Jūsų vėliausias naujienlaiškis yra siunčiamas."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Jūsų automatinis naujienlaiškis aktyvuotas."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Aprašymas"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Įjungta"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Rikiavimas"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Nėra sąrašo, kuriam galima būtų siųsti."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Statusas"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Sukurta"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Spauskite čia, kad atsisakyti prenumeratos"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Spauskite čia, kad užsiprenumeruoti"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "IP adresas"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Prenumeratos data"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Archyvinio puslapio trumpasis kodas"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Įdėkite šį trumpąjį kodą puslapyje, norėdami rodyti praeitų naujienlaiškių sąrašą."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Oi! Nėra naujienlaiškių, kuriuos galima būtų atvaizduoti."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Peržiūrėti naujoje kortelėje"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr ""
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Nesiųsti vėlai"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Vyksta magija..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Laukiame pirmojo lankytojo!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Peržiūrėti detaliau."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Išjungti."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Cron nustatumas serveryje"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Siunčiama"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Atmestų laiškų tvarkymas"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Kasdien"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Kas savaitę"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Kas mėnesį"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Ne, ačiū!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "Patikrinti dabar!"
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Jūsų cron procesas veikia!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Kažkas ne taip."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Peržiūrėti nustatymų instrukcijas"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Atgal į nustatymų puslapį"
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Paskutinis apsilankymas buvo prieš keletą sekundžių."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Paskutinis apsilankymas buvo prieš %1$ minučių."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Paskutinis apsilankymas buvo prieš %1$ minutę."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr ""
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Siuntimo procedūra bus pradėta po:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Atmestų laiškų tvarkymo procedūra bus pradėta po:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Kasdienė procedūra bus pradėta po:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Savaitinė procedūra bus pradėta po:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Mėnesinė procedūra bus pradėta po:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "Neprieinama"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "Aktyvuota!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "Eilėje"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Neišsiųsta"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Grąžinta"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Išsiųsta"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Tik atidaryta"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Atidaryta ir spustelėta"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Atidaryta atsisakyta prenumeratos"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Įvertinimas"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Top nuorodos"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Nuoroda"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Unikalūs paspaudimai"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Viso paspaudimų"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Šiuo metu rodomas"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Peržiūrėti prenumeratorius"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Kopijuoti"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Išsiuntimo data"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Sąrašai"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "Nuo"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Atsakyti-kam"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Atmetimas"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Prenumeratorius atidarė %1$s laiškų iš %2$s"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Prenumeratorius atidarė %1$s laiškų iš %2$s"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Paspaudimai"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Įrenginys"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Atidarymo data"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Siuntimo data"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Trinti"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Masiniai veiksmai"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Pritaikyti"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Puslapis %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "iš %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Išskaidyti prenumeratorius į %1$s puslapių(-ius)."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Rodyti prenumeratorių puslapyje:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Modifikuoti"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Pridėti"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Visi naujienlaiškiai"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Ieškoti naujienlaiškių"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Atgal"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Kurti naują laišką"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "arba nukopijuokite vieną iš žemiau esančių."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Visi"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Juodraštis"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Sustabdyta"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Standartinis naujienlaiškis"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Automatiniai naujienlaiškiai"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Rodyti visus mėnesius"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Žiūrėti pagal sąrašus"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filtras"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "Visi išsiųsti"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "Eilėje"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Nepavyko išsiųsti"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "Neatidaryta"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "Atidaryta"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "Paspausta"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Su šiuo segmentu"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Pašalinti iš eilės"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Sukurti naują sąrašą"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Išimti iš visų sąrašų"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Išimti iš sąrašo: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Eksportuoti CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Atidarymai, paspaudimai, atsisakymai"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "Redaguota"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Išsiųsta"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Išsiųsta %1$s iš %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s iš %2$s išsiųsta."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Suplanuota išsiųsti %1$s "
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Suplanuota išsiųsti %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Peržiūrėti"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Statistika"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Kitas siuntimas %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Kitas siuntimas %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Siųsti kasdien %1$s"
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Siųsti kas savaitę %1$s %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Siųsti kas mėnesį: %1$s , %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Siųsti kas mėnesį: %1$s %2$s , %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "jeigu yra naujas turinys"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pristabdyti"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Neaktyvus."
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Pratęsti"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Dar neišsiųstas."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Siųsti dabar."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Bus išsiųsta nedelsiant kai kas nors užsiprenumeruos %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Išsiųsta %2$s po to, kai kas nors užsiprenumeruos %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "bet kokia rolė"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Siųsti nedelsiant atsiradus naujam vartotojui jūsų svetainėje kaip %1$s."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Išsiųsta %2$s po to, kai naujas vartotojas buvo sukurtas jūsų svetainėje kaip %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Siunčiama vieno įvykio metu"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Išsiųsta %1$s prenumeratorių(-ams)."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Sekančią el. laiškų porciją planuojama išsiųsti automatiškai keletos minučių bėgyje."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Liko laiko: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "Suplanuota %1$s el. laiškų(-ai)"
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Paskutinė siunta išsiųsta prieš %1$s."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Nelaukti ir siųsti dabar."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Kad pratęsti siuntimą [link]Užsisakykite Premium![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "matykite nuorodas su [link]Premium licencija[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Ieškoti gavėjų"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "El. laiško statusas"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Prenumaratoriaus statusas"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Paspaudė"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Užsiprenumeravo"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Peržiūrėti statistika arba redaguoti"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "Koks naujienlaiškio tipas?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Siųsti automatiškai..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Temos eilutė"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Tai yra el. laiško tema. Būkite kūribingi, nes tai pirmas dalykas, kurį pamatys jūsų prenumeratoriai."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Oi! Jūsų naršyklė gali būti nepalaikoma. Atsisiųskite paskutinę versiją [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] arba [linksafari]Safari[/linksafari]. Veikia?[link_ignore]Atšaukti[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Išsaugoti ir aktyvuoti iš naujo"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Kitas žingsnis"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Turinys"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Paveikslėliai"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Stiliai"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Temos"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Vilkite žemiau esančius valdiklius į jūsų naujienlaiškį."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Automatinis vėliausias turinys"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Socialinės žymelės"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Pridėti paveikslėlius"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Pridėti daugiau temų"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Nesikrauna mūsų įrankių juosta?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konfliktas"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Ko gero trečios šalies įskiepis ar tema laužo mūsų sąsają. [link]Skaitykite daugiau.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Siųsti peržiūrai"
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "Grįžti prie 1 žingsnio"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Jei patvirtinsite temos keitimą, pasikeis jūsų antraštė, poraštė, skirtukai ir stiliai"
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Būkite kūribingi! Tai pirmas dalykas, kurį pamatys prenumeratoriai. Priverskite juos atidarryti jūsų el. laišką."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Kada..."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Prenumeratorių sąrašas, kuris bus naudojamas šiai kampanijai."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Siuntėjas"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Jūsų vardas ar jūsų kompanijos pavadinimas ir el. laiškas"
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Atsakyti-kam vardas ir el. paštas"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Kai prenumeratoriai paspaudžia \"atsakyti\", atsakymas bus nusiųstas šiuo el. pašto adresu."
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Suplanuokite"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Ignoruoti dabartinius prenumeratorius"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Nesiųsti dabartiniems prenumeratoriams, tik būsimiems."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Išsaugoti kaip juodraštį ir uždaryti"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "arba tiesiog [link]grįžkite prie dizaino[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Vietinis laikas yra <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Standartinis naujienlaiškis"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Automatinis naujienlaiškis"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Pridėta"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Adresas:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Alternatyvus tekstas:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Šis tekstas rodomas, kai el. pašto skaityklė blokuoja paveikslėlius, kas dažniausiai ir atsitinka."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Užkrauti temą (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Vadovas[/link] kaip sukurti jūsų temą."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Nemokama"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "bendras maksimalus užkraunamų failų dydis : %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Jei yra tema tuo pačiu pavadinimu, perrašyti ją."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Ieškoti"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Įterpti pasirinktą"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Kokią ištrauką naudoja? [link]Skaityti daugiau[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Atvaizdavimas..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "ištrauka"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "pilnas įrašas"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "tik pavadinimas"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Pavadinimo formatas"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "antraštė 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "antraštė 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "antraštė 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "rodyti kaip sąrašą"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Pavadinimo pozicija"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "tekstiniame bloke"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "virš tekstinio bloko ir paveikslėlio"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Pavadinimo lygiavimas"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "kairė"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "centras"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "dešinė"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "paveikslėlio lygiavimas"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "alternatyvi kairė ir dešinė"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "be paveikslėlio"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Paveikslėlio plotis"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Įtraukti autorių"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "ne"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "virš turinio"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "po turiniu"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Prieš tai bus:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Įtraukti kategorijas"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "\"Skaityti daugiau\" tekstas"
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Fono spalva"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Masinio įterpimo pasirinkimai"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Rūšiuoti pagal"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "naujausi"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "seniausi"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Rodyti skirtuką tarp įrašų"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "taip"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Fono spalva su alternatyva"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Baigta"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Įrašo tipas"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Maksimum rodomų įrašų skaičius"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "Ir taksonomija..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Pasirinkite..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Dydis:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "mažas"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "vidutinis"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Jūsų įrenginio naršyklė negali būti panaudota failų užkrovimui. Gal būt jūs galite pasinaudoti <a href=\"http://wordpress.org/extend/mobile/\"> programėle, skirta jūsų įrenginiui</a>."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Atsiprašome, jūs išnaudojote savo disko vietos kvotą (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "Leidžiami failai"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Įmeskite failus čia"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "arba"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Pasirinkite failus"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Maksimalus užkraunamo failo dydis: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Jūsų naršyklė turi tam tikrus apribojimus užkraunant didelius failus naudojant daugelio failų užkrovimo įrankį. Failams, didesniems nei 100MB naudokite naršyklės užkrovimo įrankį."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Kad galėtumėte pasinaudoti naujausia failų užkrovimo sistema, prašome atnaujinti savo WordPress į naujausią versiją."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Pasirinkite užkraunamus failus"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Atšaukti užkrovimą"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Maksimalus užkraunamo failo dydis: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Jei norite pasinaudoti visomis failų užkrovimo įrankio galimybėmis, pvz. daugelio failų užkrovimas vienu metu, prašome atsinaujinti į lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "Ši kortelė bus užpildyta paveikslėlių iš jūsų einamojo ir ansktesnių naujienlaiškių."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Ši kortelė bus užpildyta paveikslėlių iš jūsų WordPress įrašų."
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Sveiki atvykę į %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Ačiū! Dabar perkelkite mane į MailPoet."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "Jūs esate MailPoet vartotojas jau %s."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Dėkojame, kad esate mūsų bendruomenės dalimi taip ilgai!"
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Jūs atnaujinote įskiepį! Tai lyg kitas įtaisas, bet geresnis."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Trumpas klausimėlis..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Užsiprenumeruokite mūsų naujienlaiškius"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Išsaugokite šį įskiepį iš esmės nemokamu"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Mylite kačiukus?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "Mums patinka žvaigždutės..."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Kiekvieną kartą, kai vienas iš mūsų vartotojų pamiršta parašyti atsiliepimą, miršta kačiukas. Tai liūdna ir skaudina mūsų širdis. [link]Parašykite atsiliepimą dabar[/link] ir išgelbėkite kačiuką."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Sekite mūsų naujienas ir nieko nepraleiskite!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Slėpti!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Pakeitimų žurnalas"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Jūs atsinaujinote į %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Ei! Mes turime jums greitą klausimą:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Jei tai patvirtinsite, visi jūsų esami MailPoet duomenys bus ištrinti (naujienlaiškiai, temos, statistika, sąrašai, prenumeratoriai ir t.t.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Patvirtinti diegimą iš naujo"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Ši funkcija neveikia, nes yra įjungtas komentarų funkcionalumas įskiepyje JetPack."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Registracija šioje svetainėje neleidžiama."
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Prenumeratoriai gali rinktis iš šių sąrašų:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Aš pats sukursiu cron darbą savo serveryje ir paleisiu jį norimu dažnumu. Skaitykite apie [link]cron darbų nustatymus[/link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Naudokite šį URL savo cron darbui: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Ne, ačiū! Aš turiu pakankamai lankytojų savo svetainėje. Jų apsilankymai automatiškai įjungs MailPoet cron darbą."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Naudoju mokamą versiją, todėl MailPoet.com pasirūpins išsiųsti mano laiškus laiku."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Jei aš noriu, aš galiu [link]sukurti papildomą periodinę užklausą[/link] savo serveryje siuntimo dažniui padidinti."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Jei noriu padidinti dažnumą, galiu [link]sukurti papildomą cron darbą[/link] savo pusėje."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Sukonfigūruokite savo DNS įrašydami raktas/reikšmė įrašą TXT kaip parodyta žemiau."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Skaityti daugiau"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "Raktas"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Reikšmė"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Jūs naudojate senesnį DKIM raktą, nepalaikomą Gmail."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Jūs turėsite atnaujinti DNS jei atnaujinsite versiją."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Atnaujinti DKIM raktą"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domenas"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Rolės ir leidimai"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Rodyti visus"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Kai kas nors užsiprenumeruoja"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Kai kas nors atsisako prenumeratos"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Išsiųstų el. laiškų dienos santrauka"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Ne"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Taip"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Pagrindiniai"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Formos"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Prenumeratos patvirtinimas"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Siųsti naudojant..."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Daugiau nustatymų"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Papildiniai"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Išsaugoti nustatymus"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Jūsų kompanijos adresas"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "Šis adresas bus įdėtas į jūsų naujienlaiškio poraštę. Tai padeda išvengti brukalų filtrų."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "El. laiškų priminimai"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Įveskite el. pašto adresus, kurie turi gauti pranešimus (atskirkite kalbeliu)."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Pranešimų siuntėjas"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Pasirinkite NUO vardą ir el. pašto adresą pranešimams, siunčiamiems el. paštu."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Užsiprenumeruoti komentaruose"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Lankytojai, rašantys komentarus, gali užsiprenumeruoti pažymint varnelę."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Užsiprenumeruoti registracijos formoje"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Leisti vartotojams, kurie registruojasi jūsų svetainėje, užsiprenumeruoti pasirinktą sąrašą."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Nuoroda į naršyklės versiją"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Rodoma jūsų naujienlaiškių viršuje. Nepamirškite įterpti nuorodos žymą, t.y. [link]Nuoroda[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Nuorodos \"Atsisakyti prenumeratos\" tekstas"
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Tai pakeičia prenumeratos atsisakymo nuorodos tekstą jūsų naujienlaiškio poraštėje."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Prenumeratos atsisakymo puslapis"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Kai prenumeratorius paspaudžia prenumeratos atsisakymo nuorodą laiško apačioje, jis nukreipiamas į jūsų pasirinktą puslapį."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Įjungti prenumeratos patvirtinimą"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Užkirsti galimybę prenumeruoti žmones ne savo noru, šis pasirinkimas užtikrina, kad jūsų sąrašas būtų švarus."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Sužinokite daugiau."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "El. laiško tema"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "El. laiško turinys"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Nepamirškite įtraukti: <br><br>[activation_link]Patvirtinkite prenumeratą[/activation_link]. <br><br>Pasirinktinai: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Patvirtinimo puslapis"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Kai prenumeratoriai spustelėja suaktyvinimo nuorodą, jie persiunčiami į jūsų pasirinktą puslapį."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Tinklo būdas"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Būdas, nustatytas tinklo administratoriaus"
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "Nesukonfigūruota!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Jūsų svetainė"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Paprasčiausias sprendimas mažiems sąrašams. Jūsų web prieglauda nustato el. laiškų dienos limitą."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Trečios šalies"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Siųskite naudojant profesionalų SMTP teikėją, puikus pasirinkimas dideliems ir mažiems sąrašams. Jūsų patogumui mes esame suderėję geras sąlygas su keletų teikėjų."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Pristatymo būdas"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Išsiųskite sau keletą testinių el. laiškų, kad nustatytumėte kuris būdas veikia jūsų serveryje"
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Šis el. pašto variklis veikia 95&#37; serverių"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Šis el. pašto variklis veikia 5&#37; serverių"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Sendmail kelias"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Naudoti tą patį būdą kaip ir jūsų WP svetainėje."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "SMTP serveris"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "pvz.:smtp.manodomenas.lt"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Prisijungimas"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Slaptažodis"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktyvuokite jei jūsų SMTP prievadai yra užblokuoti."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "SMTP prievadas"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Saugus prisijungimas"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Autorizacija"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Palikite šį pasirinkimą įjungtą. Tik mažytė dalis SMTP servisų prašo išjungti autorizaciją."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Testavimo būdas"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Siųsti testinį el. laišką"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Siųsti..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Jūsų web serveris turi apribojimus. Mes rekomenduojame 70 el. laiškų per valandą, kad būtumėte saugūs. [link]Sužinokite daugiau[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "el. laiškų"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Greita!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Rekomenduojame sukurti periodinę užklausą. [link]Skaitykite plačiau[/link] adresu support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "API raktas"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Jūs galite pakeisti numatytąjį naujienlaiškių atsakyti-kam vardą ir el. pašto adresą. Šis pasirinkimas taip pat naudojamas aktyvavimo el. laiškams bei Administratorių pranešimams (pagrindiniuose nustatymuose)."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "El. pašto adresas atmestiems"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Į kurį el. pašto adresą turi eiti visi atmesti laiškai? Įsigykite [link]Premium versiją[/link], kad automatiškai tai valdytumėte."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Pirkti Premium versiją."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Prenumeratoriai gali redaguoti savo profilį"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Įdėti nuorodą visų naujienlaiškių poraštėse, kad prenumeratoriai galėtų redaguoti savo profilius ir sąrašus. [link]Peržiūrėkite savo prenumeratos profilio puslapį.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Peržiūros puslapis"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Prenumeratoriaus profilio puslapis"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Pasirinkite puslapį prenumeratoriaus profiliui rodyti."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Leisti HTML redagavimą"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Leisti redaguoti tekstinių blokų HTML vaizdžiajame redaktoriuje"
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Dalintis anoniminiais duomenimis"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Dalinkitės anoniminiais duomenimis ir padėkite pagerinti šį įskiepį. [link]Skaityti daugiau[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "kita"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "menas"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "verslas"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "išsilavinimas"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "e-komercija"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "maistas"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "draudimas"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "vyriausybė"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "sveikata ir sportas"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "gamyba"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "rinkodara ir medija"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "ne pelo siekianti"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotografija"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "kelionės"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "nekilnojamas turtas"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "religija"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "technologijos"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "Pramonė"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Pasirinkite savo segmentą"
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Trumpas kodas, rodantis bendrą prenumeratorių skaičių"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Įklijuokite šį trumpą kodą norėdami atvaizduoti patvirtintų prenumeratorių skaičių įraše ar puslapyje."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Simbolių kodavimas"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Matote kvadratėlius ar kitus neaiškius simbolius jūsų el. laiškuose? Pasirinkite teksto kodavimą, naudojamą jūsų kalboje."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Įjungti MailPoet Cron"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Neišsiųstas nei vienas jūsų el. laiškas? Tuomet įjunkite šią opciją."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Derinimo režimas"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Įjunkite, jei norite matyti MailPoet klaidas. Mūsų pagalba gali paprašyti jūsų įjungti šį nustatymą jei norėsite gauti pagalbos."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "Daryti arba ne. Jokių bandymų."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Moksliukų nustatymai"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Perjungti moksliukų nustatymus"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Slėpti"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Rodyti"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Įdiegti iš naujo"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Norite pradėti iš pradžių? Tai išvalys MailPoet duomenis ir nustatymus ir įdiegs jį iš naujo."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Įdiegti iš naujo dabar..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Pasirinkite jūsų pageidaujamą konfigūraciją."
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Viena konfigūracija visoms svetainėms"
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Priverskite visas svetaines siųsti naudojant unikalų NUO el. pašto adresą. Jūs turite sukonfigūruoti tik Automatinį Atmetimų Valdymą (Premium), SPF ir DKIM tik vieną kartą."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Vartotojai vis dar gali pakeisti savo atsakyti-kam adresą jų naujienlaiškiuose. Tinklo administratoriai vis dar gali redaguoti siuntimo būdą kiekvienai svetainei."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Konfigūruoti kiekvieną svetainę atskirai"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Konfigūruoti SPF ir DKIM nepriklausomai kiekvienai svetainei."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Konfigūravimas ir teisės"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Leisti svetainės administratoriams keisti siuntimo būdą"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Leisti svetainės administratoriams deaktyvuoti prenumeratos patvirtinimą"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Tinklo nustatytas siuntimo būdas"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF ir DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Jūsų SPF įrašas"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "NUO el. pašto adresas svetainėms, naudojančioms šį būdą"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Sukurti naują formą"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Nenurodytas joks sąrašas"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Vartotojo pasirinkimas: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Redaguoti formą"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Oi! Kad galėtumėte redaguoti formą, jūs turite turėti bent 1 sąrašą."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Pridėti sąrašą"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Redaguoti pavadinimą"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "Formų sąrašas"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Ši forma prideda prenumeratorius į šiuos sąrašus:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Pasirinkite sąrašą"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Po pateikimo..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "rodyti žinutę"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "eiti į puslapį"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Jūs galite lengvai įdėti šią formą į jūsų temos  [link]valdiklių sritis[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr ""
+"Taip pat prieinamos\n"
+"[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] ir\n"
+"[link_shortcode]trumpojo kodo[/link_shortcode] versijos."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Tekstinė įvestis"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Teksto stiris"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Perjungikliai"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Varnelė"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Pasirinkimas"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Pasirinkite lauko tipą:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Lauko pavadinimas:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Automatiškai pridėti pastraipas"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Eilučių skaičius:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "1 eilutė"
+msgstr[1] "%d eilutės"
+msgstr[2] "%d eilučių"
+msgstr[3] "%d eilučių"
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Pasirinkite norimą pridėti sąrašą"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Metai, mėnuo, diena"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Metai, mėnuo"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Mėnuo (Sausis, Vasaris, ...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Datos tipas:"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Pridėti punktą"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Antraštė"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Rodyti antraštę įvesties lauke"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Tvarka:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Pasirinkite šios dienos datą:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "Ar šis laukas privalomas?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Tik skaičiai"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Tik raidės"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Raidės ir skaičiai"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Tel. numeris (leidžiami +,-,#,(,) ir tarpai)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "Apribojimai:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Nieko"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Malonesnė patirtis naudojant Premium"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Visa jūsų statistika viename skydelyje"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Žiūrėti pilną ekrano nuotrauką"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Mėgaukitės privalumais"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Matykite savo geriausius naujienlaiškius, prenumeratorius, nuorodas, sąrašus ir domenus viename ekrane. Ar galite pamušti savo ankstesnių naujienlaiškių rekordą?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Padidinkite prenumeratorių skaičių"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Ar mano šoninės juostos forma gauna daugiau prenumeratorių nei esanti poraštėje? Laikas sužinoti."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Palyginkite praeitį ir dabartį"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Ar dabar jums sekasi geriau nei prieš 3 mėnesius? Pasirinkite datų rėžius, kad atskleistumėte jūsų rezultatų pokyčius."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Pasiekite jų laiškų dėžutes"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Gaukite savo brukališkumo įvertinimą vienu paspaudimu kol maketuojate savo naujienlaiškį, naudojant [link]mail-tester[/link], mūsų pačių sukurtą populiarų įrankį."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Brukalų filtrai mėgsta DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Įdėkite DKIM parašą į savo naujienlaiškius norėdami padidinti jų pristatymo procentą. [link]Skaitykite nustatymų vadovą.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Leiskite mums tai sukonfigūruoti"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Mūsų tarptautinė draugiška komanda padės jums optimizuoti jūsų nustatymus ir įsitikins, kad jūs galite startuoti. Mes atsakome į klausimus per mažiau nei 10 val., imant vidurkį. Gan greitai!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatizuokite nuobodžius dalykus"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Leiskite įskiepiui pašalinti <strong>atmestus ir netinkamus el. pašto adresus</strong> automatiškai. [link]Skaitykite vadovą.[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Dar daugiau, MailPoet tikrina kas 15 minučių jūsų svetainę, <strong>visai kaip \"cron\" darbas</strong>, kad užtikrinti jūsų el. laiškų išsiuntimą laiku. Nereikia nieko papildomai nustatinėti!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "30 dienų pinigų grąžinimo garantija"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Puikus būdas išbandyti Premium. Niekas neturi būti suvaržytas, niekada."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Katinukas yra čia tiesiog tuščios vietos užpildymui. Jis atrodo išalkęs, ar ne? Mes mylime katytes."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Ne daugiau 2000 prenumeratorių"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Nemokama versija blokuoja jūsų naujienlaiškių siuntimą, kai jūs pasiekiate 2000 patvirtintų prenumeratorių skaičių. Premium versija nuima šį apribojimą."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "Ir dar daugiau..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Sužinokite ką veikia prenumeratoriai jūsų svetainėje, naudodami Google Analytics kampanijų sekimą"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Išsami kiekvieno prenumeratoriaus statistika"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Kiekvieno naujienlaiškio nuorodų paspaudimo statistika"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Blogeris"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Laisvai dirbantis"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Agentūra"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "metus"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Viena svetainė"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Keturios svetainės"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Neribotas svetainių skaičius"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Suderinamas su Multisite."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Pirkti dabar"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Jau sumokėjote?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Turite klausimų dėl pirkimo? [link]Susisiekite[/link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Stebėkite viską naudojant daugiau rodiklių"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Ieškote atsakymų? Kodėl ta kampanija gerai suveikė? Kuri jūsų prenumeratos forma efektyviausia? Matykite aiškų vaizdą naudodami mūsų naują statistikos skydelį! [link]Gaukite jį su Premium.[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Automatiškai išvalykite jūsų siuntimo sąrašą"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Siųskite kaip profesionalas ir palaikykite aukštą jūsų siunčiančio serverio reputaciją. Naudojant mūsų pažangų sąrašų kūrimo įrankį jūs pagaliau galėsite išvengti laiškų siuntimo pasenusiems ir negaliojantiems adresatams. [link]Palaikykite savo sąrašus švarius su Premium.[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Siųskite didesniu dažnumu"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "Ar žinojote? Geriau išsiųsti mažiau el. laiškų didesniu dažnumu. Įsigykite Premium ir mes pinginsime jūsų svetainę kas 15 min., taip užtikrinant sklandų jūsų el. laiškų siuntimą numatytu dažnumu. [link]Siųskite geriau su Premium.[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Pamirškite apribojimus"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Nuimkite 2000 prenumeratorių nemokamos versijos apribojimą ir siųskite bet kokiam jūsų norimam prenumeratorių skaičiui. [link]Atsikratykite šio apribojimo![/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Patirinėkite savo geriausius prenumeratorius"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Sužinokite kurias nuorodas spaudžia daugiausiai kiekviename naujienlaiškyje. Sužinokite kurie prenumeratoriai yra jūsų didžiausi fanai ir gaukite detelią informaciją apie juos. [link]Sužinokite daugiau su Premium.[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Gaukite greitesnį aptarnavimą"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Išvenkite eilės, patekite tiesiai į prioritetinę laiškų dėžutę. [link]Gaukite greitesnį aptarnavimą su Premium.[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Gaukite daugiau temų"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Nesiseka suderinti spalvas? Nesijaudinkite, mes dirbame su geriausiais dizaineriais ir siūlome jums daugybę temų - tai mūsų išskirtinė naujovė Premium vartotojams. [link]Gaukite daugiau temų naudodami Premium.[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Sekite savo skaitytojus su Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Patikrinkite ką jūsų prenumeratoriai veikia jūsų svetainėje ir pagerinkite jų išlaikymo rodiklį.  [link]Sekite savo skaitytojus su GA naudojant Premium.[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 dienų džiaugsmo garantija"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Vis dar abejojate dėl mūsų prekės ir komandos iš 9? Nestresuokite, mes pasirengę suteikti jums 30 dienų išbandymui. Mes iškart grąžinsime jums pinigus jei liksite nepatenkinti. [link]Įsigykite Premium dabar be streso.[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Būkite produktyvus su Premium!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Mes turime 3 skirtingas licencijas pritaikytas jūsų poreikiams:"
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Už %s per metus, naudokite Premium galimybes 1 svetainėje."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Gaukite dabar!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Laisvai dirbantis"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Už %s per metus, naudokite Premium galimybes 4 svetainėse."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Už %s per metus, naudokite Premium galimybes neribotame svetainių skaičiuje."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Skaitykite mūsų paprastas ir aiškias [link]naudojimo sąlygas.[/link]"
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Statistikos skydelis"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Iki"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Turite pasiūlymų dėl šių rodiklių? [link]susisiekite su mumis[/link] tiesiogiai ir praneškite."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Sąrašai ir prenumeruotojai"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Ieškoti prenumeruotojų"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Atgal į sąrašus"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Redaguoti sąrašus"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Importuoti"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Eksportuoti"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "neįtrauktas į sąrašą"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Niekada neatidarė ar paspaudė"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Trinti šį prenumeratorių negrįžtamai?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Trinti šiuos prenumeratorius negrįžtamai?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Perkelti į sąrašą"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Pridėti į sąrašą"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Pašalinti iš sąrašo"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Pašalinti iš visų sąrašų"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Trinti prenumeratorius"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Patvirtinti nepatvirtintus prenumeratorius"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Siųsti patvirtinimo el. laišką dar kartą"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Žiūrėti visus sąrašus"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Prenumeratoriai nesantys jokiame sąraše"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "Paskutinis atidarymas"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "Paskutinis paspaudimas"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Visi prenumeratoriai šiame puslapyje pasirinkti."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Pasirinkti visus %1$s prenumeratorius"
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Visi %1$s prenumeratoriai pasirinkti."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Valyti pasirinkimus"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Sąrašau, kurius užsiprenumeravo prenumeratorius."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Pasirinkite sąrašą"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Formatas"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "CSV failas"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel, skirtas Windows "
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Eksportuoti tik patvirtintus prenumeratorius"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Eksportuojamų laukų sąrašas"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "Užsiprenumeravo %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Pastaba: Sužinokite ką šis prenumeratorius atidarė ir paspaudė su mūsų siūloma [link]Premium versija.[/link]"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Sukūrimo data"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Atnaujinti"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Gauti visus MS vartotojus"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Jūsų pačių naudojimui, niekada nerodomas prenumeratoriams."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Atnaujinti sąrašą"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Pridėti sąrašą"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Kaip norite importuoti?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Kopijuoti ir įklijuoti tekstiniame langelyje"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Užkrauti sąrašą"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Importuoti iš %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Įklijuokite savo sąrašą čia"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Sąrašas turi būti CSV stiliaus arba tiesiog nukopijuotas iš Gmail, Hotmail ar Yahoo. Pasižiūrėkite [link]pavyzdžius mūsų palaikymo svetainėje[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Sąrašas turi būti CSV stiliaus. Pasižiūrėkite [link]pavyzdžius mūsų palaikymo svetainėje[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Ar šie prenumeratoriai norėjo būti jūsų sąraše?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Jei atsakymas yra \"ne\", laikykite save brukalų siuntėju."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Skaitykite daugiau puslapyje support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Suderinti duomenis"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Ignoruoti stulpelį..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Importuoti kaip \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Importuoti \"%1$s\" kaip datos lauką"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Patikrinkite, kad mėlynai pažymėta data atitiktų originalią"
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Neversti 'datos lauku' jei dauguma šio stulpelio eilučių grąžina tą pačią klaidą."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Klaida suderinant datą."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Pasirinkite vieną ar daugiau sąrašų"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Pasirinkite sąrašus, į kuriuos norite importuoti prenumeratorius."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Naujas sąrašas"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Įrašykite savo naujo sąrašo pavadinimą"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Pastaba:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "prenumeratoriai gaus \"%1$s\" po importo."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Importuoti %1$s prenumeratorius iš įskiepio: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Įterpti formą"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Tavo sąrašai"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet prenumeratos forma"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Prenumeratos forma jūsų naujienlaiškiams"
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Patikrinkite savo gauto pašto dėžutę ir patvirtinkite prenumeratą."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Jūs sėkmingai užsiprenumeravote."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Kad atsisakytumėte mūsų naujienlaiškio prenumeratos, tiesiog įrašykite savo el. pašto adresą žemiau. Mes jums išsiųsime el. laišką-patvirtinimą."
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Leisti prenumeratoriams pasirinkti sąrašus:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Klausti:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Rodyti įvesties laukų pavadinimus"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Mygtuko pavadinimas"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Sėkmės žinutė:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "iframe versija"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Pasirinkti formą:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet Newsletters"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
