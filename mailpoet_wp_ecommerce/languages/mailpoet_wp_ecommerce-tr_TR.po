@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WP e-Commerce Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Emre Erkan <kara+transifex@karalamalar.net>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wysija/mailpoet-wp-e-commerce-add-on/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 18:12+0100\n"
+"PO-Revision-Date: 2017-09-23 19:29:11\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "Etkin"
+
+#: include/settings-newsletters.php:20
+msgid "Newsletters"
+msgstr "Bültenler"
+
+#: mailpoet-wp-ecommerce-addon.php:64
+#: mailpoet-wp-ecommerce-addon.php:152
+msgid "Yes, add me to your mailing list"
+msgstr "Evet, beni posta listesine ekle"
+
+#: mailpoet-wp-ecommerce-addon.php:85
+#: mailpoet-wp-ecommerce-addon.php:129
+msgid "MailPoet WP e-Commerce Add-On"
+msgstr "MailPoet WP e-Commerce eklentisi"
+
+#: mailpoet-wp-ecommerce-addon.php:120
+msgid "Settings saved"
+msgstr "Ayarlar kaydedildi"
+
+#: mailpoet-wp-ecommerce-addon.php:137
+msgid "Enable subscribe on checkout"
+msgstr "Ödeme sırasında aboneliği etkinleştir."
+
+#: mailpoet-wp-ecommerce-addon.php:140
+msgid "Yes"
+msgstr "Evet"
+
+#: mailpoet-wp-ecommerce-addon.php:141
+msgid "No"
+msgstr "Hayır"
+
+#: mailpoet-wp-ecommerce-addon.php:143
+msgid "Add a subscribe checkbox to your checkout page?"
+msgstr "Ödeme sayfasına abonelik onay kutusu eklensin mi?"
+
+#: mailpoet-wp-ecommerce-addon.php:149
+msgid "Checkout label"
+msgstr "Ödeme etiketi"
+
+#: mailpoet-wp-ecommerce-addon.php:166
+msgid "Save Settings"
+msgstr "Ayarları kaydet"
+
+#: mailpoet-wp-ecommerce-addon.php:190
+msgid "Newsletter"
+msgstr "Bülten"
+
+#: mailpoet-wp-ecommerce-addon.php:295
+#, php-format
+msgid "MailPoet WP e-Commerce Add-on requires WP e-Commerce. Please install and activate <a href=\"%s\">WP e-Commerce</a> first."
+msgstr "MailPoet WP e-Commerce Eklentisi WP e-Commerce gerektirir. Lütfen öncelikle <a href=\"%s\">WP e-Commerce</a> eklentisini kurun ve etkinleştirin."
