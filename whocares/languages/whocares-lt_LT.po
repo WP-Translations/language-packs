@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I Luv 2 Test\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/blogly-lite\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/wp-translations/iluv2test/language/lt_LT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-28 13:39:36+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:59:27\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Nepavyko rasti šio puslapio."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Atrodo, kad šioje vietoje nieko nėra. Galbūt, pabandykite vieną iš žemiau esančių nuorodų arba paiešką?"
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "Daugiausiai Naudojamos Kategorijos"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:29
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#: archive.php:37
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: archive.php:40
+msgid "Month: %s"
+msgstr "Mėnuo: %s"
+
+#: archive.php:43
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Užrašai"
+
+#: archive.php:49
+msgid "Images"
+msgstr "Paveikslėliai"
+
+#: archive.php:52
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:55
+msgid "Quotes"
+msgstr "Citatos"
+
+#: archive.php:58
+msgid "Links"
+msgstr "Nuorodos"
+
+#: archive.php:61
+#: sidebar.php:29
+msgid "Archives"
+msgstr "Archyvai"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] "%1$s komentarų<!--%2$s-->"
+msgstr[3] "%1$s komentarų<!--%2$s-->"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Komentarų naršymas"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni Komentarai"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni Komentarai &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "Leave a comment"
+msgstr "Parašykite komentarą"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31
+#: content-audio.php:31
+#: content-chat.php:35
+#: content-image.php:33
+#: content-link.php:31
+#: content-quote.php:29
+#: content-single.php:30
+#: content-status.php:31
+#: content.php:37
+#: single-quote.php:29
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-chat.php:41
+#: content-image.php:39
+#: content-link.php:37
+#: content-quote.php:35
+#: content-single.php:33
+#: content-status.php:37
+#: content.php:43
+#: single-quote.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-page.php:33
+#: content-single.php:16
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-page.php:43
+#: inc/template-tags.php:141
+#: inc/template-tags.php:179
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: footer.php:8
+msgid "Proudly powered by %s"
+msgstr "%s sistema"
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s pagal %2$s."
+
+#: inc/customizer.php:54
+#: inc/customizer.php:64
+msgid "Logo"
+msgstr "Logotipas"
+
+#: inc/customizer.php:70
+msgid "Footer Logo"
+msgstr "Poraštės Logotipas"
+
+#: inc/customizer.php:77
+msgid "Colors"
+msgstr "Spalvos"
+
+#: inc/customizer.php:90
+msgid "Link color"
+msgstr "Nuorodos spalva"
+
+#: inc/customizer.php:103
+msgid "Accent color"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Page %s"
+msgstr "%s Puslapis"
+
+#: inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "Irašo naršymas"
+
+#: inc/template-tags.php:75
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Senesni įrašai"
+
+#: inc/template-tags.php:95
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naujesni įrašai <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Atgalinis pranešimas:"
+
+#: inc/template-tags.php:161
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">parašė:</span>"
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/template-tags.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Komentaras laukia administratoriaus patvirtinimo."
+
+#: inc/template-tags.php:369
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Paskelbta %1$s</span><span class=\"byline\"> parašė %2$s</span>"
+
+#: inc/themesetup.php:29
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: no-results.php:25
+msgid "Nothing Found"
+msgstr "Nieko Nerasta"
+
+#: no-results.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esate pasiruošę publikuoti savo pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: no-results.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Atleiskite, bet niekas neatitiko jūsų paieškos užklausos. Prašome bandyti dar kartą, naudojant kitokius raktažodžius."
+
+#: no-results.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Atrodo mes negalime rasti tai, ko jūs ieškote. Galbūt, gali padėti paieška."
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Paieškos Rezultatai užklausai: %s"
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Paieška"
+
+#: sidebar.php:20
+msgid "Menu"
+msgstr "Meniu"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "Metainformacija"
+
+#. Theme Name of the plugin/theme
+msgid "Blogly Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themefurnace.com/blog/portfolio/blogly-lite/"
+msgstr "http://themefurnace.com/blog/portfolio/blogly-lite/"
+
+#. Description of the plugin/theme
+msgid "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
