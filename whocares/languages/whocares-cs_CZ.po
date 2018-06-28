@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I Luv 2 Test\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/blogly-lite\n"
+"Last-Translator: Tomas Hrdina <mot2425@gmail.com>\n"
+"Language-Team: Czech (Czech Republic) (http://www.transifex.com/wp-translations/iluv2test/language/cs_CZ/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-28 13:39:36+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:37:29\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Jejda! To stránku nelze nalézt."
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Vypadá to, že na tomto místě nebylo nic nalezeno. Možná zkuste použít odkazy níže, nebo vyhledávání."
+
+#: 404.php:25
+msgid "Most Used Categories"
+msgstr "Nejpoužívanější rubriky"
+
+#. translators: %1$s: smiley
+#: 404.php:42
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Můžete chronologicky prohlížet měsíční archivy. %1$s"
+
+#: archive.php:29
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:37
+msgid "Day: %s"
+msgstr "Den: %s"
+
+#: archive.php:40
+msgid "Month: %s"
+msgstr "Měsíc: %s"
+
+#: archive.php:43
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: archive.php:46
+msgid "Asides"
+msgstr "Poznámky"
+
+#: archive.php:49
+msgid "Images"
+msgstr "Obrázky"
+
+#: archive.php:52
+msgid "Videos"
+msgstr "Videa"
+
+#: archive.php:55
+msgid "Quotes"
+msgstr "Citáty"
+
+#: archive.php:58
+msgid "Links"
+msgstr "Odkazy"
+
+#: archive.php:61
+#: sidebar.php:29
+msgid "Archives"
+msgstr "Archivy"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] "%1$s komentářů u &bdquo;%2$s&ldquo;"
+msgstr[3] "%1$s komentářů u &bdquo;%2$s&ldquo;"
+
+#: comments.php:36
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Navigace pro komentáře"
+
+#: comments.php:37
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:38
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: content-aside.php:25
+#: content-audio.php:25
+#: content-chat.php:29
+#: content-image.php:27
+#: content-link.php:25
+#: content-quote.php:23
+#: content-single.php:27
+#: content-status.php:25
+#: content.php:31
+#: single-quote.php:23
+msgid "% Comments"
+msgstr "% komentáře"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31
+#: content-audio.php:31
+#: content-chat.php:35
+#: content-image.php:33
+#: content-link.php:31
+#: content-quote.php:29
+#: content-single.php:30
+#: content-status.php:31
+#: content.php:37
+#: single-quote.php:29
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:37
+#: content-audio.php:37
+#: content-chat.php:41
+#: content-image.php:39
+#: content-link.php:37
+#: content-quote.php:35
+#: content-single.php:33
+#: content-status.php:37
+#: content.php:43
+#: single-quote.php:35
+msgid "%1$s"
+msgstr "%1$s"
+
+#: content-page.php:33
+#: content-single.php:16
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-page.php:43
+#: inc/template-tags.php:141
+#: inc/template-tags.php:179
+msgid "Edit"
+msgstr "Editovat"
+
+#: footer.php:8
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)."
+
+#: footer.php:9
+msgid "Theme: %1$s by %2$s."
+msgstr "Šablona: %1$s od %2$s."
+
+#: inc/customizer.php:54
+#: inc/customizer.php:64
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:70
+msgid "Footer Logo"
+msgstr "Logo zápatí"
+
+#: inc/customizer.php:77
+msgid "Colors"
+msgstr "Barvy"
+
+#: inc/customizer.php:90
+msgid "Link color"
+msgstr "Barva odkazu"
+
+#: inc/customizer.php:103
+msgid "Accent color"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Page %s"
+msgstr "%s. stránka"
+
+#: inc/template-tags.php:67
+msgid "Post navigation"
+msgstr "Navigace pro příspěvky"
+
+#: inc/template-tags.php:75
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:77
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starší příspěvky"
+
+#: inc/template-tags.php:95
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:161
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">napsal:</span>"
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s | %2$s"
+
+#: inc/template-tags.php:187
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: inc/template-tags.php:369
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Publikováno %1$s</span><span class=\"byline\"> uživatelem %2$s</span>"
+
+#: inc/themesetup.php:29
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: no-results.php:25
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: no-results.php:37
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Jste připraveni publikovat Svůj první příspěvek? <a href=\"%1$s\">Začněte zde</a>."
+
+#: no-results.php:45
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale nic nebylo nalezeno z hledaných výrazů. Zkuste to prosím znovu s jinými klíčovími slovy."
+
+#: no-results.php:55
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Patrně jste chtěli na webu zobrazit něco, co se zde bohužel nenachází. Můžete ale ještě zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: search.php:31
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hledat"
+
+#: sidebar.php:20
+msgid "Menu"
+msgstr "Menu"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "Další informace"
+
+#. Theme Name of the plugin/theme
+msgid "Blogly Lite"
+msgstr "Blogly Lite"
+
+#. Theme URI of the plugin/theme
+msgid "http://themefurnace.com/blog/portfolio/blogly-lite/"
+msgstr "http://themefurnace.com/blog/portfolio/blogly-lite/"
+
+#. Description of the plugin/theme
+msgid "Blogly is a responsive personal blog theme which is responsive and uses the theme customizer so you can change colors, upload a logo and background image. You can upgrade to a pro version which has more cutomization options, support and custom widgets for social media, dribbble, flickr and advertising http://themefurnace.com/blog/portfolio/blogly/"
+msgstr "Blogly je responzivní téma osobního blogu, které je přizpůsobivé a používá theme customizer, takže můžete měnit barvy, nahrát logo a obrázek na pozadí. Můžete provést upgrade na profesionální verzi, která má více možností přizpůsobení, podporuje vlastní widgety pro sociální média, Dribbble, Flickr a reklamu http://themefurnace.com/blog/portfolio/blogly/"
+
+#. Author of the plugin/theme
+msgid "ThemeFurnace"
+msgstr "ThemeFurnace"
+
+#. Author URI of the plugin/theme
+msgid "http://themefurnace.com"
+msgstr "http://themefurnace.com"
