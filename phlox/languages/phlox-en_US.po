@@ -1,0 +1,5483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Phlox 2.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/phlox\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-05-10T06:37:58+00:00\n"
+"PO-Revision-Date: 2018-05-10 06:41:15\n"
+"Language: \n"
+"X-Domain: phlox\n"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:66
+msgid "Install Plugin"
+msgstr "Install Plugin"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:90
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr "Activate"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:90
+msgid "Activate Plugin"
+msgstr "Activate Plugin"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:116
+msgid "installed"
+msgstr "installed"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:159
+#: \auxin\auxin-include\include\hooks-admin.php:39
+#: \auxin-content\include\hooks-admin.php:225
+msgid "Welcome"
+msgstr "Welcome"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:159
+msgid "Welcome to %s"
+msgstr "Welcome to %s"
+
+#: \auxin\auxin-include\classes\class-auxin-about.php:177
+msgid "VERSION: %s"
+msgstr "VERSION: %s"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:134
+msgid "Execute"
+msgstr "Execute"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:137
+msgid "Visual Icon Selector"
+msgstr "Visual Icon Selector"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:140
+msgid "Preview text:"
+msgstr "Preview text:"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:141
+msgid "Font:"
+msgstr "Font:"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:142
+msgid "Size:"
+msgstr "Size:"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:143
+msgid "Style:"
+msgstr "Style:"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:144
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:145
+#: \auxin\auxin-include\classes\class-auxin-fonts.php:82
+msgid "System Fonts"
+msgstr "System Fonts"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:146
+#: \auxin\auxin-include\classes\class-auxin-fonts.php:97
+msgid "Google Early Access"
+msgstr "Google Early Access"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:147
+#: \auxin\auxin-include\classes\class-auxin-fonts.php:194
+msgid "Custom Fonts"
+msgstr "Custom Fonts"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:151
+msgid "Cancel"
+msgstr "Cancel"
+
+#: \auxin\auxin-include\classes\class-auxin-admin-assets.php:152
+msgid "Apply"
+msgstr "Apply"
+
+#: \auxin\auxin-include\classes\class-auxin-breadcrumb.php:62
+msgctxt "Home in breadcrumb"
+msgid "Home"
+msgstr "Home"
+
+#: \auxin\auxin-include\classes\class-auxin-breadcrumb.php:102
+msgctxt "The blog title in breadcrumb"
+msgid "Blog"
+msgstr "Blog"
+
+#: \auxin\auxin-include\classes\class-auxin-breadcrumb.php:120
+msgid "show all"
+msgstr "show all"
+
+#: \auxin\auxin-include\classes\class-auxin-breadcrumb.php:218
+msgctxt "navigate to previous page"
+msgid "previous"
+msgstr "previous"
+
+#: \auxin\auxin-include\classes\class-auxin-breadcrumb.php:221
+msgctxt "navigate to next page"
+msgid "next"
+msgstr "next"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:123
+msgid "The description"
+msgstr "The description"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:124
+#: \comments.php:80
+msgid "Submit"
+msgstr "Submit"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:391
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:264
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:16
+msgid "Choose .."
+msgstr "Choose .."
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:673
+msgid "Add File"
+msgstr "Add File"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:674
+msgid "Change File"
+msgstr "Change File"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:675
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:677
+msgid "Select File"
+msgstr "Select File"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:676
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:432
+msgid "Remove"
+msgstr "Remove"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-control.php:678
+msgid "Choose File"
+msgstr "Choose File"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-section.php:60
+msgid "Press return or enter to open this section"
+msgstr "Press return or enter to open this section"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-section.php:68
+msgid "Back"
+msgstr "Back"
+
+#: \auxin\auxin-include\classes\class-auxin-customize-section.php:77
+#: \auxin-content\include\hooks-admin.php:330
+msgid "Help"
+msgstr "Help"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:404
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:419
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:540
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:570
+msgid "Add Image"
+msgstr "Add Image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:405
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:420
+msgid "Change Image"
+msgstr "Change Image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:406
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:421
+msgid "Submit Image"
+msgstr "Submit Image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:407
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:422
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:540
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:570
+msgid "Select Image"
+msgstr "Select Image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:408
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:423
+msgid "Choose Image"
+msgstr "Choose Image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:430
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:435
+msgid "Select image"
+msgstr "Select image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:431
+msgid "Change image"
+msgstr "Change image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:433
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:52
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:321
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:53
+#: \auxin-content\options\auxin-options.php:3055
+#: \auxin-content\options\auxin-options.php:3412
+#: \auxin-content\options\auxin-options.php:4583
+#: \auxin-content\options\auxin-options.php:5989
+#: \auxin-content\options\auxin-options.php:6434
+msgid "Default"
+msgstr "Default"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:434
+msgid "No image selected"
+msgstr "No image selected"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:436
+msgid "Choose image"
+msgstr "Choose image"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:447
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:601
+msgid "Add Audio"
+msgstr "Add Audio"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:448
+msgid "Change Audio"
+msgstr "Change Audio"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:449
+msgid "Submit Audio"
+msgstr "Submit Audio"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:450
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:601
+msgid "Select Audio"
+msgstr "Select Audio"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:451
+msgid "Choose Audio"
+msgstr "Choose Audio"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:462
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:632
+msgid "Add Video"
+msgstr "Add Video"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:463
+msgid "Change Video"
+msgstr "Change Video"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:464
+msgid "Submit Video"
+msgstr "Submit Video"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:465
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:632
+msgid "Select Video"
+msgstr "Select Video"
+
+#: \auxin\auxin-include\classes\class-auxin-customizer.php:466
+msgid "Choose Video"
+msgstr "Choose Video"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:40
+msgid "Submenu as Mega menu"
+msgstr "Submenu as Mega menu"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:47
+msgid "Disable Link"
+msgstr "Disable Link"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:53
+msgid "Hide Label"
+msgstr "Hide Label"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:59
+msgid "Icon"
+msgstr "Icon"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:65
+msgid "Icon Alignment"
+msgstr "Icon Alignment"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:69
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:770
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:38
+#: \auxin-content\options\auxin-options.php:699
+#: \auxin-content\options\auxin-options.php:4358
+#: \auxin-content\options\auxin-options.php:7379
+msgid "Auto"
+msgstr "Auto"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:70
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:159
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:643
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:57
+#: \auxin-content\options\auxin-options.php:2095
+#: \auxin-content\options\auxin-options.php:4065
+#: \auxin-content\options\auxin-options.php:4558
+#: \auxin-content\options\auxin-options.php:5141
+#: \auxin-content\options\auxin-options.php:7085
+#: \auxin-content\options\auxin-options.php:8450
+msgid "Left"
+msgstr "Left"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:71
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:161
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:651
+#: \auxin-content\options\auxin-options.php:4073
+#: \auxin-content\options\auxin-options.php:5145
+#: \auxin-content\options\auxin-options.php:7093
+#: \auxin-content\options\auxin-options.php:8458
+msgid "Right"
+msgstr "Right"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:72
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:322
+#: \auxin-content\options\auxin-options.php:543
+#: \auxin-content\options\auxin-options.php:3692
+#: \auxin-content\options\auxin-options.php:6714
+msgid "Top"
+msgstr "Top"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:73
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:324
+#: \auxin-content\options\auxin-options.php:544
+#: \auxin-content\options\auxin-options.php:3694
+#: \auxin-content\options\auxin-options.php:6716
+msgid "Bottom"
+msgstr "Bottom"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:78
+msgid "Start Row From Here"
+msgstr "Start Row From Here"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:86
+msgid "Hide Title"
+msgstr "Hide Title"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:94
+msgid "Number of Columns"
+msgstr "Number of Columns"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:110
+msgid "Hide on Desktop"
+msgstr "Hide on Desktop"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:116
+msgid "Hide on Tablet"
+msgstr "Hide on Tablet"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:122
+msgid "Hide on Mobile"
+msgstr "Hide on Mobile"
+
+#: \auxin\auxin-include\classes\class-auxin-master-nav-menu.php:128
+msgid "Custom Style"
+msgstr "Custom Style"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-hub.php:149
+msgid "Loading options.."
+msgstr "Loading options.."
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:195
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:234
+msgid "Remove image"
+msgstr "Remove image"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:570
+msgid "Add Image(s)"
+msgstr "Add Image(s)"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:670
+#: \auxin-content\options\auxin-options.php:604
+#: \auxin-content\options\auxin-options.php:4288
+#: \auxin-content\options\auxin-options.php:7309
+#: \auxin-content\options\auxin-options.php:7930
+#: \auxin-content\options\auxin-options.php:8066
+msgid "Background Color"
+msgstr "Background Color"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:671
+msgid "Specifies the color of website background"
+msgstr "Specifies the color of website background"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:677
+msgid "Background repeat"
+msgstr "Background repeat"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:678
+msgid "Specifies how background image repeats"
+msgstr "Specifies how background image repeats"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:682
+#: \auxin-content\options\auxin-options.php:743
+msgid "No repeat"
+msgstr "No repeat"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:686
+#: \auxin-content\options\auxin-options.php:747
+msgid "Repeat horizontally and vertically"
+msgstr "Repeat horizontally and vertically"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:690
+#: \auxin-content\options\auxin-options.php:751
+msgid "Repeat horizontally"
+msgstr "Repeat horizontally"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:694
+#: \auxin-content\options\auxin-options.php:755
+msgid "Repeat vertically"
+msgstr "Repeat vertically"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:702
+msgid "Background attachment"
+msgstr "Background attachment"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:703
+msgid "Specifies the background is fixed or scrollable as user scrolls the document"
+msgstr "Specifies the background is fixed or scrollable as user scrolls the document"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:706
+#: \auxin-content\options\auxin-options.php:861
+msgid "Scroll"
+msgstr "Scroll"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:710
+#: \auxin-content\options\auxin-options.php:865
+msgid "Fixed"
+msgstr "Fixed"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:719
+msgid "Background position"
+msgstr "Background position"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:720
+msgid "Specifies background image alignment"
+msgstr "Specifies background image alignment"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:723
+#: \auxin-content\options\auxin-options.php:791
+msgid "Left top"
+msgstr "Left top"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:727
+#: \auxin-content\options\auxin-options.php:795
+msgid "Center top"
+msgstr "Center top"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:731
+#: \auxin-content\options\auxin-options.php:799
+msgid "Right top"
+msgstr "Right top"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:736
+#: \auxin-content\options\auxin-options.php:804
+msgid "Left center"
+msgstr "Left center"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:740
+#: \auxin-content\options\auxin-options.php:808
+msgid "Center center"
+msgstr "Center center"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:744
+#: \auxin-content\options\auxin-options.php:812
+msgid "Right center"
+msgstr "Right center"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:749
+#: \auxin-content\options\auxin-options.php:817
+msgid "Left bottom"
+msgstr "Left bottom"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:753
+#: \auxin-content\options\auxin-options.php:821
+msgid "Center bottom"
+msgstr "Center bottom"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:757
+#: \auxin-content\options\auxin-options.php:825
+msgid "Right bottom"
+msgstr "Right bottom"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:766
+msgid "Background size"
+msgstr "Background size"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:767
+#: \auxin-content\options\auxin-options.php:693
+#: \auxin-content\options\auxin-options.php:4325
+#: \auxin-content\options\auxin-options.php:7346
+msgid "Specifies the background size."
+msgstr "Specifies the background size."
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:774
+#: \auxin-content\options\auxin-options.php:703
+#: \auxin-content\options\auxin-options.php:4362
+#: \auxin-content\options\auxin-options.php:7383
+msgid "Contain"
+msgstr "Contain"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:778
+#: \auxin-content\options\auxin-options.php:442
+#: \auxin-content\options\auxin-options.php:707
+#: \auxin-content\options\auxin-options.php:4366
+#: \auxin-content\options\auxin-options.php:7387
+msgid "Cover"
+msgstr "Cover"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:787
+msgid "Background pattern"
+msgstr "Background pattern"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:788
+msgid "Here you can select one of these patterns as site image background."
+msgstr "Here you can select one of these patterns as site image background."
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:789
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:364
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:708
+#: \auxin-content\options\auxin-options.php:636
+#: \auxin-content\options\auxin-options.php:2147
+#: \auxin-content\options\auxin-options.php:3739
+#: \auxin-content\options\auxin-options.php:4139
+#: \auxin-content\options\auxin-options.php:5051
+#: \auxin-content\options\auxin-options.php:6761
+#: \auxin-content\options\auxin-options.php:7159
+msgid "None"
+msgstr "None"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:795
+#: \auxin-content\options\auxin-options.php:5711
+msgid "Background image"
+msgstr "Background image"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:796
+msgid "You can upload custom image for site background"
+msgstr "You can upload custom image for site background"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:797
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:805
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:813
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:821
+msgid "Note: if you set custom image, default image backgrounds will be ignored."
+msgstr "Note: if you set custom image, default image backgrounds will be ignored."
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:803
+msgid "Background video MP4"
+msgstr "Background video MP4"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:804
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:812
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:820
+msgid "You can upload custom video for title background"
+msgstr "You can upload custom video for title background"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:811
+msgid "Background video Ogg"
+msgstr "Background video Ogg"
+
+#: \auxin\auxin-include\classes\class-auxin-metabox-view.php:819
+msgid "Background video WebM"
+msgstr "Background video WebM"
+
+#: \auxin\auxin-include\classes\class-auxin-theme-screen-help.php:43
+msgid "Below resources are available to help you in using %s theme."
+msgstr "Below resources are available to help you in using %s theme."
+
+#: \auxin\auxin-include\classes\class-auxin-theme-screen-help.php:45
+msgid "A complete %s documentation %s, which updates regularly."
+msgstr "A complete %s documentation %s, which updates regularly."
+
+#: \auxin\auxin-include\classes\class-auxin-theme-screen-help.php:56
+msgid "Phlox Support"
+msgstr "Phlox Support"
+
+#. Theme Name of the theme
+#: \auxin\auxin-include\compatibility\go-pricing.php:25
+#: \auxin-content\init\const.php:24
+msgid "Phlox"
+msgstr "Phlox"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:37
+#: \auxin-content\options\auxin-options.php:1346
+msgid "Modern"
+msgstr "Modern"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:40
+msgid "Modern normal"
+msgstr "Modern normal"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:46
+msgid "Modern Circle"
+msgstr "Modern Circle"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:55
+msgid "Hosting"
+msgstr "Hosting"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:58
+msgid "Start Column"
+msgstr "Start Column"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:64
+msgid "Normal Column"
+msgstr "Normal Column"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:70
+msgid "Semi highlighted Column"
+msgstr "Semi highlighted Column"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:79
+#: \auxin-content\options\auxin-options.php:1345
+#: \auxin-content\options\auxin-options.php:2057
+#: \auxin-content\options\auxin-options.php:2820
+msgid "Classic"
+msgstr "Classic"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:82
+msgid "Classic Normal"
+msgstr "Classic Normal"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:98
+msgid "Auxin signs"
+msgstr "Auxin signs"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:101
+#: \auxin-content\options\auxin-options.php:446
+msgid "Circle"
+msgstr "Circle"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:105
+msgid "Ribbon"
+msgstr "Ribbon"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:109
+msgid "Badge"
+msgstr "Badge"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:113
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:127
+msgid "Sale"
+msgstr "Sale"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:130
+msgid "Blue Sale"
+msgstr "Blue Sale"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:138
+#: \auxin\auxin-include\compatibility\go-pricing.php:149
+msgid "Popular"
+msgstr "Popular"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:141
+#: \auxin\auxin-include\compatibility\go-pricing.php:152
+msgid "Blue Popular"
+msgstr "Blue Popular"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:160
+msgid "Most Popular"
+msgstr "Most Popular"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:163
+msgid "Blue Most Popular"
+msgstr "Blue Most Popular"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:168
+msgid "Small Blue Most Popular"
+msgstr "Small Blue Most Popular"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:186
+msgid "Style Settings"
+msgstr "Style Settings"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:189
+msgid "Main Color"
+msgstr "Main Color"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:190
+msgid "Add To Favourites"
+msgstr "Add To Favourites"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:191
+msgid "Main color of the pricing table."
+msgstr "Main color of the pricing table."
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:388
+#: \auxin\auxin-include\compatibility\go-pricing.php:471
+msgid "Row Type"
+msgstr "Row Type"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:391
+#: \auxin\auxin-include\compatibility\go-pricing.php:474
+msgid "HTML Content"
+msgstr "HTML Content"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:394
+#: \auxin\auxin-include\compatibility\go-pricing.php:477
+msgid "Type of the footer row."
+msgstr "Type of the footer row."
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:403
+#: \auxin\auxin-include\compatibility\go-pricing.php:404
+#: \auxin\auxin-include\compatibility\go-pricing.php:486
+#: \auxin\auxin-include\compatibility\go-pricing.php:487
+msgid "Content"
+msgstr "Content"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:404
+#: \auxin\auxin-include\compatibility\go-pricing.php:487
+msgid "Align Left"
+msgstr "Align Left"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:404
+#: \auxin\auxin-include\compatibility\go-pricing.php:487
+msgid "Align Center"
+msgstr "Align Center"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:404
+#: \auxin\auxin-include\compatibility\go-pricing.php:487
+msgid "Align Right"
+msgstr "Align Right"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:404
+#: \auxin\auxin-include\compatibility\go-pricing.php:487
+msgid "Add Shortcode"
+msgstr "Add Shortcode"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:405
+#: \auxin\auxin-include\compatibility\go-pricing.php:488
+msgid "Content of the row."
+msgstr "Content of the row."
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:416
+#: \auxin\auxin-include\compatibility\go-pricing.php:499
+msgid "Font Family"
+msgstr "Font Family"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:438
+#: \auxin\auxin-include\compatibility\go-pricing.php:521
+msgid "Font family of the row content."
+msgstr "Font family of the row content."
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:441
+#: \auxin\auxin-include\compatibility\go-pricing.php:524
+msgid "Font Size / Line H."
+msgstr "Font Size / Line H."
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:442
+#: \auxin\auxin-include\compatibility\go-pricing.php:525
+msgid "Bold"
+msgstr "Bold"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:442
+#: \auxin\auxin-include\compatibility\go-pricing.php:525
+msgid "Italic"
+msgstr "Italic"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:442
+#: \auxin\auxin-include\compatibility\go-pricing.php:525
+msgid "Strikethrough"
+msgstr "Strikethrough"
+
+#: \auxin\auxin-include\compatibility\go-pricing.php:443
+#: \auxin\auxin-include\compatibility\go-pricing.php:526
+msgid "Font size and line height of the row content in pixels."
+msgstr "Font size and line height of the row content in pixels."
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:35
+msgid "1 comment"
+msgid_plural "%s comments"
+msgstr[0] "1 comment"
+msgstr[1] "%s comments"
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:49
+msgid "1 view per day"
+msgid_plural "%s views per day"
+msgstr[0] "1 view per day"
+msgstr[1] "%s views per day"
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:60
+msgid "1 view"
+msgid_plural "%s views"
+msgstr[0] "1 view"
+msgstr[1] "%s views"
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:73
+msgid "by %s"
+msgstr "by %s"
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:81
+msgid "posted on %s"
+msgstr "posted on %s"
+
+#: \auxin\auxin-include\compatibility\wordpress-popular-posts.php:94
+msgid "under %s"
+msgstr "under %s"
+
+#: \auxin\auxin-include\compatibility\wpml.php:13
+msgid "This is also available in: "
+msgstr "This is also available in: "
+
+#: \auxin\auxin-include\include\functions.php:394
+msgid " Continue Reading"
+msgstr " Continue Reading"
+
+#: \auxin\auxin-include\include\functions.php:1416
+#: \auxin\auxin-include\include\templates\templates-header.php:1273
+msgid "Powered by"
+msgstr "Powered by"
+
+#: \auxin\auxin-include\include\functions.php:1417
+#: \auxin\auxin-include\include\templates\templates-header.php:1274
+msgid "Phlox Free WordPress Theme"
+msgstr "Phlox Free WordPress Theme"
+
+#: \auxin\auxin-include\include\functions.php:1418
+#: \auxin\auxin-include\include\templates\templates-header.php:1275
+msgid "Phlox Theme"
+msgstr "Phlox Theme"
+
+#: \auxin\auxin-include\include\functions.php:1889
+msgid "The function name \"%s\" not found for Metabox hub \"%s\"."
+msgstr "The function name \"%s\" not found for Metabox hub \"%s\"."
+
+#: \auxin\auxin-include\include\functions.php:2126
+msgid "pattern 1"
+msgstr "pattern 1"
+
+#: \auxin\auxin-include\include\functions.php:2131
+msgid "pattern 2"
+msgstr "pattern 2"
+
+#: \auxin\auxin-include\include\functions.php:2136
+msgid "pattern 3"
+msgstr "pattern 3"
+
+#: \auxin\auxin-include\include\functions.php:2141
+msgid "pattern 4"
+msgstr "pattern 4"
+
+#: \auxin\auxin-include\include\functions.php:2146
+msgid "pattern 5"
+msgstr "pattern 5"
+
+#: \auxin\auxin-include\include\functions.php:2151
+msgid "pattern 6"
+msgstr "pattern 6"
+
+#: \auxin\auxin-include\include\functions.php:2156
+msgid "pattern 7"
+msgstr "pattern 7"
+
+#: \auxin\auxin-include\include\functions.php:2161
+msgid "pattern 8"
+msgstr "pattern 8"
+
+#: \auxin\auxin-include\include\functions.php:2166
+msgid "pattern 9"
+msgstr "pattern 9"
+
+#: \auxin\auxin-include\include\functions.php:2171
+msgid "pattern 10"
+msgstr "pattern 10"
+
+#: \auxin\auxin-include\include\functions.php:2176
+msgid "pattern 11"
+msgstr "pattern 11"
+
+#: \auxin\auxin-include\include\functions.php:2181
+msgid "pattern 12"
+msgstr "pattern 12"
+
+#: \auxin\auxin-include\include\functions.php:2186
+msgid "pattern 14"
+msgstr "pattern 14"
+
+#: \auxin\auxin-include\include\functions.php:2191
+msgid "pattern 15"
+msgstr "pattern 15"
+
+#: \auxin\auxin-include\include\functions.php:2196
+msgid "pattern 16"
+msgstr "pattern 16"
+
+#: \auxin\auxin-include\include\functions.php:2201
+msgid "pattern 17"
+msgstr "pattern 17"
+
+#: \auxin\auxin-include\include\functions.php:2206
+msgid "pattern 18"
+msgstr "pattern 18"
+
+#: \auxin\auxin-include\include\functions.php:2211
+msgid "pattern 19"
+msgstr "pattern 19"
+
+#: \auxin\auxin-include\include\functions.php:2292
+msgid "Please specify a unique dom name for %s"
+msgstr "Please specify a unique dom name for %s"
+
+#: \auxin\auxin-include\include\functions.php:2338
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:37
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:60
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:101
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:127
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:139
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:158
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:26
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:47
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:32
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:74
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:25
+msgid "Theme Default"
+msgstr "Theme Default"
+
+#: \auxin\auxin-include\include\hooks-admin.php:31
+msgid "Theme Setting"
+msgstr "Theme Setting"
+
+#: \auxin\auxin-include\include\hooks-admin.php:97
+msgid "Authorization failed. Please refresh the page and try again."
+msgstr "Authorization failed. Please refresh the page and try again."
+
+#: \auxin\auxin-include\include\hooks-admin.php:124
+msgid "In order to import demo content and add more features to Phlox theme, please install <strong>Phlox Elements</strong> plugin."
+msgstr "In order to import demo content and add more features to Phlox theme, please install <strong>Phlox Elements</strong> plugin."
+
+#: \auxin\auxin-include\include\hooks-admin.php:126
+msgid "Install Phlox Elements"
+msgstr "Install Phlox Elements"
+
+#: \auxin\auxin-include\include\hooks-admin.php:127
+msgid "Skip"
+msgstr "Skip"
+
+#: \auxin\auxin-include\include\hooks-general.php:91
+msgid "Header Primary Navigation"
+msgstr "Header Primary Navigation"
+
+#: \auxin\auxin-include\include\hooks-general.php:92
+msgid "Header Secondary Navigation"
+msgstr "Header Secondary Navigation"
+
+#: \auxin\auxin-include\include\hooks-general.php:95
+msgid "Footer Navigation"
+msgstr "Footer Navigation"
+
+#: \auxin\auxin-include\include\hooks-general.php:111
+msgctxt "Theme starter content"
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: \auxin\auxin-include\include\hooks-general.php:112
+msgctxt "Theme starter content"
+msgid "This is a page with some basic information about our privacy policy."
+msgstr "This is a page with some basic information about our privacy policy."
+
+#: \auxin\auxin-include\include\hooks-general.php:116
+msgctxt "Theme starter content"
+msgid "Terms"
+msgstr "Terms"
+
+#: \auxin\auxin-include\include\hooks-general.php:117
+msgctxt "Theme starter content"
+msgid "This is a page with some basic terms and conditions terms."
+msgstr "This is a page with some basic terms and conditions terms."
+
+#: \auxin\auxin-include\include\hooks-general.php:123
+msgctxt "Theme starter content"
+msgid "Montain and Winter Cold Weather"
+msgstr "Montain and Winter Cold Weather"
+
+#: \auxin\auxin-include\include\hooks-general.php:124
+msgctxt "Theme starter content"
+msgid "If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental."
+msgstr "If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages. The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental."
+
+#: \auxin\auxin-include\include\hooks-general.php:130
+msgctxt "Theme starter content"
+msgid "Serious Problems with Cables in CIty"
+msgstr "Serious Problems with Cables in CIty"
+
+#: \auxin\auxin-include\include\hooks-general.php:131
+#: \auxin\auxin-include\include\hooks-general.php:138
+msgctxt "Theme starter content"
+msgid "The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family."
+msgstr "The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family."
+
+#: \auxin\auxin-include\include\hooks-general.php:137
+msgctxt "Theme starter content"
+msgid "Road to Eye-catching Landscape"
+msgstr "Road to Eye-catching Landscape"
+
+#: \auxin\auxin-include\include\hooks-general.php:196
+msgctxt "Theme starter content"
+msgid "You can put special widgets in this bar; like, instagram stream, newsletter, recent tweets or partners."
+msgstr "You can put special widgets in this bar; like, instagram stream, newsletter, recent tweets or partners."
+
+#: \auxin\auxin-include\include\hooks-general.php:209
+msgctxt "Theme starter content"
+msgid "About Author"
+msgstr "About Author"
+
+#: \auxin\auxin-include\include\hooks-general.php:210
+msgctxt "Theme starter content"
+msgid "John Doe"
+msgstr "John Doe"
+
+#: \auxin\auxin-include\include\hooks-general.php:211
+msgctxt "Theme starter content"
+msgid "Company CEO"
+msgstr "Company CEO"
+
+#: \auxin\auxin-include\include\hooks-general.php:212
+msgctxt "Theme starter content"
+msgid "Drops of rain could be heard hitting the pane, which made him feel quite sad. How about if I sleep a little bit longer and forget all this nonsense"
+msgstr "Drops of rain could be heard hitting the pane, which made him feel quite sad. How about if I sleep a little bit longer and forget all this nonsense"
+
+#: \auxin\auxin-include\include\hooks-general.php:229
+msgid "Yet another awesome website by Phlox theme."
+msgstr "Yet another awesome website by Phlox theme."
+
+#: \auxin\auxin-include\include\hooks-general.php:237
+msgid "Header Primary Menu"
+msgstr "Header Primary Menu"
+
+#: \auxin\auxin-include\include\hooks-general.php:249
+msgid "Top Header Menu"
+msgstr "Top Header Menu"
+
+#: \auxin\auxin-include\include\hooks-general.php:267
+msgid "Footer Social Menu"
+msgstr "Footer Social Menu"
+
+#: \auxin\auxin-include\include\hooks-general.php:270
+msgctxt "Theme starter content"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: \auxin\auxin-include\include\hooks-general.php:274
+msgctxt "Theme starter content"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: \auxin\auxin-include\include\hooks-general.php:278
+msgctxt "Theme starter content"
+msgid "Instagram"
+msgstr "Instagram"
+
+#: \auxin\auxin-include\include\hooks-general.php:821
+msgid "Like"
+msgstr "Like"
+
+#: \auxin\auxin-include\include\hooks-general.php:839
+msgid "Global Primary Widget Area"
+msgstr "Global Primary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:841
+msgid "It is accessible everywhere on primary sidebars."
+msgstr "It is accessible everywhere on primary sidebars."
+
+#: \auxin\auxin-include\include\hooks-general.php:849
+msgid "Global Secondary Widget Area"
+msgstr "Global Secondary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:851
+msgid "It is accessible everywhere on secondary sidebars."
+msgstr "It is accessible everywhere on secondary sidebars."
+
+#: \auxin\auxin-include\include\hooks-general.php:859
+msgid "Pages Primary Widget Area"
+msgstr "Pages Primary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:861
+msgid "It is accessible on primary sidebars except the blog pages."
+msgstr "It is accessible on primary sidebars except the blog pages."
+
+#: \auxin\auxin-include\include\hooks-general.php:869
+msgid "Pages Secondary Widget Area"
+msgstr "Pages Secondary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:871
+msgid "It is accessible on secondary sidebars except the blog pages."
+msgstr "It is accessible on secondary sidebars except the blog pages."
+
+#: \auxin\auxin-include\include\hooks-general.php:879
+msgid "Blog Primary Widget Area"
+msgstr "Blog Primary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:881
+msgid "It is accessible only on primary sidebars in blog pages."
+msgstr "It is accessible only on primary sidebars in blog pages."
+
+#: \auxin\auxin-include\include\hooks-general.php:889
+msgid "Blog Secondary Widget Area"
+msgstr "Blog Secondary Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:891
+msgid "It is accessible only on secondary sidebars in blog pages."
+msgstr "It is accessible only on secondary sidebars in blog pages."
+
+#: \auxin\auxin-include\include\hooks-general.php:899
+msgid "Search Result Widget Area"
+msgstr "Search Result Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:901
+msgid "It is accessible only on primary sidebars in search result page."
+msgstr "It is accessible only on primary sidebars in search result page."
+
+#: \auxin\auxin-include\include\hooks-general.php:911
+msgid "Subfooter Bar Widget Area"
+msgstr "Subfooter Bar Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:913
+msgid "The widget area above the subfooter section. Perfect for placing the \"Newsletter\", \"Social icons\" or \"Instagram\" widget."
+msgstr "The widget area above the subfooter section. Perfect for placing the \"Newsletter\", \"Social icons\" or \"Instagram\" widget."
+
+#: \auxin\auxin-include\include\hooks-general.php:933
+msgid "Subfooter %s Widget Area"
+msgstr "Subfooter %s Widget Area"
+
+#: \auxin\auxin-include\include\hooks-general.php:935
+msgid "The %s column in subfooter section."
+msgstr "The %s column in subfooter section."
+
+#: \auxin\auxin-include\include\hooks-general.php:986
+msgid "Post Options"
+msgstr "Post Options"
+
+#: \auxin\auxin-include\include\hooks-general.php:994
+msgid "Page Options"
+msgstr "Page Options"
+
+#: \auxin\auxin-include\include\hooks-general.php:1034
+msgid "Loading"
+msgstr "Loading"
+
+#: \auxin\auxin-include\include\hooks-general.php:1232
+#: \comments.php:87
+msgid "Comment"
+msgstr "Comment"
+
+#: \auxin\auxin-include\include\hooks-general.php:1234
+#: \comments.php:90
+msgid "Name (required)"
+msgstr "Name (required)"
+
+#: \auxin\auxin-include\include\hooks-general.php:1235
+#: \comments.php:91
+msgid "E-Mail (required)"
+msgstr "E-Mail (required)"
+
+#: \auxin\auxin-include\include\hooks-general.php:1236
+#: \comments.php:92
+msgid "Website"
+msgstr "Website"
+
+#: \auxin\auxin-include\include\hooks-general.php:1239
+msgid "Add a Comment"
+msgstr "Add a Comment"
+
+#: \auxin\auxin-include\include\hooks-general.php:1287
+msgid "Page Title (%s)"
+msgstr "Page Title (%s)"
+
+#: \auxin\auxin-include\include\hooks-general.php:1297
+msgid "Sidebar Primary (Phlox Pro)"
+msgstr "Sidebar Primary (Phlox Pro)"
+
+#: \auxin\auxin-include\include\hooks-general.php:1306
+msgid "Sub Footer (%s)"
+msgstr "Sub Footer (%s)"
+
+#: \auxin\auxin-include\include\templates\templates-footer.php:36
+msgid "Shopping Basket"
+msgstr "Shopping Basket"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:328
+msgid "Results for: "
+msgstr "Results for: "
+
+#: \auxin\auxin-include\include\templates\templates-header.php:334
+msgid "Posts in category"
+msgstr "Posts in category"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:338
+msgid "Posts tagged"
+msgstr "Posts tagged"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:341
+msgid "Daily Archives"
+msgstr "Daily Archives"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:344
+msgid "Monthly Archives"
+msgstr "Monthly Archives"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:347
+msgid "Yearly Archives"
+msgstr "Yearly Archives"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:350
+msgctxt "Title of all posts by author"
+msgid "All posts by : "
+msgstr "All posts by : "
+
+#: \auxin\auxin-include\include\templates\templates-header.php:500
+msgid "Posted on"
+msgstr "Posted on"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:502
+#: \templates\theme-parts\entry\post-column.php:50
+#: \templates\theme-parts\entry\post-column.php:113
+#: \templates\theme-parts\entry\post.php:76
+#: \templates\theme-parts\entry\single-post.php:85
+msgid "by"
+msgstr "by"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:504
+#: \templates\theme-parts\entry\post-column.php:52
+#: \templates\theme-parts\entry\post-column.php:114
+#: \templates\theme-parts\entry\post.php:78
+#: \templates\theme-parts\entry\single-post.php:87
+#: \templates\theme-parts\entry\single-post.php:204
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:508
+#: \templates\theme-parts\entry\post-column.php:77
+#: \templates\theme-parts\entry\post-land.php:58
+#: \templates\theme-parts\entry\post-tile.php:44
+#: \templates\theme-parts\entry\post.php:99
+#: \templates\theme-parts\entry\single-post.php:113
+msgid "Edit"
+msgstr "Edit"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:1241
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+#: \auxin\auxin-include\include\templates\templates-header.php:1502
+msgid "Search..."
+msgstr "Search..."
+
+#: \auxin\auxin-include\include\templates\templates-header.php:1502
+msgid "Type here.."
+msgstr "Type here.."
+
+#: \auxin\auxin-include\include\templates\templates-header.php:1508
+#: \auxin\auxin-include\include\templates\templates-header.php:1511
+#: \searchform.php:13
+msgid "Search"
+msgstr "Search"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:23
+#: \auxin-content\options\auxin-options.php:5537
+msgid "Author"
+msgstr "Author"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:30
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: \auxin\auxin-include\include\templates\templates-post.php:35
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:60
+msgid "&larr; Previous Post"
+msgstr "&larr; Previous Post"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:61
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1269
+msgid "Menu for \"header-secondary\" location is not found."
+msgstr "Menu for \"header-secondary\" location is not found."
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1697
+msgid "Admin notice: Menu for \"footer\" location not found."
+msgstr "Admin notice: Menu for \"footer\" location not found."
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1773
+#: \auxin\auxin-include\include\templates\templates-post.php:1779
+msgid "View your shopping cart"
+msgstr "View your shopping cart"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1812
+msgid "SUB TOTAL"
+msgstr "SUB TOTAL"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1816
+msgid "Proceed To Checkout"
+msgstr "Proceed To Checkout"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1818
+msgid "View Cart"
+msgstr "View Cart"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1825
+msgid "Your cart is currently empty."
+msgstr "Your cart is currently empty."
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1947
+#: \auxin\auxin-include\include\templates\templates-post.php:2002
+msgid "Previous"
+msgstr "Previous"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1948
+#: \auxin\auxin-include\include\templates\templates-post.php:2003
+msgid "Next"
+msgstr "Next"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1949
+#: \auxin\auxin-include\include\templates\templates-post.php:2004
+#: \auxin\auxin-include\include\templates\templates-post.php:2107
+msgid "First"
+msgstr "First"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:1950
+#: \auxin\auxin-include\include\templates\templates-post.php:2005
+#: \auxin\auxin-include\include\templates\templates-post.php:2108
+msgid "Last"
+msgstr "Last"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:2105
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:2106
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: \auxin\auxin-include\include\templates\templates-post.php:2674
+#: \templates\theme-parts\entry\single-post.php:130
+msgid "Continue reading"
+msgstr "Continue reading"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:328
+#: \auxin-content\include\hooks-admin.php:184
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#. translators: %s: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#. translators: %s: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:386
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:824
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2527
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:387
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3153
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:388
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2946
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "The following plugin was activated successfully:"
+msgstr[1] "The following plugins were activated successfully:"
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+
+#. translators: 1: dashboard link.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "There are one or more required or recommended plugins to install, update or activate."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:519
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:520
+msgid "Update Required"
+msgstr "Update Required"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:931
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:931
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:934
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:1118
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2942
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#. translators: %s: version number
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:1979
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2270
+msgid "Required"
+msgstr "Required"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2273
+msgid "Recommended"
+msgstr "Recommended"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2289
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2292
+msgid "External Source"
+msgstr "External Source"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2295
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2312
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2316
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2318
+msgid "Active"
+msgstr "Active"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2324
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2327
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2330
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#. translators: 1: install status, 2: update status
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2339
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2382
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2386
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2390
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2394
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2476
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2484
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2492
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2504
+msgid "Available version:"
+msgstr "Available version:"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2541
+msgid "Plugin"
+msgstr "Plugin"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2542
+msgid "Source"
+msgstr "Source"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2543
+msgid "Type"
+msgstr "Type"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2547
+msgid "Version"
+msgstr "Version"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2548
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2597
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2602
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2608
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr "Install"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr "Update"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3152
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3492
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3495
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3497
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3501
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3503
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3503
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3511
+msgid "Show Details"
+msgstr "Show Details"
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3503
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3511
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3506
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3509
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3511
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3512
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: \auxin\auxin-include\modules\lib\class-tgm-plugin-activation.php:3514
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:15
+msgid "Background Setting"
+msgstr "Background Setting"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:19
+msgid "You can specify custom background for this page.<br/>"
+msgstr "You can specify custom background for this page.<br/>"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:24
+msgid "Enable Background"
+msgstr "Enable Background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:25
+msgid "Enable it to display custom background for this page."
+msgstr "Enable it to display custom background for this page."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:32
+msgid "Background color"
+msgstr "Background color"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-bg-setting.php:33
+msgid "Specifies background color."
+msgstr "Specifies background color."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-color-setting.php:15
+#: \auxin-content\options\auxin-options.php:28
+msgid "General Setting"
+msgstr "General Setting"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-color-setting.php:19
+msgid "Custom Featured Color?"
+msgstr "Custom Featured Color?"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-color-setting.php:20
+msgid "By default custom feature color of all posts are the same as the color defined in theme options. You have to enable this option if you want to define custom feature color for this post."
+msgstr "By default custom feature color of all posts are the same as the color defined in theme options. You have to enable this option if you want to define custom feature color for this post."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-color-setting.php:27
+msgid "Featured Color"
+msgstr "Featured Color"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-color-setting.php:28
+msgid "Custom featured color for this post."
+msgstr "Custom featured color for this post."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-menu.php:15
+msgid "Custom Menu"
+msgstr "Custom Menu"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-menu.php:21
+msgid "- no custom menu -"
+msgstr "- no custom menu -"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-menu.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-menu.php:33
+msgid "Select one of the custom sidebars. You can create new ones in \"Option panel > Tools > Sidebar Generator\"."
+msgstr "Select one of the custom sidebars. You can create new ones in \"Option panel > Tools > Sidebar Generator\"."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:15
+msgid "Custom Sidebar"
+msgstr "Custom Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:21
+msgid "--- no sidebar ---"
+msgstr "--- no sidebar ---"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:33
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:34
+msgid "Select one of the custom sidebars. You can create new ones in \"Option panel > Tools > Sidebar Generator\""
+msgstr "Select one of the custom sidebars. You can create new ones in \"Option panel > Tools > Sidebar Generator\""
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:41
+msgid "Hide Global Sidebar?"
+msgstr "Hide Global Sidebar?"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-custom-siderbar.php:42
+msgid "It shows custom sidebar instead of global sidebar. Otherwise it shows custom Sidebar below global sidebar"
+msgstr "It shows custom sidebar instead of global sidebar. Otherwise it shows custom Sidebar below global sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:25
+msgid "Layout Options"
+msgstr "Layout Options"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:29
+#: \auxin-content\options\auxin-options.php:6360
+msgid "Content Layout"
+msgstr "Content Layout"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:30
+msgid "If you select \"Full\", Content fills the full width of the page."
+msgstr "If you select \"Full\", Content fills the full width of the page."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:41
+#: \auxin-content\options\auxin-options.php:4762
+#: \auxin-content\options\auxin-options.php:6367
+msgid "Boxed Content"
+msgstr "Boxed Content"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:45
+#: \auxin-content\options\auxin-options.php:4758
+#: \auxin-content\options\auxin-options.php:6371
+msgid "Full Content"
+msgstr "Full Content"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:52
+msgid "Sidebar Layout"
+msgstr "Sidebar Layout"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:53
+msgid "Specifies the position of sidebar on this page."
+msgstr "Specifies the position of sidebar on this page."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:64
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:36
+#: \auxin-content\options\auxin-options.php:2952
+#: \auxin-content\options\auxin-options.php:5168
+#: \auxin-content\options\auxin-options.php:6025
+#: \auxin-content\options\auxin-options.php:6265
+#: \auxin-content\options\auxin-options.php:7573
+#: \auxin-content\options\auxin-options.php:7678
+#: \auxin-content\options\auxin-options.php:7781
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:68
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:40
+#: \auxin-content\options\auxin-options.php:2956
+#: \auxin-content\options\auxin-options.php:5172
+#: \auxin-content\options\auxin-options.php:6029
+#: \auxin-content\options\auxin-options.php:6269
+#: \auxin-content\options\auxin-options.php:7577
+#: \auxin-content\options\auxin-options.php:7682
+#: \auxin-content\options\auxin-options.php:7785
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:72
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:44
+#: \auxin-content\options\auxin-options.php:2960
+#: \auxin-content\options\auxin-options.php:5176
+#: \auxin-content\options\auxin-options.php:6033
+#: \auxin-content\options\auxin-options.php:6273
+#: \auxin-content\options\auxin-options.php:7581
+#: \auxin-content\options\auxin-options.php:7686
+#: \auxin-content\options\auxin-options.php:7789
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:76
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:48
+#: \auxin-content\options\auxin-options.php:2964
+#: \auxin-content\options\auxin-options.php:5180
+#: \auxin-content\options\auxin-options.php:6037
+#: \auxin-content\options\auxin-options.php:6277
+#: \auxin-content\options\auxin-options.php:7585
+#: \auxin-content\options\auxin-options.php:7690
+#: \auxin-content\options\auxin-options.php:7793
+msgid "Left Left Sidebar"
+msgstr "Left Left Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:80
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:52
+#: \auxin-content\options\auxin-options.php:2968
+#: \auxin-content\options\auxin-options.php:5184
+#: \auxin-content\options\auxin-options.php:6041
+#: \auxin-content\options\auxin-options.php:6281
+#: \auxin-content\options\auxin-options.php:7589
+#: \auxin-content\options\auxin-options.php:7694
+#: \auxin-content\options\auxin-options.php:7797
+msgid "Right Right Sidebar"
+msgstr "Right Right Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:84
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:56
+#: \auxin-content\options\auxin-options.php:2972
+#: \auxin-content\options\auxin-options.php:5188
+#: \auxin-content\options\auxin-options.php:6045
+#: \auxin-content\options\auxin-options.php:6285
+#: \auxin-content\options\auxin-options.php:7593
+#: \auxin-content\options\auxin-options.php:7698
+#: \auxin-content\options\auxin-options.php:7801
+msgid "Left Right Sidebar"
+msgstr "Left Right Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:88
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:60
+#: \auxin-content\options\auxin-options.php:2976
+#: \auxin-content\options\auxin-options.php:5192
+#: \auxin-content\options\auxin-options.php:6049
+#: \auxin-content\options\auxin-options.php:6289
+#: \auxin-content\options\auxin-options.php:7597
+#: \auxin-content\options\auxin-options.php:7702
+#: \auxin-content\options\auxin-options.php:7805
+msgid "Right Left Sidebar"
+msgstr "Right Left Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:94
+#: \auxin-content\options\auxin-options.php:6058
+msgid "Sidebar Style"
+msgstr "Sidebar Style"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:95
+msgid "Specifies the style of sidebar on this page."
+msgstr "Specifies the style of sidebar on this page."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:105
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:92
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:77
+#: \auxin-content\options\auxin-options.php:3000
+#: \auxin-content\options\auxin-options.php:5218
+#: \auxin-content\options\auxin-options.php:6072
+#: \auxin-content\options\auxin-options.php:6313
+#: \auxin-content\options\auxin-options.php:7623
+#: \auxin-content\options\auxin-options.php:7728
+#: \auxin-content\options\auxin-options.php:7830
+msgid "Simple"
+msgstr "Simple"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:109
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:81
+#: \auxin-content\options\auxin-options.php:3004
+#: \auxin-content\options\auxin-options.php:5222
+#: \auxin-content\options\auxin-options.php:6076
+#: \auxin-content\options\auxin-options.php:6317
+#: \auxin-content\options\auxin-options.php:7627
+#: \auxin-content\options\auxin-options.php:7732
+#: \auxin-content\options\auxin-options.php:7834
+msgid "Bordered Sidebar"
+msgstr "Bordered Sidebar"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:113
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:85
+#: \auxin-content\options\auxin-options.php:3008
+#: \auxin-content\options\auxin-options.php:5226
+#: \auxin-content\options\auxin-options.php:6080
+#: \auxin-content\options\auxin-options.php:6321
+#: \auxin-content\options\auxin-options.php:7631
+#: \auxin-content\options\auxin-options.php:7736
+#: \auxin-content\options\auxin-options.php:7838
+msgid "Overlap Background"
+msgstr "Overlap Background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:120
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:92
+#: \auxin-content\options\auxin-options.php:6330
+msgid "Display Content Top Margin"
+msgstr "Display Content Top Margin"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:121
+msgid "whether to display a space between title and content or not. If you need to start your content from very top of the page, disable it."
+msgstr "whether to display a space between title and content or not. If you need to start your content from very top of the page, disable it."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:128
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:140
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:27
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:33
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:75
+msgid "Yes"
+msgstr "Yes"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:129
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:141
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:28
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:34
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:76
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:27
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:40
+msgid "No"
+msgstr "No"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:134
+msgid "Display go to top button"
+msgstr "Display go to top button"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:135
+#: \auxin-content\options\auxin-options.php:8409
+msgid "Enable it to display Go to Top button."
+msgstr "Enable it to display Go to Top button."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:147
+#: \auxin-content\options\auxin-options.php:8438
+msgid "Go to top button position"
+msgstr "Go to top button position"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:148
+#: \auxin-content\options\auxin-options.php:8439
+msgid "Specifies the position of Go to Top button."
+msgstr "Specifies the position of Go to Top button."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-layout.php:160
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:647
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:61
+#: \auxin-content\options\auxin-options.php:2094
+#: \auxin-content\options\auxin-options.php:4069
+#: \auxin-content\options\auxin-options.php:4562
+#: \auxin-content\options\auxin-options.php:5137
+#: \auxin-content\options\auxin-options.php:7089
+#: \auxin-content\options\auxin-options.php:8454
+msgid "Center"
+msgstr "Center"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:114
+msgid "Slider Options"
+msgstr "Slider Options"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:119
+msgid "Page Slider"
+msgstr "Page Slider"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:120
+msgid "Please select the slider you want to display at top of the page."
+msgstr "Please select the slider you want to display at top of the page."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:127
+msgid "Slider top margin"
+msgstr "Slider top margin"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:128
+msgid "The height of empty space above page slider in pixel."
+msgstr "The height of empty space above page slider in pixel."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:134
+msgid "Slider bottom margin"
+msgstr "Slider bottom margin"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-slider-setting.php:135
+msgid "The height of empty space below page slider in pixel."
+msgstr "The height of empty space below page slider in pixel."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:15
+msgid "Title Bar Setting"
+msgstr "Title Bar Setting"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:19
+#: \auxin-content\options\auxin-options.php:3370
+#: \auxin-content\options\auxin-options.php:6392
+msgid "Display Title Bar Section"
+msgstr "Display Title Bar Section"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:20
+msgid "Choose \"Yes\" in order to customize the title bar of this page, or choose \"No\" to turn it off."
+msgstr "Choose \"Yes\" in order to customize the title bar of this page, or choose \"No\" to turn it off."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:33
+#: \auxin-content\options\auxin-options.php:3388
+#: \auxin-content\options\auxin-options.php:6410
+msgid "Layout presets"
+msgstr "Layout presets"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:72
+#: \auxin-content\options\auxin-options.php:3431
+#: \auxin-content\options\auxin-options.php:6453
+msgid "Title bar with light overlay which is aligned center"
+msgstr "Title bar with light overlay which is aligned center"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:91
+#: \auxin-content\options\auxin-options.php:3449
+#: \auxin-content\options\auxin-options.php:6471
+msgid "Fullscreen title bar with light overlay on background"
+msgstr "Fullscreen title bar with light overlay on background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:110
+#: \auxin-content\options\auxin-options.php:3467
+#: \auxin-content\options\auxin-options.php:6489
+msgid "Fullscreen title bar with dark overlay on background"
+msgstr "Fullscreen title bar with dark overlay on background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:129
+#: \auxin-content\options\auxin-options.php:3485
+#: \auxin-content\options\auxin-options.php:6507
+msgid "Fullscreen title bar with border around the title"
+msgstr "Fullscreen title bar with border around the title"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:148
+#: \auxin-content\options\auxin-options.php:3503
+#: \auxin-content\options\auxin-options.php:6525
+msgid "Fullscreen title bar with dark box around the title"
+msgstr "Fullscreen title bar with dark box around the title"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:167
+#: \auxin-content\options\auxin-options.php:3521
+#: \auxin-content\options\auxin-options.php:6543
+msgid "Title aligned left with dark overlay on background"
+msgstr "Title aligned left with dark overlay on background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:186
+#: \auxin-content\options\auxin-options.php:3539
+#: \auxin-content\options\auxin-options.php:6561
+msgid "Tile overlaps the title area section and is aligned center"
+msgstr "Tile overlaps the title area section and is aligned center"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:208
+msgid "Enable Advanced Setting"
+msgstr "Enable Advanced Setting"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:209
+#: \auxin-content\options\auxin-options.php:3561
+#: \auxin-content\options\auxin-options.php:6583
+msgid "Enable it to customize preset layouts."
+msgstr "Enable it to customize preset layouts."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:228
+#: \auxin-content\options\auxin-options.php:3585
+#: \auxin-content\options\auxin-options.php:6607
+msgid "Content Width"
+msgstr "Content Width"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:252
+#: \auxin-content\options\auxin-options.php:55
+#: \auxin-content\options\auxin-options.php:1433
+#: \auxin-content\options\auxin-options.php:3614
+#: \auxin-content\options\auxin-options.php:6636
+#: \auxin-content\options\auxin-options.php:7913
+msgid "Boxed"
+msgstr "Boxed"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:256
+#: \auxin-content\options\auxin-options.php:3618
+#: \auxin-content\options\auxin-options.php:6640
+msgid "Full Width Content with Space on Sides"
+msgstr "Full Width Content with Space on Sides"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:260
+#: \auxin-content\options\auxin-options.php:3622
+#: \auxin-content\options\auxin-options.php:6644
+msgid "Full Width Content"
+msgstr "Full Width Content"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:267
+#: \auxin-content\options\auxin-options.php:3629
+#: \auxin-content\options\auxin-options.php:6651
+msgid "Title Section Height"
+msgstr "Title Section Height"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:290
+#: \auxin-content\options\auxin-options.php:3657
+#: \auxin-content\options\auxin-options.php:6679
+msgid "Auto Height"
+msgstr "Auto Height"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:291
+#: \auxin-content\options\auxin-options.php:3658
+#: \auxin-content\options\auxin-options.php:6680
+msgid "Full Height"
+msgstr "Full Height"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:297
+#: \auxin-content\options\auxin-options.php:3663
+#: \auxin-content\options\auxin-options.php:6685
+msgid "Vertical Position"
+msgstr "Vertical Position"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:298
+#: \auxin-content\options\auxin-options.php:3664
+#: \auxin-content\options\auxin-options.php:6686
+msgid "Specifies vertical alignment of title and subtitle."
+msgstr "Specifies vertical alignment of title and subtitle."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:299
+#: \auxin-content\options\auxin-options.php:3665
+#: \auxin-content\options\auxin-options.php:6687
+msgid "Note: Parallax feature in not available for \"Bottom Overlap\" vertical mode."
+msgstr "Note: Parallax feature in not available for \"Bottom Overlap\" vertical mode."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:323
+#: \auxin-content\options\auxin-options.php:3693
+#: \auxin-content\options\auxin-options.php:6715
+msgid "Middle"
+msgstr "Middle"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:325
+#: \auxin-content\options\auxin-options.php:3695
+#: \auxin-content\options\auxin-options.php:6717
+msgid "Bottom Overlap"
+msgstr "Bottom Overlap"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:330
+#: \auxin-content\options\auxin-options.php:3700
+#: \auxin-content\options\auxin-options.php:6722
+msgid "Scroll Down Arrow"
+msgstr "Scroll Down Arrow"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:331
+#: \auxin-content\options\auxin-options.php:3701
+#: \auxin-content\options\auxin-options.php:6723
+msgid "This option only applies if section height is \"Full Height\"."
+msgstr "This option only applies if section height is \"Full Height\"."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:368
+#: \auxin-content\options\auxin-options.php:3743
+#: \auxin-content\options\auxin-options.php:6765
+msgid "Round"
+msgstr "Round"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:375
+#: \auxin-content\options\auxin-options.php:3751
+#: \auxin-content\options\auxin-options.php:6772
+msgid "Display Titles"
+msgstr "Display Titles"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:376
+#: \auxin-content\options\auxin-options.php:3752
+#: \auxin-content\options\auxin-options.php:6773
+msgid "Enable it to display title/subtitle in title section."
+msgstr "Enable it to display title/subtitle in title section."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:400
+#: \auxin-content\options\auxin-options.php:3781
+#: \auxin-content\options\auxin-options.php:6802
+msgid "Border for Heading"
+msgstr "Border for Heading"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:401
+#: \auxin-content\options\auxin-options.php:3782
+#: \auxin-content\options\auxin-options.php:6803
+msgid "Enable it to display a border around the title and subtitle area."
+msgstr "Enable it to display a border around the title and subtitle area."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:430
+#: \auxin-content\options\auxin-options.php:3816
+#: \auxin-content\options\auxin-options.php:6837
+msgid "Boxed Title"
+msgstr "Boxed Title"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:431
+#: \auxin-content\options\auxin-options.php:3817
+#: \auxin-content\options\auxin-options.php:6838
+msgid "Enable it to wrap the title and subtitle in a box with background color."
+msgstr "Enable it to wrap the title and subtitle in a box with background color."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:460
+msgid "Title Box Color"
+msgstr "Title Box Color"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:461
+#: \auxin-content\options\auxin-options.php:3852
+#: \auxin-content\options\auxin-options.php:6873
+msgid "Specifies a custom background color for the box around the title and subtitle."
+msgstr "Specifies a custom background color for the box around the title and subtitle."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:495
+#: \auxin-content\options\auxin-options.php:3892
+#: \auxin-content\options\auxin-options.php:6912
+msgid "Display Post Meta"
+msgstr "Display Post Meta"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:496
+#: \auxin-content\options\auxin-options.php:3893
+#: \auxin-content\options\auxin-options.php:6913
+msgid "Enable it to display post meta information on title section."
+msgstr "Enable it to display post meta information on title section."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:520
+#: \auxin-content\options\auxin-options.php:3922
+#: \auxin-content\options\auxin-options.php:6942
+msgid "Display Breadcrumb"
+msgstr "Display Breadcrumb"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:521
+#: \auxin-content\options\auxin-options.php:3923
+#: \auxin-content\options\auxin-options.php:6943
+msgid "Enable it to display breadcrumb on title section."
+msgstr "Enable it to display breadcrumb on title section."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:545
+#: \auxin-content\options\auxin-options.php:3952
+#: \auxin-content\options\auxin-options.php:6972
+msgid "Border for Breadcrumb"
+msgstr "Border for Breadcrumb"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:546
+#: \auxin-content\options\auxin-options.php:3953
+#: \auxin-content\options\auxin-options.php:6973
+msgid "Enable it to display border around breadcrumb."
+msgstr "Enable it to display border around breadcrumb."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:575
+#: \auxin-content\options\auxin-options.php:3987
+#: \auxin-content\options\auxin-options.php:7007
+msgid "Breadcrumb Separator"
+msgstr "Breadcrumb Separator"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:604
+#: \auxin-content\options\auxin-options.php:4021
+#: \auxin-content\options\auxin-options.php:7041
+msgid "Greater Than (>)"
+msgstr "Greater Than (>)"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:608
+#: \auxin-content\options\auxin-options.php:4025
+#: \auxin-content\options\auxin-options.php:7045
+msgid "Slash"
+msgstr "Slash"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:612
+#: \auxin-content\options\auxin-options.php:4029
+#: \auxin-content\options\auxin-options.php:7049
+msgid "Arrow"
+msgstr "Arrow"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:619
+#: \auxin-content\options\auxin-options.php:4036
+#: \auxin-content\options\auxin-options.php:7056
+msgid "Text Align"
+msgstr "Text Align"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:659
+#: \auxin-content\options\auxin-options.php:4080
+#: \auxin-content\options\auxin-options.php:7100
+msgid "Overlay Color"
+msgstr "Overlay Color"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:660
+#: \auxin-content\options\auxin-options.php:4081
+#: \auxin-content\options\auxin-options.php:7101
+msgid "The color that overlay on the background. Please note that color should have transparency."
+msgstr "The color that overlay on the background. Please note that color should have transparency."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:684
+#: \auxin-content\options\auxin-options.php:4110
+#: \auxin-content\options\auxin-options.php:7130
+msgid "Overlay Pattern"
+msgstr "Overlay Pattern"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:712
+#: \auxin-content\options\auxin-options.php:4143
+#: \auxin-content\options\auxin-options.php:7163
+msgid "Hash"
+msgstr "Hash"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:720
+#: \auxin-content\options\auxin-options.php:4150
+#: \auxin-content\options\auxin-options.php:7170
+msgid "Overlay Pattern Opacity"
+msgstr "Overlay Pattern Opacity"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:745
+#: \auxin-content\options\auxin-options.php:4186
+#: \auxin-content\options\auxin-options.php:7206
+msgid "Color Mode"
+msgstr "Color Mode"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:768
+#: \auxin-content\options\auxin-options.php:1241
+#: \auxin-content\options\auxin-options.php:1261
+#: \auxin-content\options\auxin-options.php:1666
+#: \auxin-content\options\auxin-options.php:1827
+#: \auxin-content\options\auxin-options.php:1961
+#: \auxin-content\options\auxin-options.php:2461
+#: \auxin-content\options\auxin-options.php:2758
+#: \auxin-content\options\auxin-options.php:2913
+#: \auxin-content\options\auxin-options.php:4214
+#: \auxin-content\options\auxin-options.php:7234
+msgid "Dark"
+msgstr "Dark"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:769
+#: \auxin-content\options\auxin-options.php:1245
+#: \auxin-content\options\auxin-options.php:1265
+#: \auxin-content\options\auxin-options.php:1665
+#: \auxin-content\options\auxin-options.php:1826
+#: \auxin-content\options\auxin-options.php:1960
+#: \auxin-content\options\auxin-options.php:2457
+#: \auxin-content\options\auxin-options.php:2757
+#: \auxin-content\options\auxin-options.php:2909
+#: \auxin-content\options\auxin-options.php:4215
+#: \auxin-content\options\auxin-options.php:7235
+msgid "Light"
+msgstr "Light"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:776
+#: \auxin-content\options\auxin-options.php:4222
+#: \auxin-content\options\auxin-options.php:7242
+msgid "Enable Title Background"
+msgstr "Enable Title Background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:777
+#: \auxin-content\options\auxin-options.php:4223
+#: \auxin-content\options\auxin-options.php:7243
+msgid "Enable it to display custom background for title section."
+msgstr "Enable it to display custom background for title section."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:802
+msgid "Background for title section"
+msgstr "Background for title section"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:830
+msgid "Title Background"
+msgstr "Title Background"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:831
+msgid "Specifies a background for title bar."
+msgstr "Specifies a background for title bar."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:869
+#: \auxin-content\options\auxin-options.php:4252
+#: \auxin-content\options\auxin-options.php:7273
+msgid "Enable Parallax Effect"
+msgstr "Enable Parallax Effect"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:870
+#: \auxin-content\options\auxin-options.php:4253
+#: \auxin-content\options\auxin-options.php:7274
+msgid "Enable it to have parallax background effect on this section."
+msgstr "Enable it to have parallax background effect on this section."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-general-title-setting.php:871
+#: \auxin-content\options\auxin-options.php:4254
+#: \auxin-content\options\auxin-options.php:7275
+msgid "Note: Parallax feature in not available for \"Bottom Overlap\" mode for \"Vertical Position\" option."
+msgstr "Note: Parallax feature in not available for \"Bottom Overlap\" mode for \"Vertical Position\" option."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:21
+msgid "Content options"
+msgstr "Content options"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:25
+msgid "Display Content Title"
+msgstr "Display Content Title"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:26
+#: \auxin-content\options\auxin-options.php:4521
+msgid "Enable it to show the main title above post content."
+msgstr "Enable it to show the main title above post content."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:39
+msgid "Content Title Alignment"
+msgstr "Content Title Alignment"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:40
+msgid "Specifies alignment for the title in the page content."
+msgstr "Specifies alignment for the title in the page content."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:68
+#: \auxin-content\options\auxin-options.php:3086
+#: \auxin-content\options\auxin-options.php:6136
+msgid "Display Post Info"
+msgstr "Display Post Info"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:69
+msgid "Enable it to show post meta info."
+msgstr "Enable it to show post meta info."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:81
+#: \auxin-content\options\auxin-options.php:3048
+msgid "Content Style"
+msgstr "Content Style"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:82
+msgid "You can reduce the width of text lines and increase the readability of context (does not affect the width of media). The default (first) choice is the one that you have specified in theme options.[Blog > Single Post > Content Style]"
+msgstr "You can reduce the width of text lines and increase the readability of context (does not affect the width of media). The default (first) choice is the one that you have specified in theme options.[Blog > Single Post > Content Style]"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:88
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:32
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:73
+msgid "Default, set theme option"
+msgstr "Default, set theme option"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:96
+#: \auxin-content\options\auxin-options.php:3059
+msgid "Medium Width Content"
+msgstr "Medium Width Content"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-content-setting.php:100
+#: \auxin-content\options\auxin-options.php:3063
+msgid "Narrow Content"
+msgstr "Narrow Content"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:15
+msgid "Media Setting"
+msgstr "Media Setting"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:19
+msgid "Display media on single post?"
+msgstr "Display media on single post?"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:20
+msgid "Specifies whether to display the featured image, video or audio of this post on single page or not."
+msgstr "Specifies whether to display the featured image, video or audio of this post on single page or not."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:26
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:39
+msgid "Yes, always"
+msgstr "Yes, always"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:32
+msgid "Display featured image on archive blog?"
+msgstr "Display featured image on archive blog?"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-featured-image.php:33
+msgid "Specifies whether to display the featured image of this post on blog archive page or not. \"Auto\" means the featured image will be disabled automatically if there is an image in content too. Note: This option only applies to \"image\" and \"standard\" post format."
+msgstr "Specifies whether to display the featured image of this post on blog archive page or not. \"Auto\" means the featured image will be disabled automatically if there is an image in content too. Note: This option only applies to \"image\" and \"standard\" post format."
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:21
+msgid "Layout options"
+msgstr "Layout options"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:25
+msgid "Post Sidebar Layout"
+msgstr "Post Sidebar Layout"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:26
+msgid "Specifies the position of sidebar on this post. The default (first) choice, is the one that you have specified in theme options.[Blog > Single Post]"
+msgstr "Specifies the position of sidebar on this post. The default (first) choice, is the one that you have specified in theme options.[Blog > Single Post]"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:66
+msgid "Post Sidebar Style"
+msgstr "Post Sidebar Style"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:67
+msgid "Specifies the style of sidebar on this post. The default (first) style, is the one that you have specified in theme options.[Blog > Single Post]"
+msgstr "Specifies the style of sidebar on this post. The default (first) style, is the one that you have specified in theme options.[Blog > Single Post]"
+
+#: \auxin-content\admin\metaboxes\metabox-fields-post-sidebar-layout.php:93
+msgid "whether you want to display a space between title and content or not. If you need to start your content from very top of the page, disable it."
+msgstr "whether you want to display a space between title and content or not. If you need to start your content from very top of the page, disable it."
+
+#: \auxin-content\include\functions.php:16
+msgid "black"
+msgstr "black"
+
+#: \auxin-content\include\functions.php:20
+msgid "White"
+msgstr "White"
+
+#: \auxin-content\include\functions.php:24
+msgid "Masala"
+msgstr "Masala"
+
+#: \auxin-content\include\functions.php:28
+msgid "Dark Gray"
+msgstr "Dark Gray"
+
+#: \auxin-content\include\functions.php:32
+msgid "Ball Blue"
+msgstr "Ball Blue"
+
+#: \auxin-content\include\functions.php:36
+msgid "Fountain Blue"
+msgstr "Fountain Blue"
+
+#: \auxin-content\include\functions.php:40
+msgid "Shamrock"
+msgstr "Shamrock"
+
+#: \auxin-content\include\functions.php:44
+msgid "Curios Blue"
+msgstr "Curios Blue"
+
+#: \auxin-content\include\functions.php:48
+msgid "Light Sea Green"
+msgstr "Light Sea Green"
+
+#: \auxin-content\include\functions.php:52
+msgid "Emerald"
+msgstr "Emerald"
+
+#: \auxin-content\include\functions.php:56
+msgid "Energy Yellow"
+msgstr "Energy Yellow"
+
+#: \auxin-content\include\functions.php:60
+msgid "Mikado Yellow"
+msgstr "Mikado Yellow"
+
+#: \auxin-content\include\functions.php:64
+msgid "Pink Salmon"
+msgstr "Pink Salmon"
+
+#: \auxin-content\include\functions.php:68
+msgid "Wisteria"
+msgstr "Wisteria"
+
+#: \auxin-content\include\functions.php:72
+msgid "Lilac"
+msgstr "Lilac"
+
+#: \auxin-content\include\functions.php:76
+msgid "Pale Sky"
+msgstr "Pale Sky"
+
+#: \auxin-content\include\functions.php:80
+msgid "Tower Gray"
+msgstr "Tower Gray"
+
+#: \auxin-content\include\functions.php:85
+msgid "William"
+msgstr "William"
+
+#: \auxin-content\include\functions.php:89
+msgid "Carmine Pink"
+msgstr "Carmine Pink"
+
+#: \auxin-content\include\functions.php:93
+msgid "Persimmon"
+msgstr "Persimmon"
+
+#: \auxin-content\include\functions.php:97
+msgid "Tan Hide"
+msgstr "Tan Hide"
+
+#: \auxin-content\include\functions.php:101
+msgid "Wild Watermelon"
+msgstr "Wild Watermelon"
+
+#: \auxin-content\include\functions.php:105
+msgid "Iceberg"
+msgstr "Iceberg"
+
+#: \auxin-content\include\functions.php:110
+msgid "Dark Lavender"
+msgstr "Dark Lavender"
+
+#: \auxin-content\include\functions.php:114
+msgid "Viking"
+msgstr "Viking"
+
+#: \auxin-content\include\functions.php:118
+msgid "Tiffany Blue"
+msgstr "Tiffany Blue"
+
+#: \auxin-content\include\functions.php:122
+msgid "Pastel Orange"
+msgstr "Pastel Orange"
+
+#: \auxin-content\include\functions.php:126
+msgid "East Bay"
+msgstr "East Bay"
+
+#: \auxin-content\include\functions.php:130
+msgid "Steel Blue"
+msgstr "Steel Blue"
+
+#: \auxin-content\include\functions.php:134
+msgid "Half Backed"
+msgstr "Half Backed"
+
+#: \auxin-content\include\functions.php:138
+msgid "Tapestry"
+msgstr "Tapestry"
+
+#: \auxin-content\include\functions.php:142
+msgid "Fire Engine Red"
+msgstr "Fire Engine Red"
+
+#: \auxin-content\include\functions.php:146
+msgid "Dark Orange"
+msgstr "Dark Orange"
+
+#: \auxin-content\include\functions.php:150
+msgid "Brick Red"
+msgstr "Brick Red"
+
+#: \auxin-content\include\functions.php:154
+msgid "Khaki"
+msgstr "Khaki"
+
+#: \auxin-content\include\hooks-admin.php:30
+msgid "Phlox Elements"
+msgstr "Phlox Elements"
+
+#: \auxin-content\include\hooks-admin.php:36
+msgid "Phlox Portfolio"
+msgstr "Phlox Portfolio"
+
+#: \auxin-content\include\hooks-admin.php:41
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: \auxin-content\include\hooks-admin.php:47
+msgid "Page Builder Widgets Bundle"
+msgstr "Page Builder Widgets Bundle"
+
+#: \auxin-content\include\hooks-admin.php:53
+msgid "Instagram Feed"
+msgstr "Instagram Feed"
+
+#: \auxin-content\include\hooks-admin.php:59
+msgid "WordPress SEO"
+msgstr "WordPress SEO"
+
+#: \auxin-content\include\hooks-admin.php:65
+msgid "Recent Tweets Widget"
+msgstr "Recent Tweets Widget"
+
+#: \auxin-content\include\hooks-admin.php:71
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: \auxin-content\include\hooks-admin.php:77
+msgid "WordPress Importer"
+msgstr "WordPress Importer"
+
+#: \auxin-content\include\hooks-admin.php:83
+msgid "Related Posts for WordPress"
+msgstr "Related Posts for WordPress"
+
+#: \auxin-content\include\hooks-admin.php:89
+msgid "WP ULike"
+msgstr "WP ULike"
+
+#: \auxin-content\include\hooks-admin.php:95
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: \auxin-content\include\hooks-admin.php:101
+msgid "Custom Facebook Feed"
+msgstr "Custom Facebook Feed"
+
+#: \auxin-content\include\hooks-admin.php:107
+msgid "Flickr Justified Gallery"
+msgstr "Flickr Justified Gallery"
+
+#: \auxin-content\include\hooks-admin.php:113
+msgid "Image Optimization"
+msgstr "Image Optimization"
+
+#: \auxin-content\include\hooks-admin.php:119
+msgid "Export/Import Theme Options"
+msgstr "Export/Import Theme Options"
+
+#: \auxin-content\include\hooks-admin.php:125
+msgid "Popular Posts"
+msgstr "Popular Posts"
+
+#: \auxin-content\include\hooks-admin.php:131
+msgid "Visual CSS Style Editor"
+msgstr "Visual CSS Style Editor"
+
+#: \auxin-content\include\hooks-admin.php:137
+msgid "EU Cookie Notce"
+msgstr "EU Cookie Notce"
+
+#: \auxin-content\include\hooks-admin.php:143
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: \auxin-content\include\hooks-admin.php:153
+msgid "MasterSlider by averta"
+msgstr "MasterSlider by averta"
+
+#: \auxin-content\include\hooks-admin.php:183
+msgid "Install Recommended Plugins"
+msgstr "Install Recommended Plugins"
+
+#: \auxin-content\include\hooks-admin.php:198
+msgid "Get Started"
+msgstr "Get Started"
+
+#: \auxin-content\include\hooks-admin.php:200
+msgid "Features for sweet blogging"
+msgstr "Features for sweet blogging"
+
+#: \auxin-content\include\hooks-admin.php:204
+msgid "INTEGRATED PAGE BUILDER"
+msgstr "INTEGRATED PAGE BUILDER"
+
+#: \auxin-content\include\hooks-admin.php:205
+msgid "Create your awesome pages easily. Only use your mouse and build your page visually. PHLOX is 100% compatible with SiteOrigin Page builder."
+msgstr "Create your awesome pages easily. Only use your mouse and build your page visually. PHLOX is 100% compatible with SiteOrigin Page builder."
+
+#: \auxin-content\include\hooks-admin.php:209
+msgid "THEME OPTIONS IN CUSTOMIZE"
+msgstr "THEME OPTIONS IN CUSTOMIZE"
+
+#: \auxin-content\include\hooks-admin.php:210
+msgid "Experience the next level of WordPress in PHLOX, All the theme options are available in customizer and you can see your changes in real-time."
+msgstr "Experience the next level of WordPress in PHLOX, All the theme options are available in customizer and you can see your changes in real-time."
+
+#: \auxin-content\include\hooks-admin.php:214
+msgid "CUSTOM WIDGETS"
+msgstr "CUSTOM WIDGETS"
+
+#: \auxin-content\include\hooks-admin.php:215
+msgid "PHLOX can satisfy your taste in terms of widgets, there is built-in widgets for almost any needs which you can simply use them by drag and drop."
+msgstr "PHLOX can satisfy your taste in terms of widgets, there is built-in widgets for almost any needs which you can simply use them by drag and drop."
+
+#: \auxin-content\include\hooks-admin.php:226
+msgid "We wish you experience a happy journey with %s theme, and we are trying our best to make this happen."
+msgstr "We wish you experience a happy journey with %s theme, and we are trying our best to make this happen."
+
+#: \auxin-content\include\hooks-admin.php:272
+msgid "Customize Theme"
+msgstr "Customize Theme"
+
+#: \auxin-content\include\hooks-admin.php:295
+msgid "Documentation"
+msgstr "Documentation"
+
+#: \auxin-content\include\hooks-admin.php:296
+msgid "There is a complete documentation for PHLOX. It will be always up to date. You can easily find out how to create you awesome in PHLOX by having look at this documentation."
+msgstr "There is a complete documentation for PHLOX. It will be always up to date. You can easily find out how to create you awesome in PHLOX by having look at this documentation."
+
+#: \auxin-content\include\hooks-admin.php:297
+msgid "Visit Documentation"
+msgstr "Visit Documentation"
+
+#: \auxin-content\include\hooks-admin.php:308
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: \auxin-content\include\hooks-admin.php:309
+msgid "There is a dedicated support forum with in case you have any issue. Please do not hesitate to submit a ticket our expert support staff would be happy to help you."
+msgstr "There is a dedicated support forum with in case you have any issue. Please do not hesitate to submit a ticket our expert support staff would be happy to help you."
+
+#: \auxin-content\include\hooks-admin.php:310
+msgid "Submit a Ticket"
+msgstr "Submit a Ticket"
+
+#: \auxin-content\include\hooks-admin.php:320
+msgid "Video Tutorial (Coming Soon)"
+msgstr "Video Tutorial (Coming Soon)"
+
+#: \auxin-content\include\hooks-admin.php:321
+msgid "We are making a series of video tutorial on how to use PHLOX, and we hope it will be available soon."
+msgstr "We are making a series of video tutorial on how to use PHLOX, and we hope it will be available soon."
+
+#: \auxin-content\include\hooks-admin.php:331
+msgid "References and tutorials for %s theme."
+msgstr "References and tutorials for %s theme."
+
+#: \auxin-content\include\hooks-admin.php:355
+msgid "This theme requires at least WordPress version 4.7 and PHP 5.3. You are running WordPress version %s and PHP version %s. Please upgrade and try again."
+msgstr "This theme requires at least WordPress version 4.7 and PHP 5.3. You are running WordPress version %s and PHP version %s. Please upgrade and try again."
+
+#: \auxin-content\init\const.php:25
+msgid "Phlox Pro"
+msgstr "Phlox Pro"
+
+#: \auxin-content\init\const.php:29
+msgid "PHLOX"
+msgstr "PHLOX"
+
+#: \auxin-content\options\auxin-options.php:27
+msgid "General"
+msgstr "General"
+
+#: \auxin-content\options\auxin-options.php:37
+msgid "General Layout"
+msgstr "General Layout"
+
+#: \auxin-content\options\auxin-options.php:38
+msgid "General Layout Setting"
+msgstr "General Layout Setting"
+
+#: \auxin-content\options\auxin-options.php:43
+msgid "Website Layout"
+msgstr "Website Layout"
+
+#: \auxin-content\options\auxin-options.php:44
+msgid "If you choose \"Boxed\", site content will be wrapped in a box."
+msgstr "If you choose \"Boxed\", site content will be wrapped in a box."
+
+#: \auxin-content\options\auxin-options.php:51
+#: \auxin-content\options\auxin-options.php:7909
+msgid "Full"
+msgstr "Full"
+
+#: \auxin-content\options\auxin-options.php:64
+msgid "Site Max Width"
+msgstr "Site Max Width"
+
+#: \auxin-content\options\auxin-options.php:65
+#: \auxin-content\options\auxin-options.php:3029
+#: \auxin-content\options\auxin-options.php:4672
+#: \auxin-content\options\auxin-options.php:6341
+#: \auxin-content\options\auxin-options.php:7641
+#: \auxin-content\options\auxin-options.php:7746
+msgid "Specifies the maximum width of website."
+msgstr "Specifies the maximum width of website."
+
+#: \auxin-content\options\auxin-options.php:72
+#: \auxin-content\options\auxin-options.php:3037
+#: \auxin-content\options\auxin-options.php:4680
+#: \auxin-content\options\auxin-options.php:6349
+#: \auxin-content\options\auxin-options.php:7649
+#: \auxin-content\options\auxin-options.php:7754
+msgid "1000 Pixels"
+msgstr "1000 Pixels"
+
+#: \auxin-content\options\auxin-options.php:73
+#: \auxin-content\options\auxin-options.php:3038
+#: \auxin-content\options\auxin-options.php:4681
+#: \auxin-content\options\auxin-options.php:6350
+#: \auxin-content\options\auxin-options.php:7650
+#: \auxin-content\options\auxin-options.php:7755
+msgid "1200 Pixels"
+msgstr "1200 Pixels"
+
+#: \auxin-content\options\auxin-options.php:74
+#: \auxin-content\options\auxin-options.php:3039
+#: \auxin-content\options\auxin-options.php:4682
+#: \auxin-content\options\auxin-options.php:6351
+#: \auxin-content\options\auxin-options.php:7651
+#: \auxin-content\options\auxin-options.php:7756
+msgid "1400 Pixels"
+msgstr "1400 Pixels"
+
+#: \auxin-content\options\auxin-options.php:75
+#: \auxin-content\options\auxin-options.php:3040
+#: \auxin-content\options\auxin-options.php:4683
+#: \auxin-content\options\auxin-options.php:6352
+#: \auxin-content\options\auxin-options.php:7652
+#: \auxin-content\options\auxin-options.php:7757
+msgid "1600 Pixels"
+msgstr "1600 Pixels"
+
+#: \auxin-content\options\auxin-options.php:76
+#: \auxin-content\options\auxin-options.php:3041
+#: \auxin-content\options\auxin-options.php:4684
+#: \auxin-content\options\auxin-options.php:6353
+#: \auxin-content\options\auxin-options.php:7653
+#: \auxin-content\options\auxin-options.php:7758
+msgid "1900 Pixels"
+msgstr "1900 Pixels"
+
+#: \auxin-content\options\auxin-options.php:88
+msgid "Logo"
+msgstr "Logo"
+
+#: \auxin-content\options\auxin-options.php:89
+msgid "Logo Setting"
+msgstr "Logo Setting"
+
+#: \auxin-content\options\auxin-options.php:93
+msgid "Logo Width"
+msgstr "Logo Width"
+
+#: \auxin-content\options\auxin-options.php:94
+msgid "Specifies the max width of logo image in pixel."
+msgstr "Specifies the max width of logo image in pixel."
+
+#: \auxin-content\options\auxin-options.php:111
+msgid "Logo Max Height"
+msgstr "Logo Max Height"
+
+#: \auxin-content\options\auxin-options.php:112
+msgid "If the original logo is big in dimensions, you can limit the height by this option."
+msgstr "If the original logo is big in dimensions, you can limit the height by this option."
+
+#: \auxin-content\options\auxin-options.php:119
+msgid "Same as header height"
+msgstr "Same as header height"
+
+#: \auxin-content\options\auxin-options.php:120
+msgid "Specific size in pixel"
+msgstr "Specific size in pixel"
+
+#: \auxin-content\options\auxin-options.php:121
+msgid "No Limit"
+msgstr "No Limit"
+
+#: \auxin-content\options\auxin-options.php:144
+msgid "Logo Max Height in Pixel"
+msgstr "Logo Max Height in Pixel"
+
+#: \auxin-content\options\auxin-options.php:145
+msgid "Specifies the max height of logo image in pixel."
+msgstr "Specifies the max height of logo image in pixel."
+
+#: \auxin-content\options\auxin-options.php:165
+#: \auxin-content\options\auxin-options.php:166
+msgid "Website Socials"
+msgstr "Website Socials"
+
+#: \auxin-content\options\auxin-options.php:170
+msgid "Use Brand Color"
+msgstr "Use Brand Color"
+
+#: \auxin-content\options\auxin-options.php:171
+msgid "Enable this option to apply brand color to each social icons."
+msgstr "Enable this option to apply brand color to each social icons."
+
+#: \auxin-content\options\auxin-options.php:181
+msgid "Use Brand Color as Hover"
+msgstr "Use Brand Color as Hover"
+
+#: \auxin-content\options\auxin-options.php:182
+msgid "You can sepcify with enable this option to use brand color for each social icons just on hover"
+msgstr "You can sepcify with enable this option to use brand color for each social icons just on hover"
+
+#: \auxin-content\options\auxin-options.php:191
+msgid "Facebook"
+msgstr "Facebook"
+
+#: \auxin-content\options\auxin-options.php:192
+#: \auxin-content\options\auxin-options.php:204
+#: \auxin-content\options\auxin-options.php:216
+#: \auxin-content\options\auxin-options.php:227
+#: \auxin-content\options\auxin-options.php:238
+#: \auxin-content\options\auxin-options.php:249
+#: \auxin-content\options\auxin-options.php:260
+#: \auxin-content\options\auxin-options.php:271
+#: \auxin-content\options\auxin-options.php:282
+#: \auxin-content\options\auxin-options.php:293
+#: \auxin-content\options\auxin-options.php:304
+#: \auxin-content\options\auxin-options.php:315
+#: \auxin-content\options\auxin-options.php:327
+#: \auxin-content\options\auxin-options.php:338
+#: \auxin-content\options\auxin-options.php:349
+#: \auxin-content\options\auxin-options.php:360
+#: \auxin-content\options\auxin-options.php:372
+#: \auxin-content\options\auxin-options.php:383
+msgid "Should start with <code>http://</code>"
+msgstr "Should start with <code>http://</code>"
+
+#: \auxin-content\options\auxin-options.php:203
+msgid "Twitter"
+msgstr "Twitter"
+
+#: \auxin-content\options\auxin-options.php:215
+msgid "Google +"
+msgstr "Google +"
+
+#: \auxin-content\options\auxin-options.php:226
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: \auxin-content\options\auxin-options.php:237
+msgid "YouTube"
+msgstr "YouTube"
+
+#: \auxin-content\options\auxin-options.php:248
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: \auxin-content\options\auxin-options.php:259
+msgid "Flickr"
+msgstr "Flickr"
+
+#: \auxin-content\options\auxin-options.php:270
+msgid "Digg"
+msgstr "Digg"
+
+#: \auxin-content\options\auxin-options.php:281
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: \auxin-content\options\auxin-options.php:292
+msgid "LastFM"
+msgstr "LastFM"
+
+#: \auxin-content\options\auxin-options.php:303
+msgid "Delicious"
+msgstr "Delicious"
+
+#: \auxin-content\options\auxin-options.php:314
+msgid "Skype"
+msgstr "Skype"
+
+#: \auxin-content\options\auxin-options.php:326
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: \auxin-content\options\auxin-options.php:337
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: \auxin-content\options\auxin-options.php:348
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: \auxin-content\options\auxin-options.php:359
+msgid "Instagram"
+msgstr "Instagram"
+
+#: \auxin-content\options\auxin-options.php:371
+msgid "VK"
+msgstr "VK"
+
+#: \auxin-content\options\auxin-options.php:382
+msgid "Telegram"
+msgstr "Telegram"
+
+#: \auxin-content\options\auxin-options.php:393
+msgid "RSS"
+msgstr "RSS"
+
+#: \auxin-content\options\auxin-options.php:394
+msgid "Enter your RSS Feed page. For example :"
+msgstr "Enter your RSS Feed page. For example :"
+
+#: \auxin-content\options\auxin-options.php:409
+msgid "Page Animation and Preloading"
+msgstr "Page Animation and Preloading"
+
+#: \auxin-content\options\auxin-options.php:410
+msgid "Page Animation and Preloading Setting"
+msgstr "Page Animation and Preloading Setting"
+
+#: \auxin-content\options\auxin-options.php:414
+msgid "Enable Page Animation"
+msgstr "Enable Page Animation"
+
+#: \auxin-content\options\auxin-options.php:415
+msgid "Enable this option to add page animation when user navigates between pages."
+msgstr "Enable this option to add page animation when user navigates between pages."
+
+#: \auxin-content\options\auxin-options.php:424
+msgid "Animation Type"
+msgstr "Animation Type"
+
+#: \auxin-content\options\auxin-options.php:425
+#: \auxin-content\options\auxin-options.php:2570
+msgid "Hover over images to see the animation."
+msgstr "Hover over images to see the animation."
+
+#: \auxin-content\options\auxin-options.php:438
+#: \auxin-content\options\auxin-options.php:2151
+msgid "Fade"
+msgstr "Fade"
+
+#: \auxin-content\options\auxin-options.php:450
+msgid "Slide-Up"
+msgstr "Slide-Up"
+
+#: \auxin-content\options\auxin-options.php:459
+msgid "Enable Page Preloading"
+msgstr "Enable Page Preloading"
+
+#: \auxin-content\options\auxin-options.php:460
+msgid "Enable this option to display a loading animation while site is loading."
+msgstr "Enable this option to display a loading animation while site is loading."
+
+#: \auxin-content\options\auxin-options.php:469
+msgid "Add Loading Image"
+msgstr "Add Loading Image"
+
+#: \auxin-content\options\auxin-options.php:470
+msgid "Enable this option to add loading image for the site."
+msgstr "Enable this option to add loading image for the site."
+
+#: \auxin-content\options\auxin-options.php:486
+msgid "Loading Image"
+msgstr "Loading Image"
+
+#: \auxin-content\options\auxin-options.php:487
+msgid "Select an animated gif to display while site is loading."
+msgstr "Select an animated gif to display while site is loading."
+
+#: \auxin-content\options\auxin-options.php:508
+msgid "Add Progress Bar"
+msgstr "Add Progress Bar"
+
+#: \auxin-content\options\auxin-options.php:509
+msgid "Enable this option to add a top progress bar while site is loading."
+msgstr "Enable this option to add a top progress bar while site is loading."
+
+#: \auxin-content\options\auxin-options.php:525
+msgid "Progress Bar Position"
+msgstr "Progress Bar Position"
+
+#: \auxin-content\options\auxin-options.php:550
+msgid "Progress Bar Color"
+msgstr "Progress Bar Color"
+
+#: \auxin-content\options\auxin-options.php:579
+msgid "Appearance"
+msgstr "Appearance"
+
+#: \auxin-content\options\auxin-options.php:580
+msgid "Appearance Setting"
+msgstr "Appearance Setting"
+
+#: \auxin-content\options\auxin-options.php:589
+msgid "Website Background"
+msgstr "Website Background"
+
+#: \auxin-content\options\auxin-options.php:590
+msgid "Website Background Setting"
+msgstr "Website Background Setting"
+
+#: \auxin-content\options\auxin-options.php:594
+msgid "Enable background"
+msgstr "Enable background"
+
+#: \auxin-content\options\auxin-options.php:595
+msgid "Specifies the background options for the body of website on boxed layout.%1$s Only works if %2$s Website Layout %3$s option sets to %2$s Boxed layout %3$s"
+msgstr "Specifies the background options for the body of website on boxed layout.%1$s Only works if %2$s Website Layout %3$s option sets to %2$s Boxed layout %3$s"
+
+#: \auxin-content\options\auxin-options.php:606
+msgid "Specifies the color of website background."
+msgstr "Specifies the color of website background."
+
+#: \auxin-content\options\auxin-options.php:632
+msgid "Background Pattern"
+msgstr "Background Pattern"
+
+#: \auxin-content\options\auxin-options.php:633
+msgid "Select one of these patterns as site background image. %s Some of these can be used as a pattern over background image."
+msgstr "Select one of these patterns as site background image. %s Some of these can be used as a pattern over background image."
+
+#: \auxin-content\options\auxin-options.php:661
+#: \auxin-content\options\auxin-options.php:4374
+#: \auxin-content\options\auxin-options.php:7395
+msgid "Background Image"
+msgstr "Background Image"
+
+#: \auxin-content\options\auxin-options.php:663
+msgid "You can upload custom image for site background."
+msgstr "You can upload custom image for site background."
+
+#: \auxin-content\options\auxin-options.php:692
+#: \auxin-content\options\auxin-options.php:4324
+#: \auxin-content\options\auxin-options.php:7345
+msgid "Background Size"
+msgstr "Background Size"
+
+#: \auxin-content\options\auxin-options.php:737
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: \auxin-content\options\auxin-options.php:738
+msgid "Specifies how background image repeats."
+msgstr "Specifies how background image repeats."
+
+#: \auxin-content\options\auxin-options.php:785
+msgid "Background Position"
+msgstr "Background Position"
+
+#: \auxin-content\options\auxin-options.php:786
+msgid "Specifies background image position."
+msgstr "Specifies background image position."
+
+#: \auxin-content\options\auxin-options.php:854
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: \auxin-content\options\auxin-options.php:855
+msgid "Specifies whether the background is fixed or scrollable as user scrolls the page."
+msgstr "Specifies whether the background is fixed or scrollable as user scrolls the page."
+
+#: \auxin-content\options\auxin-options.php:896
+msgid "Content Background"
+msgstr "Content Background"
+
+#: \auxin-content\options\auxin-options.php:897
+msgid "Content Background Setting"
+msgstr "Content Background Setting"
+
+#: \auxin-content\options\auxin-options.php:901
+msgid "Content Background Color"
+msgstr "Content Background Color"
+
+#: \auxin-content\options\auxin-options.php:903
+msgid "Specifies the color of content background."
+msgstr "Specifies the color of content background."
+
+#: \auxin-content\options\auxin-options.php:923
+msgid "Website Frame"
+msgstr "Website Frame"
+
+#: \auxin-content\options\auxin-options.php:924
+msgid "Website Frame Setting"
+msgstr "Website Frame Setting"
+
+#: \auxin-content\options\auxin-options.php:928
+msgid "Enable Site Frame"
+msgstr "Enable Site Frame"
+
+#: \auxin-content\options\auxin-options.php:929
+msgid "Enable this option to add a frame around the site. "
+msgstr "Enable this option to add a frame around the site. "
+
+#: \auxin-content\options\auxin-options.php:938
+msgid "Site Frame Color"
+msgstr "Site Frame Color"
+
+#: \auxin-content\options\auxin-options.php:940
+msgid "Specifies the color of the frame around the site."
+msgstr "Specifies the color of the frame around the site."
+
+#: \auxin-content\options\auxin-options.php:969
+msgid "Typography"
+msgstr "Typography"
+
+#: \auxin-content\options\auxin-options.php:970
+msgid "Typography Setting"
+msgstr "Typography Setting"
+
+#: \auxin-content\options\auxin-options.php:974
+msgid "Enable Custom Typography"
+msgstr "Enable Custom Typography"
+
+#: \auxin-content\options\auxin-options.php:975
+msgid "Enable this option to override defaults typography options."
+msgstr "Enable this option to override defaults typography options."
+
+#: \auxin-content\options\auxin-options.php:985
+msgid "Main Content"
+msgstr "Main Content"
+
+#: \auxin-content\options\auxin-options.php:986
+msgid "Specifies content typography."
+msgstr "Specifies content typography."
+
+#: \auxin-content\options\auxin-options.php:1029
+msgid "Main Titles"
+msgstr "Main Titles"
+
+#: \auxin-content\options\auxin-options.php:1030
+msgid "Main titles contain sections and widget titles. %1$sAll %2$sh1%3$s to %2$sh6%3$s typography can be set here."
+msgstr "Main titles contain sections and widget titles. %1$sAll %2$sh1%3$s to %2$sh6%3$s typography can be set here."
+
+#: \auxin-content\options\auxin-options.php:1073
+msgid "Page Heading"
+msgstr "Page Heading"
+
+#: \auxin-content\options\auxin-options.php:1074
+msgid "Specifies main title typography of page."
+msgstr "Specifies main title typography of page."
+
+#: \auxin-content\options\auxin-options.php:1117
+msgid "Menu Typography"
+msgstr "Menu Typography"
+
+#: \auxin-content\options\auxin-options.php:1118
+msgid "Specifies menu typography."
+msgstr "Specifies menu typography."
+
+#: \auxin-content\options\auxin-options.php:1161
+msgid "Buttons Typography"
+msgstr "Buttons Typography"
+
+#: \auxin-content\options\auxin-options.php:1162
+msgid "Specifies buttons typography."
+msgstr "Specifies buttons typography."
+
+#: \auxin-content\options\auxin-options.php:1205
+msgid "Include Latin Charecters"
+msgstr "Include Latin Charecters"
+
+#: \auxin-content\options\auxin-options.php:1206
+msgid "If there are characters in your language that are not supported in fonts, use following options to load them."
+msgstr "If there are characters in your language that are not supported in fonts, use following options to load them."
+
+#: \auxin-content\options\auxin-options.php:1228
+#: \auxin-content\options\auxin-options.php:1229
+msgid "Skin options"
+msgstr "Skin options"
+
+#: \auxin-content\options\auxin-options.php:1234
+msgid "Video Player Skin"
+msgstr "Video Player Skin"
+
+#: \auxin-content\options\auxin-options.php:1235
+msgid "Specifies the default skin for self hosted video player."
+msgstr "Specifies the default skin for self hosted video player."
+
+#: \auxin-content\options\auxin-options.php:1254
+msgid "Audio Player Skin"
+msgstr "Audio Player Skin"
+
+#: \auxin-content\options\auxin-options.php:1255
+msgid "Specifies the default skin for self hosted audio player."
+msgstr "Specifies the default skin for self hosted audio player."
+
+#: \auxin-content\options\auxin-options.php:1274
+msgid "Pagination Skin"
+msgstr "Pagination Skin"
+
+#: \auxin-content\options\auxin-options.php:1275
+msgid "Specifies the default skin for site pagination."
+msgstr "Specifies the default skin for site pagination."
+
+#: \auxin-content\options\auxin-options.php:1281
+msgid "Round, No Page Border"
+msgstr "Round, No Page Border"
+
+#: \auxin-content\options\auxin-options.php:1285
+msgid "Round, No Border"
+msgstr "Round, No Border"
+
+#: \auxin-content\options\auxin-options.php:1289
+msgid "Round, With Border"
+msgstr "Round, With Border"
+
+#: \auxin-content\options\auxin-options.php:1293
+msgid "Square, No Page Border"
+msgstr "Square, No Page Border"
+
+#: \auxin-content\options\auxin-options.php:1297
+msgid "Square, No Border"
+msgstr "Square, No Border"
+
+#: \auxin-content\options\auxin-options.php:1301
+msgid "Square, With Border"
+msgstr "Square, With Border"
+
+#: \auxin-content\options\auxin-options.php:1316
+#: \auxin-content\options\auxin-options.php:1317
+msgid "Mobile Browsers"
+msgstr "Mobile Browsers"
+
+#: \auxin-content\options\auxin-options.php:1321
+msgid "Address Bar Color"
+msgstr "Address Bar Color"
+
+#: \auxin-content\options\auxin-options.php:1322
+msgid "Specifies the color of address bar and toolbar on mobile browsers."
+msgstr "Specifies the color of address bar and toolbar on mobile browsers."
+
+#: \auxin-content\options\auxin-options.php:1335
+msgid "Forms"
+msgstr "Forms"
+
+#: \auxin-content\options\auxin-options.php:1336
+msgid "Forms Appearance"
+msgstr "Forms Appearance"
+
+#: \auxin-content\options\auxin-options.php:1340
+msgid "Comment Forms Skin"
+msgstr "Comment Forms Skin"
+
+#: \auxin-content\options\auxin-options.php:1341
+msgid "Specifies the skin of all comment forms."
+msgstr "Specifies the skin of all comment forms."
+
+#: \auxin-content\options\auxin-options.php:1365
+msgid "Header"
+msgstr "Header"
+
+#: \auxin-content\options\auxin-options.php:1366
+msgid "Header Setting"
+msgstr "Header Setting"
+
+#: \auxin-content\options\auxin-options.php:1377
+msgid "Header Section"
+msgstr "Header Section"
+
+#: \auxin-content\options\auxin-options.php:1378
+msgid "Header Section Setting"
+msgstr "Header Section Setting"
+
+#: \auxin-content\options\auxin-options.php:1382
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: \auxin-content\options\auxin-options.php:1383
+msgid "Specifies header layout."
+msgstr "Specifies header layout."
+
+#: \auxin-content\options\auxin-options.php:1389
+msgid "Logo left, Menu right"
+msgstr "Logo left, Menu right"
+
+#: \auxin-content\options\auxin-options.php:1393
+msgid "Logo left, Burger menu right"
+msgstr "Logo left, Burger menu right"
+
+#: \auxin-content\options\auxin-options.php:1397
+msgid "Logo right, Menu left"
+msgstr "Logo right, Menu left"
+
+#: \auxin-content\options\auxin-options.php:1401
+msgid "Logo Right, Burger menu left"
+msgstr "Logo Right, Burger menu left"
+
+#: \auxin-content\options\auxin-options.php:1405
+msgid "Logo middle in top, Menu middle in bottom"
+msgstr "Logo middle in top, Menu middle in bottom"
+
+#: \auxin-content\options\auxin-options.php:1409
+msgid "Logo left in top, Menu left in bottom"
+msgstr "Logo left in top, Menu left in bottom"
+
+#: \auxin-content\options\auxin-options.php:1413
+msgid "Vertical Menu"
+msgstr "Vertical Menu"
+
+#: \auxin-content\options\auxin-options.php:1417
+msgid "No header"
+msgstr "No header"
+
+#: \auxin-content\options\auxin-options.php:1426
+msgid "Header Width"
+msgstr "Header Width"
+
+#: \auxin-content\options\auxin-options.php:1427
+msgid "Specifies boxed or fullwidth header.%1$s Only works if %2$s Website Layout %3$s option sets to %2$s Full layout %3$s"
+msgstr "Specifies boxed or fullwidth header.%1$s Only works if %2$s Website Layout %3$s option sets to %2$s Full layout %3$s"
+
+#: \auxin-content\options\auxin-options.php:1437
+msgid "Full Width"
+msgstr "Full Width"
+
+#: \auxin-content\options\auxin-options.php:1460
+msgid "Header Height"
+msgstr "Header Height"
+
+#: \auxin-content\options\auxin-options.php:1461
+msgid "Specifies the header height in pixel."
+msgstr "Specifies the header height in pixel."
+
+#: \auxin-content\options\auxin-options.php:1491
+msgid "Add Search Button"
+msgstr "Add Search Button"
+
+#: \auxin-content\options\auxin-options.php:1492
+msgid "Enable it to add search button in the header."
+msgstr "Enable it to add search button in the header."
+
+#: \auxin-content\options\auxin-options.php:1518
+msgid "Add Social Icons"
+msgstr "Add Social Icons"
+
+#: \auxin-content\options\auxin-options.php:1519
+msgid "Enable it to add social icons in the header menu."
+msgstr "Enable it to add social icons in the header menu."
+
+#: \auxin-content\options\auxin-options.php:1540
+msgid "Social Icon Size"
+msgstr "Social Icon Size"
+
+#: \auxin-content\options\auxin-options.php:1541
+msgid "Specifies the size of social icons in the header menu."
+msgstr "Specifies the size of social icons in the header menu."
+
+#: \auxin-content\options\auxin-options.php:1564
+msgid "Small"
+msgstr "Small"
+
+#: \auxin-content\options\auxin-options.php:1565
+msgid "Normal"
+msgstr "Normal"
+
+#: \auxin-content\options\auxin-options.php:1566
+msgid "Large"
+msgstr "Large"
+
+#: \auxin-content\options\auxin-options.php:1567
+msgid "Extra Large"
+msgstr "Extra Large"
+
+#: \auxin-content\options\auxin-options.php:1572
+msgid "Display Logo"
+msgstr "Display Logo"
+
+#: \auxin-content\options\auxin-options.php:1573
+msgid "Enable it to add logo in the header."
+msgstr "Enable it to add logo in the header."
+
+#: \auxin-content\options\auxin-options.php:1596
+msgid "Display Header Cart"
+msgstr "Display Header Cart"
+
+#: \auxin-content\options\auxin-options.php:1597
+#: \auxin-content\options\auxin-options.php:2674
+msgid "Enable it to display cart on top header bar."
+msgstr "Enable it to display cart on top header bar."
+
+#: \auxin-content\options\auxin-options.php:1619
+#: \auxin-content\options\auxin-options.php:2701
+msgid "Icon for Cart"
+msgstr "Icon for Cart"
+
+#: \auxin-content\options\auxin-options.php:1646
+#: \auxin-content\options\auxin-options.php:2733
+msgid "Cart Dropdown Skin"
+msgstr "Cart Dropdown Skin"
+
+#: \auxin-content\options\auxin-options.php:1673
+#: \auxin-content\options\auxin-options.php:2765
+msgid "Dropdown Action On"
+msgstr "Dropdown Action On"
+
+#: \auxin-content\options\auxin-options.php:1692
+#: \auxin-content\options\auxin-options.php:2789
+msgid "Hover"
+msgstr "Hover"
+
+#: \auxin-content\options\auxin-options.php:1693
+#: \auxin-content\options\auxin-options.php:2790
+msgid "Click"
+msgstr "Click"
+
+#: \auxin-content\options\auxin-options.php:1702
+msgid "Add Border"
+msgstr "Add Border"
+
+#: \auxin-content\options\auxin-options.php:1703
+msgid "Enable it to add border below the header."
+msgstr "Enable it to add border below the header."
+
+#: \auxin-content\options\auxin-options.php:1724
+msgid "Header Animation"
+msgstr "Header Animation"
+
+#: \auxin-content\options\auxin-options.php:1725
+msgid "Enable it to animation the header after page loads."
+msgstr "Enable it to animation the header after page loads."
+
+#: \auxin-content\options\auxin-options.php:1745
+msgid "Header Animation Delay"
+msgstr "Header Animation Delay"
+
+#: \auxin-content\options\auxin-options.php:1746
+msgid "The delay amount before starting the header animation in seconds."
+msgstr "The delay amount before starting the header animation in seconds."
+
+#: \auxin-content\options\auxin-options.php:1770
+msgid "Enable Overlay Header"
+msgstr "Enable Overlay Header"
+
+#: \auxin-content\options\auxin-options.php:1771
+msgid "Enable it to set a overlay header"
+msgstr "Enable it to set a overlay header"
+
+#: \auxin-content\options\auxin-options.php:1792
+msgid "Header Background Color"
+msgstr "Header Background Color"
+
+#: \auxin-content\options\auxin-options.php:1793
+msgid "Specifies the background color of header "
+msgstr "Specifies the background color of header "
+
+#: \auxin-content\options\auxin-options.php:1820
+msgid "Header Menu Color Scheme"
+msgstr "Header Menu Color Scheme"
+
+#: \auxin-content\options\auxin-options.php:1821
+msgid "Specifies the Color Scheme of Header"
+msgstr "Specifies the Color Scheme of Header"
+
+#: \auxin-content\options\auxin-options.php:1843
+msgid "Enable Sticky Header"
+msgstr "Enable Sticky Header"
+
+#: \auxin-content\options\auxin-options.php:1844
+msgid "Enable it to display header menu  on top even by scrolling the page."
+msgstr "Enable it to display header menu  on top even by scrolling the page."
+
+#: \auxin-content\options\auxin-options.php:1865
+msgid "Sticky Header Height"
+msgstr "Sticky Header Height"
+
+#: \auxin-content\options\auxin-options.php:1866
+msgid "Specifies the Sticky header height."
+msgstr "Specifies the Sticky header height."
+
+#: \auxin-content\options\auxin-options.php:1902
+msgid "Sticky Header Background Color"
+msgstr "Sticky Header Background Color"
+
+#: \auxin-content\options\auxin-options.php:1903
+msgid "Specifies the sticky header color."
+msgstr "Specifies the sticky header color."
+
+#: \auxin-content\options\auxin-options.php:1936
+msgid "Sticky Header Menu Color Scheme"
+msgstr "Sticky Header Menu Color Scheme"
+
+#: \auxin-content\options\auxin-options.php:1937
+msgid "Specifies the color scheme of header menu on sticky header."
+msgstr "Specifies the color scheme of header menu on sticky header."
+
+#: \auxin-content\options\auxin-options.php:1968
+msgid "Scale Logo on Sticky Header"
+msgstr "Scale Logo on Sticky Header"
+
+#: \auxin-content\options\auxin-options.php:1969
+msgid "Enable this option to scale logo on sticky header."
+msgstr "Enable this option to scale logo on sticky header."
+
+#: \auxin-content\options\auxin-options.php:1996
+msgid "Vertical Menu Background Color"
+msgstr "Vertical Menu Background Color"
+
+#: \auxin-content\options\auxin-options.php:1997
+msgid "Specifies the background color of Vertical menu."
+msgstr "Specifies the background color of Vertical menu."
+
+#: \auxin-content\options\auxin-options.php:2031
+msgid "Header Menu"
+msgstr "Header Menu"
+
+#: \auxin-content\options\auxin-options.php:2032
+msgid "Header Menu Options"
+msgstr "Header Menu Options"
+
+#: \auxin-content\options\auxin-options.php:2036
+msgid "Header Submenu Skin"
+msgstr "Header Submenu Skin"
+
+#: \auxin-content\options\auxin-options.php:2037
+#: \auxin-content\options\auxin-options.php:2103
+#: \auxin-content\options\auxin-options.php:2800
+msgid "Specifies submenu skin."
+msgstr "Specifies submenu skin."
+
+#: \auxin-content\options\auxin-options.php:2053
+#: \auxin-content\options\auxin-options.php:2119
+#: \auxin-content\options\auxin-options.php:2816
+msgid "Paradox"
+msgstr "Paradox"
+
+#: \auxin-content\options\auxin-options.php:2061
+#: \auxin-content\options\auxin-options.php:2123
+#: \auxin-content\options\auxin-options.php:2824
+msgid "Dark Transparent"
+msgstr "Dark Transparent"
+
+#: \auxin-content\options\auxin-options.php:2065
+#: \auxin-content\options\auxin-options.php:2127
+#: \auxin-content\options\auxin-options.php:2828
+msgid "Divided"
+msgstr "Divided"
+
+#: \auxin-content\options\auxin-options.php:2069
+#: \auxin-content\options\auxin-options.php:2832
+msgid "Center Paradox"
+msgstr "Center Paradox"
+
+#: \auxin-content\options\auxin-options.php:2073
+#: \auxin-content\options\auxin-options.php:2131
+#: \auxin-content\options\auxin-options.php:2836
+msgid "Modern Paradox"
+msgstr "Modern Paradox"
+
+#: \auxin-content\options\auxin-options.php:2080
+msgid "Vertical Menu Items Align"
+msgstr "Vertical Menu Items Align"
+
+#: \auxin-content\options\auxin-options.php:2102
+msgid "Vertical Header Submenu Skin"
+msgstr "Vertical Header Submenu Skin"
+
+#: \auxin-content\options\auxin-options.php:2138
+msgid "Submenu animation effect"
+msgstr "Submenu animation effect"
+
+#: \auxin-content\options\auxin-options.php:2155
+msgid "Fade and move"
+msgstr "Fade and move"
+
+#: \auxin-content\options\auxin-options.php:2164
+#: \auxin-content\options\auxin-options.php:2521
+msgid "Display Submenu Indicator"
+msgstr "Display Submenu Indicator"
+
+#: \auxin-content\options\auxin-options.php:2165
+msgid "Add submenu indicator icon to header menu items."
+msgstr "Add submenu indicator icon to header menu items."
+
+#: \auxin-content\options\auxin-options.php:2176
+msgid "Display Menu Splitter"
+msgstr "Display Menu Splitter"
+
+#: \auxin-content\options\auxin-options.php:2177
+msgid "Insert splitter symbol between menu items in header."
+msgstr "Insert splitter symbol between menu items in header."
+
+#: \auxin-content\options\auxin-options.php:2195
+msgid "Display Vertical Menu Footer"
+msgstr "Display Vertical Menu Footer"
+
+#: \auxin-content\options\auxin-options.php:2196
+msgid "Enable it to display footer at the bottom of vertical menu."
+msgstr "Enable it to display footer at the bottom of vertical menu."
+
+#: \auxin-content\options\auxin-options.php:2212
+msgid "Display Searchbox Border"
+msgstr "Display Searchbox Border"
+
+#: \auxin-content\options\auxin-options.php:2213
+msgid "Specifies the display of border under the search box"
+msgstr "Specifies the display of border under the search box"
+
+#: \auxin-content\options\auxin-options.php:2234
+msgid "Display Vertical Menu Copyright Text"
+msgstr "Display Vertical Menu Copyright Text"
+
+#: \auxin-content\options\auxin-options.php:2235
+msgid "Enable it to display copyright text at the bottom of vertical menu."
+msgstr "Enable it to display copyright text at the bottom of vertical menu."
+
+#: \auxin-content\options\auxin-options.php:2255
+msgid "Submenu location "
+msgstr "Submenu location "
+
+#: \auxin-content\options\auxin-options.php:2256
+msgid "Set the location of submenu in header area."
+msgstr "Set the location of submenu in header area."
+
+#: \auxin-content\options\auxin-options.php:2271
+msgid "Below header"
+msgstr "Below header"
+
+#: \auxin-content\options\auxin-options.php:2275
+msgid "Below header menu items"
+msgstr "Below header menu items"
+
+#: \auxin-content\options\auxin-options.php:2282
+msgid "Menu height"
+msgstr "Menu height"
+
+#: \auxin-content\options\auxin-options.php:2283
+msgid "Specifies minimum height of main menu items."
+msgstr "Specifies minimum height of main menu items."
+
+#: \auxin-content\options\auxin-options.php:2316
+msgid "Burger Menu"
+msgstr "Burger Menu"
+
+#: \auxin-content\options\auxin-options.php:2317
+msgid "Burger Menu Options"
+msgstr "Burger Menu Options"
+
+#: \auxin-content\options\auxin-options.php:2321
+msgid "Burger Button Color"
+msgstr "Burger Button Color"
+
+#: \auxin-content\options\auxin-options.php:2322
+msgid "Specifies burger button color."
+msgstr "Specifies burger button color."
+
+#: \auxin-content\options\auxin-options.php:2341
+msgid "Burger Button Style"
+msgstr "Burger Button Style"
+
+#: \auxin-content\options\auxin-options.php:2342
+msgid "Specifies burger button style."
+msgstr "Specifies burger button style."
+
+#: \auxin-content\options\auxin-options.php:2352
+#: \auxin-content\options\auxin-options.php:2402
+msgid "Expandable under top header"
+msgstr "Expandable under top header"
+
+#: \auxin-content\options\auxin-options.php:2356
+#: \auxin-content\options\auxin-options.php:2360
+#: \auxin-content\options\auxin-options.php:2368
+#: \auxin-content\options\auxin-options.php:2372
+#: \auxin-content\options\auxin-options.php:2376
+#: \auxin-content\options\auxin-options.php:2380
+#: \auxin-content\options\auxin-options.php:2384
+#: \auxin-content\options\auxin-options.php:2410
+msgid "Offcanvas panel"
+msgstr "Offcanvas panel"
+
+#: \auxin-content\options\auxin-options.php:2364
+#: \auxin-content\options\auxin-options.php:2406
+msgid "FullScreen on entire page"
+msgstr "FullScreen on entire page"
+
+#: \auxin-content\options\auxin-options.php:2392
+msgid "Burger Menu Location"
+msgstr "Burger Menu Location"
+
+#: \auxin-content\options\auxin-options.php:2393
+msgid "Specifies where menu appears when the burger button is clicked."
+msgstr "Specifies where menu appears when the burger button is clicked."
+
+#: \auxin-content\options\auxin-options.php:2417
+msgid "Fullscreen Menu Background Color"
+msgstr "Fullscreen Menu Background Color"
+
+#: \auxin-content\options\auxin-options.php:2418
+msgid "Specifies the background color of fullscreen menu and search panel."
+msgstr "Specifies the background color of fullscreen menu and search panel."
+
+#: \auxin-content\options\auxin-options.php:2442
+msgid "Fullscreen Menu Skin"
+msgstr "Fullscreen Menu Skin"
+
+#: \auxin-content\options\auxin-options.php:2443
+msgid "Specifies the skin of fullscreen menu panel."
+msgstr "Specifies the skin of fullscreen menu panel."
+
+#: \auxin-content\options\auxin-options.php:2470
+msgid "FullScreen Menu Templates"
+msgstr "FullScreen Menu Templates"
+
+#: \auxin-content\options\auxin-options.php:2471
+msgid "Select Specific Template For FullScreen Menu"
+msgstr "Select Specific Template For FullScreen Menu"
+
+#: \auxin-content\options\auxin-options.php:2485
+msgid "Center Template"
+msgstr "Center Template"
+
+#: \auxin-content\options\auxin-options.php:2489
+msgid "Left side Template"
+msgstr "Left side Template"
+
+#: \auxin-content\options\auxin-options.php:2497
+msgid "Fullscreen Menu Background Image"
+msgstr "Fullscreen Menu Background Image"
+
+#: \auxin-content\options\auxin-options.php:2498
+msgid "Specifies the background image of fullscreen menu panel"
+msgstr "Specifies the background image of fullscreen menu panel"
+
+#: \auxin-content\options\auxin-options.php:2522
+msgid "Add submenu indicator icon to menu items."
+msgstr "Add submenu indicator icon to menu items."
+
+#: \auxin-content\options\auxin-options.php:2539
+msgid "Offcanvas Alignment"
+msgstr "Offcanvas Alignment"
+
+#: \auxin-content\options\auxin-options.php:2540
+msgid "Specifies where offcanvas menu appears when the burger button is clicked."
+msgstr "Specifies where offcanvas menu appears when the burger button is clicked."
+
+#: \auxin-content\options\auxin-options.php:2554
+msgid "Left side"
+msgstr "Left side"
+
+#: \auxin-content\options\auxin-options.php:2558
+msgid "Right side"
+msgstr "Right side"
+
+#: \auxin-content\options\auxin-options.php:2568
+msgid "Burger Menu Toggle Type"
+msgstr "Burger Menu Toggle Type"
+
+#: \auxin-content\options\auxin-options.php:2569
+msgid "Specifies only one submenu displays at a time or multiple."
+msgstr "Specifies only one submenu displays at a time or multiple."
+
+#: \auxin-content\options\auxin-options.php:2579
+msgid "Toggle"
+msgstr "Toggle"
+
+#: \auxin-content\options\auxin-options.php:2583
+msgid "Accordion"
+msgstr "Accordion"
+
+#: \auxin-content\options\auxin-options.php:2596
+msgid "Top Header bar"
+msgstr "Top Header bar"
+
+#: \auxin-content\options\auxin-options.php:2597
+msgid "Top Header bar Setting"
+msgstr "Top Header bar Setting"
+
+#: \auxin-content\options\auxin-options.php:2602
+msgid "Display Top Header bar"
+msgstr "Display Top Header bar"
+
+#: \auxin-content\options\auxin-options.php:2603
+msgid "Enable it to display top header bar. You can display socials, message and call info there."
+msgstr "Enable it to display top header bar. You can display socials, message and call info there."
+
+#: \auxin-content\options\auxin-options.php:2615
+msgid "Top Header Bar Layout"
+msgstr "Top Header Bar Layout"
+
+#: \auxin-content\options\auxin-options.php:2616
+msgid "Specifies top header bar layout."
+msgstr "Specifies top header bar layout."
+
+#: \auxin-content\options\auxin-options.php:2629
+msgid "Menu left. Social and search right"
+msgstr "Menu left. Social and search right"
+
+#: \auxin-content\options\auxin-options.php:2633
+msgid "Message left. Menu and language right"
+msgstr "Message left. Menu and language right"
+
+#: \auxin-content\options\auxin-options.php:2637
+msgid "Social left. Cart and search right"
+msgstr "Social left. Cart and search right"
+
+#: \auxin-content\options\auxin-options.php:2641
+msgid "Menu left. Message, social, cart, search and language right"
+msgstr "Menu left. Message, social, cart, search and language right"
+
+#: \auxin-content\options\auxin-options.php:2645
+msgid "Language left. Social, cart and search right"
+msgstr "Language left. Social, cart and search right"
+
+#: \auxin-content\options\auxin-options.php:2649
+msgid "Message left. Social, cart and search right"
+msgstr "Message left. Social, cart and search right"
+
+#: \auxin-content\options\auxin-options.php:2653
+msgid "Menu left. Social, cart and search right"
+msgstr "Menu left. Social, cart and search right"
+
+#: \auxin-content\options\auxin-options.php:2657
+msgid "Language and menu left. Message, social, cart and search right"
+msgstr "Language and menu left. Message, social, cart and search right"
+
+#: \auxin-content\options\auxin-options.php:2673
+msgid "Display Top Header Cart"
+msgstr "Display Top Header Cart"
+
+#: \auxin-content\options\auxin-options.php:2799
+msgid "TopHeader Submenu Skin"
+msgstr "TopHeader Submenu Skin"
+
+#: \auxin-content\options\auxin-options.php:2847
+msgid "Top Header Bar Background Color"
+msgstr "Top Header Bar Background Color"
+
+#: \auxin-content\options\auxin-options.php:2848
+msgid "Specifies the background color of top header bar."
+msgstr "Specifies the background color of top header bar."
+
+#: \auxin-content\options\auxin-options.php:2872
+msgid "Message on Top Header Bar"
+msgstr "Message on Top Header Bar"
+
+#: \auxin-content\options\auxin-options.php:2873
+msgid "Add a message to display on top header bar."
+msgstr "Add a message to display on top header bar."
+
+#: \auxin-content\options\auxin-options.php:2885
+msgid "Welcome to your WordPress Website."
+msgstr "Welcome to your WordPress Website."
+
+#: \auxin-content\options\auxin-options.php:2894
+#: \auxin-content\options\auxin-options.php:2895
+msgid "FullScreen Search"
+msgstr "FullScreen Search"
+
+#: \auxin-content\options\auxin-options.php:2899
+msgid "FullScreen Search Skin"
+msgstr "FullScreen Search Skin"
+
+#: \auxin-content\options\auxin-options.php:2900
+msgid "Set the fullscreen search skin."
+msgstr "Set the fullscreen search skin."
+
+#: \auxin-content\options\auxin-options.php:2928
+msgid "Blog"
+msgstr "Blog"
+
+#: \auxin-content\options\auxin-options.php:2929
+msgid "Blog Setting"
+msgstr "Blog Setting"
+
+#: \auxin-content\options\auxin-options.php:2938
+msgid "Single Post"
+msgstr "Single Post"
+
+#: \auxin-content\options\auxin-options.php:2939
+msgid "Preview a blog post"
+msgstr "Preview a blog post"
+
+#: \auxin-content\options\auxin-options.php:2944
+msgid "Single Post Sidebar Position"
+msgstr "Single Post Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:2945
+msgid "Specifies position of sidebar on single post."
+msgstr "Specifies position of sidebar on single post."
+
+#: \auxin-content\options\auxin-options.php:2985
+msgid "Single Post Sidebar Style"
+msgstr "Single Post Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:3017
+msgid "Single Post Featured Color"
+msgstr "Single Post Featured Color"
+
+#: \auxin-content\options\auxin-options.php:3018
+msgid "Specifies featured color for blog posts."
+msgstr "Specifies featured color for blog posts."
+
+#: \auxin-content\options\auxin-options.php:3028
+#: \auxin-content\options\auxin-options.php:4671
+#: \auxin-content\options\auxin-options.php:6340
+#: \auxin-content\options\auxin-options.php:7640
+#: \auxin-content\options\auxin-options.php:7745
+msgid "Custom Max Width"
+msgstr "Custom Max Width"
+
+#: \auxin-content\options\auxin-options.php:3036
+#: \auxin-content\options\auxin-options.php:4679
+#: \auxin-content\options\auxin-options.php:6348
+#: \auxin-content\options\auxin-options.php:7648
+#: \auxin-content\options\auxin-options.php:7753
+msgid "Default Site Max Width"
+msgstr "Default Site Max Width"
+
+#: \auxin-content\options\auxin-options.php:3049
+msgid "You can reduce the width of text lines and increase the readability of context in single post of blog (does not affect the width of media)."
+msgstr "You can reduce the width of text lines and increase the readability of context in single post of blog (does not affect the width of media)."
+
+#: \auxin-content\options\auxin-options.php:3074
+msgid "Display Post Media"
+msgstr "Display Post Media"
+
+#: \auxin-content\options\auxin-options.php:3075
+msgid "Enable it to display post media (featured image, video, audio, ..) on single post page."
+msgstr "Enable it to display post media (featured image, video, audio, ..) on single post page."
+
+#: \auxin-content\options\auxin-options.php:3087
+#: \auxin-content\options\auxin-options.php:6137
+msgid "Enable it to display post date, categories and author name in post page ."
+msgstr "Enable it to display post date, categories and author name in post page ."
+
+#: \auxin-content\options\auxin-options.php:3099
+#: \auxin-content\options\auxin-options.php:4828
+#: \auxin-content\options\auxin-options.php:6155
+msgid "Display post date"
+msgstr "Display post date"
+
+#: \auxin-content\options\auxin-options.php:3100
+#: \auxin-content\options\auxin-options.php:4829
+#: \auxin-content\options\auxin-options.php:6156
+msgid "Enable it to show the post date."
+msgstr "Enable it to show the post date."
+
+#: \auxin-content\options\auxin-options.php:3117
+#: \auxin-content\options\auxin-options.php:4852
+#: \auxin-content\options\auxin-options.php:6179
+msgid "Display post author"
+msgstr "Display post author"
+
+#: \auxin-content\options\auxin-options.php:3118
+#: \auxin-content\options\auxin-options.php:4853
+#: \auxin-content\options\auxin-options.php:6180
+msgid "Enable it to show the post author."
+msgstr "Enable it to show the post author."
+
+#: \auxin-content\options\auxin-options.php:3135
+msgid "Display comments number"
+msgstr "Display comments number"
+
+#: \auxin-content\options\auxin-options.php:3136
+msgid "Enable it to show the post comments number."
+msgstr "Enable it to show the post comments number."
+
+#: \auxin-content\options\auxin-options.php:3153
+#: \auxin-content\options\auxin-options.php:6202
+msgid "Display post caregories"
+msgstr "Display post caregories"
+
+#: \auxin-content\options\auxin-options.php:3154
+#: \auxin-content\options\auxin-options.php:6203
+msgid "Enable it to show the post categories."
+msgstr "Enable it to show the post categories."
+
+#: \auxin-content\options\auxin-options.php:3171
+#: \auxin-content\options\auxin-options.php:5098
+msgid "Display Like Button"
+msgstr "Display Like Button"
+
+#: \auxin-content\options\auxin-options.php:3172
+msgid "Enable it to display %s like button%s on single post. Please note WP Ulike plugin needs to be activaited in order to use this option."
+msgstr "Enable it to display %s like button%s on single post. Please note WP Ulike plugin needs to be activaited in order to use this option."
+
+#: \auxin-content\options\auxin-options.php:3189
+msgid "Like Button Position"
+msgstr "Like Button Position"
+
+#: \auxin-content\options\auxin-options.php:3190
+msgid "Show like button befor or after post content."
+msgstr "Show like button befor or after post content."
+
+#: \auxin-content\options\auxin-options.php:3196
+msgid "Before post content (Top)"
+msgstr "Before post content (Top)"
+
+#: \auxin-content\options\auxin-options.php:3197
+msgid "After post content (Bottom)"
+msgstr "After post content (Bottom)"
+
+#: \auxin-content\options\auxin-options.php:3215
+msgid "Display Share Button"
+msgstr "Display Share Button"
+
+#: \auxin-content\options\auxin-options.php:3216
+msgid "Enable it to display %s share button%s on single post."
+msgstr "Enable it to display %s share button%s on single post."
+
+#: \auxin-content\options\auxin-options.php:3233
+msgid "Display Tags Section"
+msgstr "Display Tags Section"
+
+#: \auxin-content\options\auxin-options.php:3234
+msgid "Enable it to display tags section under the post content."
+msgstr "Enable it to display tags section under the post content."
+
+#: \auxin-content\options\auxin-options.php:3245
+msgid "Display Author Section"
+msgstr "Display Author Section"
+
+#: \auxin-content\options\auxin-options.php:3246
+msgid "Enable it to display %s author information%s after post content on single post."
+msgstr "Enable it to display %s author information%s after post content on single post."
+
+#: \auxin-content\options\auxin-options.php:3256
+msgid "Display Author Biography Text"
+msgstr "Display Author Biography Text"
+
+#: \auxin-content\options\auxin-options.php:3257
+msgid "Enable it to display %s author biography text%s in author section on single post."
+msgstr "Enable it to display %s author biography text%s in author section on single post."
+
+#: \auxin-content\options\auxin-options.php:3274
+msgid "Display Author Socials"
+msgstr "Display Author Socials"
+
+#: \auxin-content\options\auxin-options.php:3275
+msgid "Enable it to display %s author socials%s in author section on single post."
+msgstr "Enable it to display %s author socials%s in author section on single post."
+
+#: \auxin-content\options\auxin-options.php:3292
+msgid "Display Next & Previous Posts"
+msgstr "Display Next & Previous Posts"
+
+#: \auxin-content\options\auxin-options.php:3293
+msgid "Enable it to display links to next and previous posts on single post page."
+msgstr "Enable it to display links to next and previous posts on single post page."
+
+#: \auxin-content\options\auxin-options.php:3304
+msgid "Skin for Next & Previous Links"
+msgstr "Skin for Next & Previous Links"
+
+#: \auxin-content\options\auxin-options.php:3305
+msgid "Specifies the skin for next and previous navigation block."
+msgstr "Specifies the skin for next and previous navigation block."
+
+#: \auxin-content\options\auxin-options.php:3318
+msgid "Minimal (default)"
+msgstr "Minimal (default)"
+
+#: \auxin-content\options\auxin-options.php:3322
+msgid "Thumbnail with Arrow"
+msgstr "Thumbnail with Arrow"
+
+#: \auxin-content\options\auxin-options.php:3326
+msgid "Thumbnail without Arrow"
+msgstr "Thumbnail without Arrow"
+
+#: \auxin-content\options\auxin-options.php:3330
+msgid "Navigation with Light Background"
+msgstr "Navigation with Light Background"
+
+#: \auxin-content\options\auxin-options.php:3334
+msgid "Navigation with Dark Background"
+msgstr "Navigation with Dark Background"
+
+#: \auxin-content\options\auxin-options.php:3338
+msgid "Sticky Thumbnail with Arrow"
+msgstr "Sticky Thumbnail with Arrow"
+
+#: \auxin-content\options\auxin-options.php:3348
+#: \templates\theme-parts\entry\single-post.php:182
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: \auxin-content\options\auxin-options.php:3349
+#: \templates\theme-parts\entry\single-post.php:183
+msgid "Next Post"
+msgstr "Next Post"
+
+#: \auxin-content\options\auxin-options.php:3364
+msgid "Single Post Title"
+msgstr "Single Post Title"
+
+#: \auxin-content\options\auxin-options.php:3365
+msgid "Preview Single Post"
+msgstr "Preview Single Post"
+
+#: \auxin-content\options\auxin-options.php:3371
+#: \auxin-content\options\auxin-options.php:6393
+msgid "Enable it to show the page title section."
+msgstr "Enable it to show the page title section."
+
+#: \auxin-content\options\auxin-options.php:3560
+#: \auxin-content\options\auxin-options.php:6582
+msgid "Enable advanced setting"
+msgstr "Enable advanced setting"
+
+#: \auxin-content\options\auxin-options.php:3851
+#: \auxin-content\options\auxin-options.php:6872
+msgid "Title Box Custom Color"
+msgstr "Title Box Custom Color"
+
+#: \auxin-content\options\auxin-options.php:4289
+#: \auxin-content\options\auxin-options.php:7310
+msgid "Specifies a background color for title bar."
+msgstr "Specifies a background color for title bar."
+
+#: \auxin-content\options\auxin-options.php:4375
+#: \auxin-content\options\auxin-options.php:7396
+msgid "Specifies a background image for title bar."
+msgstr "Specifies a background image for title bar."
+
+#: \auxin-content\options\auxin-options.php:4410
+#: \auxin-content\options\auxin-options.php:7431
+msgid "Background Video MP4"
+msgstr "Background Video MP4"
+
+#: \auxin-content\options\auxin-options.php:4411
+#: \auxin-content\options\auxin-options.php:4447
+#: \auxin-content\options\auxin-options.php:4483
+#: \auxin-content\options\auxin-options.php:7432
+#: \auxin-content\options\auxin-options.php:7468
+#: \auxin-content\options\auxin-options.php:7504
+msgid "You can upload custom video for title background</br>Note: if you set custom image, default image backgrounds will be ignored."
+msgstr "You can upload custom video for title background</br>Note: if you set custom image, default image backgrounds will be ignored."
+
+#: \auxin-content\options\auxin-options.php:4446
+#: \auxin-content\options\auxin-options.php:7467
+msgid "Background Video Ogg"
+msgstr "Background Video Ogg"
+
+#: \auxin-content\options\auxin-options.php:4482
+#: \auxin-content\options\auxin-options.php:7503
+msgid "Background Video WebM"
+msgstr "Background Video WebM"
+
+#: \auxin-content\options\auxin-options.php:4520
+msgid "Display Post Title"
+msgstr "Display Post Title"
+
+#: \auxin-content\options\auxin-options.php:4538
+msgid "Title Alignment"
+msgstr "Title Alignment"
+
+#: \auxin-content\options\auxin-options.php:4539
+msgid "Specifies alignment for main title in single post content."
+msgstr "Specifies alignment for main title in single post content."
+
+#: \auxin-content\options\auxin-options.php:4575
+msgid "Blog Page"
+msgstr "Blog Page"
+
+#: \auxin-content\options\auxin-options.php:4576
+#: \auxin-content\options\auxin-options.php:5293
+msgid "Preview Blog Archive"
+msgstr "Preview Blog Archive"
+
+#: \auxin-content\options\auxin-options.php:4587
+#: \auxin-content\options\auxin-options.php:5994
+msgid "Template 1"
+msgstr "Template 1"
+
+#: \auxin-content\options\auxin-options.php:4591
+#: \auxin-content\options\auxin-options.php:5999
+msgid "Template 2"
+msgstr "Template 2"
+
+#: \auxin-content\options\auxin-options.php:4595
+#: \auxin-content\options\auxin-options.php:6004
+msgid "Template 3"
+msgstr "Template 3"
+
+#: \auxin-content\options\auxin-options.php:4599
+#: \auxin-content\options\auxin-options.php:6009
+msgid "Template 4"
+msgstr "Template 4"
+
+#: \auxin-content\options\auxin-options.php:4608
+msgid "Grid"
+msgstr "Grid"
+
+#: \auxin-content\options\auxin-options.php:4612
+msgid "Masonry"
+msgstr "Masonry"
+
+#: \auxin-content\options\auxin-options.php:4616
+msgid "Timeline"
+msgstr "Timeline"
+
+#: \auxin-content\options\auxin-options.php:4620
+msgid "Land"
+msgstr "Land"
+
+#: \auxin-content\options\auxin-options.php:4624
+msgid "Tiles"
+msgstr "Tiles"
+
+#: \auxin-content\options\auxin-options.php:4633
+msgid "Blog Template"
+msgstr "Blog Template"
+
+#: \auxin-content\options\auxin-options.php:4634
+msgid "Choose your blog template."
+msgstr "Choose your blog template."
+
+#: \auxin-content\options\auxin-options.php:4653
+msgid "Display Featured Media"
+msgstr "Display Featured Media"
+
+#: \auxin-content\options\auxin-options.php:4654
+msgid "Enable it to display featured media on blog archive page."
+msgstr "Enable it to display featured media on blog archive page."
+
+#: \auxin-content\options\auxin-options.php:4691
+msgid "Image aspect ratio"
+msgstr "Image aspect ratio"
+
+#: \auxin-content\options\auxin-options.php:4709
+msgid "Horizontal 4:3"
+msgstr "Horizontal 4:3"
+
+#: \auxin-content\options\auxin-options.php:4710
+msgid "Horizontal 16:9"
+msgstr "Horizontal 16:9"
+
+#: \auxin-content\options\auxin-options.php:4711
+msgid "Square 1:1"
+msgstr "Square 1:1"
+
+#: \auxin-content\options\auxin-options.php:4712
+msgid "Vertical 3:4"
+msgstr "Vertical 3:4"
+
+#: \auxin-content\options\auxin-options.php:4726
+msgid "Auto Mask Featured Image"
+msgstr "Auto Mask Featured Image"
+
+#: \auxin-content\options\auxin-options.php:4727
+msgid "By enabling this option, the featured images in blog list which are above 800 pixels in height will be automatically masked.(Max height is 800 pixels)"
+msgstr "By enabling this option, the featured images in blog list which are above 800 pixels in height will be automatically masked.(Max height is 800 pixels)"
+
+#: \auxin-content\options\auxin-options.php:4744
+msgid "Grid Layout"
+msgstr "Grid Layout"
+
+#: \auxin-content\options\auxin-options.php:4745
+msgid "Specifies the style of grid column for each post."
+msgstr "Specifies the style of grid column for each post."
+
+#: \auxin-content\options\auxin-options.php:4778
+msgid "Display post info"
+msgstr "Display post info"
+
+#: \auxin-content\options\auxin-options.php:4795
+msgid "Post info position"
+msgstr "Post info position"
+
+#: \auxin-content\options\auxin-options.php:4813
+msgid "After Title"
+msgstr "After Title"
+
+#: \auxin-content\options\auxin-options.php:4814
+msgid "Before Title"
+msgstr "Before Title"
+
+#: \auxin-content\options\auxin-options.php:4881
+msgid "Display Categories"
+msgstr "Display Categories"
+
+#: \auxin-content\options\auxin-options.php:4905
+msgid "Number of columns"
+msgstr "Number of columns"
+
+#: \auxin-content\options\auxin-options.php:4933
+msgid "Number of columns in tablet"
+msgstr "Number of columns in tablet"
+
+#: \auxin-content\options\auxin-options.php:4962
+msgid "Number of columns in mobile"
+msgstr "Number of columns in mobile"
+
+#: \auxin-content\options\auxin-options.php:4989
+msgid "Exclude posts without media"
+msgstr "Exclude posts without media"
+
+#: \auxin-content\options\auxin-options.php:5013
+msgid "Exclude quote and link post formats"
+msgstr "Exclude quote and link post formats"
+
+#: \auxin-content\options\auxin-options.php:5014
+msgid "Do not display the posts with \"quote\" and \"link\" post formats"
+msgstr "Do not display the posts with \"quote\" and \"link\" post formats"
+
+#: \auxin-content\options\auxin-options.php:5037
+msgid "Load More Type"
+msgstr "Load More Type"
+
+#: \auxin-content\options\auxin-options.php:5038
+msgid "Replaces the default pagination in blog archive with a load more"
+msgstr "Replaces the default pagination in blog archive with a load more"
+
+#: \auxin-content\options\auxin-options.php:5055
+msgid "Infinite Scroll"
+msgstr "Infinite Scroll"
+
+#: \auxin-content\options\auxin-options.php:5059
+msgid "Next Button"
+msgstr "Next Button"
+
+#: \auxin-content\options\auxin-options.php:5063
+msgid "Next Prev"
+msgstr "Next Prev"
+
+#: \auxin-content\options\auxin-options.php:5079
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: \auxin-content\options\auxin-options.php:5080
+msgid "Select the string to read more permalink text in archive pages"
+msgstr "Select the string to read more permalink text in archive pages"
+
+#: \auxin-content\options\auxin-options.php:5084
+msgid "Read More"
+msgstr "Read More"
+
+#: \auxin-content\options\auxin-options.php:5099
+msgid "Enable it to display %s like button%s on blog posts. Please note WP Ulike plugin needs to be activaited to use this option."
+msgstr "Enable it to display %s like button%s on blog posts. Please note WP Ulike plugin needs to be activaited to use this option."
+
+#: \auxin-content\options\auxin-options.php:5123
+msgid "Timeline Alignment"
+msgstr "Timeline Alignment"
+
+#: \auxin-content\options\auxin-options.php:5124
+msgid "Specifies the alignment of timeline on blog page."
+msgstr "Specifies the alignment of timeline on blog page."
+
+#: \auxin-content\options\auxin-options.php:5161
+msgid "Blog Sidebar Position"
+msgstr "Blog Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:5162
+msgid "Specifies the position of sidebar on blog page. Please not that the sidebars in two-sidebar layouts are only visible on screen sizes with 1140px or higher in width."
+msgstr "Specifies the position of sidebar on blog page. Please not that the sidebars in two-sidebar layouts are only visible on screen sizes with 1140px or higher in width."
+
+#: \auxin-content\options\auxin-options.php:5203
+msgid "Blog Sidebar Style"
+msgstr "Blog Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:5204
+msgid "Specifies the style of sidebar on blog page."
+msgstr "Specifies the style of sidebar on blog page."
+
+#: \auxin-content\options\auxin-options.php:5235
+msgid "Blog content length"
+msgstr "Blog content length"
+
+#: \auxin-content\options\auxin-options.php:5236
+msgid "Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on blog page"
+msgstr "Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on blog page"
+
+#: \auxin-content\options\auxin-options.php:5255
+#: \auxin-content\options\auxin-options.php:6103
+msgid "Full text"
+msgstr "Full text"
+
+#: \auxin-content\options\auxin-options.php:5256
+#: \auxin-content\options\auxin-options.php:6104
+msgid "Summary"
+msgstr "Summary"
+
+#: \auxin-content\options\auxin-options.php:5263
+#: \auxin-content\options\auxin-options.php:6111
+msgid "Summery length"
+msgstr "Summery length"
+
+#: \auxin-content\options\auxin-options.php:5264
+msgid "Specifies summary character length for each post on blog page."
+msgstr "Specifies summary character length for each post on blog page."
+
+#: \auxin-content\options\auxin-options.php:5292
+msgid "Blog Slider"
+msgstr "Blog Slider"
+
+#: \auxin-content\options\auxin-options.php:5298
+msgid "Display Slider"
+msgstr "Display Slider"
+
+#: \auxin-content\options\auxin-options.php:5299
+msgid "Specifies to insert post slide above blog posts."
+msgstr "Specifies to insert post slide above blog posts."
+
+#: \auxin-content\options\auxin-options.php:5316
+msgid "Slider type"
+msgstr "Slider type"
+
+#: \auxin-content\options\auxin-options.php:5328
+msgid "Default Post Slider"
+msgstr "Default Post Slider"
+
+#: \auxin-content\options\auxin-options.php:5329
+msgid "Master Slider"
+msgstr "Master Slider"
+
+#: \auxin-content\options\auxin-options.php:5329
+msgid " (plugin is not installed)"
+msgstr " (plugin is not installed)"
+
+#: \auxin-content\options\auxin-options.php:5347
+msgid "MasterSlider"
+msgstr "MasterSlider"
+
+#: \auxin-content\options\auxin-options.php:5348
+msgid "Choose a slider from the list of available Master Sliders."
+msgstr "Choose a slider from the list of available Master Sliders."
+
+#: \auxin-content\options\auxin-options.php:5369
+msgid "Slider location"
+msgstr "Slider location"
+
+#: \auxin-content\options\auxin-options.php:5386
+msgid "Insert above archive content"
+msgstr "Insert above archive content"
+
+#: \auxin-content\options\auxin-options.php:5390
+msgid "Insert below the header"
+msgstr "Insert below the header"
+
+#: \auxin-content\options\auxin-options.php:5399
+msgid "Slides number"
+msgstr "Slides number"
+
+#: \auxin-content\options\auxin-options.php:5400
+msgid "Specifies maximum number of slides in slider."
+msgstr "Specifies maximum number of slides in slider."
+
+#: \auxin-content\options\auxin-options.php:5426
+msgid "Exclude posts"
+msgstr "Exclude posts"
+
+#: \auxin-content\options\auxin-options.php:5427
+#: \auxin-content\options\auxin-options.php:5454
+msgid "Post IDs separated by comma (eg. 53,34,87,25)."
+msgstr "Post IDs separated by comma (eg. 53,34,87,25)."
+
+#: \auxin-content\options\auxin-options.php:5453
+msgid "Include posts"
+msgstr "Include posts"
+
+#: \auxin-content\options\auxin-options.php:5480
+msgid "Start offset"
+msgstr "Start offset"
+
+#: \auxin-content\options\auxin-options.php:5481
+msgid "Specifies number of post to displace or pass over."
+msgstr "Specifies number of post to displace or pass over."
+
+#: \auxin-content\options\auxin-options.php:5507
+msgid "Order by"
+msgstr "Order by"
+
+#: \auxin-content\options\auxin-options.php:5530
+msgid "Date"
+msgstr "Date"
+
+#: \auxin-content\options\auxin-options.php:5531
+msgid "Menu Order"
+msgstr "Menu Order"
+
+#: \auxin-content\options\auxin-options.php:5532
+msgid "Title"
+msgstr "Title"
+
+#: \auxin-content\options\auxin-options.php:5533
+msgid "ID"
+msgstr "ID"
+
+#: \auxin-content\options\auxin-options.php:5534
+msgid "Random"
+msgstr "Random"
+
+#: \auxin-content\options\auxin-options.php:5535
+msgid "Comments"
+msgstr "Comments"
+
+#: \auxin-content\options\auxin-options.php:5536
+msgid "Date Modified"
+msgstr "Date Modified"
+
+#: \auxin-content\options\auxin-options.php:5544
+msgid "Order direction"
+msgstr "Order direction"
+
+#: \auxin-content\options\auxin-options.php:5567
+msgid "Descending"
+msgstr "Descending"
+
+#: \auxin-content\options\auxin-options.php:5568
+msgid "Ascending"
+msgstr "Ascending"
+
+#: \auxin-content\options\auxin-options.php:5575
+msgid "Slider skin"
+msgstr "Slider skin"
+
+#: \auxin-content\options\auxin-options.php:5599
+msgid "Light and boxed"
+msgstr "Light and boxed"
+
+#: \auxin-content\options\auxin-options.php:5603
+msgid "Dark and boxed"
+msgstr "Dark and boxed"
+
+#: \auxin-content\options\auxin-options.php:5607
+msgid "Light overlay"
+msgstr "Light overlay"
+
+#: \auxin-content\options\auxin-options.php:5611
+msgid "Dark overlay"
+msgstr "Dark overlay"
+
+#: \auxin-content\options\auxin-options.php:5620
+msgid "Insert post title"
+msgstr "Insert post title"
+
+#: \auxin-content\options\auxin-options.php:5647
+msgid "Insert post meta"
+msgstr "Insert post meta"
+
+#: \auxin-content\options\auxin-options.php:5678
+msgid "Grab the image from"
+msgstr "Grab the image from"
+
+#: \auxin-content\options\auxin-options.php:5701
+msgid "Auto select"
+msgstr "Auto select"
+
+#: \auxin-content\options\auxin-options.php:5702
+msgid "Featured image"
+msgstr "Featured image"
+
+#: \auxin-content\options\auxin-options.php:5703
+msgid "First image in post"
+msgstr "First image in post"
+
+#: \auxin-content\options\auxin-options.php:5704
+msgid "Custom image"
+msgstr "Custom image"
+
+#: \auxin-content\options\auxin-options.php:5742
+msgid "Exclude posts without image"
+msgstr "Exclude posts without image"
+
+#: \auxin-content\options\auxin-options.php:5768
+msgid "Slider image width"
+msgstr "Slider image width"
+
+#: \auxin-content\options\auxin-options.php:5795
+msgid "Slider image height"
+msgstr "Slider image height"
+
+#: \auxin-content\options\auxin-options.php:5821
+msgid "Arrow navigation"
+msgstr "Arrow navigation"
+
+#: \auxin-content\options\auxin-options.php:5822
+msgid "Specifies to insert arrow buttons over slider."
+msgstr "Specifies to insert arrow buttons over slider."
+
+#: \auxin-content\options\auxin-options.php:5848
+msgid "Space between slides"
+msgstr "Space between slides"
+
+#: \auxin-content\options\auxin-options.php:5875
+msgid "Looped navigation"
+msgstr "Looped navigation"
+
+#: \auxin-content\options\auxin-options.php:5903
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: \auxin-content\options\auxin-options.php:5930
+msgid "Slideshow delay in seconds"
+msgstr "Slideshow delay in seconds"
+
+#: \auxin-content\options\auxin-options.php:5967
+msgid "Blog Category & tag"
+msgstr "Blog Category & tag"
+
+#: \auxin-content\options\auxin-options.php:5968
+msgid "Blog Category & tag page Setting"
+msgstr "Blog Category & tag page Setting"
+
+#: \auxin-content\options\auxin-options.php:5972
+msgid "Taxonomy Page Template"
+msgstr "Taxonomy Page Template"
+
+#: \auxin-content\options\auxin-options.php:6017
+msgid "Taxonomy Page Sidebar Position"
+msgstr "Taxonomy Page Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:6059
+msgid "Specifies the style of sidebar on category & tag page."
+msgstr "Specifies the style of sidebar on category & tag page."
+
+#: \auxin-content\options\auxin-options.php:6089
+msgid "Taxonomy content length"
+msgstr "Taxonomy content length"
+
+#: \auxin-content\options\auxin-options.php:6090
+msgid "Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on category & tag page."
+msgstr "Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on category & tag page."
+
+#: \auxin-content\options\auxin-options.php:6112
+msgid "Specifies summary character length on category & tag page."
+msgstr "Specifies summary character length on category & tag page."
+
+#: \auxin-content\options\auxin-options.php:6234
+msgid "Page"
+msgstr "Page"
+
+#: \auxin-content\options\auxin-options.php:6235
+msgid "Page Setting"
+msgstr "Page Setting"
+
+#: \auxin-content\options\auxin-options.php:6244
+#: \auxin-content\options\auxin-options.php:6251
+msgid "Page Layout"
+msgstr "Page Layout"
+
+#: \auxin-content\options\auxin-options.php:6245
+msgid "Page Layout Setting"
+msgstr "Page Layout Setting"
+
+#: \auxin-content\options\auxin-options.php:6252
+#: \auxin-content\options\auxin-options.php:6387
+msgid "Preview a page"
+msgstr "Preview a page"
+
+#: \auxin-content\options\auxin-options.php:6258
+msgid "Page Sidebar Position"
+msgstr "Page Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:6259
+msgid "Specifies position of sidebar on page."
+msgstr "Specifies position of sidebar on page."
+
+#: \auxin-content\options\auxin-options.php:6298
+msgid "Page Sidebar Style"
+msgstr "Page Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:6331
+msgid "Enable it to display a space between title and content. If you need to start your content from very top of the page, disable it."
+msgstr "Enable it to display a space between title and content. If you need to start your content from very top of the page, disable it."
+
+#: \auxin-content\options\auxin-options.php:6361
+msgid "If you select \"Full\", the content fills the entire width of the page."
+msgstr "If you select \"Full\", the content fills the entire width of the page."
+
+#: \auxin-content\options\auxin-options.php:6386
+msgid "Page Title"
+msgstr "Page Title"
+
+#: \auxin-content\options\auxin-options.php:7551
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: \auxin-content\options\auxin-options.php:7552
+msgid "Woocommerce Setting"
+msgstr "Woocommerce Setting"
+
+#: \auxin-content\options\auxin-options.php:7561
+msgid "Single Product Page"
+msgstr "Single Product Page"
+
+#: \auxin-content\options\auxin-options.php:7562
+msgid "Preview a Single Product Page"
+msgstr "Preview a Single Product Page"
+
+#: \auxin-content\options\auxin-options.php:7566
+msgid "Single Product Sidebar Position"
+msgstr "Single Product Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:7567
+msgid "Specifies the position of sidebar on single product page."
+msgstr "Specifies the position of sidebar on single product page."
+
+#: \auxin-content\options\auxin-options.php:7608
+msgid "Single Product Sidebar Style"
+msgstr "Single Product Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:7665
+msgid "Shop Page"
+msgstr "Shop Page"
+
+#: \auxin-content\options\auxin-options.php:7666
+msgid "Preview Portfolio Page"
+msgstr "Preview Portfolio Page"
+
+#: \auxin-content\options\auxin-options.php:7671
+msgid "Shop Page Sidebar Position"
+msgstr "Shop Page Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:7672
+msgid "Specifies the position of sidebar on shop page."
+msgstr "Specifies the position of sidebar on shop page."
+
+#: \auxin-content\options\auxin-options.php:7713
+msgid "Shop Sidebar Style"
+msgstr "Shop Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:7714
+msgid "Specifies the style of sidebar on shop page."
+msgstr "Specifies the style of sidebar on shop page."
+
+#: \auxin-content\options\auxin-options.php:7769
+#: \auxin-content\options\auxin-options.php:7851
+msgid "Product Category & Tag"
+msgstr "Product Category & Tag"
+
+#: \auxin-content\options\auxin-options.php:7770
+#: \auxin-content\options\auxin-options.php:7852
+msgid "Product Category & Tag Page Setting"
+msgstr "Product Category & Tag Page Setting"
+
+#: \auxin-content\options\auxin-options.php:7774
+msgid "Product Taxonomy Sidebar Position"
+msgstr "Product Taxonomy Sidebar Position"
+
+#: \auxin-content\options\auxin-options.php:7775
+msgid "Specifies the position of sidebar on product category & tag page."
+msgstr "Specifies the position of sidebar on product category & tag page."
+
+#: \auxin-content\options\auxin-options.php:7815
+msgid "Product Taxonomy Sidebar Style"
+msgstr "Product Taxonomy Sidebar Style"
+
+#: \auxin-content\options\auxin-options.php:7816
+msgid "Specifies the style of sidebar on product category & tag page."
+msgstr "Specifies the style of sidebar on product category & tag page."
+
+#: \auxin-content\options\auxin-options.php:7866
+#: \auxin-content\options\auxin-options.php:8175
+msgid "Footer"
+msgstr "Footer"
+
+#: \auxin-content\options\auxin-options.php:7867
+#: \auxin-content\options\auxin-options.php:8176
+msgid "Footer Setting"
+msgstr "Footer Setting"
+
+#: \auxin-content\options\auxin-options.php:7876
+msgid "Subfooter Bar"
+msgstr "Subfooter Bar"
+
+#: \auxin-content\options\auxin-options.php:7877
+msgid "Subfooter Bar Setting"
+msgstr "Subfooter Bar Setting"
+
+#: \auxin-content\options\auxin-options.php:7881
+msgid "Display Subfooter Bar"
+msgstr "Display Subfooter Bar"
+
+#: \auxin-content\options\auxin-options.php:7882
+msgid "Enable it to display subfooter bar above of subfooter."
+msgstr "Enable it to display subfooter bar above of subfooter."
+
+#: \auxin-content\options\auxin-options.php:7894
+msgid "Subfooter Bar Layout"
+msgstr "Subfooter Bar Layout"
+
+#: \auxin-content\options\auxin-options.php:7895
+msgid "Specifies layout of subtoofer bar."
+msgstr "Specifies layout of subtoofer bar."
+
+#: \auxin-content\options\auxin-options.php:7917
+msgid "Full with small vertical padding"
+msgstr "Full with small vertical padding"
+
+#: \auxin-content\options\auxin-options.php:7921
+msgid "Boxed with small vertical padding"
+msgstr "Boxed with small vertical padding"
+
+#: \auxin-content\options\auxin-options.php:7932
+msgid "Specifies background color of subfooter bar."
+msgstr "Specifies background color of subfooter bar."
+
+#: \auxin-content\options\auxin-options.php:7953
+#: \auxin-content\options\auxin-options.php:8107
+#: \auxin-content\options\auxin-options.php:8312
+msgid "Top Border Color"
+msgstr "Top Border Color"
+
+#: \auxin-content\options\auxin-options.php:7955
+msgid "Specifies top border color of subfooter bar."
+msgstr "Specifies top border color of subfooter bar."
+
+#: \auxin-content\options\auxin-options.php:7981
+msgid "Sub Footer"
+msgstr "Sub Footer"
+
+#: \auxin-content\options\auxin-options.php:7982
+msgid "Sub Footer Setting"
+msgstr "Sub Footer Setting"
+
+#: \auxin-content\options\auxin-options.php:7987
+msgid "Display Subfooter"
+msgstr "Display Subfooter"
+
+#: \auxin-content\options\auxin-options.php:7988
+msgid "Enable it to display subfooter on all pages."
+msgstr "Enable it to display subfooter on all pages."
+
+#: \auxin-content\options\auxin-options.php:8000
+msgid "Subfooter Layout"
+msgstr "Subfooter Layout"
+
+#: \auxin-content\options\auxin-options.php:8001
+msgid "Select layout for subfooter widget columns."
+msgstr "Select layout for subfooter widget columns."
+
+#: \auxin-content\options\auxin-options.php:8002
+msgid "It generates some widgetareas for subfooter based on the layout, which you need to %s fill them.%s"
+msgstr "It generates some widgetareas for subfooter based on the layout, which you need to %s fill them.%s"
+
+#: \auxin-content\options\auxin-options.php:8016
+msgid "1 Column"
+msgstr "1 Column"
+
+#: \auxin-content\options\auxin-options.php:8020
+msgid "2 Columns- 1/2  1/2"
+msgstr "2 Columns- 1/2  1/2"
+
+#: \auxin-content\options\auxin-options.php:8024
+msgid "2 Columns- 2/3  1/3"
+msgstr "2 Columns- 2/3  1/3"
+
+#: \auxin-content\options\auxin-options.php:8028
+msgid "2 Columns- 1/3  2/3"
+msgstr "2 Columns- 1/3  2/3"
+
+#: \auxin-content\options\auxin-options.php:8032
+msgid "2 Columns- 3/4  1/4"
+msgstr "2 Columns- 3/4  1/4"
+
+#: \auxin-content\options\auxin-options.php:8036
+msgid "2 Columns- 1/4  3/4"
+msgstr "2 Columns- 1/4  3/4"
+
+#: \auxin-content\options\auxin-options.php:8040
+msgid "3 Columns- 1/3  1/3  1/3"
+msgstr "3 Columns- 1/3  1/3  1/3"
+
+#: \auxin-content\options\auxin-options.php:8044
+msgid "3 Columns- 1/2  1/4  1/4"
+msgstr "3 Columns- 1/2  1/4  1/4"
+
+#: \auxin-content\options\auxin-options.php:8048
+msgid "3 Columns- 1/4  1/4  1/2"
+msgstr "3 Columns- 1/4  1/4  1/2"
+
+#: \auxin-content\options\auxin-options.php:8052
+msgid "4 Columns- 1/4  1/4  1/4  1/4"
+msgstr "4 Columns- 1/4  1/4  1/4  1/4"
+
+#: \auxin-content\options\auxin-options.php:8056
+msgid "5 Columns- 1/5  1/5  1/5  1/5  1/5"
+msgstr "5 Columns- 1/5  1/5  1/5  1/5  1/5"
+
+#: \auxin-content\options\auxin-options.php:8068
+msgid "Specifies background color of subfooter."
+msgstr "Specifies background color of subfooter."
+
+#: \auxin-content\options\auxin-options.php:8089
+msgid "Dark Skin For Widgets"
+msgstr "Dark Skin For Widgets"
+
+#: \auxin-content\options\auxin-options.php:8090
+msgid "Enable it to change the skin of widgets to dark mode"
+msgstr "Enable it to change the skin of widgets to dark mode"
+
+#: \auxin-content\options\auxin-options.php:8109
+msgid "Specifies top border color of subfooter."
+msgstr "Specifies top border color of subfooter."
+
+#: \auxin-content\options\auxin-options.php:8132
+msgid "Hide Subfooter on Tablet"
+msgstr "Hide Subfooter on Tablet"
+
+#: \auxin-content\options\auxin-options.php:8133
+msgid "Enable it to hide subfooter on tablet devices."
+msgstr "Enable it to hide subfooter on tablet devices."
+
+#: \auxin-content\options\auxin-options.php:8151
+msgid "Hide Subfooter on mobile"
+msgstr "Hide Subfooter on mobile"
+
+#: \auxin-content\options\auxin-options.php:8152
+msgid "Enable it to hide subfooter on mobile devices."
+msgstr "Enable it to hide subfooter on mobile devices."
+
+#: \auxin-content\options\auxin-options.php:8180
+msgid "Display Footer"
+msgstr "Display Footer"
+
+#: \auxin-content\options\auxin-options.php:8181
+msgid "Enable it to display footer on all pages."
+msgstr "Enable it to display footer on all pages."
+
+#: \auxin-content\options\auxin-options.php:8193
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: \auxin-content\options\auxin-options.php:8194
+msgid "Specifies the footer layout."
+msgstr "Specifies the footer layout."
+
+#: \auxin-content\options\auxin-options.php:8213
+msgid "Footer Preset 1"
+msgstr "Footer Preset 1"
+
+#: \auxin-content\options\auxin-options.php:8217
+msgid "Footer Preset 2"
+msgstr "Footer Preset 2"
+
+#: \auxin-content\options\auxin-options.php:8221
+msgid "Footer Preset 3"
+msgstr "Footer Preset 3"
+
+#: \auxin-content\options\auxin-options.php:8225
+msgid "Footer Preset 4"
+msgstr "Footer Preset 4"
+
+#: \auxin-content\options\auxin-options.php:8233
+msgid "Footer Copyright Text"
+msgstr "Footer Copyright Text"
+
+#: \auxin-content\options\auxin-options.php:8234
+msgid "Enter your copyright text to display on footer."
+msgstr "Enter your copyright text to display on footer."
+
+#: \auxin-content\options\auxin-options.php:8249
+msgid "&copy; {{Y}} {{sitename}}. All rights reserved."
+msgstr "&copy; {{Y}} {{sitename}}. All rights reserved."
+
+#: \auxin-content\options\auxin-options.php:8254
+msgid "Show Phlox attribution"
+msgstr "Show Phlox attribution"
+
+#: \auxin-content\options\auxin-options.php:8255
+msgid "Show the \"Powered By Phlox\" text with link to Phlox homepage in footer."
+msgstr "Show the \"Powered By Phlox\" text with link to Phlox homepage in footer."
+
+#: \auxin-content\options\auxin-options.php:8271
+msgid "Enbale Sticky Footer"
+msgstr "Enbale Sticky Footer"
+
+#: \auxin-content\options\auxin-options.php:8272
+msgid "Enable this option to pin the footer and subfooter to bottom of the website."
+msgstr "Enable this option to pin the footer and subfooter to bottom of the website."
+
+#: \auxin-content\options\auxin-options.php:8288
+msgid "Footer Background Color"
+msgstr "Footer Background Color"
+
+#: \auxin-content\options\auxin-options.php:8289
+msgid "Specifies the background color for footer"
+msgstr "Specifies the background color for footer"
+
+#: \auxin-content\options\auxin-options.php:8314
+msgid "Specifies top border color of footer."
+msgstr "Specifies top border color of footer."
+
+#: \auxin-content\options\auxin-options.php:8346
+#: \auxin-content\options\auxin-options.php:8347
+msgid "Extras"
+msgstr "Extras"
+
+#: \auxin-content\options\auxin-options.php:8356
+#: \auxin-content\options\auxin-options.php:8357
+msgid "Import Theme Options"
+msgstr "Import Theme Options"
+
+#: \auxin-content\options\auxin-options.php:8362
+msgid "Theme options code"
+msgstr "Theme options code"
+
+#: \auxin-content\options\auxin-options.php:8382
+#: \auxin-content\options\auxin-options.php:8383
+#: \auxin-content\options\auxin-options.php:8388
+msgid "Export Theme Options"
+msgstr "Export Theme Options"
+
+#: \auxin-content\options\auxin-options.php:8389
+msgid "Your theme options code which you can import later."
+msgstr "Your theme options code which you can import later."
+
+#: \auxin-content\options\auxin-options.php:8403
+msgid "Go to Top Button "
+msgstr "Go to Top Button "
+
+#: \auxin-content\options\auxin-options.php:8404
+msgid "Go to Top Button Options"
+msgstr "Go to Top Button Options"
+
+#: \auxin-content\options\auxin-options.php:8408
+msgid "Display Go to top button"
+msgstr "Display Go to top button"
+
+#: \auxin-content\options\auxin-options.php:8420
+msgid "Animate scroll"
+msgstr "Animate scroll"
+
+#: \auxin-content\options\auxin-options.php:8421
+msgid "Specifies whether animate or instantly go to top of page, when goto top button clicks."
+msgstr "Specifies whether animate or instantly go to top of page, when goto top button clicks."
+
+#: \auxin-content\options\auxin-options.php:8474
+msgid "Performance"
+msgstr "Performance"
+
+#: \auxin-content\options\auxin-options.php:8475
+msgid "Performance Options"
+msgstr "Performance Options"
+
+#: \auxin-content\options\auxin-options.php:8479
+msgid "Enable image preload preview"
+msgstr "Enable image preload preview"
+
+#: \auxin-content\options\auxin-options.php:8480
+msgid "Specifies whether to preload images in order to reduce page loading time or load them normally."
+msgstr "Specifies whether to preload images in order to reduce page loading time or load them normally."
+
+#: \auxin-content\options\auxin-options.php:8491
+msgid "Image preload transition duration"
+msgstr "Image preload transition duration"
+
+#: \auxin-content\options\auxin-options.php:8492
+msgid "Specifies the duration of blur fade transition (in milliseconds) when an image completely loaded."
+msgstr "Specifies the duration of blur fade transition (in milliseconds) when an image completely loaded."
+
+#: \comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: \comments.php:30
+msgid "No Responses"
+msgstr "No Responses"
+
+#: \comments.php:30
+msgid "One Response"
+msgstr "One Response"
+
+#: \comments.php:30
+msgid "% Responses"
+msgstr "% Responses"
+
+#: \comments.php:65
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: \comments.php:77
+msgid "You must be %s logged in %s to post a comment"
+msgstr "You must be %s logged in %s to post a comment"
+
+#: \comments.php:78
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+
+#: \comments.php:82
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: \searchform.php:12
+msgid "Search Here"
+msgstr "Search Here"
+
+#: \sidebar-primary.php:30
+msgid "Search widget area is empty."
+msgstr "Search widget area is empty."
+
+#. Template Name of the theme
+msgid "Blog Archive 1"
+msgstr "Blog Archive 1"
+
+#. Template Name of the theme
+msgid "Blog Archive 10"
+msgstr "Blog Archive 10"
+
+#. Template Name of the theme
+msgid "Blog Archive 2"
+msgstr "Blog Archive 2"
+
+#. Template Name of the theme
+msgid "Blog Archive 3"
+msgstr "Blog Archive 3"
+
+#. Template Name of the theme
+msgid "Blog Archive 4"
+msgstr "Blog Archive 4"
+
+#. Template Name of the theme
+msgid "Grid Blog"
+msgstr "Grid Blog"
+
+#. Template Name of the theme
+msgid "Masonry Blog"
+msgstr "Masonry Blog"
+
+#. Template Name of the theme
+msgid "Timeline Blog"
+msgstr "Timeline Blog"
+
+#. Template Name of the theme
+msgid "Land Blog"
+msgstr "Land Blog"
+
+#. Template Name of the theme
+msgid "Tiles Blog"
+msgstr "Tiles Blog"
+
+#. Template Name of the theme
+msgid "Blog Archive Default ( New )"
+msgstr "Blog Archive Default ( New )"
+
+#: \templates\theme-parts\content-no-results.php:10
+#: \templates\theme-parts\content-none.php:10
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: \templates\theme-parts\content-no-results.php:11
+msgid "Sorry, no results were found. Try another search?"
+msgstr "Sorry, no results were found. Try another search?"
+
+#: \templates\theme-parts\content-no-results.php:16
+msgid "Back to home page"
+msgstr "Back to home page"
+
+#: \templates\theme-parts\content-none.php:11
+msgid "Sorry, no results were found. Perhaps searching will help to find what you are looking for."
+msgstr "Sorry, no results were found. Perhaps searching will help to find what you are looking for."
+
+#: \templates\theme-parts\content-none.php:16
+#: \templates\theme-parts\entry\404.php:14
+msgid "Bring me back home"
+msgstr "Bring me back home"
+
+#: \templates\theme-parts\content.php:19
+#: \templates\theme-parts\entry\post-land.php:86
+#: \templates\theme-parts\entry\post.php:128
+#: \templates\theme-parts\entry\single-post.php:134
+msgid "Pages:"
+msgstr "Pages:"
+
+#: \templates\theme-parts\content.php:25
+msgid "Tags"
+msgstr "Tags"
+
+#: \templates\theme-parts\content.php:41
+msgid "Not Found"
+msgstr "Not Found"
+
+#: \templates\theme-parts\content.php:45
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "Sorry, but the requested resource was not found on this site."
+
+#: \templates\theme-parts\entry\404.php:8
+msgid "Oops! Page Not Found"
+msgstr "Oops! Page Not Found"
+
+#: \templates\theme-parts\entry\404.php:9
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: \templates\theme-parts\entry\post-column.php:71
+#: \templates\theme-parts\entry\post-land.php:53
+#: \templates\theme-parts\entry\post-tile.php:39
+#: \templates\theme-parts\entry\post.php:93
+#: \templates\theme-parts\entry\search.php:45
+#: \templates\theme-parts\entry\single-post.php:107
+msgid "View all posts in "
+msgstr "View all posts in "
+
+#: \templates\theme-parts\entry\post-land.php:76
+#: \templates\theme-parts\entry\post.php:118
+msgid "Continue Reading"
+msgstr "Continue Reading"
+
+#: \templates\theme-parts\entry\post.php:84
+#: \templates\theme-parts\entry\single-post.php:96
+msgid "with"
+msgstr "with"
+
+#: \templates\theme-parts\entry\post.php:85
+msgid "No Comment"
+msgstr "No Comment"
+
+#: \templates\theme-parts\entry\post.php:85
+msgid "One Comment"
+msgstr "One Comment"
+
+#: \templates\theme-parts\entry\post.php:85
+msgid "% Comments"
+msgstr "% Comments"
+
+#: \templates\theme-parts\entry\single-post.php:97
+msgid "no comment"
+msgstr "no comment"
+
+#: \templates\theme-parts\entry\single-post.php:97
+msgid "one comment"
+msgstr "one comment"
+
+#: \templates\theme-parts\entry\single-post.php:97
+msgid "% comments"
+msgstr "% comments"
+
+#: \templates\theme-parts\entry\single-post.php:140
+msgid "Tags: "
+msgstr "Tags: "
+
+#: \templates\theme-parts\entry\single-post.php:149
+msgid "Share"
+msgstr "Share"
+
+#: \templates\theme-parts\entry\single-post.php:157
+msgid "Tags: No tags"
+msgstr "Tags: No tags"
+
+#. Theme URI of the theme
+msgid "http://averta.net/phlox/wordpress-theme/"
+msgstr "http://averta.net/phlox/wordpress-theme/"
+
+#. Description of the theme
+msgid "Build an Elegant and Stylish Website for Free! Phlox is the most modern and powerful theme available for download on WordPress official repository. It is a perfect solution for business owners, bloggers, photographers, travelers or anyone who seeks to own a professional website."
+msgstr "Build an Elegant and Stylish Website for Free! Phlox is the most modern and powerful theme available for download on WordPress official repository. It is a perfect solution for business owners, bloggers, photographers, travelers or anyone who seeks to own a professional website."
+
+#. Author of the theme
+msgid "averta"
+msgstr "averta"
+
+#. Author URI of the theme
+msgid "http://www.averta.net"
+msgstr "http://www.averta.net"
