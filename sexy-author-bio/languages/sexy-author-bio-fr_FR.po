@@ -1,0 +1,1159 @@
+# 
+# Translators:
+# Franck, 2015
+# FX Bénard <fxb@wp-translations.org>, 2015
+# Ⓦolforg <contact@wolforg.eu>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Sexy Author Bio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-18 11:44+0100\n"
+"PO-Revision-Date: 2018-01-16 12:15+0000\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/sexy-author-bio/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: sexy-author-bio.php:272
+msgid "Author Signature Info"
+msgstr "Info de signature de l'auteur"
+
+#: sexy-author-bio.php:288
+msgid "Job Title"
+msgstr "Titre du poste"
+
+#: sexy-author-bio.php:291
+msgid "Please enter your job title."
+msgstr "Merci de saisir le nom de votre poste."
+
+#: sexy-author-bio.php:295
+msgid "Hide Job Title"
+msgstr "Cacher le titre du poste"
+
+#: sexy-author-bio.php:298
+msgid "Check this checkbox if you want the job title hidden for this user."
+msgstr "Cochez ceci si vous voulez que le titre du poste soit caché pour cet utilisateur."
+
+#: sexy-author-bio.php:302
+msgid "Company"
+msgstr "Société"
+
+#: sexy-author-bio.php:305
+msgid "Please enter your company."
+msgstr "Merci de saisir votre société"
+
+#: sexy-author-bio.php:309
+msgid "Company Website URL"
+msgstr "URL du site de la société"
+
+#: sexy-author-bio.php:312
+msgid "Please enter your company's website URL."
+msgstr "Merci d'entrer l'URL du site de votre société."
+
+#: sexy-author-bio.php:316
+msgid "Name Link"
+msgstr "Nom du lien"
+
+#: sexy-author-bio.php:319
+msgid "Please enter the URL you want your name to link to."
+msgstr "Merci d'entrer le nom de lien que vous voulez afficher pour votre URL"
+
+#: sexy-author-bio.php:323
+msgid "Avatar Link"
+msgstr "Lien d'avatar"
+
+#: sexy-author-bio.php:326
+msgid "Please enter the URL you want your avatar to link to."
+msgstr "Merci d'entrer l'URL du lien pour votre avatar."
+
+#: sexy-author-bio.php:330
+msgid "Hide Signature"
+msgstr "Cacher la signature"
+
+#: sexy-author-bio.php:333
+msgid "Check this checkbox if you want the signature hidden for this user."
+msgstr "Cochez ceci si vous voulez que la signature soit cachée pour cet utilisateur."
+
+#: sexy-author-bio.php:337
+msgid "Custom Avatar URL"
+msgstr "URL d'avatar personnalisé"
+
+#: sexy-author-bio.php:340
+msgid ""
+"If you would prefer to use a custom avatar image instead of your Gravatar, "
+"enter the URL of the custom avatar image here."
+msgstr "Si vous préférez utiliser un avatar personnalisé au lieu de votre Gravatar, entrez l'URL de votre avatar ici."
+
+# @ sexy-author-bio
+#: sexy-author-bio.php:398 admin/class-sexy-author-bio-admin.php:653
+#: admin/class-sexy-author-bio-admin.php:654
+msgid "Sexy Author Bio"
+msgstr "Sexy Author Bio"
+
+#: sexy-author-bio.php:399
+msgid "The Sexy Author Bio Widget"
+msgstr "Le widget Sexy Author Bio"
+
+#: sexy-author-bio.php:434
+msgid "Title:"
+msgstr "Titre :"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installation des extensions requises"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension : %s"
+
+#: inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur s'est produite avec l'API de l'extension."
+
+#: inc/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème a besoin de l'extension suivante : %1$s"
+msgstr[1] "Ce thème a besoin des extensions suivantes : %1$s"
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l'extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "Désolé mais vous n'avez pas les droits suffisants pour installer l'extension %1$s."
+msgstr[1] "Désolé mais vous n'avez pas les droits suffisants pour installer les extensions %1$s."
+
+#: inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "L'extension suivante nécessite une mise à jour pour assurer une compatibilité maximum avec ce thème : %1$s"
+msgstr[1] "Les extensions suivantes nécessitent une mise à jour pour assurer une compatibilité maximum avec ce thème : %1$s"
+
+#: inc/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Il y a une mise à jour disponible pour : %1$s"
+msgstr[1] "Il y a des mises à jour disponibles pour les extensions suivantes : %1$s"
+
+#: inc/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Désolé, mais vous n'avez pas la permission de mettre à jour l'extension %1$s."
+msgstr[1] "Désolé, mais vous n'avez pas la permission de mettre à jour les extensions %1$s."
+
+#: inc/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L'extension requise suivante est inactive : %1$s"
+msgstr[1] "Les extensions requises suivantes sont inactives : %1$s"
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L'extension requise suivante est inactive : %1$s"
+msgstr[1] "Les extensions requises suivantes sont inactives : %1$s"
+
+#: inc/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Désolé, mais vous n'avez pas la permission d'activer l'extension %1$s."
+msgstr[1] "Désolé, mais vous n'avez pas la permission d'activer les extensions %1$s."
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Début d'installation de l'extension"
+msgstr[1] "Début d'installation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Début de mise à jour de l'extension"
+msgstr[1] "Début de mise à jour des extensions"
+
+#: inc/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Début d'activation de l'extension"
+msgstr[1] "Début d'activation des extensions"
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Retour vers l'installeur d'extensions"
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Retour au Tableau de Bord"
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Extension activée avec succès."
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L'extension suivante a été activée avec succès :"
+msgstr[1] "Les extensions suivantes ont été activées avec succès :"
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Pas d'action requise. L'extension %1$s est déjà active."
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "Extension non activée. Une version plus récente de %s est requise pour ce thème. Merci de la mettre à jour."
+
+#: inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes extensions installées et activées. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Retirer cette notice"
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Merci de contacter l'administrateur de ce site pour de l'aide."
+
+#: inc/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Requis"
+
+#: inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Dépot WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pré-Packagé"
+
+#: inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Actif"
+
+#: inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Mise à jour requise"
+
+#: inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tout <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr "0 extensions à installer ou à activer. <a href=\"%1$s\">Retour vers le Tableau de Bord</a>"
+
+#: inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "État"
+
+#: inc/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Mise à jour %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activater %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Mise à jour"
+
+#: inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "0 extensions disponibles à l'installation pour l'instant Pas d'action en cours."
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "0 extensions choisies pour la mise à jour. Pas d'action en cours."
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "0 extensions disponibles à l'installation pour l'instant"
+
+#: inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "0 extensions disponibles à la mise à jour pour l'instant."
+
+#: inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Échec d'activation de l'extension"
+
+#: inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour d'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur a eu lieu durant l'installation de %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué"
+
+#: inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr "Le processus d'installation et d'activation démarre. Cette opération peut prendre quelques minutes selon votre hébergement, patientez..."
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été effectuées"
+
+#: inc/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Le processus d'installation démarre. Cette opération peut prendre quelques minutes selon votre hébergement, soyez patients"
+
+#: inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été effectuées."
+
+#: inc/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:89
+msgid "Settings"
+msgstr "Paramètres"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:94
+msgid "Display in"
+msgstr "Affichage"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:97
+#, php-format
+msgid "You can display the box directly into your theme using: %s"
+msgstr "Vous pouvez afficher directement la boîte dans votre thème en utilisant : %s"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:101
+msgid "Only in Posts"
+msgstr "Seulement dans les articles"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:102
+msgid "Homepage and Posts"
+msgstr "Page d'accueil et articles"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:103
+#: admin/class-sexy-author-bio-admin.php:219
+#: admin/class-sexy-author-bio-admin.php:286
+#: admin/class-sexy-author-bio-admin.php:408
+#: admin/class-sexy-author-bio-admin.php:487
+msgid "None"
+msgstr "Aucun"
+
+#: admin/class-sexy-author-bio-admin.php:107
+msgid "Author Links"
+msgstr "Liens de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:110
+msgid "Control whether or not users can set avatar and name links"
+msgstr "Contrôle si les utilisateurs peuvent ou ne peuvent pas définir les liens du nom et de l'avatar"
+
+#: admin/class-sexy-author-bio-admin.php:114
+msgid "Users set the links"
+msgstr "Les utilisateurs définissent les liens"
+
+#: admin/class-sexy-author-bio-admin.php:115
+msgid "Author avatar and name link to author page"
+msgstr "Avatar de l'auteur et nom du lien vers la page auteur"
+
+#: admin/class-sexy-author-bio-admin.php:116
+msgid "Remove links from author avatar and name"
+msgstr "Retirer les liens de l'avatar et du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:120
+msgid "Nofollow Links"
+msgstr "Liens nofollow"
+
+#: admin/class-sexy-author-bio-admin.php:123
+msgid "Toggle Sexy Author Bio links between follow and nofollow"
+msgstr "Basculer les liens de Sexy Author Bio entre follow et nofollow"
+
+#: admin/class-sexy-author-bio-admin.php:127
+msgid "FOLLOW Links"
+msgstr "Liens FOLLOW"
+
+#: admin/class-sexy-author-bio-admin.php:128
+msgid "NOFOLLOW Links"
+msgstr "Liens NOFOLLOW"
+
+#: admin/class-sexy-author-bio-admin.php:132
+msgid "Link Target"
+msgstr "Cible du lien"
+
+#: admin/class-sexy-author-bio-admin.php:135
+msgid "Set Sexy Author Bio links to open in current window or in a new window"
+msgstr "Définir l'ouverture des liens Sexy Author Bio dans la fenêtre actuelle ou une nouvelle"
+
+#: admin/class-sexy-author-bio-admin.php:139
+msgid "Load in the full body of the window"
+msgstr "Charger dans le corps entier de la fenêtre"
+
+#: admin/class-sexy-author-bio-admin.php:140
+msgid "Load in a new window"
+msgstr "Ouvrir dans une nouvelle fenêtre"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:144
+msgid "Design"
+msgstr "Design"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:149
+msgid "Gravatar size"
+msgstr "Taille de Gravatar"
+
+#: admin/class-sexy-author-bio-admin.php:152
+#, php-format
+msgid ""
+"Set the Gravatar size (only integers). To configure the profile picture of "
+"the author you need to register in %s"
+msgstr "Définir la taille de Gravatar (nombres entiers seulement). Pour configurer l'image de profil de l'auteur vous devez vous enregistrer sur %s."
+
+#: admin/class-sexy-author-bio-admin.php:157
+msgid "Author Name Font Size"
+msgstr "Taille de police du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:160
+msgid "Set the author name font size in pixels"
+msgstr "Définir la taille de police du nom d'auteur en pixels"
+
+#: admin/class-sexy-author-bio-admin.php:165
+msgid "Author Name Line Height"
+msgstr "Hauteur de ligne du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:168
+msgid ""
+"Set the author name line height in pixels (the same line height as the font "
+"size is a good starting point)"
+msgstr "Définir la hauteur de lignes en pixels du nom d'auteur (la même hauteur de ligne que la taille de police est un bon point de départ)"
+
+#: admin/class-sexy-author-bio-admin.php:173
+msgid "Author Name Font"
+msgstr "Police du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:176
+msgid "Set the author name font"
+msgstr "Définir la police du nom d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:181
+msgid "Author Name Font Weight"
+msgstr "Poids de police du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:184
+msgid ""
+"Set the author name font weight (different fonts allow for different weight "
+"options)"
+msgstr "Définir le poids de la police du nom d'auteur (des polices différentes autorisent des options de poids différentes)"
+
+#: admin/class-sexy-author-bio-admin.php:188
+#: admin/class-sexy-author-bio-admin.php:255
+#: admin/class-sexy-author-bio-admin.php:322
+msgid "Extra Light or Ultra Light"
+msgstr "Extra fin ou Ultra fin"
+
+#: admin/class-sexy-author-bio-admin.php:189
+#: admin/class-sexy-author-bio-admin.php:256
+#: admin/class-sexy-author-bio-admin.php:323
+msgid "Light or Thin"
+msgstr "Light ou Thin"
+
+#: admin/class-sexy-author-bio-admin.php:190
+#: admin/class-sexy-author-bio-admin.php:257
+#: admin/class-sexy-author-bio-admin.php:324
+msgid "Book or Demi"
+msgstr "Book ou Demi"
+
+#: admin/class-sexy-author-bio-admin.php:191
+#: admin/class-sexy-author-bio-admin.php:258
+#: admin/class-sexy-author-bio-admin.php:325
+msgid "Normal or Regular"
+msgstr "Normal ou Regular"
+
+#: admin/class-sexy-author-bio-admin.php:192
+#: admin/class-sexy-author-bio-admin.php:259
+#: admin/class-sexy-author-bio-admin.php:326
+msgid "Medium"
+msgstr "Moyen"
+
+#: admin/class-sexy-author-bio-admin.php:193
+#: admin/class-sexy-author-bio-admin.php:260
+#: admin/class-sexy-author-bio-admin.php:327
+msgid "Semibold, Demibold"
+msgstr "Semibold, Demibold"
+
+#: admin/class-sexy-author-bio-admin.php:194
+#: admin/class-sexy-author-bio-admin.php:261
+#: admin/class-sexy-author-bio-admin.php:328
+msgid "Bold"
+msgstr "Gras"
+
+#: admin/class-sexy-author-bio-admin.php:195
+#: admin/class-sexy-author-bio-admin.php:262
+#: admin/class-sexy-author-bio-admin.php:329
+msgid "Black, Extra Bold or Heavy"
+msgstr "Black, Extra Bold ou Heavy"
+
+#: admin/class-sexy-author-bio-admin.php:196
+#: admin/class-sexy-author-bio-admin.php:263
+#: admin/class-sexy-author-bio-admin.php:330
+msgid "Extra Black, Fat, Poster or Ultra Black"
+msgstr "Extra Black, Fat, Poster ou Ultra Black"
+
+#: admin/class-sexy-author-bio-admin.php:200
+msgid "Author Name Capitalization"
+msgstr "Mise en capitales du nom d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:206
+#: admin/class-sexy-author-bio-admin.php:273
+msgid "UPPERCASE"
+msgstr "MAJUSCULES"
+
+#: admin/class-sexy-author-bio-admin.php:207
+#: admin/class-sexy-author-bio-admin.php:274
+msgid "Capitalize"
+msgstr "Majuscules"
+
+#: admin/class-sexy-author-bio-admin.php:208
+#: admin/class-sexy-author-bio-admin.php:275
+msgid "lowercase"
+msgstr "minuscules"
+
+#: admin/class-sexy-author-bio-admin.php:209
+#: admin/class-sexy-author-bio-admin.php:276
+msgid "As is"
+msgstr "Tel quel"
+
+#: admin/class-sexy-author-bio-admin.php:213
+msgid "Author Name Decoration"
+msgstr "Décoration du nom de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:220
+#: admin/class-sexy-author-bio-admin.php:287
+msgid "Underline"
+msgstr "Souligné"
+
+#: admin/class-sexy-author-bio-admin.php:224
+msgid "Author Byline Font Size"
+msgstr "Taille de police du sous-titre d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:227
+msgid "Set the author byline (Job Title &amp; Company) font size in pixels"
+msgstr "Définir la taille de police du sous-titre d'auteur (Titre de poste et entreprise)"
+
+#: admin/class-sexy-author-bio-admin.php:232
+msgid "Author Byline Line Height"
+msgstr "Hauteur de ligne du sous-titre d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:235
+msgid ""
+"Set the author byline line height in pixels (the same line height as the "
+"font size is a good starting point)"
+msgstr "Définir la hauteur de ligne du sous-titre d'auteur (la même hauteur de ligne que la taille de police est un bon point de départ)"
+
+#: admin/class-sexy-author-bio-admin.php:240
+msgid "Author Byline Font"
+msgstr "Police du sous-titre d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:243
+msgid "Set the author byline (Job Title &amp; Company) font"
+msgstr "Définir la police du sous-titre d'auteur (Titre de poste et entreprise)"
+
+#: admin/class-sexy-author-bio-admin.php:248
+msgid "Author Byline Font Weight"
+msgstr "Poids de la police du sous-titre d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:251
+msgid ""
+"Set the author byline font weight (different fonts allow for different "
+"weight options)"
+msgstr "Définir le poids de la police du sous-titre d'auteur (des polices différentes autorisent des options de poids différentes)"
+
+#: admin/class-sexy-author-bio-admin.php:267
+msgid "Author Byline Capitalization"
+msgstr "Casse du sous-titre de l&rsquo;auteur"
+
+#: admin/class-sexy-author-bio-admin.php:280
+msgid "Author Byline Decoration"
+msgstr "Décoration du sous-titre de l&rsquo;auteur"
+
+#: admin/class-sexy-author-bio-admin.php:291
+msgid "Author Biography Font Size"
+msgstr "Taille de police de la biographie de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:294
+msgid "Set the author biography font size in pixels"
+msgstr "Définir la taille de la police de la biographie de l&rsquo;auteur en pixels."
+
+#: admin/class-sexy-author-bio-admin.php:299
+msgid "Author Biography Line Height"
+msgstr "Hauteur de ligne de la biographie de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:302
+msgid ""
+"Set the author biography line height in pixels (the same line height as the "
+"font size is a good starting point)"
+msgstr "Définir la hauteur de ligne en pixels pour la biographie de l'auteur (la même hauteur de ligne que la taille de police est un bon point de départ)"
+
+#: admin/class-sexy-author-bio-admin.php:307
+msgid "Author Biography Font"
+msgstr "Police de la biographie de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:310
+msgid "Set the author biography font"
+msgstr "Définir la police de la biographie d'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:315
+msgid "Author Biography Font Weight"
+msgstr "Poids de le police de la biographie de l'auteur"
+
+#: admin/class-sexy-author-bio-admin.php:318
+msgid ""
+"Set the author biography font weight (different fonts allow for different "
+"weight options)"
+msgstr "Définir le poids de police de la biographie d'auteur (des polices différentes autorisent des options de poids différentes)"
+
+#: admin/class-sexy-author-bio-admin.php:334
+msgid "Job Title Company Separator"
+msgstr "Séparateur d'entreprise et de titre de poste"
+
+#: admin/class-sexy-author-bio-admin.php:337
+msgid "Set the text to separate job title and company"
+msgstr "Définir le texte pour séparer le titre de poste et l'entreprise"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:342
+msgid "Background color"
+msgstr "Couleur d&rsquo;arrière plan"
+
+#: admin/class-sexy-author-bio-admin.php:349
+msgid "Highlight color"
+msgstr "Couleur pour la surbrillance"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:356
+msgid "Text color"
+msgstr "Couleur de texte"
+
+#: admin/class-sexy-author-bio-admin.php:363
+msgid "Byline color"
+msgstr "Couleur du sous-titre"
+
+#: admin/class-sexy-author-bio-admin.php:370
+msgid "Top Border size"
+msgstr "Taille de bordure haute"
+
+#: admin/class-sexy-author-bio-admin.php:374
+msgid "Thickness of the top border of the box (only integers)"
+msgstr "Épaisseur de la bordure haute de la boîte (nombres entiers seulement)."
+
+#: admin/class-sexy-author-bio-admin.php:378
+msgid "Right Border size"
+msgstr "Taille de bordure droite"
+
+#: admin/class-sexy-author-bio-admin.php:382
+msgid "Thickness of the right border of the box (only integers)"
+msgstr "Épaisseur de la bordure droite de la boîte (nombres entiers seulement)."
+
+#: admin/class-sexy-author-bio-admin.php:386
+msgid "Bottom Border size"
+msgstr "Taille de bordure basse"
+
+#: admin/class-sexy-author-bio-admin.php:390
+msgid "Thickness of the bottom border of the box (only integers)"
+msgstr "Épaisseur de la bordure basse de la boîte (nombres entiers seulement)."
+
+#: admin/class-sexy-author-bio-admin.php:394
+msgid "Left Border size"
+msgstr "Taille de bordure gauche"
+
+#: admin/class-sexy-author-bio-admin.php:398
+msgid "Thickness of the left border of the box (only integers)"
+msgstr "Épaisseur de la bordure gauche de la boîte (nombres entiers seulement)."
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:402
+msgid "Border style"
+msgstr "Style de bordure"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:409
+msgid "Solid"
+msgstr "Solide"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:410
+msgid "Dotted"
+msgstr "Points"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:411
+msgid "Dashed"
+msgstr "Tirets"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:415
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: admin/class-sexy-author-bio-admin.php:422
+msgid "Mobile"
+msgstr "Mobile"
+
+#: admin/class-sexy-author-bio-admin.php:427
+msgid "Display Avatar on Smartphones"
+msgstr "Afficher l'avatar sur les smartphones"
+
+#: admin/class-sexy-author-bio-admin.php:431
+msgid ""
+"Toggle display of Sexy Author Bio Avatars on smartphones (0 - 767px in "
+"width)"
+msgstr "Bascule d'affichage de Sexy Author Bio sur les smartphones (0 - 767 pixels de large)"
+
+#: admin/class-sexy-author-bio-admin.php:434
+msgid "Display"
+msgstr "Afficher"
+
+#: admin/class-sexy-author-bio-admin.php:435
+msgid "Hide"
+msgstr "Cacher"
+
+#: admin/class-sexy-author-bio-admin.php:439
+msgid "User Roles"
+msgstr "Rôles utilisateurs"
+
+#: admin/class-sexy-author-bio-admin.php:444
+msgid "Allow Access For"
+msgstr "Autoriser l'accès pour"
+
+#: admin/class-sexy-author-bio-admin.php:448
+msgid "Control which user roles have access to Sexy Author Bio user fields"
+msgstr "Contrôle quels rôles utilisateurs ont accès aux champs utilisateurs de Sexy Author Bio"
+
+#: admin/class-sexy-author-bio-admin.php:451
+msgid "Admins"
+msgstr "Admins"
+
+#: admin/class-sexy-author-bio-admin.php:452
+msgid "Admins and Editors"
+msgstr "Admins et éditeurs"
+
+#: admin/class-sexy-author-bio-admin.php:453
+msgid "Admins, Editors and Authors"
+msgstr "Admins, éditeurs et auteurs"
+
+#: admin/class-sexy-author-bio-admin.php:454
+msgid "Admins, Editors, Authors and Contributors"
+msgstr "Admins, éditeurs, auteurs et contributeurs"
+
+#: admin/class-sexy-author-bio-admin.php:458
+msgid "Icon Set"
+msgstr "Définir Icone"
+
+#: admin/class-sexy-author-bio-admin.php:463
+msgid "Icon size (in pixels)"
+msgstr "Taille d'icône (en pixels)"
+
+#: admin/class-sexy-author-bio-admin.php:467
+msgid ""
+"The height & width of the social icons.<br /><strong>DO NOT SET ABOVE "
+"64!</strong>"
+msgstr "La hauteur et la largeur des icônes sociales.<br /><strong>Ne dépasser 64 !</strong>"
+
+#: admin/class-sexy-author-bio-admin.php:471
+msgid "Icon spacing (in pixels)"
+msgstr "Espacement d'icône (en pixels)"
+
+#: admin/class-sexy-author-bio-admin.php:475
+msgid "The width between social icons"
+msgstr "La largeur entre les icônes sociales"
+
+#: admin/class-sexy-author-bio-admin.php:479
+msgid "Icon Hover Effect"
+msgstr "Effet de survol d'icône"
+
+#: admin/class-sexy-author-bio-admin.php:483
+msgid "The effect when users hover over social icons with their cursor"
+msgstr "L'effet quand les utilisateurs survolent les icônes sociales avec leur curseur"
+
+#: admin/class-sexy-author-bio-admin.php:486
+msgid "Fade"
+msgstr "Estompement"
+
+#: admin/class-sexy-author-bio-admin.php:491
+msgid "Icon Position"
+msgstr "Position d'icône"
+
+#: admin/class-sexy-author-bio-admin.php:495
+msgid "The position of the icons relative to the bio"
+msgstr "La position relative des icônes par rapport à la bio"
+
+#: admin/class-sexy-author-bio-admin.php:498
+msgid "Top"
+msgstr "Haut"
+
+#: admin/class-sexy-author-bio-admin.php:499
+msgid "Bottom"
+msgstr "Bas"
+
+#: admin/class-sexy-author-bio-admin.php:503
+msgid "Pick Icon Set"
+msgstr "Choix de jeu d'icônes"
+
+#: admin/class-sexy-author-bio-admin.php:507
+msgid ""
+"<div style=\"background-color:#ffffff;padding:20px;border:solid 1px "
+"#eee;width:100%;max-width:1100px;\"><img id=\"sab-icon-set\" src=\""
+msgstr "<div style=\"background-color:#ffffff;padding:20px;border:solid 1px #eee;width:100%;max-width:1100px;\"><img id=\"sab-icon-set\" src=\""
+
+#: admin/class-sexy-author-bio-admin.php:510
+msgid "Flat Squares"
+msgstr "Carrés plats"
+
+#: admin/class-sexy-author-bio-admin.php:511
+msgid "Flat Squares Rounded"
+msgstr "Carrés plats arrondis"
+
+#: admin/class-sexy-author-bio-admin.php:512
+msgid "Shadow Squares"
+msgstr "Carrés ombrés"
+
+#: admin/class-sexy-author-bio-admin.php:513
+msgid "Flat Circles"
+msgstr "Cercles plats"
+
+#: admin/class-sexy-author-bio-admin.php:514
+msgid "Shadow Circles"
+msgstr "Cercles ombrés"
+
+#: admin/class-sexy-author-bio-admin.php:518
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/class-sexy-author-bio-admin.php:523
+msgid "YOUR Custom CSS"
+msgstr "VOTRE code CSS personnalisé ici"
+
+#: admin/class-sexy-author-bio-admin.php:527
+msgid "Paste your custom CSS here"
+msgstr "Collez votre code CSS personnalisé ici."
+
+#: admin/class-sexy-author-bio-admin.php:531
+msgid "Responsive CSS"
+msgstr "CSS personnalisé"
+
+#: admin/class-sexy-author-bio-admin.php:536
+msgid "DESKTOP<br />1,200px +"
+msgstr "DESKTOP<br />1200pixels +"
+
+#: admin/class-sexy-author-bio-admin.php:540
+msgid "Paste your custom CSS for DESKTOP 1,200px + here"
+msgstr "Collez votre code CSS pour les DESKTOP 1200 pixels ici"
+
+#: admin/class-sexy-author-bio-admin.php:544
+msgid "IPAD LANDSCAPE<br />1019 - 1199px"
+msgstr "IPAD PORTRAI<br />1019 - 1199 pixels"
+
+#: admin/class-sexy-author-bio-admin.php:548
+msgid "Paste your custom CSS for IPAD LANDSCAPE 1019 - 1199px here"
+msgstr "Collez votre CSS pour IPAD PAYSAGE 1019 - 1199 pixels ici"
+
+#: admin/class-sexy-author-bio-admin.php:552
+msgid "IPAD PORTRAIT<br />768 - 1018px"
+msgstr "IPAD PORTRAIT<br />768 - 1018 pixels"
+
+#: admin/class-sexy-author-bio-admin.php:556
+msgid "Paste your custom CSS for IPAD PORTRAIT 768 - 1018px here"
+msgstr "Collez votre code CSS pour IPAD PORTRAIT 768 - 1018 pixels ici"
+
+#: admin/class-sexy-author-bio-admin.php:560
+msgid "SMARTPHONES<br />0 - 767px"
+msgstr "SMARTPHONES<br />0 - 767 pixels"
+
+#: admin/class-sexy-author-bio-admin.php:564
+msgid "Paste your custom CSS for SMARTPHONES 0 - 767px here"
+msgstr "Collez votre CSS pour SMARTPHONES 0 - 767 pixels ici"
+
+#: admin/class-sexy-author-bio-admin.php:584
+msgid "Behance"
+msgstr "Behance"
+
+#: admin/class-sexy-author-bio-admin.php:585
+msgid "Blogger"
+msgstr "Blogger"
+
+#: admin/class-sexy-author-bio-admin.php:586
+msgid "Delicious"
+msgstr "Delicious"
+
+#: admin/class-sexy-author-bio-admin.php:587
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: admin/class-sexy-author-bio-admin.php:588
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: admin/class-sexy-author-bio-admin.php:589
+msgid "Email"
+msgstr "Email"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:590
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/class-sexy-author-bio-admin.php:591
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/class-sexy-author-bio-admin.php:592
+msgid "GitHub"
+msgstr "GitHub"
+
+#: admin/class-sexy-author-bio-admin.php:593
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/class-sexy-author-bio-admin.php:594
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:595
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/class-sexy-author-bio-admin.php:596
+msgid "MySpace"
+msgstr "MySpace"
+
+#: admin/class-sexy-author-bio-admin.php:597
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/class-sexy-author-bio-admin.php:598
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/class-sexy-author-bio-admin.php:599
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: admin/class-sexy-author-bio-admin.php:600
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ sexy-author-bio
+#: admin/class-sexy-author-bio-admin.php:601
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/class-sexy-author-bio-admin.php:602
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: admin/class-sexy-author-bio-admin.php:603
+msgid "WordPress"
+msgstr "WordPress"
+
+#: admin/class-sexy-author-bio-admin.php:604
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+#: admin/class-sexy-author-bio-admin.php:605
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/views/admin.php:60
+msgid "No news items, feed might be broken..."
+msgstr "Pas d'éléments de news, le flux est peut-être cassé..."
