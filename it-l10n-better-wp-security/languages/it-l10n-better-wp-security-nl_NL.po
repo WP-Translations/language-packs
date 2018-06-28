@@ -1,0 +1,235 @@
+# Copyright (C) 2015 iThemes Security
+# This file is distributed under the same license as the iThemes Security package.
+# Translators:
+# dwinden <dwinden@xs4all.nl>, 2015
+# FX Bénard <fxb@wp-translations.org>, 2014
+# Sébastien Grillot <sebastien@insidedaweb.fr>, 2014
+# Thom, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: iThemes Security\n"
+"Report-Msgid-Bugs-To: http://ithemes.com/forum/\n"
+"POT-Creation-Date: 2015-03-20 15:57:17+00:00\n"
+"PO-Revision-Date: 2017-11-03 11:51+0000\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/ithemes-security-43/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. #-#-#-#-#  better-wp-security.pot (iThemes Security 4.6.12)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: better-wp-security.php:24
+msgid "iThemes Security"
+msgstr "iThemes Security"
+
+#: core/class-itsec-core.php:282
+#: modules/free/content-directory/class-itsec-content-directory-admin.php:216
+#: modules/free/database-prefix/class-itsec-database-prefix-admin.php:176
+#: modules/free/salts/class-itsec-salts-admin.php:352
+msgid "Settings"
+msgstr "Instellingen"
+
+#: core/class-itsec-core.php:289
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: core/class-itsec-core.php:296
+msgid "Logs"
+msgstr "Logboeken"
+
+#: core/class-itsec-core.php:303
+#: modules/free/help/class-itsec-help-admin.php:19
+msgid "Help"
+msgstr ""
+
+#: core/class-itsec-core.php:314
+msgid "Pro"
+msgstr "Pro"
+
+#: core/class-itsec-core.php:324
+msgid "Go Pro"
+msgstr ""
+
+#: core/class-itsec-core.php:337 core/class-itsec-core.php:348
+#: modules/free/backup/class-itsec-backup-admin.php:966
+msgid "Backups"
+msgstr "Back-ups"
+
+#: core/class-itsec-core.php:564 core/class-itsec-core.php:657
+#: core/class-itsec-core.php:953 core/class-itsec-core.php:1701
+#: core/class-itsec-core.php:1740
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: core/class-itsec-core.php:648 core/class-itsec-core.php:1702
+msgid "Security"
+msgstr "Beveiliging"
+
+#: core/class-itsec-core.php:797
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: core/class-itsec-core.php:824 core/class-itsec-core.php:1785
+msgid "NGINX conf file and/or restart your NGINX server"
+msgstr "NGINX conf-bestand en/of herstart je NGINX-server"
+
+#: core/class-itsec-core.php:828 core/class-itsec-core.php:1789
+msgid ".htaccess file"
+msgstr ".htaccess-bestand"
+
+#: core/class-itsec-core.php:834 core/class-itsec-core.php:1795
+msgid ""
+"As you have not allowed this plugin to update system files you must update "
+"your"
+msgstr ""
+
+#: core/class-itsec-core.php:836 core/class-itsec-core.php:1797
+msgid ""
+"as well as your wp-config.php file manually. Rules to insert in both files "
+"can be found on the Dashboard page."
+msgstr "alsmede je wp-config.php-bestand handmatig. In te voegen regels in beide bestanden kunnen worden gevonden op de Dashboard-pagina."
+
+#: core/class-itsec-core.php:838
+msgid "Click here"
+msgstr "Klik hier"
+
+#: core/class-itsec-core.php:839
+msgid "to allow this plugin to write to these files."
+msgstr "om deze plugin toe te staan te schrijven naar deze bestanden."
+
+#: core/class-itsec-core.php:846 core/class-itsec-core.php:1802
+#: core/class-itsec-files.php:169
+#: modules/free/database-prefix/class-itsec-database-prefix-admin.php:225
+msgid "Settings Updated"
+msgstr "Instellingen gewijzigd"
+
+#: core/class-itsec-core.php:913
+msgid "Show Intro"
+msgstr "Intro tonen"
+
+#: core/class-itsec-core.php:923
+msgid "Important First Steps"
+msgstr "Belangrijke eerste stappen"
+
+#: core/class-itsec-core.php:1003
+msgid ""
+"New! Take your site security to the next level by activating iThemes Brute "
+"Force Network Protection."
+msgstr ""
+
+#: core/class-itsec-core.php:1003
+msgid "Get Free API Key"
+msgstr ""
+
+#: core/class-itsec-core.php:1528
+msgid "Secure Your Site"
+msgstr "Beveilig je site"
+
+#: core/class-itsec-core.php:1529
+msgid ""
+"Use the button below to enable default settings. This feature will enable "
+"all settings that cannot conflict with other plugins or themes."
+msgstr "Gebruik de onderstaande knop om standaardinstellingen in te schakelen. Deze functie zal alle instellingen inschakelen die niet kunnen botsen met andere plugins of thema's."
+
+#: core/class-itsec-core.php:1530
+msgid "One-Click Secure"
+msgstr "Beveiliging met één klik"
+
+#: core/class-itsec-core.php:1532
+msgid ""
+"Site Secured. Check the dashboard for further suggestions on securing your "
+"site."
+msgstr "Site beveiligd. Controleer het dashboard voor verdere suggesties om jouw site te beveiligen."
+
+#: core/class-itsec-core.php:1533
+msgid ""
+"Whoops. Something went wrong. Please contact support if the problem "
+"persists."
+msgstr "Whoops. Er ging iets mis. Neem alsjeblieft contact op met de ondersteuning als het probleem blijft bestaan."
+
+#: core/class-itsec-core.php:1614
+msgid "Return to top"
+msgstr "Terug naar boven"
+
+#: core/class-itsec-core.php:1918
+msgid "Thank you for activating"
+msgstr "Bedankt voor het activeren"
+
+#: core/class-itsec-core.php:1918
+msgid ""
+"It looks like you had another version of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete"
+" it."
+msgstr "Het lijkt erop dat je een andere versie van deze plugin hebt geactiveerd. Om botsingen te voorkomen is de extra versie gedeactiveerd en wij raden aan om deze te verwijderen."
+
+#: core/class-itsec-dashboard-admin.php:48
+msgid "Security Status"
+msgstr "Beveiligingsstatus"
+
+#: core/class-itsec-dashboard-admin.php:57
+msgid "WordPress File Permissions"
+msgstr ""
+
+#: core/class-itsec-dashboard-admin.php:66
+msgid "System Information"
+msgstr "Systeeminformatie"
+
+#: core/class-itsec-files.php:118
+msgid "Rewrite Rules"
+msgstr "Rewrite-regels"
+
+#: core/class-itsec-files.php:127
+msgid "wp-config.php Rules"
+msgstr "wp-config.php-regels"
+
+#: core/class-itsec-files.php:336 core/class-itsec-files.php:796
+msgid "There are no rules to write."
+msgstr "Er zijn geen regels om te schrijven."
+
+#: core/class-itsec-files.php:841
+msgid "Your rewrite rules have been saved to"
+msgstr "Je rewrite-regels zijn opgeslagen naar"
+
+#: core/class-itsec-files.php:843
+msgid "You must restart your NGINX server for the settings to take effect"
+msgstr "Je moet jouw NGINX-server herstarten om de instellingen door te voeren"
+
+#: core/class-itsec-files.php:860
+msgid ""
+"Unable to write to your .htaccess or nginx.conf file. If the problem "
+"persists contact support."
+msgstr "Niet mogelijk om te schrijven naar jouw .htaccess- of nginx.conf-bestand. Als het probleem zich voor blijft doen, neem contact op met de ondersteuning."
+
+#: core/class-itsec-files.php:915
+msgid ""
+"Unable to write to your wp-config.php file. If the problem persists contact "
+"support."
+msgstr "Niet mogelijk om te schrijven naar jouw wp-config.php-bestand. Als het probleem zich voor blijft doen, neem contact op met de ondersteuning."
+
+#: core/class-itsec-global-settings.php:84
+msgid ""
+"The settings below are more advanced settings that should be done with "
+"caution on an existing site."
+msgstr "De onderstaande instellingen zijn meer geavanceerde instellingen die met voorzichtigheid moeten worden gedaan op een bestaande site."
+
+#: core/class-itsec-global-settings.php:86
+msgid ""
+"Make sure you have a good backup before changing any setting on this page."
+msgstr "Zorg er voor dat je een goede back-up hebt, voordat je een instelling wijzigt op deze pagina."
+
+#: core/class-itsec-global-settings.php:88
+msgid ""
+"In addition, these settings will not be reversed if you remove this plugin. "
+"That said, all settings on this page use methods recommended by "
+"WordPress.org itself and will help in improving the security of your site."
+msgstr "Daarnaast zullen deze instellingen niet worden teruggedraaid als je deze plugin verwijderd. Dat gezegd hebbende, alle instellingen op deze pagina gebruiken methodes aangeraden door WordPress.org zelf en zullen helpen in het verbeteren van de beveiliging van je site."
+
+#: core/class-itsec-global-settings.php:104
+msgid "Go to"
+msgstr ""
+
+#: core/class-itsec-global-settings.php:106
+msgid "Choose a section..."
