@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eBay Feeds for WordPress\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ebay-feeds-for-wordpress\n"
+"Last-Translator: Zakaria Ibrahim <sakariyeibrahim@gmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/wp-translations/ebay-feeds-for-wordpress/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-06-20 13:53:52+00:00\n"
+"PO-Revision-Date: 2018-03-02 06:07:43\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. #-#-#-#-#  plugin.pot (Ebay Feeds for WordPress 1.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: ebay-feeds-for-wordpress.php:19
+msgid "Parser of ebay RSS feeds to display on Wordpress posts, widgets and pages."
+msgstr "محلل خلاص  eBay لعرضها عن مقالات وحاجيات وصفحات الوردبريس."
+
+#: ebay-feeds-for-wordpress.php:96
+msgid "<a href=\"%s\">eBay Feeds for WordPress</a> by <a href=\"%s\">Winwar Media</a><br/><br/>"
+msgstr "<a href=\"%s\">خلاصة eBay للوردبريس</a> بواسطة <a href=\"%s\">Winwar Media</a><br/><br/>"
+
+#: ebay-feeds-for-wordpress.php:130
+msgid "Want to know about updates to this plugin without having to log into your site every time? Want to know about other cool plugins we've made? Add your email and we'll add you to our very rare mail outs."
+msgstr ""
+"تريد أن تعرف عن التحديثات لهذه الإضافة دون الحاجة إلى تسجيل الدخول إلى موقعك في كل مرة؟\n"
+"تريد أن تعرف عن الإضافات المثيرة الأخرى التي انتجناها؟\n"
+"أدخل بريدك الإلكتروني وسوف نضيف لك الي قائمتنا البريدية الناذرة."
+
+#: ebay-feeds-for-wordpress.php:136
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+#: ebay-feeds-for-wordpress.php:138
+msgid "Sign Up!"
+msgstr "التسجيل"
+
+#: ebay-feeds-for-wordpress.php:162
+msgid "Default eBay Feed: "
+msgstr "الخلاصة الافتراضية لeBay"
+
+#: ebay-feeds-for-wordpress.php:170
+msgid "Default Number of Items To Show:"
+msgstr "عدد عناصر الظاهرة الافتراضية :"
+
+#: ebay-feeds-for-wordpress.php:178
+msgid "Open Links In New Window?"
+msgstr "فتح الروابط بنافدة جديدة؟"
+
+#: ebay-feeds-for-wordpress.php:191
+msgid "Nofollow Links?"
+msgstr "لا لربط الروابط؟"
+
+#: ebay-feeds-for-wordpress.php:206
+msgid "Link to us (optional, but appreciated)"
+msgstr "إربطه لنا (اختياري، فقط للتقدير)"
+
+#: ebay-feeds-for-wordpress.php:220
+msgid "Switch Debug Mode On?"
+msgstr " حول المعالج متاح"
+
+#: ebay-feeds-for-wordpress.php:230
+msgid "Use this to identify problems with the feed or plugin. If switched on, logged in users will be able to see errors of the feed. If you <a href=\"%s\">ask for support</a>, this will be the first thing we ask you to do!</em>"
+msgstr "استخدم هذا لتحديد المشاكل مع الخلاصة أو الإضافة. إذا تم تشغيله، فسيتمكن المستخدمون المسجلون من رؤية أخطاء الخلاصة. إذا كنت <a href=\"%s\"> تطلب الدعم</a>، وهذا سيكون أول شيء نطلب منك أن تفعل!</em>"
+
+#: ebay-feeds-for-wordpress.php:236
+msgid "Fallback Text"
+msgstr "النص الاحتياطي"
+
+#: ebay-feeds-for-wordpress.php:246
+msgid "If for any reason, the feed doesn't work, this will be displayed instead. Use this to link to your eBay shop."
+msgstr "في اي حالة لم تعمل الاضافة سيتم عرض هذا بدلا من ذلك. استخدام هذا لربط متجر eBay الخاص بك."
+
+#: ebay-feeds-for-wordpress.php:263
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: ebay-feeds-for-wordpress.php:273
+msgid "Like this Plugin?"
+msgstr "هل اعجبتک الإضافة؟"
+
+#: ebay-feeds-for-wordpress.php:274
+msgid "Rate this plugin &#9733; &#9733; &#9733; &#9733; &#9733;"
+msgstr "صوت لهذه الإضافة &#9733; &#9733; &#9733; &#9733; &#9733;"
+
+#: ebay-feeds-for-wordpress.php:314
+msgid "About the Author"
+msgstr "عن الكاتب"
+
+#: ebay-feeds-for-wordpress.php:326
+msgid "Rhys Wynne is the Lead Developer at FireCask and a freelance WordPress developer and blogger. His plugins have had a total of 100,000 downloads, and his premium plugins have generated four figure sums in terms of sales. Rhys likes rubbish football (supporting Colwyn Bay FC) and Professional Wrestling."
+msgstr ""
+"ريس وين هي الرائدة المطور في فيريكاسك ومطور مستقل لمدونات وردبريس و بلوغر. تم تحميل اضافاته اكثر من 100,000 مرة, ولدت اضافاته المدفوعة رابع اعلي ارقام المبيعات.\n"
+" ريس يحب كرة سلة القمامة (يشجع فريق Colwyn Bay FC) والمصارعة المهنية."
+
+#: ebay-feeds-for-wordpress.php:420
+msgid "eBay Items"
+msgstr "عناصر eBay"
+
+#: ebay-feeds-for-wordpress.php:442
+msgid "Title"
+msgstr "العنوان"
+
+#: ebay-feeds-for-wordpress.php:443
+msgid "Text"
+msgstr "النص"
+
+#: ebay-feeds-for-wordpress.php:444
+msgid "Number of Items"
+msgstr "عدد العناصر"
+
+#: ebay-feeds-for-wordpress.php:445
+msgid "eBay Feed"
+msgstr "خلاصة eBay"
+
+#: ebay-feeds-for-wordpress.php:592
+msgid "<a href=\"http://winwar.co.uk/plugins/ebay-feeds-wordpress/\">eBay Feeds for WordPress</a> by <a href=\"http://winwar.co.uk/\">Winwar Media</a><br/><br/>"
+msgstr "<a href=\"http://winwar.co.uk/plugins/ebay-feeds-wordpress/\">خلاصة eBay للوردبريس</a> بواسطة <a href=\"http://winwar.co.uk/\">Winwar Media</a><br/><br/>"
+
+#. Plugin Name of the plugin/theme
+msgid "Ebay Feeds for WordPress"
+msgstr "خلاصة eBay للوردبريس"
+
+#. Plugin URI of the plugin/theme
+msgid "http://winwar.co.uk/plugins/ebay-feeds-wordpress/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Winwar Media"
+msgstr "Winwar Media"
+
+#. Author URI of the plugin/theme
+msgid "http://winwar.co.uk/"
+msgstr ""
