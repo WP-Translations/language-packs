@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Meta Tags\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/apple-meta-tags/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-03-21 11:47+0100\n"
+"PO-Revision-Date: 2017-12-21 12:20:12\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:91
+msgid "WordPress Apple Tags Settings"
+msgstr "WordPress Apple Tags Ayarları"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:28
+msgid "Apple Tags"
+msgstr "Apple Tags"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:101
+msgid "Enable iOS Web-App Mode"
+msgstr "iOS Web-App Modunu Etkinleştir"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:104
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:140
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:160
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:196
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:241
+msgid "No"
+msgstr "Hayır"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:105
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:141
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:161
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:197
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:242
+msgid "Yes"
+msgstr "Evet"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:111
+msgid "Web App Status Bar Color"
+msgstr "Web App Durum Çubuğu Rengi"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:114
+msgid "Default (Grey)"
+msgstr "Varsayılan (Gri)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:115
+msgid "Black"
+msgstr "Siyah"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:116
+msgid "Black Translucent"
+msgstr "Uçuk Siyah"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:122
+msgid "Web App Title"
+msgstr "Web App Başlığı"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:127
+msgid "Viewport"
+msgstr "Pencere"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:137
+msgid "Detect Telephone Numbers"
+msgstr "Telefon Numaralarını Tesbit Et"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:148
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:153
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:169
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:174
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:179
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:184
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:189
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:204
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:209
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:214
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:219
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:224
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:229
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:234
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:250
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:255
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:260
+msgid "Upload"
+msgstr "Yükle"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:157
+msgid "Touch Icon Precomposed"
+msgstr "Dokunuş Simgesi Öndüzenli"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:163
+msgid "Use glossy bookmark icon."
+msgstr "Parlak im simgesi kullan."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:168
+msgid "URL to iPod Touch Icon"
+msgstr "iPod Touch Simgesine URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:173
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:178
+msgid "URL to iPad Touch Icon"
+msgstr "iPad Touch Simgesine URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:183
+msgid "URL to iPhone 4 Touch Icon"
+msgstr "iPhone 4 Touch Simgesine URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:188
+msgid "URL to iPhone 5 Touch Icon"
+msgstr "iPhone 5 Simgesine URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:193
+msgid "Use Startup Screens"
+msgstr "Başlangıç Ekranları Kullan"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:203
+msgid "URL to iPhone Portrait startup screen"
+msgstr "iPhone Dikey başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:208
+msgid "URL to Retina Portrait iPhone startup screen"
+msgstr "Retina Dikey iPhone başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:213
+msgid "URL to 4-inch Portrait Retina iPhone startup screen"
+msgstr "4 inç Dikey Retina iPhone başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:218
+msgid "URL to iPad Portrait startup screen"
+msgstr "iPad Dikey başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:223
+msgid "URL to iPad Landscape startup screen"
+msgstr "iPad Yatay başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:228
+msgid "URL to Retina iPad Portrait startup screen"
+msgstr "Retina iPad Dikey başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:233
+msgid "URL to Retina iPad Landscape startup screen"
+msgstr "Retina iPad Yatay başlangıç ekranına URL"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:238
+msgid "Use Smart App Banner (iOS6+)"
+msgstr "Akıllı App Afişi Kullan (iOS6+)"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Safari has a Smart App Banner feature in iOS 6 and later that provides a standardized method of promoting apps on the App Store from your website."
+msgstr "Safari iOS6 ve sonrası için App Store'daki app'ları web siteniz üzerinden teşvik etmede standartlaşmış bir metod sunan Akıllı App Afişi özelliğine sahip."
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:244
+msgid "Read for more information"
+msgstr "Daha fazla bilgi için okuyun"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:249
+msgid "App Store ID"
+msgstr "App Store ID"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:254
+msgid "Affiliate ID"
+msgstr "Üye Firma ID"
+
+#: D\Dropbox\Sebs
+#: Studio\wordpress-apple-tags/wordpress-apple-tags.php:259
+msgid "App Argument"
+msgstr "App Konusu"
