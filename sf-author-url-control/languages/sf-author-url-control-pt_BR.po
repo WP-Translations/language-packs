@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SF Author Url Control\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sf-author-url-control\n"
+"Last-Translator: Raphael Mendonça\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/wp-translations/sf-author-url-control/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-01-20 13:04:21+00:00\n"
+"PO-Revision-Date: 2017-09-19 23:26:43\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: admin/sf-auc-admin.inc.php:24
+msgid "<strong>SF Author Url Control</strong>: Now you can go to Settings &#8250; %1$sPermalinks</a> to change the authors base url. Also, go to %2$sUsers</a> and chose a user profile, %3$slike your own</a>, for the user&#8217;s slug."
+msgstr "<strong>URL de Controle do Autor SF</strong>: Agora você oide ur ate onfigurações &#8250; %1$sLinks-Permanentes</a> para alterar a URL de base dos autores. Também, pode ir até %2$sUsuários</a> e selecionar um perfil de usuário, %3$scomo o seu próprio</a>, para os apelidos de usuários&#8217;s."
+
+#: admin/sf-auc-admin.inc.php:78
+msgid "Permalinks"
+msgstr "Links Permanentes"
+
+#: admin/sf-auc-admin.inc.php:90
+msgid "URL slug"
+msgstr "URL do apelido"
+
+#: admin/sf-auc-admin.inc.php:102
+msgid "Empty slug!"
+msgstr "Apelido vazio!"
+
+#: admin/sf-auc-admin.inc.php:163
+msgid "Authors page base"
+msgstr "Página base de autores"
+
+#: admin/sf-auc-admin.inc.php:181
+msgid "Leave empty for default value: author"
+msgstr "Deixe em branco para o valor padrão: autor"
+
+#: admin/sf-auc-admin.inc.php:247
+msgid " (for a taxonomy)"
+msgstr "(para a taxonomia)"
+
+#: admin/sf-auc-admin.inc.php:251
+msgid " (for a custom post type)"
+msgstr "(para um tipo personalizado de postagem)"
+
+#: admin/sf-auc-admin.inc.php:259
+msgid " (for a page)"
+msgstr "(para uma página)"
+
+#: admin/sf-auc-admin.inc.php:263
+msgid " (for a post)"
+msgstr "(para uma postagem)"
+
+#: admin/sf-auc-admin.inc.php:266
+msgid "<strong>ERROR</strong>: This authors page base is already used somewhere else%s. Please choose another one."
+msgstr "<strong>ERRO</strong>: Esta página base de autores já é usada em outro lugar% s. Por favor, escolha outra."
+
+#: admin/sf-auc-admin.inc.php:321
+msgid "Profile URL slug"
+msgstr "URL do Apelido de Perfil"
+
+#: admin/sf-auc-admin.inc.php:325
+msgid "Leave empty for default value: %s"
+msgstr "Deixar em branco para o valor padrão: %s"
+
+#: admin/sf-auc-admin.inc.php:326
+msgid "Your Profile"
+msgstr "Seu perfil"
+
+#: admin/sf-auc-admin.inc.php:366
+msgid "<strong>ERROR</strong>: There was an error updating the author slug. Please try again."
+msgstr "<strong>ERRO</strong>: Ocorreu um erro ao atualizar o apelido do autor. Tente novametne"
+
+#: admin/sf-auc-admin.inc.php:371
+msgid "<strong>ERROR</strong>: This profile URL slug is already registered. Please choose another one."
+msgstr "<strong>ERRO</strong>: Esta URL de apelido de perfil já esta registrada. Por favor escolha outra."
+
+#. Plugin Name of the plugin/theme
+msgid "SF Author Url Control"
+msgstr "URL de Controle do Autor SF"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.screenfeed.fr/auturl/"
+msgstr "http://www.screenfeed.fr/auturl/"
+
+#. Description of the plugin/theme
+msgid "Customize the url of your registered users profile."
+msgstr "Personalize a URL para os seu perfil de usuário registrado."
+
+#. Author of the plugin/theme
+msgid "Grégory Viguier"
+msgstr "Grégory Viguier"
+
+#. Author URI of the plugin/theme
+msgid "http://www.screenfeed.fr/greg/"
+msgstr "http://www.screenfeed.fr/greg/"
