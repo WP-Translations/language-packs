@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet WP e-Commerce Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Rudolf Roth <eduardroth@yahoo.com>\n"
+"Language-Team: Romanian (Romania) (http://www.transifex.com/wysija/mailpoet-wp-e-commerce-add-on/language/ro_RO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 18:12+0100\n"
+"PO-Revision-Date: 2017-09-19 23:05:32\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: include/settings-newsletters.php:19
+msgid "Enabled"
+msgstr "Activat"
+
+#: include/settings-newsletters.php:20
+msgid "Newsletters"
+msgstr "Newslettere"
+
+#: mailpoet-wp-ecommerce-addon.php:64
+#: mailpoet-wp-ecommerce-addon.php:152
+msgid "Yes, add me to your mailing list"
+msgstr "Da, adaugă-mă la lista ta de e-mailuri."
+
+#: mailpoet-wp-ecommerce-addon.php:85
+#: mailpoet-wp-ecommerce-addon.php:129
+msgid "MailPoet WP e-Commerce Add-On"
+msgstr "Add-on E-commerce MailPoet pentru site-uri WordPress"
+
+#: mailpoet-wp-ecommerce-addon.php:120
+msgid "Settings saved"
+msgstr "Setări salvate"
+
+#: mailpoet-wp-ecommerce-addon.php:137
+msgid "Enable subscribe on checkout"
+msgstr "Activează optiunea de abonare în momentul validării cumpărăturii."
+
+#: mailpoet-wp-ecommerce-addon.php:140
+msgid "Yes"
+msgstr "Da"
+
+#: mailpoet-wp-ecommerce-addon.php:141
+msgid "No"
+msgstr "Nu"
+
+#: mailpoet-wp-ecommerce-addon.php:143
+msgid "Add a subscribe checkbox to your checkout page?"
+msgstr "Adaugați o casetă de selectare pentru abonare pe pagina de validare a cumpărării?"
+
+#: mailpoet-wp-ecommerce-addon.php:149
+msgid "Checkout label"
+msgstr "Etichetă validare"
+
+#: mailpoet-wp-ecommerce-addon.php:166
+msgid "Save Settings"
+msgstr "Salvează Setările"
+
+#: mailpoet-wp-ecommerce-addon.php:190
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: mailpoet-wp-ecommerce-addon.php:295
+#, php-format
+msgid "MailPoet WP e-Commerce Add-on requires WP e-Commerce. Please install and activate <a href=\"%s\">WP e-Commerce</a> first."
+msgstr "Add-on-ul E-commerce MailPoet pentru site-uri WordPress necesita WP e-Commerce. Vă rugăm instalați și activați mai <a href=\"%s\">WP e-Commerce</a> înainte de instalarea add-on-ului."
