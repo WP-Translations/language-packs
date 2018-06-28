@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet Gravity Forms Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: GagVirus <gagvirus92@gmail.com>\n"
+"Language-Team: Armenian (Armenia) (http://www.transifex.com/wysija/mailpoet-gravity-forms-add-on/language/hy_AM/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-24 15:33+0100\n"
+"PO-Revision-Date: 2017-09-19 23:43:22\n"
+"Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:38
+msgid "Documentation"
+msgstr "Փաստաթղթաբանություն"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:41
+#, php-format
+msgid "Thank you for using %s :) Should you need help using %s please read the documentation."
+msgstr "Շնորհակալ ենք %s օգտագործելու համար :) Եթե Դուք օգնության կարիք ունեք, %s խնդրում ենք կարդալ փաստաթղթաբանությունը:"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:43
+#, php-format
+msgid "%s Documentation"
+msgstr "%s Փաստաթղթաբանություն"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:49
+msgid "Support"
+msgstr "Օգնություն"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:52
+#, php-format
+msgid "After <a href=\"%s\">reading the documentation</a>, for further assistance you can use the <a href=\"%s\">community forum</a>."
+msgstr "<a href=\"%s\">Փաստաթղթաբանության ընթերցումից </a> հետո, կարող եք մանրակրկիթ աջակցության համար օգտվել <a href=\"%s\">ֆորումից</a>."
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:54
+msgid "Community Support"
+msgstr "Համայնքի օգնությունը"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:60
+msgid "Found a bug?"
+msgstr "Գտե՞լ եք թերություն։"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:63
+#, php-format
+msgid "If you find a bug within <strong>%s</strong> you can create a ticket via <a href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s\">contribution guide</a> prior to submitting your report. Be as descriptive as possible."
+msgstr "Եթե Դուք գտնեք թերություն <strong>%s</strong>-ում, Դուք կարող եք ստեղծել տոմս <a href=\"%s\">Github թերությունների</a> միջոցով։ Նախորոք  կարդացեք <a href=\"%s\">ներդրումների ուղեցույցը</a> Ձեր զեկույցը հաստատելուց առաջ։ Եղեք հնարավորինս նկարագրողական։"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:65
+msgid "Report a bug"
+msgstr "Զեկուցել թերություն"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:70
+msgid "For more information:"
+msgstr "Ավելի մանրամասն տեղեկատվության համար՝"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:72
+msgid "Project on WordPress.org"
+msgstr "Նախագիժ WordPress.org-ում"
+
+#: includes/admin/class-mailpoet-gravity-forms-admin-help.php:73
+msgid "Project on Github"
+msgstr "Նախագիծ GitHub-ում"
+
+#: includes/admin/class-mailpoet-gravity-forms-install.php:103
+msgid "What's new:"
+msgstr "Ի՞նչ նորություններ՝"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:119
+msgid "Subscriber fields"
+msgstr "Բաժանորդագրման դաշտեր"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:123
+msgid "Use First Name from Field ID"
+msgstr "Օգտագործել Անունը Field ID-ից"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:129
+msgid "Use Last Name from Field ID"
+msgstr "Օգտագործել Ազգանունը Field ID-ից"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:135
+msgid "Use Email Address from Field ID"
+msgstr "Օգտագործել էլեկտրոանային փոստի հասցեն Field ID-ից"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:142
+msgid "Enable multiselect"
+msgstr "Թույլատրել բազմաընտրությունը"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:146
+msgid "No"
+msgstr "Ոչ"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:147
+msgid "Yes"
+msgstr "Այո"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:153
+msgid "MailPoet lists"
+msgstr "MailPoet-ի ցուցակներ"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:171
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:182
+msgid "Single checkbox label"
+msgstr "Եզակի ընտրման պիտակ"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:183
+msgid "This is ignored when multiselect is enabled."
+msgstr "Սա մերժվում է, երբ միացված է բազմաընտրությունը"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:184
+msgid "Default: Yes, please subscribe me to your newsletter."
+msgstr "Լռելյայն՝ Այո, խնդրում եմ բաժանորդագրել ինձ Ձեր նորություններին։"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:185
+msgid "Custom Fields"
+msgstr "Յուրահատուկ դաշտեր"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:186
+msgid "You need to tell MailPoet from which Gravity Forms Fields it should take the users name and email address from."
+msgstr "Դուք պետք է ասել MailPoet-ին, ո՞ր Gravity Forms Fields-ից պետք է վերցնի օգտատերի անունը և էլեկտրոնային փոստի հասցեն"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Enable Multiselect"
+msgstr "Թույլատրել բազմաընտրությունը"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:187
+msgid "Let the user select multiple lists."
+msgstr "Թույլատրել օգտատերից ընտրել մի քանի ցուցակներ։"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "MailPoet Lists"
+msgstr "MailPoet ցուցակներ"
+
+#: includes/admin/mailpoet-gravity-forms-admin-functions.php:188
+msgid "Select which lists the user should be able to subscribe to."
+msgstr "Ընտրեք, որ ցուցակներին պետք է կարողանա բաժանորդագրվել օգտատերը։"
+
+#: includes/admin/views/view-html-settings.php:27
+msgid "Your settings have been saved."
+msgstr "Ձեր կարգավորումները պահպանված են։"
+
+#: includes/admin/views/view-html-settings.php:37
+msgid "MailPoet Gravity Forms Add-on Settings"
+msgstr "MailPoet Gravity Forms հավելվածի կարգավորումները"
+
+#: includes/admin/views/view-html-settings.php:39
+msgid "This setting is used only if you are using single checkbox option in the \"MailPoet\" field settings of the form editor."
+msgstr "Այս կարգավորումները օգտագործվում են միայն այն դեպքում, եթե Դուք օգտագործում եք եզակի ընտրման կարգավորումը \"MailPoet\" դաշտի կարգավորումներից։"
+
+#: includes/admin/views/view-html-settings.php:40
+msgid "Simply select the lists you want your subscribers to subscribe to and press \"Save Settings\"."
+msgstr "Պարզապես ընտրեք այն ցուցակները, որոնք ցանկանում եք բաժանորդներին բաժանորդագրել և սեղմեք \"Պահպանել Կարգավորումները\"։"
+
+#: includes/admin/views/view-html-settings.php:63
+msgid "Save Settings"
+msgstr "Պահպանել կարգավորումները"
+
+#: includes/mailpoet-gravity-forms-core-functions.php:32
+#: includes/mailpoet-gravity-forms-core-functions.php:47
+msgid "Yes, please subscribe me to your newsletter."
+msgstr "Այո, խնդրում եմ բաժանորդագրեք ինձ Ձեր նորություններին։"
+
+#: mailpoet-gravity-forms-addon.php:229
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: mailpoet-gravity-forms-addon.php:289
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress "
+msgstr "Ներեցեք, <strong>%s</strong>-ը պարտադրում է WordPress"
+
+#: mailpoet-gravity-forms-addon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms. Activate it now or <a href=\"%s\" target=\"_blank\">purchase it today!</a>"
+msgstr "Ներեցեք, <strong>%s</strong>-ը պահանջում է Gravity Forms. Ակտիվացրեք այն այժմ, կամ էլ <a href=\"%s\" target=\"_blank\">Ձեռք բերեք այն այսօր</a>"
+
+#: mailpoet-gravity-forms-addon.php:311
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires Gravity Forms "
+msgstr "Ներեցեք, <strong>%s</strong>-ը պարտադրում է Gravity Forms"
+
+#: mailpoet-gravity-forms-addon.php:322
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires MailPoet Newsletters for this plugin to work. Please install and activate <strong><a href=\"%s\">MailPoet Newsletters</a></strong> first."
+msgstr "Ներեցեք, <strong>%s</strong>-ը պահանջում է MailPoet Newsletters այս հավելվածի աշխատանքի համար։ Խնդրում ենք նախորոք տեղակայել և կարգավորել <strong><a href=\"%s\">MailPoet Newsletters</a></strong>-ը։"
