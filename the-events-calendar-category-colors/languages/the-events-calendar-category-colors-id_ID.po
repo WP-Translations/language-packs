@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Colors\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/the-events-calendar-category-colors\n"
+"Last-Translator: eko ikhyar <ikhyar.com@gmail.com>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/category-colors/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-10-17 21:51:42+00:00\n"
+"PO-Revision-Date: 2017-09-19 20:33:24\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: category-colors-settings.php:41
+#: includes/admintab.php:37
+msgid "Save Changes"
+msgstr "Simpan perubahan"
+
+#: classes/admin.php:28
+#: classes/class-admin.php:28
+#: classes/class-admin.php:32
+msgid "The Events Calendar"
+msgstr "Kalender Peristiwa"
+
+#: classes/admin.php:29
+#: classes/class-admin.php:29
+msgid "To begin using The Events Calendar Category Colors, please install the latest version of <a href=\"%s\" class=\"thickbox\" title=\"%s\">The Events Calendar</a>."
+msgstr "Untuk mulai menggunakan Kategori Warna Kalender Peristiwa, silahkan install versi terbaru dari <a href=\"%s\" class=\"thickbox\" title=\"%s\">Kalender Peristiwa</a>."
+
+#: classes/admin.php:94
+#: classes/class-admin.php:81
+msgid "Category Colors"
+msgstr "Warna Kategori"
+
+#: classes/admin.php:110
+#: classes/class-admin.php:97
+msgid "Settings saved."
+msgstr "Pengaturan disimpan."
+
+#: includes/admintab.php:13
+msgid "Category Colors Settings"
+msgstr "Pengaturan Warna Kategori"
+
+#: includes/admintab.php:17
+msgid "The Events Calendar Category Colors plugin was inspired by the tutorial <a href=\"http://tri.be/coloring-your-category-events/\">Coloring Your Category Events</a>."
+msgstr "Plugin Kategori Warna Kalender Peristiwa terinspirasi oleh tutorial <a href=\"http://tri.be/coloring-your-category-events/\">Mewarnai Kategori Peristiwa Anda</a>."
+
+#: includes/admintab.php:21
+msgid "Instructions for <strong>filters</strong>, <strong>hooks</strong>, <strong>settings functions</strong>, and <strong>help</strong> are on <a href=\"https://github.com/afragen/events-calendar-category-colors/wiki\">The Events Calendar Category Colors wiki</a>."
+msgstr "Petunjuk untuk <strong>penyaring</strong>, <strong>pengait</strong>, <strong>fungsi pengaturan</strong>, dan <strong>bantuan</strong> berada di <a href=\"https://github.com/afragen/events-calendar-category-colors/wiki\">Kategori Warna Kalender Peristiwa wiki</a>."
+
+#: includes/templatetags.php:56
+msgid "Use of this function is deprecated"
+msgstr "Penggunaan fungsi ini sudah ditinggalkan"
+
+#: views/optionsform.php:6
+msgid "Category Slug"
+msgstr "Kategori Slug"
+
+#: views/optionsform.php:7
+msgid "Border Color"
+msgstr "Warna Pembatas"
+
+#: views/optionsform.php:8
+msgid "Background Color"
+msgstr "Warna Latar belakang"
+
+#: views/optionsform.php:9
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: views/optionsform.php:10
+msgid "Current Display"
+msgstr "Tampilan Saat ini"
+
+#: views/optionsform.php:14
+msgid "You must have at least one event with a category for The Events Calendar Category Colors plugin to function."
+msgstr "Anda harus memiliki setidaknya satu peristiwa dengan kategori untuk Warna Kategori Kalender peristiwa Plugin ke fungsi."
+
+#: views/optionsform.php:27
+#: views/optionsform.php:39
+msgid "Transparent"
+msgstr "Transparan"
+
+#: views/optionsform.php:73
+msgid "Font-Weight Options"
+msgstr "Pilihan Bobot Font"
+
+#: views/optionsform.php:84
+msgid "Add Category Legend"
+msgstr "Tambahkan Kategori Legenda"
+
+#: views/optionsform.php:86
+msgid "Check to add a Category Legend to the calendar."
+msgstr "Cek untuk menambahkan Kategori Legenda ke kalender."
+
+#: views/optionsform.php:91
+msgid "Check to add Legend Superpowers."
+msgstr "Cek untuk menambahkan Superpower Legenda."
+
+#: views/optionsform.php:92
+msgid "Legend Superpowers are an optional visual effect allowing visitors to focus only on those events that belong to categories of interest - without reloading the page and without eliminating other categories from view completely. Click on the category of interest in the Legend for the effect; click again to remove it."
+msgstr "Superpower Legenda merupakan efek visual tambahan memungkinkan pengunjung untuk fokus hanya pada peristiwa-peristiwa yang memiliki kategori menarik - tanpa mengambil ulang halaman dan tanpa menghilangkan kategori lain dari pandangan sama sekali. Klik pada kategori minat di Legenda untuk efek, klik lagi untuk menghapusnya."
+
+#: views/optionsform.php:95
+msgid "Custom Legend CSS"
+msgstr "Legenda Kustom CSS"
+
+#: views/optionsform.php:97
+msgid "Check to use your own CSS for category legend."
+msgstr "Cek untuk menggunakan CSS Anda sendiri untuk legenda kategori."
+
+#: views/optionsform.php:100
+msgid "Database Options"
+msgstr "Basis data Pilihan"
+
+#: views/optionsform.php:102
+msgid "Restore defaults upon plugin deactivation/reactivation"
+msgstr "Mengembalikan standar pada Plugin deaktivasi / reaktivasi"
+
+#: views/optionsform.php:103
+msgid "Only check this if you want to reset plugin settings upon Plugin reactivation"
+msgstr "Hanya cek ini jika Anda ingin menyetel ulang pengaturan plugin pada reaktivasi Plugin"
+
+#. Plugin Name of the plugin/theme
+msgid "The Events Calendar Category Colors"
+msgstr "Warna Kategori Kalender Peristiwa"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/afragen/events-calendar-category-colors/"
+msgstr "https://github.com/afragen/events-calendar-category-colors/"
+
+#. Description of the plugin/theme
+msgid "This plugin adds event category background coloring to <a href=\"http://wordpress.org/extend/plugins/the-events-calendar/\">The Events Calendar</a> plugin."
+msgstr "Plugin ini menambahkan peristiwa kategori latar belakang pewarnaan ke <a href=\"http://wordpress.org/extend/plugins/the-events-calendar/\">Kalender peristiwa</a> plugin."
+
+#. Author of the plugin/theme
+msgid "Andy Fragen, Barry Hughes"
+msgstr "Andy Fragen, Barry Hughes"
+
+#. Author URI of the plugin/theme
+msgid "http://thefragens.com/blog/"
+msgstr "http://thefragens.com/blog/"
