@@ -1,0 +1,5980 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailPoet\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Besnik <besnik@programeshqip.org>\n"
+"Language-Team: Albanian (http://www.transifex.com/wysija/wysija/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-09-30 14:51+0200\n"
+"PO-Revision-Date: 2018-06-15 11:25:58\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: index.php\n"
+
+#: add-ons/add-ons-list.php:12
+#: add-ons/add-ons-list.php:44
+#: add-ons/add-ons-list.php:75
+msgid "Add a checkbox on checkout page for your customers to subscribe to your MailPoet newsletters."
+msgstr "Shto një checkbox në faqen tuaj të arkës për klientët që të abonohen në newsletter-in e MailPoet-it tuaj."
+
+#: add-ons/add-ons-list.php:28
+msgid "Decide which emails a new customer gets automatically, based on the product he just purchased. This a Premium add-on for WooCommerce."
+msgstr "Vendos çfarë email-ësh të japësh në mënyrë automatike klientëve të ri në bazë të produktit të sapo blerë. Kjo shtojcë është premium për WooCommerce."
+
+#: add-ons/add-ons-list.php:60
+msgid "Add a new field to add to your forms so your visitors can subscribe to your MailPoet newsletters."
+msgstr "Shto një fushë të re formularëve tuaj në mënyrë që vizitorët mund të abonohen në newsletter-at e tua të MailPoet."
+
+#: add-ons/add-ons-list.php:91
+msgid "Add a checkbox on the registration form of this plugin so your new users join a list of your choice."
+msgstr "Shto një checkbox në formularin e regjistrimit për këtë shtojcë që përdoruesit e ri të zgjedhin një listë sipas dëshirës tënde."
+
+#: add-ons/add-ons-list.php:106
+msgid "Add a checkbox in your forms, and choose which lists the user gets added to."
+msgstr "Shto një checkbox në formularët tuaj, dhe zgjidh në cilat lista do të shtohet përdoruesi."
+
+#: add-ons/add-ons-list.php:122
+msgid "Stop fake signups by robots with WangGuard, a free white listing service, and plugin."
+msgstr "Ndalo regjistrimet robotët fallco me WangGuard, një shërbim filtrimi dhe shtojcë pa pagesë."
+
+#: add-ons/add-ons-list.php:123
+msgid "If you have this problem, then this is your solution. Totally free too."
+msgstr "Nëse ke një problem dhe kjo është zgjidhja juaj. Ëshë edhe pa pagesë."
+
+#: add-ons/add-ons-list.php:138
+msgid "Leaky Paywall is a Premium plugin to put content behind a paywall. This add-on manages your customers' customers subscriptions."
+msgstr "Leaky Paywall është shtojcë Premium të vendosësh përmbajtjet tuaja pas një paywall. Kjo shtesë manaxon abonimet e klientëve të tu."
+
+#: add-ons/add-ons-list.php:152
+#, php-format
+msgid "Put a form in a top or bottom bar of your site, or in a nice box within your posts with GetConversion's free plugins. Connect them to MailPoet with this add-on.<br/></br>Get 30% off the Premium version of their add-on by clicking <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">here</a>."
+msgstr "Vendos një formular në një fushë në krye ose në fund të faqes tuaj, ose në një zonë në artikujt tuaj me shtojcën falas të GetConversion. Lidhu me MailPoet me këtë shtojcë.<br/></br>Merr një ulje prej 30% të versionit Premium të shtojcës së tyre duke klikuar <a href=\"http://getconversion.com/products/gc-mailpoet-ex-pro/?coupon=MAILPOET\">këtu</a>."
+
+#: add-ons/add-ons-list.php:153
+msgid "Try it yourself, we were impressed by the free versions."
+msgstr "Provoje, na kanë impresionuar versionet pa pagesë."
+
+#: add-ons/add-ons-list.php:169
+msgid "Put a subscription form in a popup, footer bar or slide-in to add subscribers with this Premium plugin."
+msgstr "Vendos një formular popup abonimi, fund-faqe ose rrëshqitëse anësore të shtosh abonentë me këtë shtojcë Premium."
+
+#: add-ons/add-ons-list.php:170
+msgid "The authors have done a pretty awesome job."
+msgstr "Autorët kanë bërë një punë të mrekullueshme."
+
+#: add-ons/add-ons-list.php:179
+msgid "Premium users save 20% with this coupon: MP20"
+msgstr "Përdoruesit Premium përfitojnë 20% me këtë kupon: MP20"
+
+#: add-ons/add-ons-list.php:186
+msgid "This Premium plugin allows you to add a MailPoet form in a popup."
+msgstr "Kjo shtojcë Premium ju lejon të shtoni një formular MailPoet në një popup."
+
+#: add-ons/add-ons-list.php:187
+msgid "You'll need to know CSS to design it to your taste."
+msgstr "Duhet të njohësh CSS të vizatosh atë sipas dëshirës tënde."
+
+#: add-ons/add-ons-list.php:196
+msgid "Premium users save 25% with this coupon: mailpoet25"
+msgstr "Përdoruesit Premium kursejnë 25% me këtë kupon: mailpoet25"
+
+#: add-ons/add-ons-list.php:204
+msgid "This Premium plugin allows you to add MailPoet's forms in many places, and in Facebook."
+msgstr "Kjo shtojcë Premium lejon të shtosh formular MailPoet në shumë vënde dhe në Facebook."
+
+#: add-ons/add-ons-list.php:205
+msgid "Very powerful, if not a quirky user interface."
+msgstr "Shumë e fuqishmë, më një ndërfaqe përdoruesi të çuditëshme."
+
+#: add-ons/add-ons-list.php:221
+msgid "This free plugin allows you to design and position a form at the beginning or bottom of a post."
+msgstr "Kjo shtojcë pa pagesë ju lejon të vizatoni dhe të vendosni një formular në krye apo në fund të një postimi."
+
+#: add-ons/add-ons-list.php:222
+msgid "It's free, and has proven popular with our users."
+msgstr "Është pa pagesë dhe është shumë popullor në përdoruesit tanë."
+
+#: add-ons/add-ons-list.php:238
+msgid "Exit popups are not only \"in vogue\", they are provably increasing conversions and therefore boost marketing, signups and sales. wBounce displays an inline popup before the user leaves your site."
+msgstr "Popup-et e daljeve nuk janë thjeshtë \"në modë\", ato janë duke shtuar në mënyrë të provuar shëndrrimet e kërkuara dhe shpeshë herë marketingun, abonimet dhe uljet e çmimeve. wBounce do të tregojë një popup në linjë përpara se përdoruesi të lër faqen tuaj."
+
+#: add-ons/add-ons-list.php:239
+msgid "Exit popup will appear when your cursor leaves the window."
+msgstr "Popup-i i daljes do të shfaqet kur kursori juaj do të lër dritaren."
+
+#: add-ons/add-ons-list.php:253
+msgid "This free plugin allows you to put a form in a popup, that's it."
+msgstr "Kjo shtojcë pa pagesë ju lejon të vendosni një formular në një popup, kaq është."
+
+#: add-ons/add-ons-list.php:254
+msgid "This is the free version of a more powerful Premium version."
+msgstr "Kjo është versioni pa pagesë i një më të fuqishëmi version Premium."
+
+#: add-ons/add-ons-list.php:270
+msgid "Your new site is not yet launched? Put a coming soon page with a form to capture emails with this Premium plugin."
+msgstr "Faqja juaj akoma nuk është treguar?  Trego një faqe Jemi Duke Ardhur me një formular për të regjistruar email-et me këtë sjtojcë Premium."
+
+#: add-ons/add-ons-list.php:271
+msgid "A well designed plugin for a simple idea."
+msgstr "Një shtojcë e vizatuar shumë mirë me një ide të thjeshtë."
+
+#: add-ons/add-ons-list.php:280
+msgid "Premium users save 20% with this coupon: MAILPOET20"
+msgstr "Përodoruesit Premium përfitojnë 20% me këtë kupon: MAILPOET20"
+
+#: add-ons/add-ons-list.php:287
+msgid "This Premium plugin allows you to put a pretty form right below the header. Nothing more, nothing less."
+msgstr "Kjo shtojcë Premium ju lejon të vendosni një formular simpatik nën kryen e faqes. Asgjë më shumë, asgjë më pak."
+
+#: add-ons/add-ons-list.php:304
+msgid "A checkbox is added as option for your customers to signup for your newsletter while purchasing from your digital store."
+msgstr "Një checkbox është shtuar si opsion për klientët tuaj që të regjistrohen në newsletter-in tuaj kur blejnë nga duqani juaj virtual."
+
+#: add-ons/add-ons-list.php:323
+msgid "Quickly create newsletter signup forms for your MailPoet mailing lists using the power and flexibility that Ninja Forms provides."
+msgstr "Krijo me shpejtësi një formular regjistrimi në newsletter-in tuaj të MailPoet duke përdorur fuqinë dhe fleksibilitetin që Ninja Forms ofron."
+
+#: add-ons/add-ons-list.php:342
+msgid "We recommend this plugin as the good alternative to WPML for multilingual sites. It's lean, straightforward, and leaves your site's core largely untouched. Each language has its own site in your WordPress Multisite install. Works great with MailPoet."
+msgstr "Të rekomandojmë këtë shtojcë si alternativë e mirë e WPML për faqet e tua në shumë gjuhë. Është e thjeshtë, e lehtë dhe e lë thelbin e faqes tënde ta pa prekur. Çdo gjuhë ka faqen e saj në instalimin e Wordpress multisite. Punon shumë mirë me MailPoet."
+
+#: add-ons/add-ons.php:90
+#, php-format
+msgid "was not activated as it requires <strong><a href=\"%s\">%s</a></strong> to be installed and active first."
+msgstr "nuk është aktivizuar spese kërkon <strong><a href=\"%s\">%s</a></strong> të instalohet dhe të aktivizohet i pari."
+
+#: add-ons/add-ons.php:94
+msgid "Hide this message"
+msgstr "Fshih këtë mesazh"
+
+#: add-ons/add-ons.php:101
+msgid "has been activated."
+msgstr "është aktivizuar."
+
+#: add-ons/add-ons.php:130
+msgid "has been de-activated."
+msgstr "ëhtë ç'aktivizuar."
+
+#: add-ons/add-ons.php:194
+msgid "MailPoet says: "
+msgstr "MailPoet thot:"
+
+#: add-ons/add-ons.php:207
+msgid "Website"
+msgstr "Faqe Interneti"
+
+#: add-ons/add-ons.php:212
+msgid "Purchase"
+msgstr "Bli"
+
+#: add-ons/add-ons.php:219
+msgid "Install from WordPress.org"
+msgstr "Instalo nga WordPress.org"
+
+#: add-ons/add-ons.php:230
+#: modules/cron_std/cron_std_view.php:221
+#: views/back/campaigns.php:657
+msgid "Activate"
+msgstr "Aktivizuar"
+
+#: add-ons/add-ons.php:233
+msgid "Configure"
+msgstr "Konfiguro"
+
+#: add-ons/add-ons.php:246
+#, php-format
+msgid "Don't see the add-on you're looking for? <a href=\"%s\">Submit it</a> in our contact form."
+msgstr "Nuk e shihni shtesën që po kërkoni? <a href=\"%s\">Paraqit atë</a> në formularin tonë të kontaktit."
+
+#: classes/WJ_FieldRender.php:88
+#: classes/WJ_FieldRender.php:113
+#: classes/WJ_FieldRender.php:134
+msgid "This field contains no values"
+msgstr "Kjo fushë nuk ka vlera"
+
+#: classes/WJ_FieldRender.php:185
+#: helpers/form_engine.php:45
+#: helpers/wj_engine.php:112
+#: views/back/config.php:2424
+msgid "Year"
+msgstr "Viti"
+
+#: classes/WJ_FieldRender.php:204
+#: helpers/form_engine.php:46
+msgid "Month"
+msgstr "Muaj"
+
+#: classes/WJ_FieldRender.php:223
+#: helpers/form_engine.php:47
+msgid "Day"
+msgstr "Ditë"
+
+#: classes/WJ_Import.php:77
+#, php-format
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr "Nuk është e mundur të lexohet file CSV. Verifiko të drejta për hyrje në këtë directory \\\"%1$s\\\""
+
+#: classes/WJ_Import.php:276
+msgid "There seems to be an error with the list you're trying to import."
+msgstr "Mund të ketë ndonjë problem me listën që po importon."
+
+#: classes/WJ_Import.php:479
+msgid "Error when inserting emails."
+msgstr "Gabim në vendosjen e email-ve"
+
+#: classes/WJ_Import.php:488
+msgid "Error when inserting list."
+msgstr "Gabim në vendosjen e listës"
+
+#: classes/WJ_Import.php:652
+msgid "The list you've pasted is too big for the browser. <strong>Upload the file</strong> instead."
+msgstr "Lista e ngjitur është shumë e madhe për browser-in.<strong> Provo të karikosh një file.</strong>"
+
+#: classes/WJ_Import.php:715
+msgid "The data you are trying to import doesn't appear to be in the CSV format (Comma Separated Values)."
+msgstr "Të dhënat që po tentoni të importoni nuk ngjajnë të jenë në formatin CSV (Comma Separated Values)."
+
+#: classes/WJ_Import.php:716
+msgid "Read More"
+msgstr "Lexo më shumë"
+
+#: classes/WJ_Import.php:718
+msgid "The first line of a CSV file should be the column headers : \"email\",\"lastname\",\"firstname\"."
+msgstr "Rrjeshti i parë i file-it CSV duhet të jetë kolonë titull: \"email\",\"mbiemër\",\"emër\"."
+
+#: classes/WJ_Import.php:719
+msgid "The second line of a CSV file should be a set of values : \"joeeg@example.com\",\"Average\",\"Joe\"."
+msgstr "Rrjeshti i dytë i file-it CSV duhet të jetë një grup vlerash : \"joeeg@example.com\",\"Average\",\"Joe\"."
+
+#: classes/WJ_Import.php:721
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr "Dy rrjeshtat e para të file-it që ke karikuar janë:"
+
+#: classes/WJ_Import.php:726
+#: classes/WJ_Import.php:732
+msgid "Line is empty"
+msgstr "Linja është bosh"
+
+#: classes/WJ_Import.php:788
+msgid "Check again what you're trying to import."
+msgstr "Verifiko dhe një herë çfarë je duke importuar."
+
+#: classes/WJ_Import.php:790
+msgid "We couldn't find any valid addresses in the first 10 rows."
+msgstr "Nuk kemi gjetur asnjë adresë të vlefshme në 10 rrjeshtat e para."
+
+#: classes/WJ_Import.php:794
+msgid "You're import file is not valid."
+msgstr "File juaj i importuar nuk është i vlefshëm."
+
+#: classes/WJ_Upgrade.php:64
+#, php-format
+msgid "Hey! %1$s has an update (version %2$s), <a href=\"%3$s\">click here to update</a>."
+msgstr "Hej!  %1$s ka një përditsim (versioni %2$s), <a href=\"%3$s\">kliko këtu të përditësosh</a>."
+
+#: classes/WJ_Upgrade.php:82
+msgid "Refresh the page you current are!"
+msgstr "Përditëso faqen ku ndodhesh tani!"
+
+#: classes/WJ_Upgrade.php:82
+msgid "Return to MailPoet"
+msgstr "Kthehu tek MailPoet"
+
+#: classes/WJ_Upgrade.php:393
+msgid "Update Plugin"
+msgstr "Përditëso Shtojcën"
+
+#: classes/WJ_Utils.php:60
+#, php-format
+msgid "Use an email from your domain, like <strong>info@%s</strong> to avoid the spam folder, or even be blocked."
+msgstr "Përdor një email nga domini juaj, p.sh. <strong>info@%s</strong> për të mos përfunduar në dosjen spam ose për të mos u bllokuar."
+
+#: classes/WJ_Utils.php:61
+#, php-format
+msgid "If you want to use a Gmail address, you need to send with Gmail. Check <a id=\"tip-send-with\" href=\"%s\">sending settings</a>."
+msgstr "Nëse dëshironi të përdorni një adres Gmail, duhet të dërgoni me Gmail. Kontrollo <a id=\"tip-send-with\" href=\"%s\">cilësimet e dërgimit</a>."
+
+#: controllers/ajax/campaigns.php:23
+msgid "Thanks!"
+msgstr "Faleminderit!"
+
+#: controllers/ajax/campaigns.php:61
+msgid "The theme you selected could not be loaded."
+msgstr "Tema që keni zgjedhur nuk mund të karikohet."
+
+#: controllers/ajax/campaigns.php:110
+msgid "Your email could not be saved"
+msgstr "Email-i juaj nuk është mundur të shpëtohet"
+
+#: controllers/ajax/campaigns.php:113
+msgid "Your email has been saved"
+msgstr "Email-i juaj është shpëtuar"
+
+#: controllers/ajax/campaigns.php:155
+msgid "Styles could not be saved"
+msgstr "Stilet nuk do mund të shpëtohen"
+
+#: controllers/ajax/campaigns.php:158
+msgid "Styles have been saved"
+msgstr "Stilet janë shpëtuar"
+
+#: controllers/ajax/campaigns.php:173
+#: controllers/back/campaigns.php:29
+msgid "Image has been deleted."
+msgstr "Imazhi është fshirë"
+
+#: controllers/ajax/campaigns.php:237
+msgid "Image selection has not been saved."
+msgstr "Zgjedhja imazh nuk është ruajtur"
+
+#: controllers/ajax/campaigns.php:240
+msgid "Image selection has been saved."
+msgstr "Zgjedhja imazh është ruajtur"
+
+#: controllers/ajax/campaigns.php:273
+msgid "Please select an article."
+msgstr "Zgjidhni një artikull."
+
+#: controllers/ajax/campaigns.php:316
+#: controllers/ajax/campaigns.php:972
+msgid "There are no posts corresponding to that search."
+msgstr "Nuk ka postime që korespondojnë me kërkimin"
+
+#: controllers/ajax/campaigns.php:427
+#, php-format
+msgid "Your email preview has been sent to %1$s"
+msgstr "Vrojtimi i email-it tuaj është dërguar në %1$s"
+
+#: controllers/ajax/campaigns.php:641
+#: controllers/back/campaigns.php:2390
+msgid "We were unable to contact the API, the site may be down. Please try again later."
+msgstr "Nuk ishim në gjendje të kontaktonim API, faqja mund të jetë poshtë. Ju lutemi të provoni përsëri më vonë."
+
+#: controllers/ajax/campaigns.php:832
+msgid "Your request has failed"
+msgstr "Kërkesa juaj ka dështuar"
+
+#: controllers/ajax/campaigns.php:856
+msgid "Request successful"
+msgstr "Kërkesë e suksesshme"
+
+#: controllers/ajax/config.php:70
+#: helpers/bounce.php:889
+#, php-format
+msgid "Successfully connected to %1$s"
+msgstr "I lidhur me sukses me %1$s"
+
+#: controllers/ajax/config.php:71
+#: helpers/bounce.php:898
+#, php-format
+msgid "There are %1$s messages in your mailbox"
+msgstr "Ka %1$s mesazhe në mailbox-in tuaj"
+
+#: controllers/ajax/config.php:74
+msgid "There are no bounced messages to process right now!"
+msgstr "Nuk ka mesazhe të refuzuara për të proçesuar tani!"
+
+#: controllers/ajax/config.php:85
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr "Ju mund të keni për të Aktivizuar opsionin <i>Self-signed certificates</ i>"
+
+#: controllers/ajax/config.php:87
+msgid "Are you sure you selected the right port? You can leave it empty if you do not know what to specify"
+msgstr "Je i sigurt që ke zgjedhur derën e duhur? Mund ta lësh bosh nëqoftë se nuk dini çfar të zgjidhni"
+
+#: controllers/ajax/config.php:190
+msgid "You need to select a type for this field"
+msgstr "Duhet të zgjidhni një lloj për këtë fushë"
+
+#: controllers/ajax/config.php:194
+msgid "You need to specify a name for this field"
+msgstr "Duhet të specifikoni një emër për këtë hapsirë"
+
+#: controllers/ajax/config.php:216
+msgid "This field does not exist"
+msgstr "Kjo hapsirë nuk ekziston"
+
+#: controllers/ajax/config.php:429
+msgid "Saved! The changes are already active in your widget."
+msgstr "Shpëtuar! Ndryshimet janë aktive në Widget-in tuaj."
+
+#: controllers/ajax/config.php:438
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]."
+msgstr "Shpëtuar! Shto këtë formular në [link_widget]një widget[/link_widget]."
+
+#: controllers/ajax/config.php:453
+msgid "Your form could not be saved."
+msgstr "Formulari juaj nuk u mund të shpëtohet."
+
+#: controllers/ajax/config.php:456
+msgid "Your form has been saved."
+msgstr "Formulari juaj është shpëtuar."
+
+#: controllers/ajax/subscribers.php:17
+#: controllers/front/subscribers.php:13
+msgid "User has been inserted."
+msgstr "Përdoruesi është vendosur."
+
+#: controllers/ajax/subscribers.php:20
+#: controllers/front/subscribers.php:16
+msgid "User has not been inserted."
+msgstr "Përdoruesi nuk është vendosur."
+
+#: controllers/ajax/subscribers.php:21
+#: controllers/front/subscribers.php:17
+msgid "User has been updated."
+msgstr "Përdoruesi është përditësuar."
+
+#: controllers/ajax/subscribers.php:22
+#: controllers/front/subscribers.php:18
+msgid "User has not been updated."
+msgstr "Përdoruesi unk është përditësuar."
+
+#: controllers/ajax/tmce.php:11
+msgid "Insert Subscription Form"
+msgstr "Vendosni formularin e të regjistruarve"
+
+#: controllers/back.php:351
+#: controllers/back.php:358
+#: controllers/back/config.php:80
+#: helpers/links.php:23
+#: views/back/campaigns.php:859
+#: views/back/subscribers.php:648
+msgid "Get Premium now"
+msgstr "Kalo në Premium tani"
+
+#: controllers/back.php:352
+#, php-format
+msgid "Yikes. You're over the limit of 2000 subscribers for the free version of MailPoet (%1$s in total). Sending is disabled now. Please upgrade your version to [link]premium[/link] to send without limits."
+msgstr "Sa keq. Ju jeni më tej se limiti i 2000 abonentëve për versionin pa pagesë të MailPoet (%1$s in total). Dërgimi është i kufizuar tani. Përmirsoni versionin tuaj në [link]premium[/link] të dërgoni pa limite."
+
+#: controllers/back.php:359
+#, php-format
+msgid "Yikes! You're near the limit of %1$s subscribers for MailPoet's free version. Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr "Sa keq. Jeni afër limitit të %1$s abonentëve për versionin pa pagesë të MailPoet. Përmirsoni në [link]Premium[/link] të dërgoni pa limite, dhe më shumë."
+
+#: controllers/back.php:484
+msgid "Elements deleted"
+msgstr "Elemtente të fshira"
+
+#: controllers/back.php:496
+msgid "Element has been deleted."
+msgstr "Elementi është fshirë"
+
+#: controllers/back.php:567
+#: controllers/back.php:570
+#: views/back/campaigns.php:1970
+#: views/back/campaigns.php:2536
+#: views/back/campaigns.php:2538
+#: views/back/campaigns.php:2699
+#: views/back/campaigns.php:2700
+msgid "Upload"
+msgstr "Kariko"
+
+#: controllers/back.php:573
+msgid "Newsletter Images"
+msgstr "Imazhe Newsletter"
+
+#: controllers/back.php:574
+msgid "WordPress Posts' Images"
+msgstr "Imazhe të Artikujve të WordPress"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security failure during request"
+msgstr "Dështimi i Sigurisë gjatë kërkesës"
+
+#: controllers/back/campaigns.php:39
+#: core/controller.php:64
+#: core/controller.php:73
+msgid "Security Problem"
+msgstr "Problem Sigurie"
+
+#: controllers/back/campaigns.php:91
+msgid "Welcome Page!"
+msgstr "Faqja e Mirseardhjes!"
+
+#: controllers/back/campaigns.php:92
+#: controllers/back/campaigns.php:194
+msgid "Installing MailPoet Newsletter Premium plugin"
+msgstr "Duke instaluar shtojcën Premium të Newsletter-it të MailPoet"
+
+#: controllers/back/campaigns.php:96
+msgid "A Brand New MailPoet. Let the Fun Begin."
+msgstr "Një MailPoet i ri fare. Le të nis argëtimi."
+
+#: controllers/back/campaigns.php:119
+msgid "Stay up to date! Subscribe to our newsletters"
+msgstr "Mos humb të rejat e fundit! Abonohu në newsletter-in tonë"
+
+#: controllers/back/campaigns.php:121
+#: views/back/campaigns.php:2933
+msgid "We send a monthly newsletter with the following:"
+msgstr "Ne dërgojmë një newsletter mujore si vijon:"
+
+#: controllers/back/campaigns.php:123
+#: views/back/campaigns.php:2935
+msgid "Important plugin updates"
+msgstr "Përditësime të rëndësishme të shtojcës"
+
+#: controllers/back/campaigns.php:124
+#: views/back/campaigns.php:2936
+msgid "Coupons"
+msgstr "Kupone"
+
+#: controllers/back/campaigns.php:125
+#: views/back/campaigns.php:2937
+msgid "Tips for you, or your customers"
+msgstr "Këshilla për ju, ose për klientët tuaj"
+
+#: controllers/back/campaigns.php:126
+#: views/back/campaigns.php:2938
+msgid "What we’re working on"
+msgstr "Për çfar po punojmë"
+
+#: controllers/back/campaigns.php:127
+#: views/back/campaigns.php:2939
+msgid "News from us, the team"
+msgstr "Lajme nga ne, grupi"
+
+#: controllers/back/campaigns.php:142
+msgid "First Time? See it in Action"
+msgstr "Hera e parë? Shikoje në aksion"
+
+#: controllers/back/campaigns.php:145
+msgid "You can start by watching this video by one of our users."
+msgstr "Mund të nisësh duke shikuar këtë video të një nga përdoruesve tanë."
+
+#: controllers/back/campaigns.php:153
+#: controllers/back/campaigns.php:159
+msgid "Share your data"
+msgstr "Ndaj të dhënat e tua"
+
+#: controllers/back/campaigns.php:155
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr "Ne dimë shumë pak për përdoruesit tanë. Jemi në kërkim [link] dhënat anonime [/link] për të ndërtuar një plugin më të mirë. [ajaxlink] Po, numëromë mua në të! [/ajaxlink]"
+
+#: controllers/back/campaigns.php:161
+msgid "We know too little about our users. We're looking for [link]anonymous data[/link] to build a better plugin. Thanks, you're already sharing!"
+msgstr "Ne e dimë shumë pak për përdoruesit tanë. Jemi në kërkim të [link]dhënash anonime[/link] për të ndërtuar një shtojcën më të mirë. Faleminderit, ju tashmë po ndani!"
+
+#: controllers/back/campaigns.php:166
+msgid "What You Can Do"
+msgstr "Çfar mund të bësh"
+
+#: controllers/back/campaigns.php:169
+msgid "5 minute newbie guide"
+msgstr "5 minuta udhëzime për fillestarët"
+
+#: controllers/back/campaigns.php:170
+msgid "Your MailPoet comes with an example newsletter. You'll see it when you close this welcome page. Edit it to start playing with it."
+msgstr "MailPoet-i juaj erdhi me një newsletter shembull. Do ta shohësh kur të mbyllësh faqen e miseardhjes. Redakto të nisësh ta përdorësh."
+
+#: controllers/back/campaigns.php:174
+msgid "Help yourself. Or let us help you."
+msgstr "Ndihmo veten. Përndryshe na lejo të të ndihmojm"
+
+#: controllers/back/campaigns.php:176
+msgid "We got documentation and a ticket system on [link]support.mailpoet.com[/link]. We answer within 24h."
+msgstr "Kemi dokumentacion dhe një sistem ticket në [link]support.mailpoet.com[/link]. Përgjigjemi branda 24 orësh."
+
+#: controllers/back/campaigns.php:193
+msgid "What's new?"
+msgstr "Çkemi të reja?"
+
+#: controllers/back/campaigns.php:216
+#: helpers/licence.php:109
+msgid "Premium version is valid for your site."
+msgstr "Versioni Premium është i vlfshëm per faqen tuaj."
+
+#: controllers/back/campaigns.php:223
+msgid "Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr "Liçenca Premium nuk ekziston për faqen tuaj. Blije [link]këtu[/link]."
+
+#: controllers/back/campaigns.php:260
+msgid "Queue is empty!"
+msgstr "Radha është bosh!"
+
+#: controllers/back/campaigns.php:294
+#: controllers/back/campaigns.php:454
+#: controllers/back/campaigns.php:497
+#: controllers/back/campaigns.php:713
+#, php-format
+msgid "Step %1$s"
+msgstr "Hapi %1$s"
+
+#: controllers/back/campaigns.php:299
+#: views/back/campaigns.php:1518
+msgid "Insert [newsletter:total] to show number of posts, [newsletter:post_title] to show the latest post's title & [newsletter:number] to display the issue number."
+msgstr "Fut [newsletter:total] për të treguar numrin e postimeve, [newsletter:post_title] për të treguar titullin e mesazhit të fundit dhe [newsletter:number] për të shfaqur numrin e çështjes."
+
+#: controllers/back/campaigns.php:300
+msgid "The first thing your subscribers see. Be creative and increase your open rate!"
+msgstr "Gjëja e parë që abonentët tuaj shohin. Jini kreativ dhe rrisni normat tuaja të hyrjeve!"
+
+#: controllers/back/campaigns.php:302
+msgid "First step: main details"
+msgstr "Hapi i parë: detajet kryesore"
+
+#: controllers/back/campaigns.php:318
+msgid "once a day at..."
+msgstr "një herë në ditë në..."
+
+#: controllers/back/campaigns.php:319
+msgid "weekly on..."
+msgstr "javore në..."
+
+#: controllers/back/campaigns.php:320
+msgid "monthly on the..."
+msgstr "mujore në..."
+
+#: controllers/back/campaigns.php:321
+msgid "monthly every..."
+msgstr "mujore çdo..."
+
+#: controllers/back/campaigns.php:322
+#: controllers/back/campaigns.php:395
+msgid "immediately."
+msgstr "në çast."
+
+#: controllers/back/campaigns.php:353
+msgid "in any WordPress role"
+msgstr "në çdo rol të WordPress"
+
+#: controllers/back/campaigns.php:361
+msgid "When there's new content..."
+msgstr "Kur ka përmbajtje të re..."
+
+#: controllers/back/campaigns.php:362
+msgid "When someone subscribes to the list..."
+msgstr "Kur dikush abonohet në listën..."
+
+#: controllers/back/campaigns.php:363
+msgid "When a new WordPress user is added to your site..."
+msgstr "Kur një përdorues i ri WordPress shtohet në faqen tuaj..."
+
+#: controllers/back/campaigns.php:396
+msgid "hour(s) after."
+msgstr "or(ë) më vonë"
+
+#: controllers/back/campaigns.php:397
+msgid "day(s) after."
+msgstr "dit(ë) më vonë"
+
+#: controllers/back/campaigns.php:398
+msgid "week(s) after."
+msgstr "jav(ë) më vonë"
+
+#: controllers/back/campaigns.php:401
+msgid "immediately"
+msgstr "në çast"
+
+#: controllers/back/campaigns.php:402
+msgid "hour(s)"
+msgstr "or(ë)"
+
+#: controllers/back/campaigns.php:403
+msgid "day(s)"
+msgstr "dit(ë)"
+
+#: controllers/back/campaigns.php:404
+msgid "week(s)"
+msgstr "jav(ë)"
+
+#: controllers/back/campaigns.php:477
+msgid "Saving newsletter..."
+msgstr "Duke shpëtuar newsletter-in..."
+
+#: controllers/back/campaigns.php:478
+msgid "Error Saving newsletter..."
+msgstr "Gabim duke shpëtuar newsletter-in..."
+
+#: controllers/back/campaigns.php:479
+msgid "Newsletter has been saved."
+msgstr "Newsletter është shpëtuar."
+
+#: controllers/back/campaigns.php:480
+#: controllers/back/campaigns.php:656
+msgid "Sending preview..."
+msgstr "Në dërgim të shikimit paraprak..."
+
+#: controllers/back/campaigns.php:481
+msgid "Spam test results"
+msgstr "Rezultatet e provës për Spam"
+
+#: controllers/back/campaigns.php:496
+#, php-format
+msgid "Second step:  \"%1$s\""
+msgstr "Hapi i dytë: \"%1$s\""
+
+#: controllers/back/campaigns.php:525
+msgid "Sending is now paused."
+msgstr "Dërgimi është i ndaluar."
+
+#: controllers/back/campaigns.php:539
+msgid "Sending has resumed."
+msgstr "Dërgimi ka rinisur."
+
+#: controllers/back/campaigns.php:550
+#: controllers/back/campaigns.php:556
+#: controllers/back/subscribers.php:593
+msgid "Copy of "
+msgstr "Kopje e"
+
+#: controllers/back/campaigns.php:606
+msgid "The newsletter has been duplicated."
+msgstr "Newsletter-i është dyfishuar."
+
+#: controllers/back/campaigns.php:630
+#, php-format
+msgid "%1$s emails every %2$s"
+msgstr "%1$s email të dërguara %2$s më parë"
+
+#: controllers/back/campaigns.php:630
+msgid "Your sending settings ([settings]) can't send that quickly to [number] subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr "Vetitë tuaja të dërgimit ([settings]) nuk mund të dërgojnë aq shpejt për [number] abonentë. Do të keni vonesa. [link]Lexo më shumë[/link]"
+
+#: controllers/back/campaigns.php:653
+msgid "Final step: last details"
+msgstr "Hapi i fundit: detajet e fundit"
+
+#: controllers/back/campaigns.php:657
+msgid "Pick a date"
+msgstr "Zgjidh një datë"
+
+#: controllers/back/campaigns.php:658
+#: views/back/campaigns.php:1599
+msgid "Save & close"
+msgstr "Shpëto dhe mbyll"
+
+#: controllers/back/campaigns.php:659
+msgid "Send later"
+msgstr "Dërgo më vonë"
+
+#: controllers/back/campaigns.php:661
+msgid "Schedule"
+msgstr "Planifiko"
+
+#: controllers/back/campaigns.php:689
+#: helpers/back.php:216
+#: views/back/campaigns.php:1591
+#: views/back/campaigns.php:1592
+#: views/back/premium.php:186
+msgid "Activate now"
+msgstr "Aktivizo tani"
+
+#: controllers/back/campaigns.php:693
+#: views/back/campaigns.php:1597
+#: views/back/campaigns.php:1598
+msgid "Send"
+msgstr "Dërgo"
+
+#: controllers/back/campaigns.php:697
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Jeni gati të dërgoni këtë Newsletter. Ju lutem konfirmoni."
+
+#: controllers/back/campaigns.php:707
+#, php-format
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr "Jeni i sigurt që dëshironi të injoroni %1$s abonues të listës %2$s?"
+
+#: controllers/back/campaigns.php:746
+#: controllers/back/campaigns.php:775
+msgid "Newsletter deleted."
+msgstr "Newsletter e fshirë"
+
+#: controllers/back/campaigns.php:746
+msgid "Newsletters deleted."
+msgstr "Newsletter-a të fshira."
+
+#: controllers/back/campaigns.php:748
+#: controllers/back/campaigns.php:777
+msgid "Newsletter can't be deleted."
+msgstr "Newsletter smund të fshiet."
+
+#: controllers/back/campaigns.php:878
+#: controllers/back/campaigns.php:900
+#: controllers/back/campaigns.php:2267
+#: controllers/back/campaigns.php:2536
+msgid "Read more."
+msgstr "Lexo më shumë."
+
+#: controllers/back/campaigns.php:883
+#: controllers/back/campaigns.php:905
+#: controllers/back/campaigns.php:2272
+#: controllers/back/campaigns.php:2541
+msgid "Author:"
+msgstr "Autori:"
+
+#: controllers/back/campaigns.php:885
+#: controllers/back/campaigns.php:907
+#: controllers/back/campaigns.php:2274
+#: controllers/back/campaigns.php:2543
+msgid "Categories:"
+msgstr "Kategoritë:"
+
+#: controllers/back/campaigns.php:886
+#: controllers/back/campaigns.php:908
+#: controllers/back/campaigns.php:2275
+#: controllers/back/campaigns.php:2544
+#: helpers/wj_engine.php:449
+msgid "Latest content already sent."
+msgstr "Përmbajtja e fundit ështe dërguar tashmë."
+
+#: controllers/back/campaigns.php:934
+#, php-format
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr "Postimet e mëposhtme jan vendosur me widget-in %sAutomatic latest content%s"
+
+#: controllers/back/campaigns.php:950
+#, php-format
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr "%sPër të redaktuar%s, mouse mbi butonin redakto për të treguar më poshtë."
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "Step 1:"
+msgstr "Hapi 1:"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "hey, click on this text!"
+msgstr "ej, kliko mbi këtë text!"
+
+#: controllers/back/campaigns.php:1035
+#: helpers/install.php:248
+msgid "To edit, simply click on this block of text."
+msgstr "Për të redaktuar. thjesht kliko mbi këtë bllok teksti."
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "Step 2:"
+msgstr "Hapi 2:"
+
+#: controllers/back/campaigns.php:1051
+#: helpers/install.php:263
+msgid "play with this image"
+msgstr "luaj me këtë imazh"
+
+#: controllers/back/campaigns.php:1061
+#: helpers/install.php:273
+msgid "Position your mouse over the image to the left."
+msgstr "Vendos mouse-in tuaj mbi imazhin në të majtë"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "Step 3:"
+msgstr "Hapi 3:"
+
+#: controllers/back/campaigns.php:1082
+#: helpers/install.php:294
+msgid "drop content here"
+msgstr "lësho përmbajtjen këtu"
+
+#: controllers/back/campaigns.php:1083
+#: helpers/install.php:295
+#, php-format
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr "Terhiq dhe lësho %1$stekst, mesazhet, ndarësat.%2$s Shikoni në të djathtë!"
+
+#: controllers/back/campaigns.php:1084
+#: helpers/install.php:296
+#, php-format
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Mund të përdorësh dhe %1$slink në socialët%2$s si këto:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "Step 4:"
+msgstr "Hapi 4:"
+
+#: controllers/back/campaigns.php:1125
+#: helpers/install.php:337
+msgid "and the footer?"
+msgstr "dhe këmba?"
+
+#: controllers/back/campaigns.php:1126
+#: helpers/install.php:338
+#, php-format
+msgid "Change the footer's content in MailPoet's %1$sSettings%2$s page."
+msgstr "Ndrysho përmbajtjen e fund-faqes të %1$sKonfigurimeve%2$s të MailPoet."
+
+#: controllers/back/campaigns.php:1174
+msgid "Newsletter successfully created."
+msgstr "Keni krijuar me sukses Newsletter-in."
+
+#: controllers/back/campaigns.php:1212
+msgid "Information is missing."
+msgstr "Informacioni mungon."
+
+#: controllers/back/campaigns.php:1220
+msgid "Your Google Campaign can only contain latin characters, numbers, spaces and hyphens!"
+msgstr "Google Campaign-i yt pranon vetëm shkronja latine, numra, hapsira dhe vija!"
+
+#: controllers/back/campaigns.php:1243
+#: models/email.php:172
+msgid "Newsletter has been scheduled."
+msgstr "Newsletter-i është planifikuar"
+
+#: controllers/back/campaigns.php:1245
+msgid "Newsletter has been saved as a draft."
+msgstr "Newsletter-i është ruajtur si projekt."
+
+#: controllers/back/campaigns.php:1555
+#: helpers/back.php:460
+#: helpers/back.php:530
+msgid "Newsletters"
+msgstr "Newsletter-at"
+
+#: controllers/back/campaigns.php:1558
+msgid "Please select a newsletter."
+msgstr "Ju lutem zgjidhni Newsletter-in"
+
+#: controllers/back/campaigns.php:1559
+#: views/back/campaigns.php:150
+msgid "Delete this newsletter for ever?"
+msgstr "Dëshironi ta fshini përfundimisht këtë Newsletter?"
+
+#: controllers/back/campaigns.php:1560
+#: views/back/campaigns.php:151
+msgid "Delete these newsletters for ever?"
+msgstr "Fshi këto newsltter-a për gjithnjë?"
+
+#: controllers/back/campaigns.php:1561
+msgid "Sending batch of emails..."
+msgstr "Duke dërguar grupin e email-eve.."
+
+#: controllers/back/campaigns.php:1562
+msgid "View newsletter"
+msgstr "Shiko Newsletter"
+
+#: controllers/back/campaigns.php:1563
+msgid "The newsletter will be deactivated, you will need to reactivate it once you're over editing it. Do you want to proceed?"
+msgstr "Newsletter-i do të çaktivizohet, do t'ju duhet të ri-aktivizoni atë një herë që ju jeni duke e redaktuar. Dëshironi të vazhdoni?"
+
+#: controllers/back/campaigns.php:1825
+msgid "The list has been deleted."
+msgstr "Lista është fshirë."
+
+#: controllers/back/campaigns.php:1826
+msgid "Sending suspended."
+msgstr "Dërgimi është pezulluar."
+
+#: controllers/back/campaigns.php:1832
+msgid "There are no newsletters."
+msgstr "Nuk ka Newsletter."
+
+#: controllers/back/campaigns.php:1896
+#, php-format
+msgid "Stats : %1$s"
+msgstr "Statistikat: %1$s"
+
+#: controllers/back/campaigns.php:2092
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr "Kërkesa juaj nuk mund prodhoj rezultate. Modifiko filtrat!"
+
+#: controllers/back/campaigns.php:2149
+#, php-format
+msgid "Segment of %1$s"
+msgstr "Segmenti i %1$s"
+
+#: controllers/back/campaigns.php:2153
+msgid "List created based on a newsletter segment."
+msgstr "Lista e krijuar ështa bazuar në një segment të Newsletter-it."
+
+#: controllers/back/campaigns.php:2162
+#, php-format
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Një list e re \"%1$s\" është krijuar nga ky segment."
+
+#: controllers/back/campaigns.php:2184
+msgid "The segment has been unsubscribed from all the lists."
+msgstr "Segmenti është çregjistruar nga të gjitha listat."
+
+#: controllers/back/campaigns.php:2195
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Segmenti është hequr nga radhët e kësaj newsletter."
+
+#: controllers/back/campaigns.php:2227
+#, php-format
+msgid "The segment has been unsubscribed from the list \"%1$s\"."
+msgstr "Segmenti është çregjistruar mga lista \"%1$s\"."
+
+#: controllers/back/campaigns.php:2229
+msgid "The segment cannot be unsubscribed from an [IMPORT] list."
+msgstr "Segmenti nuk mund të çregjistrohet nga një listë [IMPORT]."
+
+#: controllers/back/campaigns.php:2236
+#: helpers/wj_engine.php:81
+msgid "Post Selection"
+msgstr "Postoni përzgjidhjen"
+
+#: controllers/back/campaigns.php:2248
+#: views/back/campaigns.php:2019
+msgid "Display and insert options"
+msgstr "Afisho dhe vendos opsionet"
+
+#: controllers/back/campaigns.php:2249
+#: views/back/campaigns.php:2021
+msgid "Back to selection"
+msgstr "Kthehu tek opsionet"
+
+#: controllers/back/campaigns.php:2250
+msgid "Loading results..."
+msgstr "Duke karikuar rezultatet..."
+
+#: controllers/back/campaigns.php:2251
+msgid "Inserting selected articles..."
+msgstr "Duke vendosur artikujt e zgjedhur.."
+
+#: controllers/back/campaigns.php:2252
+msgid "selected"
+msgstr "i/të zgjedhur"
+
+#: controllers/back/campaigns.php:2346
+#: controllers/back/subscribers.php:835
+#, php-format
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Gabim karikimi, file %1$s ështe shumë i madhë! (MAX:%2$s)"
+
+#: controllers/back/campaigns.php:2363
+msgid "Install Themes"
+msgstr "Instalo Tema"
+
+#: controllers/back/campaigns.php:2366
+msgid "Details & PSD"
+msgstr "Detaje dhe PSD"
+
+#: controllers/back/campaigns.php:2367
+#: views/back/campaigns.php:1955
+msgid "<< Back"
+msgstr "<< Mbrapa"
+
+#: controllers/back/campaigns.php:2368
+msgid "Download"
+msgstr "Shkarko"
+
+#: controllers/back/campaigns.php:2369
+msgid "Reinstall"
+msgstr "Riinstalo"
+
+#: controllers/back/campaigns.php:2370
+#: helpers/back.php:349
+#: views/back/campaigns.php:1945
+msgid "Premium"
+msgstr "Premium"
+
+#: controllers/back/campaigns.php:2379
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr "Photoshop file janë të mundëshëm si pjesë e [link]mundësive Premium[/link]."
+
+#: controllers/back/campaigns.php:2385
+msgid "Show all themes"
+msgstr "Trego të gjitha temat"
+
+#: controllers/back/campaigns.php:2386
+#, php-format
+msgid "(%1$s votes)"
+msgstr "(%1$s votime)"
+
+#: controllers/back/campaigns.php:2387
+msgid "Your vote has been recorded."
+msgstr "Votimi juaj është ruajtur."
+
+#: controllers/back/campaigns.php:2388
+msgid "Your vote could not be recorded."
+msgstr "Votimi juaj nuk është ruajtur."
+
+#: controllers/back/campaigns.php:2389
+#, php-format
+msgid "Watch out! If you reinstall this theme all the files which are in the folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you sure you want to reinstall?"
+msgstr "Kujdes! Nëse ju riinstaloni këtë temë të gjitha file-t që janë në dosje :/wp-content/uploads/wysija/themes/%1$s do të mbishkruhen. Jeni te sigurte qe doni te riinstaloni?"
+
+#: controllers/back/campaigns.php:2392
+#, php-format
+msgid "View all themes by %1$s"
+msgstr "Shiko të gjitha Temat nga %1$s"
+
+#: controllers/back/campaigns.php:2393
+msgid "Download original Photoshop file"
+msgstr "Shkarko file-in origjinal Photoshop"
+
+#: controllers/back/campaigns.php:2394
+msgid "Download as .zip"
+msgstr "Shkarko si .zip"
+
+#: controllers/back/campaigns.php:2395
+msgid "View author's website"
+msgstr "Shiko faqen e autorit"
+
+#: controllers/back/campaigns.php:2396
+#, php-format
+msgid "Average rating: %1$s"
+msgstr "Votat mesatare: %1$s"
+
+#: controllers/back/campaigns.php:2397
+#, php-format
+msgid "My rating: %1$s"
+msgstr "Votat e mia: %1$s"
+
+#: controllers/back/campaigns.php:2398
+#, php-format
+msgid "Downloads: %1$s"
+msgstr "Shkarkimet: %1$s"
+
+#: controllers/back/campaigns.php:2399
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Etiketat: %1$s"
+
+#: controllers/back/campaigns.php:2400
+#, php-format
+msgid "Last updated: %1$s"
+msgstr "Përditësimet e fundit: %1$s"
+
+#: controllers/back/campaigns.php:2401
+#, php-format
+msgid "Includes: %1$s"
+msgstr "Përmban: %1$s"
+
+#: controllers/back/campaigns.php:2418
+msgid "Bookmarks Selection"
+msgstr "Përzgjedhja e shënimeve"
+
+#: controllers/back/campaigns.php:2465
+msgid "Dividers Selection"
+msgstr "Përzgjedhja e ndarësave"
+
+#: controllers/back/campaigns.php:2512
+msgid "Add / Edit group of posts"
+msgstr "Shto / Redakto grupe postimesh"
+
+#: controllers/back/campaigns.php:2521
+#: views/back/campaigns.php:2274
+msgid "Show display options"
+msgstr "Trego opsionet e shikimit"
+
+#: controllers/back/campaigns.php:2522
+msgid "Hide display options"
+msgstr "Fsheh opsionet e shikimit"
+
+#: controllers/back/campaigns.php:2602
+msgid "Image Parameters"
+msgstr "Parametrat e imazheve"
+
+#: controllers/back/campaigns.php:2613
+msgid "Delete image for all newsletters?"
+msgstr "Fshi imazhin për të gjitha Newsletter-at?"
+
+#: controllers/back/campaigns.php:2619
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Ky imazh mund të jetë në një artikull. Dëshironi ta fshini sidoqoftë?"
+
+#: controllers/back/campaigns.php:2627
+msgid "You have attempted to queue too many files."
+msgstr "Ju keni tentuar të thurni shumë file."
+
+#: controllers/back/campaigns.php:2628
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s tejkalon përmasat e karikimeve për këtë faqe."
+
+#: controllers/back/campaigns.php:2629
+msgid "This file is empty. Please try another."
+msgstr "Ky file është bosh. Provoni një tjtër."
+
+#: controllers/back/campaigns.php:2630
+msgid "This file type is not allowed. Please try another."
+msgstr "Ky file nuk lejohet. Provoni një tjetër."
+
+#: controllers/back/campaigns.php:2631
+msgid "This file is not an image. Please try another."
+msgstr "Ky file nuk është imazh. Provoni një tjetër"
+
+#: controllers/back/campaigns.php:2632
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Tejkaluat memorien. Provoni një file më të vogël"
+
+#: controllers/back/campaigns.php:2633
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Ky është me i madhë se përmasat maksimale. Provnoi një tjetër."
+
+#: controllers/back/campaigns.php:2634
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Gabim në karikim. Provoni më vonë."
+
+#: controllers/back/campaigns.php:2635
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Ka një gabim konfigurimi. Kontaktoni administratorin e serverit."
+
+#: controllers/back/campaigns.php:2636
+msgid "You may only upload 1 file."
+msgstr "Mund të karikoni vetëm 1 file."
+
+#: controllers/back/campaigns.php:2637
+msgid "HTTP error."
+msgstr "Gabim HTTP."
+
+#: controllers/back/campaigns.php:2638
+msgid "Upload failed."
+msgstr "Ngarkimi dështoi."
+
+#: controllers/back/campaigns.php:2639
+#, php-format
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Provoni ta ngarkoni këtë file me %1$s browser uploader %2$s."
+
+#: controllers/back/campaigns.php:2640
+#, php-format
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s tejkalon madhësinë maksimale të ngarkimit për karikuesin muliti-file kur përdoret në browserin tuaj."
+
+#: controllers/back/campaigns.php:2641
+msgid "IO error."
+msgstr "Gabim IO."
+
+#: controllers/back/campaigns.php:2642
+msgid "Security error."
+msgstr "Gabim sigurie."
+
+#: controllers/back/campaigns.php:2643
+msgid "File canceled."
+msgstr "File i anulluar."
+
+#: controllers/back/campaigns.php:2644
+msgid "Upload stopped."
+msgstr "Ngarkim i ndaluar."
+
+#: controllers/back/campaigns.php:2645
+msgid "Dismiss"
+msgstr "Prapso"
+
+#: controllers/back/campaigns.php:2646
+msgid "Crunching&hellip;"
+msgstr "Duke u përtypur&hellip;"
+
+#: controllers/back/campaigns.php:2647
+msgid "moved to the trash."
+msgstr "çuar në koshin e plehrave."
+
+#: controllers/back/campaigns.php:2648
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; ngarkimi dështoi."
+
+#: controllers/back/campaigns.php:2649
+#, php-format
+msgid "%d file(s) have been successfully uploaded."
+msgstr "%d skedar(e) janë ngarkuar me sukses."
+
+#: controllers/back/campaigns.php:2710
+msgid "Saved."
+msgstr "Shpëtuar."
+
+#: controllers/back/campaigns.php:2727
+msgid "The newsletter doesn't exist."
+msgstr "Newsletter-i nuk ekziston."
+
+#: controllers/back/config.php:17
+msgid "Sending a test email"
+msgstr "Dërgim i një email provë"
+
+#: controllers/back/config.php:18
+msgid "Bounce handling connection test"
+msgstr "Test lidhjeje trajtimi përsëritës"
+
+#: controllers/back/config.php:19
+msgid "Bounce handling processing"
+msgstr "Përpunim sistemi përsëritës"
+
+#: controllers/back/config.php:20
+msgid "Subscribers will now need to activate their subscription by email in order to receive your newsletters. This is recommended."
+msgstr "Të abonuarit duhet të aktivizojmë abonimin e tyre me email në mënyrë që të marrin Newsletter-in tuaj. Kjo është e rekomanduar."
+
+#: controllers/back/config.php:21
+msgid "Unconfirmed subscribers will receive your newsletters from now on without the need to activate their subscriptions."
+msgstr "Abonentët e pa konifirmuar do të marrin newsletter nga tani e tutje pa nevojën për të aktivizuat abonimin e tyre."
+
+#: controllers/back/config.php:22
+msgid "Process bounce handling now!"
+msgstr "Përpuno proçesin përsëritës tani!"
+
+#: controllers/back/config.php:23
+msgid "When setting up the bounce system, you need to have a different address for the bounce email and the forward to address"
+msgstr "Kur ngrihet sistemit përsëritës, ju duhet të keni adresa të ndryshme për përsëritje email dhe përcjelje për të adresuar"
+
+#: controllers/back/config.php:26
+msgid "Are you sure you want to delete this form?"
+msgstr "Je i sigurt që dëshiron të fshish këtë formular?"
+
+#: controllers/back/config.php:81
+msgid "You're almost there. Click this [link]link[/link] to activate the licence you have just purchased."
+msgstr "Jeni pothuajse. Kliko këtë [link]link[/link] për të aktivizuar liçencës e sapo blerë."
+
+#: controllers/back/config.php:123
+msgid "Reinstall MailPoet?"
+msgstr "Riinstalo MailPoet?"
+
+#: controllers/back/config.php:163
+#: helpers/update.php:789
+msgid "New Form"
+msgstr "Formular i ri"
+
+#: controllers/back/config.php:196
+msgid "This form does not exist"
+msgstr "Ky formular nuk ekziston"
+
+#: controllers/back/config.php:202
+msgid "Copy"
+msgstr "Kopje"
+
+#: controllers/back/config.php:208
+#, php-format
+msgid "The form named \"%1$s\" has been created."
+msgstr "Formulari i quajtur \"%1$s\" është krijuar."
+
+#: controllers/back/config.php:228
+msgid "This form has already been deleted."
+msgstr "Ky formular tashmë është fshirë"
+
+#: controllers/back/config.php:235
+#, php-format
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Formulari i quajtur \"%1$s\" është fshirë."
+
+#: controllers/back/config.php:259
+msgid "New form"
+msgstr "Formular i Ri"
+
+#: controllers/back/config.php:270
+msgid "This form does not exist."
+msgstr "Ky formular nuk ekziston"
+
+#: controllers/back/config.php:300
+msgid "Widget Settings"
+msgstr "Parametrat e Widget-it"
+
+#: controllers/back/premium.php:23
+#: controllers/back/premium.php:28
+#: controllers/back/premium.php:33
+#: views/back/premium.php:308
+msgid "Already paid? Click here to activate"
+msgstr "Keni paguar? Kliko këtu për të aktivuar"
+
+#: controllers/back/premium.php:24
+#: controllers/back/premium.php:29
+#: controllers/back/premium.php:34
+#: helpers/back.php:532
+msgid "Checking license"
+msgstr "Duke verifikuar liçencen"
+
+#: controllers/back/statistics.php:122
+msgid "Last 7 days"
+msgstr "7 ditët e fundit"
+
+#: controllers/back/statistics.php:129
+msgid "Last month"
+msgstr "Muaji i fundit"
+
+#: controllers/back/statistics.php:136
+msgid "Last 30 days"
+msgstr "30 ditët e fundit"
+
+#: controllers/back/statistics.php:143
+msgid "Last 90 days"
+msgstr "90 ditët e fundit"
+
+#: controllers/back/statistics.php:150
+msgid "Last 180 days"
+msgstr "180 ditët e fundit"
+
+#: controllers/back/statistics.php:157
+msgid "Last 365 days"
+msgstr "365 ditët e fundit"
+
+#: controllers/back/statistics.php:164
+msgid "Custom dates"
+msgstr "Data të personalizuara"
+
+#: controllers/back/subscribers.php:215
+#: controllers/back/subscribers.php:356
+msgid "Subscriber has been saved."
+msgstr "Abonenti është shpëtuar."
+
+#: controllers/back/subscribers.php:235
+msgid "Subscribers per page:"
+msgstr "Abonentë për faqe:"
+
+#: controllers/back/subscribers.php:237
+#: views/back/campaigns.php:13
+msgid "Select at least 1 subscriber!"
+msgstr "Zgjidh të paktën 1 abonent!"
+
+#: controllers/back/subscribers.php:350
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Sa Keq! Skemi gjetur asnjë abonent."
+
+#: controllers/back/subscribers.php:357
+#: helpers/user.php:333
+msgid "Subscriber has not been saved."
+msgstr "Abonenti nuk është shpëtuar"
+
+#: controllers/back/subscribers.php:358
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Abonenti është ndryshuar. [link]Ndrysho akoma[/link]."
+
+#: controllers/back/subscribers.php:359
+msgid "Subscriber has not been modified."
+msgstr "Abonenti nuk është ndryshuar."
+
+#: controllers/back/subscribers.php:403
+#, php-format
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s abonentë janë shtuar në \"%2$s\"."
+
+#: controllers/back/subscribers.php:405
+#, php-format
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s abonent jaë shtuar në \"%2$s\"."
+
+#: controllers/back/subscribers.php:428
+#, php-format
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s abonentë janë lëvizur në \"%2$s\"."
+
+#: controllers/back/subscribers.php:430
+#, php-format
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s abonent janë levizur në \"%2$s\"."
+
+#: controllers/back/subscribers.php:463
+#, php-format
+msgid "%1$s subscribers have been removed from all existing lists."
+msgstr "%1$s abonentë janë fshirë nga të gjitha listat ekzistuese."
+
+#: controllers/back/subscribers.php:465
+#, php-format
+msgid "%1$s subscriber have been removed from all existing lists."
+msgstr "%1$s abonent është fshirë nga të gjitha listat ekzistuese."
+
+#: controllers/back/subscribers.php:486
+#, php-format
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s abonentë janë hequr nga \"%2$s\"."
+
+#: controllers/back/subscribers.php:488
+#, php-format
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s abonent është hequr nga \"%2$s\"."
+
+#: controllers/back/subscribers.php:507
+#, php-format
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s abonentë janë konfirmuar."
+
+#: controllers/back/subscribers.php:509
+#, php-format
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s abonent është konfirmuar."
+
+#: controllers/back/subscribers.php:548
+#: helpers/user.php:606
+msgid "No email sent."
+msgstr "Asnjë email e dërguar."
+
+#: controllers/back/subscribers.php:550
+#: helpers/user.php:608
+#, php-format
+msgid "One email has been sent."
+msgid_plural "%d emails have been sent to unconfirmed subscribers."
+msgstr[0] "Një email është dërguar."
+msgstr[1] "%d email janë dërguar abonuesve të pa konfirmuar."
+
+#: controllers/back/subscribers.php:561
+msgid "Edit lists"
+msgstr "Redakto listën"
+
+#: controllers/back/subscribers.php:572
+#, php-format
+msgid "Editing list %1$s"
+msgstr "Redakto listën %1$s"
+
+#: controllers/back/subscribers.php:577
+msgid "How about a new list?"
+msgstr "Su mendon për një list të re?"
+
+#: controllers/back/subscribers.php:604
+#, php-format
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Lista \"%1$s\" është dyfishuar."
+
+#: controllers/back/subscribers.php:613
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:477
+msgid "Add Subscriber"
+msgstr "Shto Abonent"
+
+#: controllers/back/subscribers.php:644
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Asnjë abonent është gjetur, mundet të jetë fshirë."
+
+#: controllers/back/subscribers.php:653
+#: views/back.php:18
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:490
+#: views/back/campaigns.php:514
+#: views/back/campaigns.php:536
+#: views/back/campaigns.php:1215
+#: views/back/config.php:190
+#: views/back/config.php:1768
+#: views/back/config.php:1810
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:748
+msgid "Edit"
+msgstr "Redakto"
+
+#: controllers/back/subscribers.php:692
+#, php-format
+msgid "List \"%1$s\" has been deleted."
+msgstr "Lista \"%1$s\" është fshirë"
+
+#: controllers/back/subscribers.php:694
+msgid "The list does not exists or cannot be deleted."
+msgstr "Lista nuk ekziston ose nuk mund të fshihet."
+
+#: controllers/back/subscribers.php:746
+msgid "List has been updated."
+msgstr "Lista është përditësuar."
+
+#: controllers/back/subscribers.php:752
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Lista e Re është në pritje abonentësh"
+
+#: controllers/back/subscribers.php:776
+#, php-format
+msgid "Import from plugin %1$s has been completed."
+msgstr "Importimi nga plugin %1$s është kompletuar."
+
+#: controllers/back/subscribers.php:778
+#, php-format
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Importimi nga plugin %1$s ështe fshirë"
+
+#: controllers/back/subscribers.php:791
+msgid "Import subscribers from plugins"
+msgstr "Importo abonentë nga plugin-ët"
+
+#: controllers/back/subscribers.php:807
+msgid "There is no plugin to import from."
+msgstr "Nuk ka plugin për të importuar."
+
+#: controllers/back/subscribers.php:816
+#: controllers/back/subscribers.php:854
+msgid "Import Subscribers"
+msgstr "Importo Abonentë"
+
+#: controllers/back/subscribers.php:822
+msgid "The selected value is already matched to another column."
+msgstr "Vlera e zgjedhur përputhet me një kolonë tjetër."
+
+#: controllers/back/subscribers.php:823
+msgid "Can you confirm that this column is corresponding to that field?"
+msgstr "Mund të konfirmoni që kjo kolonë korrespondon me këtë fushë?"
+
+#: controllers/back/subscribers.php:832
+msgid "which you have pasted"
+msgstr "cilat ju keni ngjitur"
+
+#: controllers/back/subscribers.php:849
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:81
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:725
+#: views/front/confirm.php:88
+msgid "Unsubscribed"
+msgstr "ç'regjistruar"
+
+#: controllers/back/subscribers.php:850
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:78
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:721
+msgid "Unconfirmed"
+msgstr "I pa vërtetuar"
+
+#: controllers/back/subscribers.php:850
+#: controllers/back/subscribers.php:851
+#: views/back/campaigns.php:977
+#: views/back/subscribers.php:84
+#: views/back/subscribers.php:316
+#: views/back/subscribers.php:523
+#: views/back/subscribers.php:528
+#: views/back/subscribers.php:716
+#: views/front/confirm.php:88
+msgid "Subscribed"
+msgstr "Abonuar"
+
+#: controllers/back/subscribers.php:876
+#: helpers/user.php:139
+msgid "You need to select at least one list."
+msgstr "Duhet të zgjidhni sëpaku një list."
+
+#: controllers/back/subscribers.php:897
+#, php-format
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s abonentë shtuar në %2$s."
+
+#: controllers/back/subscribers.php:911
+#, php-format
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s email-e ngjajnë më shumë se një në file-t tuaja : %2$s."
+
+#: controllers/back/subscribers.php:915
+#, php-format
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s email-e nuk janë të vlefshme : %2$s."
+
+#: controllers/back/subscribers.php:926
+msgid "Export Subscribers"
+msgstr "Eksporto Abonentë"
+
+#: controllers/back/subscribers.php:973
+#, php-format
+msgid " %1$s subscribers have been deleted."
+msgstr "%1$s abonentë janë fshirë."
+
+#: controllers/back/subscribers.php:975
+#, php-format
+msgid " %1$s subscriber have been deleted."
+msgstr "%1$s abonentë janë fshirë."
+
+#: controllers/back/subscribers.php:1000
+#, php-format
+msgid "%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr "%1$s abonentë janë eksportuar. Merr file-in e eksportuar [link]këtu[/link]."
+
+#: controllers/back/subscribers.php:1027
+#, php-format
+msgid "Exporting %1$s subscribers"
+msgstr "Duke eksportuar %1$s abonentë"
+
+#: controllers/front/confirm.php:20
+msgid "Page does not exist."
+msgstr "Faqja nuk ekziston."
+
+#: controllers/front/confirm.php:21
+msgid "Please verify your link to this page."
+msgstr "Verifikoni link-et tuaja në këtë faqe."
+
+#: controllers/front/confirm.php:58
+#: models/config.php:217
+msgid "You've unsubscribed!"
+msgstr "Jeni ç'regjistruar!"
+
+#: controllers/front/confirm.php:61
+#: models/config.php:218
+msgid "Great, you'll never hear from us again!"
+msgstr "Mirë, nuk do t'ju shkruajmë më!"
+
+#: controllers/front/confirm.php:82
+msgid "You are already unsubscribed."
+msgstr "Jeni ç'regjistruar tashmë."
+
+#: controllers/front/confirm.php:96
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr "Keni gabuar? [link]Prish ç'regjistrimin[/link]."
+
+#: controllers/front/confirm.php:106
+msgid "You've been subscribed!"
+msgstr "Jeni abonuar!"
+
+#: controllers/front/confirm.php:120
+#: models/config.php:220
+#: models/config.php:654
+msgid "Edit your subscription"
+msgstr "Redaktoni abonimin tuaj"
+
+#: controllers/front/confirm.php:138
+#, php-format
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Redakto profilin tuaj të abonimit: %1$s"
+
+#: controllers/front/confirm.php:180
+#, php-format
+msgid "Email %1$s already exists."
+msgstr "Email %1$s ekziston."
+
+#: controllers/front/confirm.php:286
+msgid "Newsletter profile has been updated."
+msgstr "Profili i newsletter-it është përditësuar."
+
+#: controllers/front/subscribers.php:25
+msgid "Subscription without JavaScript is disabled."
+msgstr "Abonim pa JavaScrip është çaktivizuar."
+
+#: controllers/front/subscribers.php:115
+msgid "It seems your widget has been deleted from the WordPress' [link]widgets area[/link]."
+msgstr "Ngjan sikur widget-i juaj të jetë fshirë nga Wordpress [link]widgets area[/link]."
+
+#: controllers/front/subscribers.php:132
+#: helpers/backloader.php:188
+#: helpers/form_engine.php:823
+#: helpers/wj_engine.php:87
+#: widgets/wysija_nl.php:60
+msgid "Loading..."
+msgstr "Në ngarkim..."
+
+#: core/base.php:204
+msgid "An error occurred. [link]Show more details.[/link]"
+msgstr "Një gabim ka ndodhur. [link]Trego më shumë detaje.[/link]"
+
+#: core/base.php:208
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Trego më shumë detaje.[/link]"
+
+#: core/base.php:715
+msgid "Once every minute"
+msgstr "Një çdo minutë"
+
+#: core/base.php:719
+msgid "Once every two minutes"
+msgstr "çdo dy minuta"
+
+#: core/base.php:723
+msgid "Once every five minutes"
+msgstr "çdo pesë minuta"
+
+#: core/base.php:727
+msgid "Once every ten minutes"
+msgstr "çdo dhjetë minuta"
+
+#: core/base.php:731
+msgid "Once every fifteen minutes"
+msgstr "çdo pesëmbëdhjetë minuta"
+
+#: core/base.php:735
+msgid "Once every thirty minutes"
+msgstr "çdo 30 minuta"
+
+#: core/base.php:739
+msgid "Once every two hours"
+msgstr "çdo dy orë"
+
+#: core/base.php:743
+msgid "Once a week"
+msgstr "Një herë në javë"
+
+#: core/base.php:747
+msgid "Once every 28 days"
+msgstr "çdo 28 ditë"
+
+#: core/base.php:903
+#: core/base.php:904
+#: views/back/config.php:174
+msgid "MailPoet page"
+msgstr "Faqja e MailPoet"
+
+#: core/base.php:1627
+msgid "Your version of PHP is outdated. If you don't upgrade soon, new versions of MailPoet won't work."
+msgstr "Versionoi Juaj i PHP nuk është përditësuar. Nëse nuk e përditësoni së shpejti, versioni i ri e MailPoet nuk do të funksionojë."
+
+#: core/base.php:1629
+msgid "[link]Read how to update your version of PHP.[/link]"
+msgstr "[link]Lexo të mësosh se si mund të përditësohet versioni i PHP.[/link]"
+
+#: core/base.php:1631
+msgid "[link]Dismiss[/link] this notice."
+msgstr "[link]Fshihe[/link] këtë lajm."
+
+#: core/model.php:643
+msgid "Error Validating the fields"
+msgstr "Gabim në vleresimin e fushave"
+
+#: core/model.php:743
+#, php-format
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Fusha \"%1$s\" është e kërkuar në tabelën \"%2$s\"."
+
+#: core/model.php:751
+#, php-format
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Fusha \"%1$s\" kërkon të jetë Email i vlefshëm."
+
+#: core/module/statistics.php:30
+msgid "There's no stats to load!"
+msgstr "Nuk ka statistika për të karikuar!"
+
+#: core/view.php:135
+msgid "Your server's configuration doesn't allow us to complete MailPoet's Installation!"
+msgstr "Konfigurimi i serverit tuaj nuk lejon përfundimin e instalimit të MailPoet!"
+
+#: helpers/articles.php:31
+msgid "Read online."
+msgstr "Lexo në linjë."
+
+#: helpers/articles.php:358
+msgid "Click here to view media."
+msgstr "Kliko të shohësh në media."
+
+#: helpers/articles.php:383
+#: views/back/campaigns.php:1998
+msgid "Filter by type"
+msgstr "Filtër sipas tipit"
+
+#: helpers/articles.php:385
+msgid "Posts"
+msgstr "Postime"
+
+#: helpers/articles.php:386
+msgid "Pages"
+msgstr "Faqe"
+
+#: helpers/articles.php:397
+#: views/back/campaigns.php:2262
+msgid "Categories and tags"
+msgstr "Kategori dhe tagime"
+
+#: helpers/articles.php:407
+msgid "Filter by status"
+msgstr "Filtro sipas statistikave"
+
+#: helpers/back.php:216
+msgid "You need to activate the MailPoet Premium plugin."
+msgstr "Duhet të aktivizioni shtojcën Premium të MailPoet."
+
+#: helpers/back.php:216
+msgid "Confirm activating the MailPoet Premium Plugin?"
+msgstr "Konfirmon aktivizimin e shtojcës Premium MailPoet?"
+
+#: helpers/back.php:216
+msgid "Activate MailPoet Premium Version"
+msgstr "Aktivizo Versionin Premium të MailPoet"
+
+#: helpers/back.php:231
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Përgëzime, liçenca Premium është aktive. Hapi i fundit..."
+
+#: helpers/back.php:231
+msgid "Confirm installing the MailPoet Premium Plugin?"
+msgstr "Konfiromon instalimin e Shtojcës Premium të MailPoet?"
+
+#: helpers/back.php:231
+msgid "Installing MailPoet Premium Version"
+msgstr "Duke Instaluar Versionin Premium të MailPoet"
+
+#: helpers/back.php:231
+msgid "Download the Premium plugin."
+msgstr "Shkarko shtojcën Premium."
+
+#: helpers/back.php:339
+msgid "It doesn't always work the way we want it to, doesn't it? We have a [link]dedicated support website[/link] with documentation and a ticketing system."
+msgstr "Ajo nuk punon gjithmonë ashtu siç e dëshirojmë, apo jo? Ne kemi një [link]website asistence të dedikuar[/link] me dokumentacionin dhe një sistem biletash."
+
+#: helpers/back.php:343
+msgid "MailPoet Version: "
+msgstr "Versioni i MailPoet:"
+
+#: helpers/back.php:347
+#: helpers/back.php:447
+msgid "Subscribers"
+msgstr "Abonentë"
+
+#: helpers/back.php:348
+#: helpers/back.php:455
+msgid "Settings"
+msgstr "Konfigurimet"
+
+#: helpers/back.php:350
+msgid "Module"
+msgstr "Moduli"
+
+#: helpers/back.php:451
+msgid "Statistics"
+msgstr "Statistikat"
+
+#: helpers/back.php:473
+msgid "Get Help!"
+msgstr "Kërkoni Ndihmë!"
+
+#: helpers/back.php:513
+msgid "Go Premium!"
+msgstr "Kalo në Premium!"
+
+#: helpers/back.php:585
+msgid "Contact Support"
+msgstr "Kontakto Suportin"
+
+#: helpers/back.php:590
+msgid "Add your [stars] on [link]wordpress.org[/link] and keep this plugin essentially free."
+msgstr "Shto [stars] tuaj në [link]wordpress.org[/link] për të mbajtur këtë shtojcë thelb pa pagesë."
+
+#: helpers/back.php:610
+msgid "MailPoet Version"
+msgstr "Versioni i MailPoet"
+
+#: helpers/backloader.php:28
+msgid "Please make a selection first!"
+msgstr "Ju lutemi të bëjë një përzgjedhje të parë!"
+
+#: helpers/backloader.php:29
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Duke fshirë një listë nuk do të fshini asnjë abonentë"
+
+#: helpers/backloader.php:32
+msgid "Do you want to install that version?"
+msgstr "Dëshironi të instaloni këtë version?"
+
+#: helpers/backloader.php:229
+msgid "No Results were found"
+msgstr "Nuk është gjetur asnjë rezultat"
+
+#: helpers/backloader.php:230
+msgid "Please enter <%= chars %> more character<%= plural %>"
+msgstr "Vendos <%= chars %> më shumë shkronja<%= plural %>"
+
+#: helpers/backloader.php:231
+msgid "Please delete <%= chars %> character<%= plural %>"
+msgstr "Fshi <%= chars %> shkronja<%= plural %>"
+
+#: helpers/backloader.php:232
+msgid "You can only select <%= chars %> item<%= plural %>"
+msgstr "Mund të zgjedhësh vetëm <%= chars %> elemente<%= plural %>"
+
+#: helpers/backloader.php:233
+msgid "Loading more Results..."
+msgstr "Duke ngarkuar më shumë Rezultate..."
+
+#: helpers/backloader.php:234
+msgid "Searching..."
+msgstr "Duke kërkuar..."
+
+#: helpers/backloader.php:284
+msgid "Next &gt;"
+msgstr "Faqja tjetër &gt;"
+
+#: helpers/backloader.php:285
+msgid "&lt; Prev"
+msgstr "&gt; Faqja mëparshme"
+
+#: helpers/backloader.php:286
+msgid "Image"
+msgstr "Imazh"
+
+#: helpers/backloader.php:287
+msgid "of"
+msgstr "i/e"
+
+#: helpers/backloader.php:288
+msgid "Close"
+msgstr "Mbyll"
+
+#: helpers/backloader.php:289
+msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+msgstr "Kjo karakteristikë kërkon Inline Frames. Ju keni iframes me aftësi të kufizuara ose browseri juaj nuk përmban ato."
+
+#: helpers/bounce.php:316
+#: helpers/bounce.php:319
+msgid "Bounce Handling"
+msgstr "Menaxhimi i email-eve të refuzuara"
+
+#: helpers/bounce.php:355
+msgid "Subject"
+msgstr "Subjekti"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Keni %1$s mesazh nga %2$s"
+
+#: helpers/bounce.php:583
+#, php-format
+msgid "Actions will be executed after %1$s messages"
+msgstr "Veprimet do të ekzekutohet pas %1$s mesazhesh"
+
+#: helpers/bounce.php:894
+msgid "There are no messages"
+msgstr "Nuk keni mesazhe"
+
+#: helpers/email.php:35
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Puon. Mund ta mbushni hënën me email-e."
+
+#: helpers/email.php:80
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr "Jeni organizuar! Keni dërguar me sukses me Gmail."
+
+#: helpers/email.php:84
+msgid "Looking for a faster method to send? [link]Read more[/link] on sending with a professional SMTP."
+msgstr "Jeni duke kërkuar për një metodë më të shpejtë për të dërguar? [link]Lexo më shumë[/link] për dërgimin me një SMTP profesionale."
+
+#: helpers/email.php:99
+msgid "[send_method] works with MailPoet"
+msgstr "[send_method] punon me MailPoet"
+
+#: helpers/email.php:102
+#, php-format
+msgid "Test email successfully sent to %s"
+msgstr "Enail test e dërguar me sukses në %s"
+
+#: helpers/email.php:108
+#: helpers/mailer.php:172
+msgid "The PHP Extension openssl is not enabled on your server. Ask your host to enable it if you want to use an SSL connection."
+msgstr "Zgjatimi PHP në OpenSSL nuk është aktivizuar në serverin tuaj. Pyetni host-in tuaj për të mundësuar atë në qoftë se ju dëshironi të përdorni një lidhje SSL."
+
+#: helpers/email.php:110
+#, php-format
+msgid "The bounce email address \"%1$s\" might actually cause the problem. Leave the field empty and try again."
+msgstr "Adresa email e refuzimeve \"%1$s\" mund të shkaktojë problemin. Lëreni fushën bosh dhe provoni përsëri."
+
+#: helpers/email.php:113
+msgid "You specified an SMTP password but you don't require an authentication, you might want to turn the SMTP authentication ON."
+msgstr "Është spcifikuar një fjalkalim SMTP por nuk është aktiv vërtetimi, aktivizo vërtetimin e SMTP."
+
+#: helpers/email.php:116
+msgid "Your localhost may not have a mail server. To verify, please log out and click on the \"Lost your password?\" link on the login page. Do you receive the reset password email from your WordPress?"
+msgstr "Localhost juaj ndoshta nuk ka mail server. Për të verifikuar, ju lutem dilni dhe klikoni mbi \"Keni humbur fjalëkalimin?\" link në faqen e login. Ju ka ardhur email ricaktim fjalëkalimi nga WordPress-i juaj?"
+
+#: helpers/form_engine.php:36
+msgid "Saving form..."
+msgstr "Duke ruajtur formularin..."
+
+#: helpers/form_engine.php:37
+#: views/back.php:794
+#: views/back/campaigns.php:1902
+#: views/back/campaigns.php:1920
+#: views/back/config.php:1877
+#: views/back/subscribers.php:473
+#: views/front/confirm.php:157
+msgid "Save"
+msgstr "Shpëto"
+
+#: helpers/form_engine.php:38
+msgid "Edit display"
+msgstr "Redakto çfar shikon"
+
+#: helpers/form_engine.php:39
+msgid "You have to select at least 1 list"
+msgstr "Duhet të zgjidhni sëpaku 1 list."
+
+#: helpers/form_engine.php:40
+msgid "Your subscriber needs at least 2 options to select from"
+msgstr "Abonenti yt duhet të zgjedhë së paku 2 opsione"
+
+#: helpers/form_engine.php:41
+msgid "You need to specify a value for your checkbox"
+msgstr "Duhet të specifikoni një vlerë për checkbox-in tuaj"
+
+#: helpers/form_engine.php:42
+msgid "Add new field"
+msgstr "Shto një fushë të re"
+
+#: helpers/form_engine.php:43
+msgid "Edit custom field"
+msgstr "Redakto fushat e personalizuara"
+
+#: helpers/form_engine.php:44
+msgid "Are you sure you want to delete this custom field?"
+msgstr "Je i sigurtë që dëshiron të shuash këtë fushë të personalizuar?"
+
+#: helpers/form_engine.php:65
+msgid "January"
+msgstr "Janar"
+
+#: helpers/form_engine.php:66
+msgid "February"
+msgstr "Shkurt"
+
+#: helpers/form_engine.php:67
+msgid "March"
+msgstr "Mars"
+
+#: helpers/form_engine.php:68
+msgid "April"
+msgstr "Prill"
+
+#: helpers/form_engine.php:69
+msgid "May"
+msgstr "Maj"
+
+#: helpers/form_engine.php:70
+msgid "June"
+msgstr "Qeshor"
+
+#: helpers/form_engine.php:71
+msgid "July"
+msgstr "Korrik"
+
+#: helpers/form_engine.php:72
+msgid "August"
+msgstr "Gusht"
+
+#: helpers/form_engine.php:73
+msgid "September"
+msgstr "Shtator"
+
+#: helpers/form_engine.php:74
+msgid "October"
+msgstr "Tetor"
+
+#: helpers/form_engine.php:75
+msgid "November"
+msgstr "Nëntor"
+
+#: helpers/form_engine.php:76
+msgid "December"
+msgstr "Dhjetor"
+
+#: helpers/form_engine.php:234
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Kontrollo email-in tuaj në hyrje ose në dosjen e spam-it për të konfirmuar abonimin tuaj."
+
+#: helpers/form_engine.php:240
+#: helpers/form_engine.php:244
+#: helpers/update.php:716
+#: helpers/update.php:736
+#: helpers/update.php:740
+#: models/user_field.php:19
+#: views/back/campaigns.php:936
+#: views/back/subscribers.php:273
+#: views/back/subscribers.php:488
+#: views/back/subscribers.php:969
+#: views/front/confirm.php:54
+#: views/front/widget_nl.php:255
+#: views/front/widget_nl.php:328
+#: widgets/wysija_nl.php:100
+msgid "Email"
+msgstr "Email"
+
+#: helpers/form_engine.php:249
+#: helpers/update.php:775
+msgid "Submit"
+msgstr "Dërgo"
+
+#: helpers/form_engine.php:253
+#: helpers/update.php:770
+#: widgets/wysija_nl.php:113
+msgid "Subscribe!"
+msgstr "Abonohu!"
+
+#: helpers/form_engine.php:316
+#: views/back/campaigns.php:1214
+msgid "Divider"
+msgstr "Ndarës"
+
+#: helpers/form_engine.php:321
+#: helpers/install.php:592
+#: helpers/update.php:709
+#: models/user_field.php:20
+#: views/back/subscribers.php:497
+#: views/back/subscribers.php:970
+#: views/front/confirm.php:65
+#: views/front/widget_nl.php:256
+#: views/front/widget_nl.php:326
+msgid "First name"
+msgstr "Emër"
+
+#: helpers/form_engine.php:326
+#: helpers/install.php:593
+#: helpers/update.php:712
+#: models/user_field.php:21
+#: views/back/subscribers.php:506
+#: views/back/subscribers.php:971
+#: views/front/confirm.php:74
+#: views/front/widget_nl.php:257
+#: views/front/widget_nl.php:327
+msgid "Last name"
+msgstr "Mbiemër"
+
+#: helpers/form_engine.php:331
+#: helpers/update.php:759
+msgid "List selection"
+msgstr "Zgjedhja e listës"
+
+#: helpers/form_engine.php:335
+#: helpers/update.php:763
+#: widgets/wysija_nl.php:87
+msgid "Select list(s):"
+msgstr "Zgjidh listën(-tat)"
+
+#: helpers/form_engine.php:340
+msgid "Random text or HTML"
+msgstr "Tekst i rastësishëm ose HTML"
+
+#: helpers/form_engine.php:344
+msgid "Subscribe to our newsletter and join our [total_subscribers] subscribers."
+msgstr "Abonohu në newsletter-in tonë dhe bashkohu me  [total_subscribers] abonentët tanë."
+
+#: helpers/form_engine.php:363
+msgid "Add New Field"
+msgstr "Shto një Fushë të Re"
+
+#: helpers/form_engine.php:378
+#: views/back/config.php:2230
+msgid "Edit field"
+msgstr "Redakto fushën"
+
+#: helpers/form_engine.php:379
+msgid "Delete field"
+msgstr "Fshini fushën"
+
+#: helpers/form_engine.php:797
+msgid "Subscription MailPoet"
+msgstr "Abonim në MailPoet"
+
+#: helpers/forms.php:13
+msgid "every minute"
+msgstr "çdo minutë"
+
+#: helpers/forms.php:14
+msgid "every 2 minutes"
+msgstr "çdo 2 minuta"
+
+#: helpers/forms.php:15
+msgid "every 5 minutes"
+msgstr "çdo 5 minuta"
+
+#: helpers/forms.php:16
+msgid "every 10 minutes"
+msgstr "çdo 10 minuta"
+
+#: helpers/forms.php:17
+msgid "every 15 minutes"
+msgstr "çdo 15 minuta"
+
+#: helpers/forms.php:18
+msgid "every 30 minutes"
+msgstr "çdo 30 minuta"
+
+#: helpers/forms.php:19
+msgid "every hour"
+msgstr "çdo orë"
+
+#: helpers/forms.php:20
+msgid "every 2 hours"
+msgstr "çdo 2 orë"
+
+#: helpers/forms.php:149
+#: helpers/forms.php:154
+msgid "HTML"
+msgstr "HTML"
+
+#: helpers/forms.php:150
+#: helpers/forms.php:155
+msgid "Visual"
+msgstr "Vizual"
+
+#: helpers/http.php:31
+#: helpers/http.php:79
+msgid "Your server doesn't support remote exchanges."
+msgstr "Serveri juaj nuk përmban shkëmbime remote."
+
+#: helpers/http.php:32
+#: helpers/http.php:80
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr "Kontakto administratorin tuaj të modifikoj këtë, duhet të jetë i konfigurueshëm."
+
+#: helpers/install.php:22
+msgid "Your server cannot run MailPoet."
+msgstr "Serveri juaj nuk lejon përdorimin e MailPoet."
+
+#: helpers/install.php:25
+#, php-format
+msgid "Your server is missing one or many important PHP functions to run properly :  %1$s"
+msgstr "Në serveri tuaj mungon një ose shumë funksione të rëndësishme PHP për të drejtuar si duhet : %1$s"
+
+#: helpers/install.php:25
+msgid "Please contact your host or server administrator to fix this."
+msgstr "Kontaktoni hostin tuaj ose administratorin e serverit ta rregulloj."
+
+#: helpers/install.php:185
+msgid "My first list"
+msgstr "Lista ime e parë"
+
+#: helpers/install.php:188
+msgid "The list created automatically on install of the MailPoet."
+msgstr "Kjo listë është krijuaj automatikisht në intalimin e MailPoet."
+
+#: helpers/install.php:205
+#: helpers/install.php:215
+msgid "5 Minute User Guide"
+msgstr "5 minuta Udhëzime për Përdoruesin"
+
+#: helpers/install.php:505
+#, php-format
+msgid "These tables could not be created on installation: %1$s"
+msgstr "Këto tabela nuk mund të krijohen në instalimin: %1$s"
+
+#: helpers/install.php:592
+msgid "Please enter first name"
+msgstr "Vendosni Emrin"
+
+#: helpers/install.php:593
+msgid "Please enter last name"
+msgstr "Vendosni mbiemrin"
+
+#: helpers/install.php:622
+msgid "Subscription confirmation"
+msgstr "Konfirmim abonimi"
+
+#: helpers/install.php:664
+#: widgets/wysija_nl.php:79
+#: widgets/wysija_nl.php:147
+msgid "Subscribe to our Newsletter"
+msgstr "Abonohu në Newsletter-in tonë"
+
+#: helpers/licence.php:122
+msgid "Your website doesn't seem to have a license! Log into your [link]account manager[/link] to add a license for this website."
+msgstr "Faqja juaj nuk ka një liçencë! Logohu në [link]menaxherin e llogarisë[/link] për të patur një liçencë për këtë faqe."
+
+#: helpers/licence.php:125
+#, php-format
+msgid "There's no license for \"%1$s\". If you're Premium, add this domain in your [link]account manager[/link]."
+msgstr "Nuk ka liçencë për \"%1$s\". Nëqoft se jeni Premium, shto këtë adresë në [link]account manager[/link] tënd."
+
+#: helpers/licence.php:130
+msgid "Renew now."
+msgstr "Përditëso tani."
+
+#: helpers/licence.php:131
+msgid "Your Premium licence has expired."
+msgstr "Liçenca juaj Premium ka skaduar."
+
+#: helpers/licence.php:135
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr "Mund të shtoni këtë domin në [link]account manager[/link] tënd."
+
+#: helpers/licence.php:138
+msgid "Your licence doesn't allow more domains. Upgrade from your [link]account manager[/link]."
+msgstr "Liçenca jote nuk lejon më shumë domine. Përmirso nga [link]account manager[/link]."
+
+#: helpers/links.php:24
+msgid "Get [link]MailPoet Premium[/link] to see the link."
+msgstr "Merr [link]MailPoet Premium[/link] të shohësh link-un."
+
+#: helpers/mailer.php:172
+msgid "You cannot use the DKIM signature option..."
+msgstr "Nuk mund të përdorësh opcionin firmë DKIM..."
+
+#: helpers/mailer.php:213
+msgid "There is no subject or body in this email"
+msgstr "Email-i nuk ka subjekt ose trup"
+
+#: helpers/mailer.php:250
+#, php-format
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Gabim në dërgimin e Mesazhit  <b><i>%s</i></b> to <b><i>%s</i></b>"
+
+#: helpers/mailer.php:268
+#, php-format
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Dërguar me sukses tek <b><i>%s</i></b> "
+
+#: helpers/mailer.php:502
+#, php-format
+msgid "The email ID %s is not published"
+msgstr "ID e email-it %s nuk është publikuar"
+
+#: helpers/mailer.php:546
+#, php-format
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Abonenti nuk është gjetur : <b><i>%s</i></b>"
+
+#: helpers/mailer.php:571
+#, php-format
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "Abonenti <b><i>%s</i></b> nuk është i konfirmuar"
+
+#: helpers/mailer.php:827
+#: helpers/wj_engine.php:80
+#: models/config.php:219
+#: models/config.php:648
+#: views/back/campaigns.php:228
+msgid "Unsubscribe"
+msgstr "ç'regjistrohu"
+
+#: helpers/notifications.php:53
+msgid "undelivered"
+msgstr "i/e padorëzuar"
+
+#: helpers/notifications.php:56
+msgid "bounced"
+msgstr "i/e refuzuar"
+
+#: helpers/notifications.php:59
+msgid "unopened"
+msgstr "i/e pahapur"
+
+#: helpers/notifications.php:62
+msgid "opened"
+msgstr "i/e hapur"
+
+#: helpers/notifications.php:65
+msgid "clicked"
+msgstr "i/e klikuar"
+
+#: helpers/notifications.php:68
+msgid "unsubscribed"
+msgstr "i/e ç'regjistruar"
+
+#: helpers/notifications.php:76
+msgid "Today's statistics"
+msgstr "Statikat e Sotme"
+
+#: helpers/notifications.php:77
+#, php-format
+msgid "Today you have sent %1$s emails"
+msgstr "Sot keni dërguar %1$s email-e"
+
+#: helpers/notifications.php:79
+#, php-format
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s prej të cilave ishin %2$s"
+
+#: helpers/notifications.php:83
+msgid "Here is the list of bounced emails."
+msgstr "Lista e emeal-eve të refuaura."
+
+#: helpers/notifications.php:89
+msgid "Cheers, your MailPoet Newsletter Plugin"
+msgstr "Përshëndetje, shtojca juaj MailPoet Newsletter"
+
+#: helpers/notifications.php:100
+msgid "Your daily newsletter stats"
+msgstr "Statistikat ditore të newsletter-it tuaj"
+
+#: helpers/plugins_import.php:14
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Newsletter Pro (by Satollo)"
+
+#: helpers/plugins_import.php:105
+msgid "Newsletters (by Tribulant)"
+msgstr "Newsletters (by Tribulant)"
+
+#: helpers/plugins_import.php:228
+msgid "WordPress Users"
+msgstr "Përodruesit e Wordpress-it"
+
+#: helpers/plugins_import.php:229
+#, php-format
+msgid "%1$s's import list"
+msgstr "%1$s's import list"
+
+#: helpers/plugins_import.php:230
+#, php-format
+msgid "The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr "Listë e krijuar automatikisht për importin e abonentëve të shtojcës : \"%1$s"
+
+#: helpers/plugins_import.php:336
+#, php-format
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" të importuar nga %1$s"
+
+#: helpers/plugins_import.php:337
+#, php-format
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr "Lista ekzisuese në \"%1$s\" është importuar automatikisht."
+
+#: helpers/queue.php:91
+#, php-format
+msgid "There are %1$s pending email(s)"
+msgstr "Ka %1$s email(e) në pritje"
+
+#: helpers/queue.php:97
+#, php-format
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Email-i do ti dërgohet %1$s në %2$s"
+
+#: helpers/queue.php:114
+msgid "Send Process"
+msgstr "Proçes dërgimi"
+
+#: helpers/queue.php:118
+msgid "Total of batch"
+msgstr "Totali"
+
+#: helpers/queue.php:203
+#, php-format
+msgid "Next try in %s minutes."
+msgstr "Tentativi ardhshëm në %s minuta"
+
+#: helpers/queue.php:243
+msgid "Process refreshed to avoid a time limit."
+msgstr "Proçes i përditësuar për të shmangur një afat kohor."
+
+#: helpers/queue.php:250
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr "Proçec i përditësuar për të shmangur humbje lidhjeje."
+
+#: helpers/queue.php:314
+msgid "Newsletters are already being sent. Your latest newsletter will be sent afterwards."
+msgstr "Newletter-at janë dërguar tashmë. Newsletter-i juaj i fundit do të dërgohet më pas."
+
+#: helpers/queue.php:377
+msgid "The Send Process stopped because there are too many errors."
+msgstr "Proçesi Dërgimit u ndalua sepse ka shumë gabime."
+
+#: helpers/queue.php:379
+msgid "We kept all non delivered emails in the queue, so you will be able to resume the send process later."
+msgstr "Kemi mbajtur të gjitha email-et e pa dorëzuara në radhë, kështu që ju do të jeni në gjendje të rifilloni procesin e dërgimit më vonë."
+
+#: helpers/queue.php:383
+msgid "Please verify your mail configuration and make sure you can send a test of this email."
+msgstr "Kontrolloni konfigurmin e postës tuaj dhe sigurohuni që mund të dërgoni nj provë të kësaj email."
+
+#: helpers/queue.php:385
+msgid "If you recently, successfully, sent a lot of emails, those errors may also be due to your server limitations."
+msgstr "Nëse kohët e fundit, me sukses, dërguat shumë e-mail-e, këto gabime mund të jenë për shkak të kufizimeve të serverit tuaj."
+
+#: helpers/queue.php:387
+msgid "Your server apparently refuses to send more emails."
+msgstr "Serveri juaj me sa duket nuk pranon të dërgojë më shumë email-e."
+
+#: helpers/rules.php:28
+msgid "Mailbox Full"
+msgstr "Kutia postare Plotë"
+
+#: helpers/rules.php:29
+msgid "When mailbox is full"
+msgstr "Kur kutia postare është poltë"
+
+#: helpers/rules.php:41
+msgid "Mailbox not available"
+msgstr "Kutia postare nuk është në dispozicion"
+
+#: helpers/rules.php:42
+msgid "When mailbox is not available"
+msgstr "Kur kutia postare nuk është në dispozicion"
+
+#: helpers/rules.php:56
+msgid "Message delayed"
+msgstr "Mesazh i vonuar"
+
+#: helpers/rules.php:57
+msgid "When message is delayed"
+msgstr "Kur mesazhi është i vonuar"
+
+#: helpers/rules.php:72
+msgid "Failed Permanently"
+msgstr "Dështoi Përgjithmonë"
+
+#: helpers/rules.php:73
+msgid "When failed permanently"
+msgstr "Kur dështon përgjithmonë"
+
+#: helpers/rules.php:102
+msgid "Action Required"
+msgstr "Veprimi i Kërkuar"
+
+#: helpers/rules.php:103
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr "Kur keni nevojë për të konfirmuar abonimin, dërgo në:"
+
+#: helpers/rules.php:114
+msgid "Blocked IP"
+msgstr "IP të bllokuara"
+
+#: helpers/rules.php:116
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr "Kur ju jeni me flamur si një spammer përcill mesazhin e refuzuar në"
+
+#: helpers/rules.php:129
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr "Kur refuzimi është e pazakontë dhe ne nuk jemi të sigurt se çfarë të bëjmë, dërgo në:"
+
+#: helpers/server.php:104
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that MailPoet can setup itself properly."
+msgstr "Dosja \"%1$s\" nuk është e shkruajtshme, ju lutem të ndryshoni të drejtat e hyrjes në këtë dosje në mënyrë që MailPoet mund vetë organizohet si duhet."
+
+#: helpers/server.php:104
+#: helpers/themes.php:256
+msgid "Read documentation"
+msgstr "Lexo dokumentacionin"
+
+#: helpers/server.php:149
+#: helpers/server.php:172
+#, php-format
+msgid "The MySQL user you have setup on your WordPress site (wp-config.php) doesn't have enough privileges to CREATE MySQL tables. Please change this user yourself or contact the administrator of your site in order to complete MailPoet's installation. mysql errors:(%1$s)"
+msgstr "Përdoruesin MySQL me të cilin keni konfiguruar faqen tuaj të WordPress-it (wp-config.php) nuk ka privilegje mjaftueshëm për të KRIUJAR tabela MySQL. Ndërroni këtë përdorues vetë ose kontaktoni administratorin e faqes tuaj për të përfdunduar instalimin e MailPoet. gabime mysql:(%1$s)"
+
+#: helpers/themes.php:125
+msgid "Header"
+msgstr "Krye Faqe"
+
+#: helpers/themes.php:156
+msgid "Footer"
+msgstr "Fund Faqe"
+
+#: helpers/themes.php:256
+#, php-format
+msgid "The folder \"%1$s\" is not writable, please change the access rights to this folder so that Mailpoet can setup itself properly."
+msgstr "Dosja \"%1$s\" nuk është e shkeuajtëshme, ndrroni të drejtat e hyrjes në këtë dosje që MailPoet të mund të konfiguroj vetveten në mënyrë korrekte."
+
+#: helpers/themes.php:309
+#, php-format
+msgid "A theme called %1$s exists already. To overwrite it, tick the corresponding checkbox before uploading."
+msgstr "Një temë e quajtur %1$s ekziston tashmë. Për ta mbishkruajtur, shënoni kutinë përkatëse para ngarkimit."
+
+#: helpers/themes.php:340
+#, php-format
+msgid "The theme %1$s has been installed on your site."
+msgstr "Tema %1$s u instalua në faqen tuaj."
+
+#: helpers/themes.php:342
+msgid "We could not install your theme. It appears it's not in the valid format."
+msgstr "Nuk mundët të instalojmë temën tuaj. Duket se nuk është në format të vlefshëm."
+
+#: helpers/themes.php:359
+#, php-format
+msgid "Theme %1$s has been deleted."
+msgstr "Tema %1$s është fshirë."
+
+#: helpers/themes.php:362
+#, php-format
+msgid "Theme %1$s could not be deleted."
+msgstr "Tema %1$s nuk u mund të fshihet."
+
+#: helpers/toolbox.php:128
+#, php-format
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s vit"
+msgstr[1] "%1$s vite"
+
+#: helpers/toolbox.php:129
+#, php-format
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s javë"
+msgstr[1] "%1$s javë"
+
+#: helpers/toolbox.php:130
+#, php-format
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s ditë"
+msgstr[1] "%1$s ditë"
+
+#: helpers/toolbox.php:131
+#, php-format
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s orë"
+msgstr[1] "%1$s orë"
+
+#: helpers/toolbox.php:132
+#, php-format
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s minut"
+msgstr[1] "%1$s minuta"
+
+#: helpers/toolbox.php:133
+#, php-format
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s sekondë"
+msgstr[1] "%1$s sekonda"
+
+#: helpers/toolbox.php:290
+msgid "Monday"
+msgstr "E hënë"
+
+#: helpers/toolbox.php:291
+msgid "Tuesday"
+msgstr "E Martë"
+
+#: helpers/toolbox.php:292
+msgid "Wednesday"
+msgstr "E Mërkurë"
+
+#: helpers/toolbox.php:293
+msgid "Thursday"
+msgstr "E Enjte"
+
+#: helpers/toolbox.php:294
+msgid "Friday"
+msgstr "E Premte"
+
+#: helpers/toolbox.php:295
+msgid "Saturday"
+msgstr "E Shtunë"
+
+#: helpers/toolbox.php:296
+msgid "Sunday"
+msgstr "E Dielë"
+
+#: helpers/toolbox.php:308
+#: helpers/toolbox.php:328
+msgid "1st"
+msgstr "1"
+
+#: helpers/toolbox.php:309
+#: helpers/toolbox.php:331
+msgid "2nd"
+msgstr "2"
+
+#: helpers/toolbox.php:310
+#: helpers/toolbox.php:334
+msgid "3rd"
+msgstr "3"
+
+#: helpers/toolbox.php:311
+msgid "Last"
+msgstr "I/E Fundit"
+
+#: helpers/toolbox.php:337
+#, php-format
+msgid "%1$sth"
+msgstr "%1$s"
+
+#: helpers/uninstall.php:37
+msgid "MailPoet has been reinstalled successfully using the same version. Settings and data have been deleted."
+msgstr "MailPoet shtë riinstaluar me sukses duke përdorur të njëjtin version. Cilësimet dhe të dhënat janë shuar tashmë."
+
+#: helpers/uninstall.php:39
+msgid "MailPoet cannot be reinstalled because your folder <em>wp-content/uploads/wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr "MailPoet nuk mund të riinstalohet sepse dosja juaj <em>wp-content/uploads/wysija</em> duhet të jetë e shkruajtëshme. Ndrysho lejet tuaja dhe riinstalo."
+
+#: helpers/uninstall.php:47
+msgid "MailPoet has been uninstalled. Your site is now cleared of MailPoet."
+msgstr "MailPoet është shuar. Faqja juaj tashmë është pastruar nga MailPoet."
+
+#: helpers/update.php:577
+#, php-format
+msgid "Update procedure to MailPoet version \"%1$s\" failed!"
+msgstr "Procedura për freskimin e version MailPoet \"%1$s\" dështoi!"
+
+#: helpers/update.php:700
+msgid "Random text or instructions"
+msgstr "Tekst të rastësishëm apo udhëzime"
+
+#: helpers/user.php:126
+#: helpers/user.php:133
+msgid "The email is not valid!"
+msgstr "Email-i nuk është i vlefshëm!"
+
+#: helpers/user.php:176
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Abonenti ekziston tashmë. [link]Kliko të redaktosh[/link]."
+
+#: helpers/user.php:289
+msgid "Oops! You're already subscribed."
+msgstr "Oops! Jeni abonuar tashmë."
+
+#: helpers/user.php:335
+msgid "Oops! We could not add you!"
+msgstr "Oops! Nuk mundëm të shtonim!"
+
+#: helpers/user.php:872
+#, php-format
+msgid "New subscriber to %1$s"
+msgstr "Abonent i ri në %1$s"
+
+#: helpers/user.php:873
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just subscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Përshëndetje,\n"
+"\n"
+"Abonenti %1$s sapo është regjistruar në listën '%2$s'\n"
+"\n"
+"Përgëzime,\n"
+"\n"
+"MailPoet Plugin"
+
+#: helpers/user.php:875
+#, php-format
+msgid "One less subscriber to %1$s"
+msgstr "Një abonent më pak në %1$s"
+
+#: helpers/user.php:876
+#, php-format
+msgid ""
+"Howdy,\n"
+"\n"
+" The subscriber %1$s has just unsubscribed to your list '%2$s' \n"
+"\n"
+" Cheers,\n"
+"\n"
+" The MailPoet Plugin"
+msgstr ""
+"Përshëndetje,\n"
+"\n"
+"Abonenti %1$s sapo u ç'regjistrua nga lista '%2$s'\n"
+"\n"
+"Përgëzime,\n"
+"\n"
+"MailPoet Plugin"
+
+#: helpers/user.php:992
+#, php-format
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Lista \"%1$s\" është sinkronizuar."
+
+#: helpers/user.php:995
+msgid "The list does not exists or cannot be synched."
+msgstr "Lista nuk ekziston ose nuk mund të sinkronizohet."
+
+#: helpers/user.php:1105
+#: helpers/user.php:1109
+msgid "Page is not accessible."
+msgstr "Faqja nuk është e arritshëme."
+
+#: helpers/user.php:1145
+msgid "Your confirmation link expired, please subscribe again."
+msgstr "Linku juaj i konfirmimit ka skaduar, regjistrohuni përsëri."
+
+#: helpers/user.php:1161
+#: models/config.php:215
+#, php-format
+msgid "You've subscribed to: %1$s"
+msgstr "Jeni abonuar në: %1$s"
+
+#: helpers/user.php:1169
+#: models/config.php:216
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr "Më në fund, ju kemi shtuar në listën tonë. Do t'na dëgjoni së shpejti."
+
+#: helpers/user.php:1208
+#, php-format
+msgid "You are already subscribed to : %1$s"
+msgstr "Ju jeni abonent tashmë për : %1$s"
+
+#: helpers/user.php:1211
+msgid "You are already subscribed."
+msgstr "Jeni abonuar tashmë."
+
+#: helpers/wj_engine.php:50
+msgid "Drop your logo in this header."
+msgstr "Hidhni logon tuaj në këtë krye faqe."
+
+#: helpers/wj_engine.php:51
+msgid "Drop your footer image here."
+msgstr "Hidhni imazhin e këmbës së faqes këtu."
+
+#: helpers/wj_engine.php:52
+msgid "If you leave this area empty, it will not display once you send your email"
+msgstr "Nëse e lini këtë hapsirë bosh, ajo nuk do tregohet njëher që dërgoni email"
+
+#: helpers/wj_engine.php:53
+msgid "Click here to add a title or text."
+msgstr "Kliko këtu të shtoni një titull apo tekst."
+
+#: helpers/wj_engine.php:54
+msgid "Align left"
+msgstr "Vendose në të majtë"
+
+#: helpers/wj_engine.php:55
+msgid "Align center"
+msgstr "Vendose në qëndër"
+
+#: helpers/wj_engine.php:56
+msgid "Align right"
+msgstr "Vendose në të djathtë"
+
+#: helpers/wj_engine.php:57
+msgid "Add link / Alternative text"
+msgstr "Shto link / Tekst alternativ"
+
+#: helpers/wj_engine.php:58
+msgid "Remove link"
+msgstr "Hiq link-un"
+
+#: helpers/wj_engine.php:59
+msgid "Remove image"
+msgstr "Hiq imazhin"
+
+#: helpers/wj_engine.php:60
+msgid "Remove"
+msgstr "Hiq lidhjen"
+
+#: helpers/wj_engine.php:61
+msgid "Edit text"
+msgstr "Redakto tekstin"
+
+#: helpers/wj_engine.php:62
+msgid "Remove text"
+msgstr "Hiq tekstin"
+
+#: helpers/wj_engine.php:63
+#: views/back/campaigns.php:1210
+msgid "Titles & text"
+msgstr "Tituj dhe tekste"
+
+#: helpers/wj_engine.php:64
+#: helpers/wj_engine.php:79
+msgid "Horizontal line"
+msgstr "Linjë horizontale"
+
+#: helpers/wj_engine.php:65
+msgid "Custom horizontal line"
+msgstr "Linjë horizontale e personalizuar"
+
+#: helpers/wj_engine.php:66
+#: views/back/campaigns.php:1211
+msgid "WordPress post"
+msgstr "Postim Wordpress-i"
+
+#: helpers/wj_engine.php:67
+msgid "Text"
+msgstr "Tekst"
+
+#: helpers/wj_engine.php:68
+msgid "\"View in browser\""
+msgstr "\"Shiko në browser\""
+
+#: helpers/wj_engine.php:69
+msgid "Heading 1"
+msgstr "Titulli 1"
+
+#: helpers/wj_engine.php:70
+msgid "Heading 2"
+msgstr "Titulli 2"
+
+#: helpers/wj_engine.php:71
+msgid "Heading 3"
+msgstr "Titulli 3"
+
+#: helpers/wj_engine.php:72
+#: helpers/wj_engine.php:113
+msgid "Links"
+msgstr "Link-e"
+
+#: helpers/wj_engine.php:73
+msgid "underline"
+msgstr "nënvizim"
+
+#: helpers/wj_engine.php:74
+msgid "Footer text"
+msgstr "Teksti i fund faqes"
+
+#: helpers/wj_engine.php:75
+msgid "Footer background"
+msgstr "Sfondi i fund faqes"
+
+#: helpers/wj_engine.php:76
+#: helpers/wj_engine.php:100
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:26
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: helpers/wj_engine.php:77
+msgid "Background"
+msgstr "Sfond"
+
+#: helpers/wj_engine.php:78
+msgid "Header background"
+msgstr "Sfondi i kreut të faqes"
+
+#: helpers/wj_engine.php:82
+msgid "Social Bookmark Selection"
+msgstr "Përzgjedhja e shënimeve sociale"
+
+#: helpers/wj_engine.php:83
+msgid "Divider Selection"
+msgstr "Përzgjedhës i ndarjes"
+
+#: helpers/wj_engine.php:84
+#, php-format
+msgid "You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr "Jeni duke fshirë temën : %1$s. Dëshironi vërtetë të bëni këtë?"
+
+#: helpers/wj_engine.php:85
+msgid "Add Link & Alternative text"
+msgstr "Shto Link dhe tekst alternativ"
+
+#: helpers/wj_engine.php:86
+msgid "Check this box if you want transparency"
+msgstr "Përzgjidhni këtë kuti nëse dëshironi transparencë"
+
+#: helpers/wj_engine.php:88
+msgid "Insert dynamic data about your subscribers, the newsletter, today's date, etc..."
+msgstr "Vendos të dhëna dinamike mbi abonentët tuaj, newsletter-ën, datën e sotme, etj..."
+
+#: helpers/wj_engine.php:89
+msgid "Selection options"
+msgstr "Mundësitë e përzgjedhjeve"
+
+#: helpers/wj_engine.php:90
+msgid "Edit Automatic latest content"
+msgstr "Redakto në mënyrë automatike përmbajtjet e fundit"
+
+#: helpers/wj_engine.php:91
+msgid "You can only add one widget when designing a post notification sent immediately after an article is published"
+msgstr "Ju mund të shtoni vetëm një widget kur të hartoni një njoftim postimi dërguar menjëherë pasi një artikull është botuar"
+
+#: helpers/wj_engine.php:92
+msgid "Preview without images"
+msgstr "Vrojto pa imazhe"
+
+#: helpers/wj_engine.php:94
+msgid "Subscriber"
+msgstr "Abonent"
+
+#: helpers/wj_engine.php:95
+msgid "First Name"
+msgstr "Emër"
+
+#: helpers/wj_engine.php:96
+msgid "Last Name"
+msgstr "Mbiemër"
+
+#: helpers/wj_engine.php:97
+msgid "Email Address"
+msgstr "Adresa Email"
+
+#: helpers/wj_engine.php:98
+msgid "WordPress user display name"
+msgstr "Emri i përdoruesit të WordPress-it"
+
+#: helpers/wj_engine.php:99
+msgid "Total of subscribers"
+msgstr "Totali i abonentëve"
+
+#: helpers/wj_engine.php:101
+msgid "Newsletter Subject"
+msgstr "Subjekti i Newsletter-it"
+
+#: helpers/wj_engine.php:102
+msgid "Post Notifications"
+msgstr "Njoftim postimesh"
+
+#: helpers/wj_engine.php:103
+msgid "Total number of posts or pages"
+msgstr "Numri total i postimeve ose faqeve"
+
+#: helpers/wj_engine.php:104
+msgid "Latest post title"
+msgstr "Titujt e postimeve të fundit"
+
+#: helpers/wj_engine.php:105
+msgid "Issue number"
+msgstr "Numri botimit"
+
+#: helpers/wj_engine.php:106
+#: views/back/config.php:2159
+msgid "Date"
+msgstr "Data"
+
+#: helpers/wj_engine.php:107
+msgid "Current day of the month number"
+msgstr "Numri korrekt i ditës së muajit"
+
+#: helpers/wj_engine.php:108
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Numri korrekt i ditës së muajit në rendor, anglisht ie. 2nd, 3rd, etj."
+
+#: helpers/wj_engine.php:109
+msgid "Full name of current day"
+msgstr "Emri i plotë i ditës në vijim"
+
+#: helpers/wj_engine.php:110
+msgid "Current month number"
+msgstr "Numri i muajit në vijim"
+
+#: helpers/wj_engine.php:111
+msgid "Full name of current month"
+msgstr "Emri i plotë i muajit aktual"
+
+#: helpers/wj_engine.php:114
+msgid "Unsubscribe link"
+msgstr "Link çregjistrimi"
+
+#: helpers/wj_engine.php:115
+msgid "Edit subscription page link"
+msgstr "Link i faqes së modifikimit të abonimit"
+
+#: helpers/wj_engine.php:116
+msgid "View in browser link"
+msgstr "Shiko në Browser"
+
+#: helpers/wj_engine.php:117
+msgid "Custom Fields"
+msgstr "Fushë e personalizuar"
+
+#: helpers/wj_engine.php:120
+msgid "Saving default style..."
+msgstr "Në ruajtje të stilit të parapërcaktuar..."
+
+#: helpers/wj_engine.php:121
+msgid "Default style saved."
+msgstr "Stili i parapërcaktuar u shpëtua."
+
+#: helpers/wj_engine.php:122
+msgid "Set as default style."
+msgstr "Shpëtoje si stil i parpërcaktuar."
+
+#: helpers/wj_engine.php:124
+msgid "Insert block here"
+msgstr "Vendos bllok këtu"
+
+#: helpers/wp_tools.php:259
+#: views/back/campaigns.php:121
+#: views/back/campaigns.php:438
+msgid "Scheduled"
+msgstr "Planifikuar"
+
+#: models/config.php:213
+#, php-format
+msgid "Confirm your subscription to %1$s"
+msgstr "Vërteto abonimin ruaj në %1$s"
+
+#: models/config.php:214
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+""
+msgstr ""
+"Përshëndetje!\n"
+"\n"
+"U abonuat në faqen tonë.\n"
+"Kemi nevojë të aktivizoni abonimin tuaj në lstën (listat): [list_to_confirm] duke klikuar link-un në vijim:\n"
+"\n"
+"[activation_link]Kliko kërtu për të vërtetuar abonimin tuaj.[/activation_link]\n"
+"\n"
+"Faleminderit,\n"
+"\n"
+"Stafi!\n"
+""
+
+#: models/config.php:221
+#: models/config.php:704
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr "Keni probleme? [link] Shini këtë newsletter në shfletuesin tuaj.[/link]"
+
+#: models/config.php:222
+msgid "Yes, add me to your mailing list."
+msgstr "Po, më shtoni në listën tuaj."
+
+#: models/config.php:225
+msgid "Who can create newsletters?"
+msgstr "Kush mund të krijoj newsletter?"
+
+#: models/config.php:228
+msgid "Who can manage subscribers?"
+msgstr "Kush mund të menaxhoj abonuesit?"
+
+#: models/config.php:231
+msgid "Who can change MailPoet's settings?"
+msgstr "Kush mund të ndryshoj cilësimet e MailPoet?"
+
+#: models/config.php:234
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Kush mund të shohi tabelën e temës në editorin vizual?"
+
+#: models/config.php:237
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Kush mund të shohi stilin e tabelave në editorin vizual?"
+
+#: models/config.php:312
+#: models/config.php:321
+msgid "empty"
+msgstr "bosh"
+
+#: models/config.php:314
+#, php-format
+msgid "The <strong>from email</strong> value you have entered (%1$s) is not a valid email address."
+msgstr "Vlera <strong>email nga</strong> e vendosur (%1$s) nuk është adresë email e vlefshme."
+
+#: models/config.php:323
+#, php-format
+msgid "The <strong>reply to</strong> email value you have entered (%1$s) is not a valid email address."
+msgstr "Vlera <strong>përgjigju tek</strong> e vendosur (%1$s) nuk është adresë email e vlefshme."
+
+#: models/config.php:545
+msgid "Your settings are saved."
+msgstr "Cilësimet tuaja janë shpëtuar."
+
+#: models/config.php:740
+msgid "Use `view_in_browser_link` instead."
+msgstr "Përdor `view_in_browser_link` më mirë."
+
+#: models/email.php:126
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:143
+#: views/back.php:18
+msgid "View"
+msgstr "Shih"
+
+#: models/email.php:173
+msgid "Your latest newsletter is being sent."
+msgstr "Newsletteri juaj i fundit është dërguar."
+
+#: models/email.php:175
+msgid "Your auto newsletter has been activated."
+msgstr "Newsletteri juaj i automatizuar është aktivizuar."
+
+#: models/list.php:23
+#: views/back/campaigns.php:336
+#: views/back/config.php:1701
+#: views/back/subscribers.php:715
+#: views/back/subscribers.php:827
+msgid "Name"
+msgstr "Emri"
+
+#: models/list.php:24
+#: views/back/subscribers.php:835
+msgid "Description"
+msgstr "Përshkrimi"
+
+#: models/list.php:25
+msgid "Enabled"
+msgstr "Aktivizuar"
+
+#: models/list.php:26
+msgid "Ordering"
+msgstr "Urdhëri"
+
+#: models/queue.php:82
+msgid "There are no list to send to."
+msgstr "Nuk ka lista për dërgim."
+
+#: models/user.php:25
+#: models/user_field.php:23
+#: views/back/campaigns.php:339
+#: views/back/subscribers.php:275
+#: views/back/subscribers.php:514
+#: views/back/subscribers.php:973
+#: views/front/confirm.php:83
+msgid "Status"
+msgstr "Statusi"
+
+#: models/user.php:26
+msgid "Created on"
+msgstr "Krijuar më"
+
+#: models/user.php:214
+msgid "Click here to unsubscribe"
+msgstr "Kliko këtu për t'u çregjistruar"
+
+#: models/user.php:219
+msgid "Click here to subscribe"
+msgstr "Kliko këtu për t'u abonuar"
+
+#: models/user_field.php:22
+#: views/back/subscribers.php:972
+msgid "IP address"
+msgstr "Adresa IP"
+
+#: models/user_field.php:24
+msgid "Subscription date"
+msgstr "Data e abonimit"
+
+#: modules/archive_std/archive_std_view.php:10
+msgid "Archive page shortcode"
+msgstr "Shortcode i faqes arkiv"
+
+#: modules/archive_std/archive_std_view.php:11
+msgid "Paste this shortcode in a page to display a list of past newsletters."
+msgstr "Kalo këtë shortcode në një faqe të treguar një listë newsletter-ash të kaluara."
+
+#: modules/archive_std/archive_std_view.php:106
+msgid "Oops! There are no newsletters to display."
+msgstr "Ops! Nuk keni newsletter për të treguar."
+
+#: modules/archive_std/archive_std_view.php:163
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:51
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:83
+#: views/back/campaigns.php:478
+msgid "Preview in new tab"
+msgstr "Parashiko në këtë tabelë"
+
+#: modules/cron_std/cron_std.php:98
+#: modules/cron_std/cron_std.php:240
+msgid "Opps! Something goes wrong while activating Mailpoet cron."
+msgstr "Sa keq! Diçka ka shkuar keq në aktivizimin e Cron të MailPoet."
+
+#: modules/cron_std/cron_std.php:114
+msgid "Opps! Something goes wrong while deactivating Mailpoet cron."
+msgstr "Sa keq! Diçka ka shkuar keq në çaktivizimin e Cron të MailPoet."
+
+#: modules/cron_std/cron_std_view.php:16
+msgid "Don't send late"
+msgstr "Mos dërgo vonë"
+
+#: modules/cron_std/cron_std_view.php:18
+msgid "MailPoet.com can visit your site every 15 minutes, just like a \"cron job\", to make sure your emails are being sent on time."
+msgstr "MailPoet.com mund të vizitoj faqen tuaj çdo 15 minuta, si një \"Cron Job\",  për t'u sigurar që email-et tuaja të jenë dërguar në kohë."
+
+#: modules/cron_std/cron_std_view.php:21
+msgid "Premium users get visited every 5 minutes."
+msgstr "Përdoruesit premium kontorllohen çdo 5 minuta."
+
+#: modules/cron_std/cron_std_view.php:223
+msgid "... or [link]setup a cron job on your server[/link] instead."
+msgstr "..përndryshe [link]programo një cron job në serverin tuaj[/link]"
+
+#: modules/cron_std/cron_std_view.php:225
+msgid "The magic is happening..."
+msgstr "Magjia po ndodh..."
+
+#: modules/cron_std/cron_std_view.php:234
+msgid "Waiting for the first visit!"
+msgstr "Në pritje të vizitës së parë!"
+
+#: modules/cron_std/cron_std_view.php:238
+msgid "View details."
+msgstr "Shiko detajet."
+
+#: modules/cron_std/cron_std_view.php:249
+#: modules/cron_std/cron_std_view.php:304
+msgid "Disable it."
+msgstr "Çaktivizojeni."
+
+#: modules/cron_std/cron_std_view.php:256
+msgid "In a few minutes, you'll see the time of our last visit here."
+msgstr "Në disa minuta, ju do të shihni kohën e vizitës sonë të fundit këtu."
+
+#: modules/cron_std/cron_std_view.php:270
+#: modules/cron_std/cron_std_view.php:302
+msgid "Server side cron setup"
+msgstr "Konfigurimini i Cron nga Serveri"
+
+#: modules/cron_std/cron_std_view.php:272
+msgid "First, set up a command on your server to visit our scheduled routines URL:"
+msgstr "Së pari, konfiguroni një komandë nga serveri juaj për të vizituar programimin tonë URL:"
+
+#: modules/cron_std/cron_std_view.php:273
+msgid "Here is an example of a command to setup on your server:"
+msgstr "Shembull i një komande për konfigurimin në serverin tuaj:"
+
+#: modules/cron_std/cron_std_view.php:277
+msgid "For other commands examples, check [link]this article[/link]."
+msgstr "Për shembuj të tjerë komandash, lexoni [link]këtë artikull[/link]."
+
+#: modules/cron_std/cron_std_view.php:280
+msgid "For better control, you can set one cron job per routine"
+msgstr "Për një kontroll më të mirë, mund të konfiguroni një cron job per çdo procedurë."
+
+#: modules/cron_std/cron_std_view.php:282
+#: views/back/campaigns.php:112
+msgid "Sending"
+msgstr "Duke dërguar"
+
+#: modules/cron_std/cron_std_view.php:283
+msgid "Bounce handling"
+msgstr "Trajtim i përplasjeve"
+
+#: modules/cron_std/cron_std_view.php:284
+msgid "Daily"
+msgstr "Ditore"
+
+#: modules/cron_std/cron_std_view.php:285
+msgid "Weekly"
+msgstr "Javore"
+
+#: modules/cron_std/cron_std_view.php:286
+msgid "Monthly"
+msgstr "Mujore"
+
+#: modules/cron_std/cron_std_view.php:290
+msgid "No, thanks!"
+msgstr "Jo, faleminderit!"
+
+#: modules/cron_std/cron_std_view.php:291
+msgid "Ok, I've set it up"
+msgstr "OK, e programova"
+
+#: modules/cron_std/cron_std_view.php:307
+msgid "Waiting for the first visit of your cron job!"
+msgstr "Në pritje të vizitës së parë të cron job-it tuaj!"
+
+#: modules/cron_std/cron_std_view.php:308
+msgid "Check now."
+msgstr "KOntrollo tani."
+
+#: modules/cron_std/cron_std_view.php:310
+msgid "Your cron job is working!"
+msgstr "Cron job-i juaj punon!"
+
+#: modules/cron_std/cron_std_view.php:318
+msgid "Opps, something goes wrong."
+msgstr "Sa keq, diçka ka shkuar gabim."
+
+#: modules/cron_std/cron_std_view.php:324
+msgid "View setup instructions"
+msgstr "Shih parimet e konfigurimit"
+
+#: modules/cron_std/cron_std_view.php:326
+msgid "Back to \"Settings\" page"
+msgstr "Kthehu në faqen e \"Cilësimeve\""
+
+#: modules/cron_std/cron_std_view.php:337
+msgid "Oops! We can't connect to MailPoet's server right now. We might be down or you're behind a proxy or firewall."
+msgstr "Sa keq! Nuk mund të lidhemi me serverin e MailPoet tani. Mund të jemi jashtlinje ose ju jeni pas një firewall ose proxy."
+
+#: modules/cron_std/cron_std_view.php:345
+msgid "Last visit was a few seconds ago."
+msgstr "Vizita e fundit ishte pak sekonda më parë."
+
+#: modules/cron_std/cron_std_view.php:347
+#, php-format
+msgid "Last visit was %1$s minutes ago."
+msgstr "Vizita e fundit ishte %1$s minuta më parë."
+
+#: modules/cron_std/cron_std_view.php:349
+#, php-format
+msgid "Last visit was %1$s minute ago."
+msgstr "Vizita e fundit ishte %1$s minut më parë."
+
+#: modules/cron_std/cron_std_view.php:354
+msgid "There is a problem! Mailpoet.com couldn't visit your site, because:"
+msgstr "Ndodhi një problem! MailPoet.com nuk mundi të vizitoj faqen tuaj spese:"
+
+#: modules/cron_std/cron_std_view.php:356
+msgid "You're on an intranet. You'll need to set your own cron job."
+msgstr "Ndodheni në një intranet, Do t'ju duhet të krijoni një cron job tuajin."
+
+#: modules/cron_std/cron_std_view.php:357
+#, php-format
+msgid "Your .htaccess, firewall or server is blocking our IP (%1$s)."
+msgstr ".htacess jauj, firewall-i apo serveri është duke bllokuar IP tonë (%1$s)."
+
+#: modules/cron_std/cron_std_view.php:361
+msgid "Set up [link]your own cron job[/link] instead."
+msgstr "Krijo [link]corn job-in tuaj[/link] në të kundërt."
+
+#: modules/cron_std/cron_std_view.php:362
+msgid "Or ask your webmaster for help!"
+msgstr "Ose kërkojini ndihmë webmaster-it tuaj!"
+
+#: modules/cron_std/cron_std_view.php:373
+msgid "Sending routine starts in:"
+msgstr "Dërgimi rutinë nis më:"
+
+#: modules/cron_std/cron_std_view.php:376
+msgid "Bounce handling routine starts in:"
+msgstr "Trajtimi i përplasjeve rutinë nis më:"
+
+#: modules/cron_std/cron_std_view.php:379
+msgid "Daily routine starts in:"
+msgstr "Rutina ditore nis më:"
+
+#: modules/cron_std/cron_std_view.php:382
+msgid "Weekly routine starts in:"
+msgstr "Rutina javore nis më:"
+
+#: modules/cron_std/cron_std_view.php:385
+msgid "Monthly routine starts in:"
+msgstr "Rutina mujore nis më:"
+
+#: modules/cron_std/cron_std_view.php:390
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:57
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:89
+msgid "N/A"
+msgstr "P/D"
+
+#: modules/cron_std/cron_std_view.php:399
+msgid "Activated!"
+msgstr "U aktivizua!"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:29
+msgid "In queue"
+msgstr "Në radhë"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:30
+msgid "Not sent"
+msgstr "Të pa dërguara"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:31
+#: views/back/campaigns.php:222
+msgid "Bounced"
+msgstr "Refuzuar"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:32
+#: views/back/campaigns.php:109
+msgid "Sent"
+msgstr "Dërguar"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:33
+msgid "Opened only"
+msgstr "Vetëm të hapura"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:34
+msgid "Opened & Clicked"
+msgstr "Të hapura dhe të Klikuara"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:35
+msgid "Opened & Unsubscribed"
+msgstr "Të hapura dhe të çregjistruara"
+
+#: modules/stats_newsletter_std/stats_newsletter_std.php:218
+#: modules/stats_newsletter_std/stats_newsletter_std.php:222
+msgid "Rate"
+msgstr "Frekuenca"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:62
+msgid "Top links"
+msgstr "Linkët më të mirë"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:70
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:27
+msgid "Link"
+msgstr "Link"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:76
+msgid "Unique clicks"
+msgstr "Klikime të vetme"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:77
+msgid "Total clicks"
+msgstr "Total klikimesh"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:104
+msgid "Currently viewing"
+msgstr "Po shikon"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:106
+#: views/back/subscribers.php:781
+msgid "View subscribers"
+msgstr "Shih abonentët"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:155
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:504
+#: views/back/campaigns.php:526
+#: views/back/campaigns.php:551
+#: views/back/config.php:1771
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:751
+msgid "Duplicate"
+msgstr "Kopje"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:162
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:168
+msgid "Sent on"
+msgstr "Dërguar më"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:174
+#: views/back/campaigns.php:340
+#: views/back/campaigns.php:940
+#: views/back/campaigns.php:1088
+#: views/back/campaigns.php:1526
+#: views/back/config.php:1702
+#: views/back/subscribers.php:274
+#: views/back/subscribers.php:550
+msgid "Lists"
+msgstr "Listat"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:188
+#: views/back/statistics.php:47
+msgid "From"
+msgstr "Nga"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:203
+msgid "Reply-to"
+msgstr "Përgjigju"
+
+#: modules/stats_newsletter_std/stats_newsletter_std_view.php:209
+msgid "Bounce"
+msgstr "Refuzuar"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:14
+#, php-format
+msgid "Subscriber opened %1$s of %2$s emails"
+msgstr "Abonentët kanë hapur %1$s of %2$s email-e"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:16
+#, php-format
+msgid "Subscriber opened %1$s of %2$s email"
+msgstr "Abonenti ka hapur %1$s of %2$s email"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:28
+msgid "Clicks"
+msgstr "Klikime"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:29
+msgid "Device"
+msgstr "Disposzitiv"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:30
+#: views/back/campaigns.php:952
+msgid "Opened date"
+msgstr "Data e Hapjes"
+
+#: modules/stats_subscribers_std/stats_subscribers_std_view.php:31
+msgid "Date sent"
+msgstr "Data e dërguar"
+
+#: views/back.php:18
+#: views/back.php:20
+#: views/back/campaigns.php:15
+#: views/back/campaigns.php:507
+#: views/back/campaigns.php:529
+#: views/back/campaigns.php:554
+#: views/back/config.php:1774
+#: views/back/subscribers.php:16
+#: views/back/subscribers.php:756
+msgid "Delete"
+msgstr "Fshi"
+
+#: views/back.php:202
+#: views/back/subscribers.php:119
+msgid "Bulk Actions"
+msgstr "Aksione në grup"
+
+#: views/back.php:209
+#: views/back/campaigns.php:290
+#: views/back/subscribers.php:178
+msgid "Apply"
+msgstr "Apliko"
+
+#: views/back.php:249
+#: views/back.php:251
+#: views/back.php:262
+#: views/back.php:264
+#, php-format
+msgid "Page %1$s"
+msgstr "Faqja %1$s"
+
+#: views/back.php:257
+#, php-format
+msgid "of %1$s"
+msgstr "e %1$s"
+
+#: views/back.php:295
+#, php-format
+msgid "Split subscribers into %1$s pages."
+msgstr "Nda abonuesit në %1$s faqe."
+
+#: views/back.php:315
+msgid "Subscribers to show per page:"
+msgstr "Abonues për faqe:"
+
+#: views/back.php:680
+msgid "Modify"
+msgstr "Ndrysho"
+
+#: views/back.php:682
+msgid "Add"
+msgstr "Shto"
+
+#: views/back/campaigns.php:11
+msgid "All Newsletters"
+msgstr "Të gjitha newsletter-at"
+
+#: views/back/campaigns.php:14
+msgid "Search newsletters"
+msgstr "Kërko newsletter"
+
+#: views/back/campaigns.php:54
+#: views/back/subscribers.php:34
+msgid "Back"
+msgstr "Kthehu"
+
+#: views/back/campaigns.php:55
+msgid "Create a new email"
+msgstr "Krijo një newsletter të re"
+
+#: views/back/campaigns.php:81
+msgid "... or duplicate one below to copy its design."
+msgstr "... ose dyfisho një nga ato në vijim për të kopjuar design-in e saj."
+
+#: views/back/campaigns.php:106
+#: views/back/campaigns.php:204
+#: views/back/subscribers.php:75
+msgid "All"
+msgstr "Të gjitha"
+
+#: views/back/campaigns.php:115
+#: views/back/campaigns.php:365
+#: views/back/campaigns.php:444
+msgid "Draft"
+msgstr "Skicë"
+
+#: views/back/campaigns.php:118
+#: views/back/campaigns.php:442
+msgid "Paused"
+msgstr "Ndaluar"
+
+#: views/back/campaigns.php:124
+msgid "Standard Newsletters"
+msgstr "Newsletter standart"
+
+#: views/back/campaigns.php:127
+msgid "Auto Newsletters"
+msgstr "Newsletter automatike"
+
+#: views/back/campaigns.php:165
+msgid "Show all months"
+msgstr "Trego të gjithë muajt"
+
+#: views/back/campaigns.php:181
+msgid "View by lists"
+msgstr "Shih në listë"
+
+#: views/back/campaigns.php:192
+#: views/back/statistics.php:49
+#: views/back/subscribers.php:224
+msgid "Filter"
+msgstr "Filter"
+
+#: views/back/campaigns.php:207
+msgid "All Sent"
+msgstr "U dërguan të gjitha"
+
+#: views/back/campaigns.php:210
+msgid "In Queue"
+msgstr "Në radhë"
+
+#: views/back/campaigns.php:213
+msgid "Failed Send"
+msgstr "Dërgimi dështoi"
+
+#: views/back/campaigns.php:216
+msgid "Unopened"
+msgstr "E pahapur"
+
+#: views/back/campaigns.php:219
+msgid "Opened"
+msgstr "E hapur"
+
+#: views/back/campaigns.php:225
+msgid "Clicked"
+msgstr "E klikuar"
+
+#: views/back/campaigns.php:268
+msgid "With this segment"
+msgstr "Me këtë segment"
+
+#: views/back/campaigns.php:273
+msgid "Remove from the queue"
+msgstr "Fshi nga radha"
+
+#: views/back/campaigns.php:277
+msgid "Create a new list"
+msgstr "Krijo një listë të re"
+
+#: views/back/campaigns.php:278
+msgid "Unsubscribe from all lists"
+msgstr "Çregjistrohu nga të gjitha listat"
+
+#: views/back/campaigns.php:282
+#, php-format
+msgid "Unsubscribe from list: %1$s"
+msgstr "Çregjistrohu nga lista: %1$s"
+
+#: views/back/campaigns.php:286
+msgid "Export to CSV"
+msgstr "Eksporto në CSV"
+
+#: views/back/campaigns.php:341
+msgid "Open, clicks, unsubscribed"
+msgstr "Të hapura, klikime, çregjistrime"
+
+#: views/back/campaigns.php:347
+msgid "Modified On"
+msgstr "E ndryshuar më"
+
+#: views/back/campaigns.php:348
+msgid "Sent On"
+msgstr "Dërguar më"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "Sent to %1$s out of %2$s"
+msgstr "Dërguar %1$s në %2$s"
+
+#: views/back/campaigns.php:365
+#, php-format
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s në %2$s dërguar."
+
+#: views/back/campaigns.php:427
+#, php-format
+msgid "Scheduled to be sent in %1$s"
+msgstr "Programuar të dërgohet në %1$s"
+
+#: views/back/campaigns.php:430
+#, php-format
+msgid "Scheduled to be sent on %1$s"
+msgstr "Programuar të dërgohet më %1$s"
+
+#: views/back/campaigns.php:478
+#: views/back/config.php:189
+msgid "Preview"
+msgstr "Parashiko"
+
+#: views/back/campaigns.php:497
+#: views/back/campaigns.php:520
+#: views/back/campaigns.php:544
+msgid "Stats"
+msgstr "Statuset"
+
+#: views/back/campaigns.php:595
+#, php-format
+msgid "Next send out in %1$s"
+msgstr "Dërgimi i ardhshëm në %1$s"
+
+#: views/back/campaigns.php:598
+#, php-format
+msgid "Next send out on %1$s"
+msgstr "Dërgimi i ardhshëm më %1$s"
+
+#: views/back/campaigns.php:605
+#, php-format
+msgid "Sent daily at %1$s."
+msgstr "Dërgohet çdo ditë %1$s."
+
+#: views/back/campaigns.php:608
+#, php-format
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Dërgohet çdo javë %1$s në %2$s"
+
+#: views/back/campaigns.php:611
+#, php-format
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Dërgohet çdo muaj %1$s në %2$s"
+
+#: views/back/campaigns.php:614
+#, php-format
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Dërgo çdo muaj %1$s %2$s në %3$s"
+
+#: views/back/campaigns.php:620
+msgid "if there's new content"
+msgstr "nëse ka përmbajtje të re"
+
+#: views/back/campaigns.php:649
+msgid "Pause"
+msgstr "Pushim"
+
+#: views/back/campaigns.php:657
+#: views/back/campaigns.php:672
+msgid "Not active."
+msgstr "Jo aktive."
+
+#: views/back/campaigns.php:660
+msgid "Resume"
+msgstr "Rifillo"
+
+#: views/back/campaigns.php:674
+msgid "Not sent yet."
+msgstr "Ende pa dërguar."
+
+#: views/back/campaigns.php:727
+msgid "Send immediately."
+msgstr "Dërgo menjëherë."
+
+#: views/back/campaigns.php:735
+#, php-format
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Dërgo sapo dikush të abonohet në listën %1$s"
+
+#: views/back/campaigns.php:737
+#, php-format
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "Dërgo %2$s sapo dikush të abonohet në listën %1$s"
+
+#: views/back/campaigns.php:744
+msgid "any role"
+msgstr "çdo funksion"
+
+#: views/back/campaigns.php:748
+#, php-format
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr "Dërgohet menjëherë sapo një përoduers i ri është shtuar në faqen tuaj si %1$s."
+
+#: views/back/campaigns.php:751
+#, php-format
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr "Dërgohet %2$s pasi një përdorues i ri është shtuar në faqen tuaj si %1$s."
+
+#: views/back/campaigns.php:760
+msgid "Sending per event"
+msgstr "Dërgim për ngjarje"
+
+#: views/back/campaigns.php:788
+#, php-format
+msgid "Sent to %1$s subscribers."
+msgstr "Dërguar %1$s abonentë."
+
+#: views/back/campaigns.php:808
+msgid "The last batch of emails should start sending automatically in the next few minutes."
+msgstr "Grupi i fundit i email-eve do të nis dërgimin në mënyrë automatike pas pak minutash."
+
+#: views/back/campaigns.php:810
+#, php-format
+msgid "Time remaining: %1$s"
+msgstr "Koha e mbetur: %1$s"
+
+#: views/back/campaigns.php:843
+#, php-format
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s email(e) të programuara"
+
+#: views/back/campaigns.php:847
+#, php-format
+msgid "Latest batch was sent %1$s ago."
+msgstr "Grupi i fundit është dërguar %1$s më parë."
+
+#: views/back/campaigns.php:850
+msgid "Don't wait & send right now."
+msgstr "Mos prit por dërgo tani."
+
+#: views/back/campaigns.php:859
+msgid "To resume send [link]Go premium now![/link]"
+msgstr "Për të rifilluar dërgo [link]Kalo në Premium tani![/link]"
+
+#: views/back/campaigns.php:876
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "shiko link-et me [link]liçencë Premium[/link]."
+
+#: views/back/campaigns.php:898
+msgid "Search recipients"
+msgstr "Kërko marrësa"
+
+#: views/back/campaigns.php:939
+msgid "Email Status"
+msgstr "Gjëndja e Email-it"
+
+#: views/back/campaigns.php:941
+msgid "Subscriber Status"
+msgstr "Gjëndja e Abonentëve"
+
+#: views/back/campaigns.php:949
+#: views/back/campaigns.php:954
+msgid "Clicked on"
+msgstr "Klikuar mbi"
+
+#: views/back/campaigns.php:959
+#: views/back/subscribers.php:276
+msgid "Subscribed on"
+msgstr "Abonuar më"
+
+#: views/back/campaigns.php:1000
+#: views/back/subscribers.php:343
+msgid "View stats or edit"
+msgstr "Shih statistikat ose redakto"
+
+#: views/back/campaigns.php:1065
+#: views/back/campaigns.php:1514
+msgid "What type of newsletter is this?"
+msgstr "ç'lloj newsletter është kjo?"
+
+#: views/back/campaigns.php:1071
+msgid "Automatically sent..."
+msgstr "Automatikisht e dërguar..."
+
+#: views/back/campaigns.php:1079
+#: views/back/campaigns.php:1498
+msgid "Subject line"
+msgstr "Subjekti"
+
+#: views/back/campaigns.php:1081
+msgid "This is the subject of the email. Be creative since it's the first thing your subscribers will see."
+msgstr "Kjy është subjekti i email-it. Jini kreativ pasi ajo është gjëja e parë që abonentë tuaj do të shohin."
+
+#: views/back/campaigns.php:1103
+msgid "Yikes! Your browser might not be supported. Get the latest [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?[link_ignore]Dismiss[/link_ignore]."
+msgstr "Sa keq! Browseri juaj nuk mund të jet i vjetër. Tërhiq të fundit [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff],[linkie]Internet Explorer[/linkie] ose [linksafari] Safari [/linksafari]. Të duket se punon? [link_ignore]Mos Prano[/link_ignore]."
+
+#: views/back/campaigns.php:1125
+#: views/back/campaigns.php:1317
+msgid "Save and reactivate"
+msgstr "Shpëto dhe riaktivizo"
+
+#: views/back/campaigns.php:1127
+#: views/back/campaigns.php:1313
+#: views/back/subscribers.php:948
+msgid "Next step"
+msgstr "Hapi i ardhshëm"
+
+#: views/back/campaigns.php:1196
+#: views/back/config.php:1900
+msgid "Content"
+msgstr "Përmbajtje"
+
+#: views/back/campaigns.php:1198
+msgid "Images"
+msgstr "Imazhe"
+
+#: views/back/campaigns.php:1200
+msgid "Styles"
+msgstr "Stile"
+
+#: views/back/campaigns.php:1203
+msgid "Themes"
+msgstr "Tema"
+
+#: views/back/campaigns.php:1209
+msgid "Drag the widgets below into your newsletter."
+msgstr "Tërhiqni widget-in poshtë në newsletter-in tuaj."
+
+#: views/back/campaigns.php:1212
+msgid "Automatic latest content"
+msgstr "Përmbajtjet e fundit automatike"
+
+#: views/back/campaigns.php:1217
+msgid "Social bookmarks"
+msgstr "Link-e të Rjeteve Sociale"
+
+#: views/back/campaigns.php:1230
+msgid "Add Images"
+msgstr "Shto imazh"
+
+#: views/back/campaigns.php:1273
+msgid "Add more themes"
+msgstr "Shto më shumë tema"
+
+#: views/back/campaigns.php:1287
+msgid "Our toolbar doesn't load?"
+msgstr "Toolbari jonë nuk karikohet?"
+
+#: views/back/campaigns.php:1290
+msgid "Conflict"
+msgstr "Konflikt"
+
+#: views/back/campaigns.php:1290
+msgid "There must be an active 3rd party plugin or theme breaking our interface. [link]Read more.[/link]"
+msgstr "Duhet të keni një shtojcë të 3-të aktive ose një temë që shkojnë në konflikt me ndërfaqen tonë. [link]Lexo më shumë.[/link]"
+
+#: views/back/campaigns.php:1302
+#: views/back/campaigns.php:1581
+msgid "Send preview"
+msgstr "Dërgo "
+
+#: views/back/campaigns.php:1312
+msgid "Save changes"
+msgstr "Shpëto ndryshimet"
+
+#: views/back/campaigns.php:1320
+msgid "go back to Step 1"
+msgstr "shko mbrapa në Hapin 1"
+
+#: views/back/campaigns.php:1344
+msgid "If you confirm the theme switch, it will override your header, footer, dividers and styles"
+msgstr "Nëse konfirmoni ndrrimin e temës tuaj, ajo do të mbishkruaj kreun e faqes, fundin e faqes, ndarësit dhe stilin."
+
+#: views/back/campaigns.php:1500
+msgid "Be creative! It's the first thing your subscribers see. Tempt them to open your email."
+msgstr "Ji kreativ! Është gjëja e parë që abonentët tuaj do shikojnë. Tento ata të hapin email-in tuaj."
+
+#: views/back/campaigns.php:1505
+msgid "When..."
+msgstr "Kur...."
+
+#: views/back/campaigns.php:1529
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Lista e abonentve që do të përdoret për këtë fushatë."
+
+#: views/back/campaigns.php:1535
+msgid "Sender"
+msgstr "Dërgues"
+
+#: views/back/campaigns.php:1536
+msgid "Name & email of yourself or your company."
+msgstr "Emri dhe email-i juaj ose i kmpanisë tuaj."
+
+#: views/back/campaigns.php:1543
+#: views/back/config.php:1136
+msgid "Reply-to name & email"
+msgstr "Adresa email e përgjigjes"
+
+#: views/back/campaigns.php:1544
+msgid "When the subscribers hit \"reply\" this is who will receive their email."
+msgstr "Kur abonentët do të shtypin \"përgjigju\" kjo është adresa ku do të arrinë email-et e tyre"
+
+#: views/back/campaigns.php:1554
+msgid "Schedule it"
+msgstr "Planifikoje"
+
+#: views/back/campaigns.php:1562
+msgid "Ignore current subscribers"
+msgstr "Injoro abonentët e tanishëm"
+
+#: views/back/campaigns.php:1563
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Mos dërgo abonentëve ekzistues, vetëm të ardhëshmëve."
+
+#: views/back/campaigns.php:1593
+#: views/back/campaigns.php:1600
+msgid "Save as draft and close"
+msgstr "Shpëto si projekt dhe mbyll"
+
+#: views/back/campaigns.php:1623
+msgid "or simply [link]go back to design[/link]."
+msgstr "ose [link]kthehu prapa tek projekti[/link]."
+
+#: views/back/campaigns.php:1745
+#, php-format
+msgid "Local time is <code>%1$s</code>"
+msgstr "Ora locale është <code>%1$s</code>"
+
+#: views/back/campaigns.php:1756
+msgid "Standard newsletter"
+msgstr "Newsletter standart"
+
+#: views/back/campaigns.php:1761
+msgid "Automatic newsletter"
+msgstr "Newsletter automatike"
+
+#: views/back/campaigns.php:1882
+msgid "Added"
+msgstr "Shtuar"
+
+#: views/back/campaigns.php:1912
+msgid "Address:"
+msgstr "Adresa:"
+
+#: views/back/campaigns.php:1916
+msgid "Alternative text:"
+msgstr "Text alternativ:"
+
+#: views/back/campaigns.php:1919
+msgid "This text is displayed when email clients block images, which is most of the time."
+msgstr "Ky tekst shihet kur klientet bllokojnë imazhet në email-in e tyre, gjë që ndodh shumicën e kohës."
+
+#: views/back/campaigns.php:1939
+msgid "Upload Theme (.zip)"
+msgstr "Ngarko Temën (.zip)"
+
+#: views/back/campaigns.php:1942
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Udhëzues[/link] për të krijuar temën tuaj."
+
+#: views/back/campaigns.php:1944
+msgid "Free"
+msgstr "Gratis"
+
+#: views/back/campaigns.php:1967
+#: views/back/subscribers.php:928
+#, php-format
+msgid "total max upload file size : %1$s"
+msgstr "Përmasa totale e ngarkimit të file-ve: %1$s"
+
+#: views/back/campaigns.php:1968
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Nëse një temë me të njëjtin emër ekziston, mbishkruaje."
+
+#: views/back/campaigns.php:2005
+msgid "Search"
+msgstr "Kërko"
+
+#: views/back/campaigns.php:2020
+msgid "Insert selected"
+msgstr "Vendos të zgjedhurat"
+
+#: views/back/campaigns.php:2036
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Cilin ekstrakt përdor? [link]Lexo më shumë[/link]"
+
+#: views/back/campaigns.php:2040
+msgid "Display..."
+msgstr "Trego..."
+
+#: views/back/campaigns.php:2043
+msgid "excerpt"
+msgstr "ekstrakt"
+
+#: views/back/campaigns.php:2044
+msgid "full post"
+msgstr "postimi i tërë"
+
+#: views/back/campaigns.php:2045
+msgid "title only"
+msgstr "vetëm titull"
+
+#: views/back/campaigns.php:2050
+msgid "Title format"
+msgstr "Formati i titullit"
+
+#: views/back/campaigns.php:2051
+msgid "heading 1"
+msgstr "kreu i faqes 1"
+
+#: views/back/campaigns.php:2052
+msgid "heading 2"
+msgstr "kreu i faqes 2"
+
+#: views/back/campaigns.php:2053
+msgid "heading 3"
+msgstr "kreu i faqes 3"
+
+#: views/back/campaigns.php:2054
+msgid "show as list"
+msgstr "trego si listë"
+
+#: views/back/campaigns.php:2059
+msgid "Title position"
+msgstr "Pozicioni i titullit"
+
+#: views/back/campaigns.php:2060
+msgid "in text block"
+msgstr "në hapsirën e tekstit"
+
+#: views/back/campaigns.php:2061
+msgid "above text block and image"
+msgstr "mbi hapsirën e tekstit dhe imazhit"
+
+#: views/back/campaigns.php:2066
+msgid "Title alignment"
+msgstr "Dretjtimi i titullit"
+
+#: views/back/campaigns.php:2067
+#: views/back/campaigns.php:2083
+msgid "left"
+msgstr "majtas"
+
+#: views/back/campaigns.php:2068
+#: views/back/campaigns.php:2084
+msgid "center"
+msgstr "qëndër"
+
+#: views/back/campaigns.php:2069
+#: views/back/campaigns.php:2085
+msgid "right"
+msgstr "djathtas"
+
+#: views/back/campaigns.php:2075
+msgid "Image alignment"
+msgstr "Drejtimi imazhit"
+
+#: views/back/campaigns.php:2081
+msgid "alternate left & right"
+msgstr "alternuar majtas dhe djathtas"
+
+#: views/back/campaigns.php:2086
+msgid "no image"
+msgstr "hiq imazhin"
+
+#: views/back/campaigns.php:2094
+msgid "Image width"
+msgstr "Gjërsia imazhit"
+
+#: views/back/campaigns.php:2104
+msgid "Include author"
+msgstr "Përfshi autorin"
+
+#: views/back/campaigns.php:2107
+#: views/back/campaigns.php:2122
+#: views/back/campaigns.php:2162
+msgid "no"
+msgstr "jo"
+
+#: views/back/campaigns.php:2108
+#: views/back/campaigns.php:2123
+msgid "above content"
+msgstr "mbi përmbajtjen"
+
+#: views/back/campaigns.php:2109
+#: views/back/campaigns.php:2124
+msgid "below content"
+msgstr "nën përmbajtjen"
+
+#: views/back/campaigns.php:2112
+#: views/back/campaigns.php:2127
+msgid "Preceded by:"
+msgstr "Paraprirë nga:"
+
+#: views/back/campaigns.php:2119
+msgid "Include categories"
+msgstr "Përfshi kategoritë"
+
+#: views/back/campaigns.php:2134
+msgid "\"Read more\" text"
+msgstr "teksti \"Lexo më shumë\""
+
+#: views/back/campaigns.php:2142
+msgid "Background color"
+msgstr "Ngjyra e sfondit"
+
+#: views/back/campaigns.php:2148
+msgid "Batch insert options"
+msgstr "Opsionete e vendosjes në masë"
+
+#: views/back/campaigns.php:2153
+msgid "Sort by"
+msgstr "Renditur sipas"
+
+#: views/back/campaigns.php:2154
+msgid "newest"
+msgstr "të rejat"
+
+#: views/back/campaigns.php:2155
+msgid "oldest"
+msgstr "të vjetërat"
+
+#: views/back/campaigns.php:2160
+msgid "Show divider between posts"
+msgstr "Trego ndarësit ndërmjet postimeve"
+
+#: views/back/campaigns.php:2161
+msgid "yes"
+msgstr "po"
+
+#: views/back/campaigns.php:2167
+msgid "Background color with alternate"
+msgstr "Ngjyra e sfondit me alternativa"
+
+#: views/back/campaigns.php:2197
+#: views/back/campaigns.php:2279
+#: views/back/campaigns.php:2317
+#: views/back/campaigns.php:2352
+#: views/back/config.php:2225
+msgid "Done"
+msgstr "Përfunduar"
+
+#: views/back/campaigns.php:2222
+msgid "Post type"
+msgstr "Lloj postimi"
+
+#: views/back/campaigns.php:2231
+msgid "Maximum of posts to show"
+msgstr "Numri maksimal i postimeve të treguara"
+
+#: views/back/campaigns.php:2262
+msgid "And taxonomies as well..."
+msgstr "Gjithahtu dhe taksonomitë..."
+
+#: views/back/campaigns.php:2265
+msgid "Select..."
+msgstr "Zgjidh..."
+
+#: views/back/campaigns.php:2306
+msgid "Size:"
+msgstr "Përmasa:"
+
+#: views/back/campaigns.php:2307
+msgid "small"
+msgstr "i/e vogël"
+
+#: views/back/campaigns.php:2308
+msgid "medium"
+msgstr "mesatare"
+
+#: views/back/campaigns.php:2396
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: views/back/campaigns.php:2397
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: views/back/campaigns.php:2436
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Browseri juaj nuk mund të karikoj file. Duhet të përdorini <a href=\"http://wordpress.org/extend/mobile/\">app native për device-in tuaj</a>."
+
+#: views/back/campaigns.php:2471
+#: views/back/campaigns.php:2627
+#, php-format
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Keni kaluar hapsirën e magazinimit tuaj (%s MB)."
+
+#: views/back/campaigns.php:2498
+msgid "Allowed Files"
+msgstr "File të lejuara"
+
+#: views/back/campaigns.php:2525
+msgid "Drop files here"
+msgstr "Hidh file-t këtu"
+
+#: views/back/campaigns.php:2526
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "ose"
+
+#: views/back/campaigns.php:2527
+#: views/back/campaigns.php:2640
+msgid "Select Files"
+msgstr "Zgjidh File-t"
+
+#: views/back/campaigns.php:2544
+#: views/back/campaigns.php:2705
+msgid "Cancel"
+msgstr "Fshi"
+
+#: views/back/campaigns.php:2549
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Madhësia maksimale e mundur e file-it: %d%s."
+
+#: views/back/campaigns.php:2551
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Browseri juaj ka disa limite karikimi file-sh të mëdha me karikuesin multi-file. Përdorni karikuesin e browserit për file më të mëdha se 100MB."
+
+#: views/back/campaigns.php:2590
+msgid "Please update your WordPress to the latest version, in order to get the latest uploading system."
+msgstr "Përditësoni Wordpress-in tuaj në versionin e fundit për të patur sistemin karikues të fundit."
+
+#: views/back/campaigns.php:2687
+msgid "Choose files to upload"
+msgstr "Zgjidh file-t për të karikuar"
+
+#: views/back/campaigns.php:2689
+msgid "Cancel Upload"
+msgstr "Anullo Karikimin"
+
+#: views/back/campaigns.php:2691
+#: views/back/campaigns.php:2708
+#, php-format
+msgid "Maximum upload file size: %d%s"
+msgstr "Madhësia maksimale e karikimit: %d%s"
+
+#: views/back/campaigns.php:2710
+msgid "If you want to use all capabilities of the uploader, like uploading multiple files at once, please upgrade to lighttpd 1.5."
+msgstr "Nëse dëshironi të përdorni të gjitha mundësitë e karikuesit, përshembull duke karikuar shum file përnjëherë, përditësoni në lighttpd 1.5."
+
+#: views/back/campaigns.php:2796
+msgid "This tab will be filled with images from your current and previous newsletters."
+msgstr "kjo tabelë do të mbushet me imazhet nga newsletter-at tuaj të tanishme dhe të mëpara."
+
+#: views/back/campaigns.php:2798
+msgid "This tab will be filled with images from your WordPress Posts."
+msgstr "Kjo fushë do të mbushet me imazhe nga postimet tuaja në WordPress"
+
+#: views/back/campaigns.php:2817
+#, php-format
+msgid "Welcome to %1$s"
+msgstr "Mirë se vini në %1$s"
+
+#: views/back/campaigns.php:2875
+#: views/back/campaigns.php:3096
+msgid "Thanks! Now take me to MailPoet."
+msgstr "Faleminderit! Më ço në MailPoet tani."
+
+#: views/back/campaigns.php:2902
+#, php-format
+msgid "You have been a MailPoet user for %s."
+msgstr "Jeni përdorues i MailPoet prej %s."
+
+#: views/back/campaigns.php:2904
+msgid "Wow! Thanks for being part of our community for so long."
+msgstr "Wow! Faleminderit që je pjes e komunitetit prej kaq shumë kohe."
+
+#: views/back/campaigns.php:2908
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Ju përditësuat! Është sikur të kemi një vegël të re, por më të mirë."
+
+#: views/back/campaigns.php:2930
+msgid "One quick question..."
+msgstr "Një pyetje e shpejtë..."
+
+#: views/back/campaigns.php:2933
+msgid "Subscribe to our newsletters"
+msgstr "Reghistrohu në newsletter-in tonë"
+
+#: views/back/campaigns.php:2957
+msgid "Keep this plugin essentially free"
+msgstr "Mbaje këtë shtojcë të thjeshtë dhe pa paguar"
+
+#: views/back/campaigns.php:2959
+msgid "Love kittens?"
+msgstr "Të pëlqejnë kotelet?"
+
+#: views/back/campaigns.php:2959
+msgid "We love stars..."
+msgstr "I duam yjet...."
+
+#: views/back/campaigns.php:2961
+msgid "Each time one of our users forgets to write a review, a kitten dies. It's sad and breaks our hearts. [link]Add your own review[/link] and save a kitten today."
+msgstr "Çdo herë që një nga përdoruesit tanë harron për të shkruar një përmbledhje, një kotele vdes. Është e trishtueshme dhe thyen zemrat tona. [link]Shto komentin tuaj[/link] dhe shpëto një kotele sot."
+
+#: views/back/campaigns.php:2964
+msgid "Follow us and don't miss anything!"
+msgstr "Na ndiq dhe mos humb asgjë!"
+
+#: views/back/campaigns.php:2967
+#: views/back/campaigns.php:3181
+msgid "Hide!"
+msgstr "Fshih!"
+
+#: views/back/campaigns.php:2983
+msgid "Change log"
+msgstr "Lista e ndryshimeve"
+
+#: views/back/campaigns.php:2992
+#, php-format
+msgid "You've updated to %1$s"
+msgstr "Ju përditësuat në %1$s"
+
+#: views/back/campaigns.php:3132
+#: views/back/campaigns.php:3136
+msgid "Hey! We have a quick question for you:"
+msgstr "Ej! Kemi një pyetje të shpejtë për ty:"
+
+#: views/back/config.php:17
+msgid "If you confirm this, all your current MailPoet data will be erased (newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr "Nëse konfirmon këtë, të gjitha të dhënat e MailPoet-it tënd dotë shuhen (newsletter, tema, statistika, lista, abonentë, etj.)"
+
+#: views/back/config.php:19
+msgid "Confirm Reinstallation"
+msgstr "Konfirmo Riinstalimin"
+
+#: views/back/config.php:38
+msgid "This feature cannot work because the \"Comments\" feature of the plugin JetPack is enabled."
+msgstr "Ky funksion nuk mund të punojë për shkak se funksioni i \"Komenteve\" të shtojcës JetPack është e aktivizuar."
+
+#: views/back/config.php:60
+msgid "Registration is disabled on this site."
+msgstr "Regjistrimi është i bllokuar në këtë faqe web"
+
+#: views/back/config.php:135
+msgid "Subscribers can choose from these lists :"
+msgstr "Abonentët mund të zgjedhin nga këto lista:"
+
+#: views/back/config.php:216
+msgid "I'll setup a cron job on my server to execute at the frequency I want. Read about [link]setting up a cron job yourself[/link]."
+msgstr "Do të konfiguroj një Cron Job në serverin tim për ta ekzekututar me frekuencën që dëshioroj. Lexo përreth [link]si mund të krijoj vet një Cron Job[/link]."
+
+#: views/back/config.php:216
+#: views/back/config.php:245
+#: views/back/config.php:255
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Përdor këtë URL në Cron Job-in tuaj: [cron_url]"
+
+#: views/back/config.php:219
+msgid "No thanks! I have enough visitors on my site. Their visits will trigger MailPoet's cron automatically."
+msgstr "Jo faleminderit! Kam mjaftueshëm vizitor në faqen time. Vizitat e tyre do të aktivizojnë në mënyrë automatike Corn-in e MailPoet."
+
+#: views/back/config.php:244
+msgid "I'm a premium user, MailPoet.com will make sure my emails get sent on time."
+msgstr "Un jam oërdorues premium, MailPoet.com do të sigurohet që email-et e mia të dërgohen në kohë."
+
+#: views/back/config.php:245
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the sending frequency."
+msgstr "Nëse dua mundem [link]të krijojë nj Cron Job shtesë[/link] në interesin tim të shpeshtojë dërgimet."
+
+#: views/back/config.php:255
+msgid "If I want I can [link]create an additional cron job[/link] on my end to increase the frequency."
+msgstr "Nëse dua unë mundem të [link]krijojë një Cron Job shtesë[/link] në anën time për të rritur frekuencën."
+
+#: views/back/config.php:331
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr "Konfiguro DNS tuaj duke shtuar një kombinim çelës/vlerë në TXT si tregohet më poshtë."
+
+#: views/back/config.php:331
+#: views/back/config.php:828
+msgid "Read more"
+msgstr "Lexo më shumë"
+
+#: views/back/config.php:334
+msgid "Key"
+msgstr "çelës"
+
+#: views/back/config.php:334
+msgid "Value"
+msgstr "Vlerë"
+
+#: views/back/config.php:338
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr "Po përdorni një çelës të vjetër DKIM i cili nuk mbështetet më nga Gmail."
+
+#: views/back/config.php:338
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Do të duhet të përditësosh DNS tuaj nëqoftë se do të bësh upgrade."
+
+#: views/back/config.php:340
+msgid "Upgrade DKIM key"
+msgstr "Përditëso çelsin DKIM"
+
+#: views/back/config.php:345
+msgid "Domain"
+msgstr "Domain"
+
+#: views/back/config.php:375
+msgid "Roles and permissions"
+msgstr "Rolet dhe lejet"
+
+#: views/back/config.php:430
+msgid "View all"
+msgstr "Shih të gjitha"
+
+#: views/back/config.php:446
+msgid "When someone subscribes"
+msgstr "Kur dikush abonohet"
+
+#: views/back/config.php:447
+msgid "When someone unsubscribes"
+msgstr "Kur dikush çregjistrohet"
+
+#: views/back/config.php:448
+msgid "Daily summary of emails sent"
+msgstr "Përmbledhja ditore e email-eve të dërguara"
+
+#: views/back/config.php:477
+#: views/back/config.php:725
+#: views/back/config.php:1001
+#: views/back/config.php:1026
+#: views/back/config.php:1045
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1602
+#: views/back/config.php:1626
+#: views/back/config.php:2584
+#: views/back/config.php:2660
+#: views/back/config.php:2679
+#: views/back/subscribers.php:1262
+msgid "No"
+msgstr "Jo"
+
+#: views/back/config.php:486
+#: views/back/config.php:725
+#: views/back/config.php:1035
+#: views/back/config.php:1054
+#: views/back/config.php:1167
+#: views/back/config.php:1174
+#: views/back/config.php:1635
+#: views/back/config.php:2583
+#: views/back/config.php:2659
+#: views/back/config.php:2678
+#: views/back/subscribers.php:1261
+msgid "Yes"
+msgstr "Po"
+
+#: views/back/config.php:493
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Thelbësorët"
+
+#: views/back/config.php:494
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Formularet"
+
+#: views/back/config.php:495
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Vërtetimi abonimit"
+
+#: views/back/config.php:496
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Dërgo Me.."
+
+#: views/back/config.php:497
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Të përparuara"
+
+#: views/back/config.php:498
+msgctxt "settings tab title"
+msgid "Add-ons"
+msgstr "Shtesa"
+
+#: views/back/config.php:593
+#: views/back/config.php:603
+#: views/back/config.php:612
+#: views/back/config.php:623
+#: views/back/config.php:1389
+msgid "Save settings"
+msgstr "Ruaj cilësimet"
+
+#: views/back/config.php:648
+msgid "Your company's address"
+msgstr "Adresa e kompanisë suaj"
+
+#: views/back/config.php:649
+msgid "The address will be added to your newsletter's footer. This helps avoid spam filters."
+msgstr "kjo adresë do të vendoset në fundin e faqes së newsletter-it tuaj. Kjo do të ndihmojë të kalosh filtrat spam."
+
+#: views/back/config.php:655
+msgid "Email notifications"
+msgstr "Njoftimet Email"
+
+#: views/back/config.php:656
+msgid "Enter the email addresses that should receive notifications (separate by comma)."
+msgstr "Shkruani adresat email të cilat do të marrin njoftimet (të ndara me presje )."
+
+#: views/back/config.php:661
+msgid "Sender of notifications"
+msgstr "Dërguesi i njoftimeve"
+
+#: views/back/config.php:662
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr "Zgjidh një emër Dërguesi dhe adresë email për njoftimet e email-eve."
+
+#: views/back/config.php:666
+msgid "Subscribe in comments"
+msgstr "Abonohu në komentet"
+
+#: views/back/config.php:667
+msgid "Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr "Vizitorët që paraqesin një koment për një post mund të klikojnë mbi checkbox që të regjistrohen."
+
+#: views/back/config.php:683
+msgid "Subscribe in registration form"
+msgstr "Abonohu në formularin e regjistrimit"
+
+#: views/back/config.php:684
+msgid "Allow users who register to your site to subscribe on a list of your choice."
+msgstr "Lejo përdoruesit që regjistrohen në faqen tuaj të abonohen në një listë të zgjedhur nga ju."
+
+#: views/back/config.php:692
+msgid "Link to browser version"
+msgstr "Link në versionin për browserin"
+
+#: views/back/config.php:693
+msgid "Displays at the top of your newsletters. Don't forget to include the link tag, ie: [link]The link[/link]"
+msgstr "Shihet në krye të faqe së newsletter-it. Mos harro të përfshini tag-un link p.sh.: [link]Link-u[/link]"
+
+#: views/back/config.php:698
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Teksti i link-ut të \"çregjistrimit\""
+
+#: views/back/config.php:699
+msgid "This changes the label for the unsubscribe link in the footer of your newsletters."
+msgstr "Kjo ndryshon shkrimin për t'u çregjistruar nga neewsletter-i në fundin e faqes së saj."
+
+#: views/back/config.php:703
+msgid "Unsubscribe page"
+msgstr "Faqja e çregjistrimit"
+
+#: views/back/config.php:704
+msgid "A subscriber is directed to a page of your choice after clicking on the unsubscribe link, at the bottom of a newsletter."
+msgstr "Abonenti është i drejtuar në një faqe të përzgjedhur nga ty pas klikimit të link-ut të çregjistrimit, në fund të newsletter-it."
+
+#: views/back/config.php:726
+msgid "Enable signup confirmation"
+msgstr "Aktivizo vërtetimin e regjistrimit"
+
+#: views/back/config.php:727
+msgid "Prevent people from being subscribed to your list unwillingly, this option ensures you to keep a clean list."
+msgstr "Pengo njerëzit që të abonohen pa dëshirë, kjo do të garantojë të mbani lista të pastërta."
+
+#: views/back/config.php:727
+msgid "Learn more."
+msgstr "Mëso më shumë."
+
+#: views/back/config.php:735
+msgid "Email subject"
+msgstr "Subjekti Email-it"
+
+#: views/back/config.php:740
+msgid "Email content"
+msgstr "Përmbajtja e email-it"
+
+#: views/back/config.php:741
+msgid "Don't forget to include: <br><br>[activation_link]Confirm your subscription.[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr "Mos harroni të përfshini: <br><br>[activation_link]Konfirmoni abonimin tuaj [/activation_link]. <br><br> Fakultativ: [lists_to_confirm]."
+
+#: views/back/config.php:746
+msgid "Confirmation page"
+msgstr "Faqja e konfirmimit"
+
+#: views/back/config.php:747
+msgid "When subscribers click on the activation link, they are redirected to a page of your choice."
+msgstr "Kur abonentët klikojnë në linkun e vërtetimit, ata do të drejtohen në faqen e zgjedhur nga ju."
+
+#: views/back/config.php:793
+msgid "Network's Method"
+msgstr "Metoda e rrjetit"
+
+#: views/back/config.php:794
+msgid "Method set by the network admin."
+msgstr "Metod e zgjedhur nga administratori i rrjetit."
+
+#: views/back/config.php:796
+msgid "Not Configured!"
+msgstr "E Pa Konfiguruar!"
+
+#: views/back/config.php:812
+#: views/back/config.php:1417
+msgid "Your own website"
+msgstr "Faqja Juaj e internetit"
+
+#: views/back/config.php:813
+msgid "The simplest solution for small lists. Your web host sets a daily email limit."
+msgstr "Zgjidhje më e thjeshtë për lista të vogle. Hosti juaj vendos një limit ditor email-eve."
+
+#: views/back/config.php:827
+#: views/back/config.php:1430
+msgid "Third party"
+msgstr "Pjesë të treta"
+
+#: views/back/config.php:828
+msgid "Send with a professional SMTP provider, a great choice for big and small lists. We've negotiated promotional offers with a few providers for you."
+msgstr "Dërgo me SMTP profesionale, një zgjedhje fantastike per lista të mëdha dhe të vogla. Kemi negociuar oferta promovuese me disa provider për ju."
+
+#: views/back/config.php:837
+#: views/back/config.php:1455
+msgid "Delivery method"
+msgstr "Metoda shpërndarëse"
+
+#: views/back/config.php:838
+#: views/back/config.php:1456
+msgid "Send yourself some test emails to confirm which method works with your server."
+msgstr "Dërgo vetvetes tënde disa email-e test për të verifikuar cila metod punon më mirë me serverin tuaj."
+
+#: views/back/config.php:855
+#: views/back/config.php:1473
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Kjo metodë punon në 95&#37; e serverave"
+
+#: views/back/config.php:867
+msgid "This method works on 5&#37; of servers"
+msgstr "Kjo metodë punon në 5&#37; e serverave"
+
+#: views/back/config.php:871
+msgid "Sendmail path"
+msgstr "Rruga Sendmail"
+
+#: views/back/config.php:884
+#: views/back/config.php:1486
+msgid "Use the same method as the one used for your WP site."
+msgstr "Përdor të njëjtën metod që përdor per faqen tuaj të WP."
+
+#: views/back/config.php:898
+#: views/back/config.php:1499
+msgid "SMTP Hostname"
+msgstr "Emri Hostit SMTP"
+
+#: views/back/config.php:899
+#: views/back/config.php:1500
+msgid "e.g.:smtp.mydomain.com"
+msgstr "p.sh.:smtp.dominiim.com"
+
+#: views/back/config.php:916
+#: views/back/config.php:1517
+msgid "Login"
+msgstr "Hyrje"
+
+#: views/back/config.php:933
+#: views/back/config.php:1107
+#: views/back/config.php:1535
+msgid "Password"
+msgstr "Fjalkalim"
+
+#: views/back/config.php:951
+#: views/back/config.php:1554
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktivizo nëse portat tuaja SMTP janë të bllokuara."
+
+#: views/back/config.php:973
+#: views/back/config.php:1576
+msgid "SMTP port"
+msgstr "Porta SMTP"
+
+#: views/back/config.php:993
+#: views/back/config.php:1595
+msgid "Secure connection"
+msgstr "Lidhje e sigurtë"
+
+#: views/back/config.php:1010
+#: views/back/config.php:1611
+msgid "Authentication"
+msgstr "Autentikim"
+
+#: views/back/config.php:1011
+#: views/back/config.php:1612
+msgid "Leave this option to Yes. Only a tiny portion of SMTP services ask Authentication to be turned off."
+msgstr "Lëre këtë opsion në Po. Vetëm një pjesë shërbimesh SMTP nuk nevojiten për autentikimin."
+
+#: views/back/config.php:1064
+#: views/back/config.php:1646
+msgid "Test method"
+msgstr "Metod test"
+
+#: views/back/config.php:1068
+#: views/back/config.php:1650
+msgid "Send a test mail"
+msgstr "Dërgo një email test"
+
+#: views/back/config.php:1075
+#: views/back/config.php:1658
+msgid "Send..."
+msgstr "Dërgo..."
+
+#: views/back/config.php:1077
+#: views/back/config.php:1660
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe. [link]Find out more[/link]."
+msgstr "Hosti juaj ka limite. Ne këshillojmë 70 email-e në orë për siguri. [link]Zbulo më shumë[/link]."
+
+#: views/back/config.php:1089
+#: views/back/config.php:1669
+msgid "emails"
+msgstr "email-e"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "This is fast!"
+msgstr "Kjo është e shpejtë!"
+
+#: views/back/config.php:1097
+#: views/back/config.php:1676
+msgid "We suggest you setup a cron job. [link]Read more[/link] on support.mailpoet.com"
+msgstr "Ju këshillojmë të krijoni një Cron Job. [link]Lexo më shumë[/link] në support.mailpoet.com"
+
+#: views/back/config.php:1106
+msgid "API Key"
+msgstr "Çelsi API"
+
+#: views/back/config.php:1137
+msgid "You can change the default reply-to name and email for your newsletters. This option is also used for the activation emails and Admin notifications (in Basics)."
+msgstr "Ju mund të ndryshoni adresëm email dhe emrin e dërguesit të parapërcaktuar për newletter-it tuaj. Ky opsion është përdorur edhe për aktivizimin e email-eve dhe njoftimeve Admin (në Bazë)."
+
+#: views/back/config.php:1143
+msgid "Bounce Email"
+msgstr "Email të refuzuara"
+
+#: views/back/config.php:1144
+msgid "To which address should all the bounced emails go? Get the [link]Premium version[/link] to automatically handle these."
+msgstr "Tek cila adresë duhet të shkojnë të gjithë email-ët e refuzuara? Get versionin [lidhje] Premium [/ link] për të trajtuar automatikisht këto. Merrni [link]versionin Premium[/link] të trajtoni automatikisht këto."
+
+#: views/back/config.php:1145
+msgid "Purchase the premium version."
+msgstr "Bli versionin premium."
+
+#: views/back/config.php:1153
+msgid "Subscribers can edit their profile"
+msgstr "Abonentët mund të redaktojnë profilin e tyre"
+
+#: views/back/config.php:1154
+msgid "Add a link in the footer of all your newsletters so subscribers can edit their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr "Shto një link në fund-faqe të të gjitha newsletter-ave  që abonentët mund të redaktojnë profilin dhe listat e tyre. [link]Shiko faqen tënde të profilit abonim.[/link]"
+
+#: views/back/config.php:1155
+msgid "Preview page"
+msgstr "Faqe paraparje"
+
+#: views/back/config.php:1159
+msgid "Subscriber profile page"
+msgstr "Faqja e profilit të abonentit"
+
+#: views/back/config.php:1160
+msgid "Select the page to display the subscriber's profile."
+msgstr "Zgjidh faqen për të shikuar profilin e adbonentit."
+
+#: views/back/config.php:1165
+msgid "Allow HTML edits"
+msgstr "Lejo redaktime HTML"
+
+#: views/back/config.php:1168
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr "Kjo lejon të modifikosh kodin HTML të hapsirave të tekstit në editorin vizual."
+
+#: views/back/config.php:1175
+msgid "Share anonymous data"
+msgstr "Nda të dhëna në mënyrë anonime"
+
+#: views/back/config.php:1176
+msgid "Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr "Nda të dhëna në mënyrë anonime dhe na ndihmo të përmirësojmë shtojcën. [link]Lexo më shumë[/link]."
+
+#: views/back/config.php:1184
+msgid "other"
+msgstr "tjetër"
+
+#: views/back/config.php:1185
+msgid "art"
+msgstr "art"
+
+#: views/back/config.php:1186
+msgid "business"
+msgstr "punë"
+
+#: views/back/config.php:1187
+msgid "education"
+msgstr "edukim"
+
+#: views/back/config.php:1188
+msgid "e-commerce"
+msgstr "e-commerce"
+
+#: views/back/config.php:1189
+msgid "food"
+msgstr "ushqim"
+
+#: views/back/config.php:1190
+msgid "insurance"
+msgstr "sigurime"
+
+#: views/back/config.php:1191
+msgid "government"
+msgstr "administratë"
+
+#: views/back/config.php:1192
+msgid "health and sports"
+msgstr "shëndet dhe sport"
+
+#: views/back/config.php:1193
+msgid "manufacturing"
+msgstr "prodhim"
+
+#: views/back/config.php:1194
+msgid "marketing and media"
+msgstr "marketing dhe media"
+
+#: views/back/config.php:1195
+msgid "non profit"
+msgstr "non profit"
+
+#: views/back/config.php:1196
+msgid "photography"
+msgstr "fotografi"
+
+#: views/back/config.php:1197
+msgid "travel"
+msgstr "udhëtime"
+
+#: views/back/config.php:1198
+msgid "real estate"
+msgstr "shtëpi pushimi"
+
+#: views/back/config.php:1199
+msgid "religious"
+msgstr "fetare"
+
+#: views/back/config.php:1200
+msgid "technology"
+msgstr "teknologjike"
+
+#: views/back/config.php:1202
+msgid "Industry"
+msgstr "industrie"
+
+#: views/back/config.php:1203
+msgid "Select your industry."
+msgstr "Zgjidhni sektorin tuaj."
+
+#: views/back/config.php:1207
+msgid "Shortcode to display total number of subscribers"
+msgstr "Shortcode për të treguar numërin e të abonuarve"
+
+#: views/back/config.php:1208
+msgid "Paste this shortcode to display the number of confirmed subscribers in post or page."
+msgstr "Kalo këtë shortcode të shohësh numrin e abonentëve të vërtetuar në një post ose faqe."
+
+#: views/back/config.php:1221
+msgid "Charset"
+msgstr "Bashkësi karakteresh"
+
+#: views/back/config.php:1222
+msgid "Squares or weird characters are displayed in your emails? Select the encoding for your language."
+msgstr "Në email-in tuaj ndodhen karaktere katrore dhe/ose të çuditëshme? Zgjidh kodimin për gjuhën tuaj."
+
+#: views/back/config.php:1228
+msgid "Enable MailPoet's Cron"
+msgstr "Aktivizo Cron-in e MailPoet"
+
+#: views/back/config.php:1229
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr "Asnjë nga email-et e radhitura nuk është dërguar?  Aktivizo këtë opsion."
+
+#: views/back/config.php:1234
+msgid "Debug mode"
+msgstr "Debug mode"
+
+#: views/back/config.php:1235
+msgid "Enable this to show MailPoet's errors. Our support might ask you to enable this if you seek their help."
+msgstr "Akqtivizo këtë të trgosh gabimet e MailPoet. Suporti ynë mund të ju pyes për të mundësuar këtë, nëse ju kërkoni ndihmë nga ata."
+
+#: views/back/config.php:1258
+msgid "Do or do not. There is no try."
+msgstr "O bëje o mos e bëj. Nuk ka 'ta provoj'."
+
+#: views/back/config.php:1259
+msgid "Geeky Options"
+msgstr "Opsione për Ekspertët"
+
+#: views/back/config.php:1260
+msgid "Toggle Geeky Options"
+msgstr "Trego/Fshih Opsionet për Ekspertët"
+
+#: views/back/config.php:1260
+msgid "Hide"
+msgstr "Fshih"
+
+#: views/back/config.php:1260
+#: views/back/statistics.php:10
+msgid "Show"
+msgstr "Trego"
+
+#: views/back/config.php:1269
+msgid "Reinstall from scratch"
+msgstr "Riinstalo nga fillimi"
+
+#: views/back/config.php:1270
+msgid "Want to start all over again? This will wipe out MailPoet and reinstall anew."
+msgstr "Dëshironi të rifilloni gjithshka? Kjo do të fshi Mailpoet dhe të riinstaloj përsëri."
+
+#: views/back/config.php:1275
+msgid "Reinstall now..."
+msgstr "Riinstalo tani..."
+
+#: views/back/config.php:1314
+msgid "Pick your prefered configuration?"
+msgstr "Zgjidh konfigurimin tënd të preferuar?"
+
+#: views/back/config.php:1330
+msgid "One configuration for all sites"
+msgstr "Një konfigurim për të gjitha faqet."
+
+#: views/back/config.php:1331
+msgid "Enforce all sites to send with a unique FROM email address. You only need to configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr "Detyro të gjtha faqet të dërgojnë me një adres dërguese. Duhet konfigurosh vetëm një herë Menaxhimin e Email-eve Të Refuzuara (Premium), SPF dhe DKIM."
+
+#: views/back/config.php:1332
+msgid "Users can still change their reply-to address for their newsletter. Network admins can still edit sending method for each site."
+msgstr "Përdoruesit ende mund të ndryshojë adresën ku përgjigjen të adresuar për newsletter-in tuaj. Administratorët e rrjetit ende mund të modifikojnë metodën e  dërgimit për çdo faqe."
+
+#: views/back/config.php:1344
+msgid "Configure each site manually"
+msgstr "Konfiguro çdo faqe në mënyrë manuale"
+
+#: views/back/config.php:1345
+msgid "Configure SPF and DKIM independently for each site."
+msgstr "Konfiguro SPF dhe DKIM në mënyrë të pa varur për çdo faqe."
+
+#: views/back/config.php:1354
+msgid "Configuration and Permissions"
+msgstr "Konfigurime dhe Leje"
+
+#: views/back/config.php:1361
+msgid "Allow site admins to change the sending method"
+msgstr "Lejo administratorët e faqeve te ndërrojnë metodën e dërgimit"
+
+#: views/back/config.php:1364
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Lejo administratorët e faqeve të çaktivizojnë Vërtetimin e Abonimit"
+
+#: views/back/config.php:1370
+msgid "Network's Default Sending Method"
+msgstr "Metoda e parapërcaktuar e dërgimit"
+
+#: views/back/config.php:1373
+msgid "SPF and DKIM"
+msgstr "SPF dhe DKIM"
+
+#: views/back/config.php:1380
+msgid "Your SPF record"
+msgstr "Të dhënat tuaja të SPF"
+
+#: views/back/config.php:1444
+msgid "FROM email address for sites using this method"
+msgstr "Adresa email DËRGESË për faqet që përdorin këtë mënyrë"
+
+#: views/back/config.php:1710
+#: widgets/wysija_nl.php:155
+msgid "Create a new form"
+msgstr "Krijo një formular të ri"
+
+#: views/back/config.php:1750
+msgid "No list specified"
+msgstr "Asnjë listë e specifikuar"
+
+#: views/back/config.php:1755
+#, php-format
+msgid "User choice: %s"
+msgstr "Zgjedhja e përdoruesit: %s"
+
+#: views/back/config.php:1803
+msgid "Edit form"
+msgstr "Redakto formularin"
+
+#: views/back/config.php:1805
+msgid "Yikes! To edit a form, you need to have at least 1 list."
+msgstr "Sa keq! Të redaktosh një formular, duhet të keni së paku 1 listë."
+
+#: views/back/config.php:1806
+#: views/back/subscribers.php:34
+msgid "Add List"
+msgstr "Shto List"
+
+#: views/back/config.php:1815
+msgid "Edit name"
+msgstr "Redakto Emrin"
+
+#: views/back/config.php:1816
+msgid "List of forms"
+msgstr "List formularësh"
+
+#: views/back/config.php:1838
+msgid "This form adds subscribers to these lists:"
+msgstr "Ky formular shton abonues në këto lista:"
+
+#: views/back/config.php:1849
+msgid "Choose a list"
+msgstr "Zgjidh një listë"
+
+#: views/back/config.php:1866
+msgid "After submit..."
+msgstr "Pas nënshkrimit..."
+
+#: views/back/config.php:1868
+msgid "show message"
+msgstr "trego mesazh"
+
+#: views/back/config.php:1869
+msgid "go to page"
+msgstr "shko tek faqja"
+
+#: views/back/config.php:1884
+msgid "You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr "Mund të shtosh thjesht këtë formular në temën tënde  [link]zona Widget[/link]."
+
+#: views/back/config.php:1886
+msgid "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] and [link_shortcode]shortcode[/link_shortcode] versions are also available."
+msgstr "[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] dhe [link_shortcode]shortcode[/link_shortcode] versione janë të mundëshme."
+
+#: views/back/config.php:2154
+msgid "Text Input"
+msgstr "Input teksti"
+
+#: views/back/config.php:2155
+msgid "Text Area"
+msgstr "Hapsirë teksti"
+
+#: views/back/config.php:2156
+msgid "Radio buttons"
+msgstr "Butona radio"
+
+#: views/back/config.php:2157
+msgid "Checkbox"
+msgstr "Chekbox"
+
+#: views/back/config.php:2158
+msgid "Select"
+msgstr "Zgjidh"
+
+#: views/back/config.php:2169
+msgid "Select a field type:"
+msgstr "Zgjidh llojin e fushës:"
+
+#: views/back/config.php:2211
+msgid "Field's name:"
+msgstr "Emri fushës:"
+
+#: views/back/config.php:2253
+msgid "Automatically add paragraphs"
+msgstr "Shto paragrafe automatikisht"
+
+#: views/back/config.php:2298
+msgid "Number of lines:"
+msgstr "Numër linjash:"
+
+#: views/back/config.php:2302
+#, php-format
+msgid "1 line"
+msgid_plural "%d lines"
+msgstr[0] "1 linjë"
+msgstr[1] "%d linja"
+
+#: views/back/config.php:2349
+msgid "Select the list you want to add:"
+msgstr "Zgjidh listën që dëshiron të shtoshë:"
+
+#: views/back/config.php:2421
+msgid "Year, month, day"
+msgstr "Vit, muaj, ditë"
+
+#: views/back/config.php:2422
+msgid "Year, month"
+msgstr "Vit, muaj"
+
+#: views/back/config.php:2423
+msgid "Month (January, February,...)"
+msgstr "Muaj (Janar, Shkurt,...)"
+
+#: views/back/config.php:2434
+msgid "Type of date:"
+msgstr "Lloji i datës"
+
+#: views/back/config.php:2530
+msgid "Add item"
+msgstr "Shto element"
+
+#: views/back/config.php:2565
+msgid "Label:"
+msgstr "Etiketa"
+
+#: views/back/config.php:2581
+msgid "Display label within input:"
+msgstr "Trego etiketën brënda input:"
+
+#: views/back/config.php:2619
+msgid "Order:"
+msgstr "Rend:"
+
+#: views/back/config.php:2657
+msgid "Preselect today's date:"
+msgstr "Parazgjidh datën e sotme:"
+
+#: views/back/config.php:2676
+msgid "Is this field mandatory?"
+msgstr "A është kjo fushë e detyrueshme?"
+
+#: views/back/config.php:2723
+msgid "Numbers only"
+msgstr "Vetëm numrat"
+
+#: views/back/config.php:2724
+msgid "Letters only"
+msgstr "Vetëm shkronja"
+
+#: views/back/config.php:2725
+msgid "Alphanumerical "
+msgstr "Alphanumerike"
+
+#: views/back/config.php:2726
+msgid "Phone number, (+,-,#,(,) and spaces allowed)"
+msgstr "Numri i telefonit, (+,-,#,(,) dhe hapsira të lejuara)"
+
+#: views/back/config.php:2732
+msgid "Validate for:"
+msgstr "E vlefshme për:"
+
+#: views/back/config.php:2734
+msgid "Nothing"
+msgstr "Asgjë"
+
+#: views/back/premium.php:25
+msgid "The Sweeter Experience of our Premium"
+msgstr "Përvoja më ëmbël e Premium-it tonë"
+
+#: views/back/premium.php:28
+msgid "All Your Stats in a Single Dashboard"
+msgstr "Të gjitha Statistikat tuaja në një Pult të vetëm"
+
+#: views/back/premium.php:31
+msgid "View full screenshot"
+msgstr "Shiko screenshot të plotë"
+
+#: views/back/premium.php:36
+msgid "Have fun improving"
+msgstr "Dëfrehu duke përmirësuar"
+
+#: views/back/premium.php:37
+msgid "See your top newsletters, top subscribers, top links, top lists, and top domains on one screen. Can you beat your past newsletters?"
+msgstr "Shih më të mirat newsletter, më të mirët abonentë, më të mirët link, më të mirat lista dhe dominët më të mirë në një ekran. Mund t'ja kalosh newsletter-ave tuaja të mëparshme?"
+
+#: views/back/premium.php:41
+msgid "Increase your subscribers"
+msgstr "Rrit abonentët tuaj"
+
+#: views/back/premium.php:42
+msgid "Does my sidebar form get more subscribers than the one in the footer? It's time to find out."
+msgstr "Formulari në sidebar merr më shumë abonentë se sa ai në fund të faqes? Është koha ta pravojmë."
+
+#: views/back/premium.php:46
+msgid "Compare past & present"
+msgstr "Krahaso të kaluarën dhe të tashmen"
+
+#: views/back/premium.php:47
+msgid "Are you doing better now than 3 months ago? Select a date range to reveal changes in your results."
+msgstr "Po bën tani më mirë se sa 3 muaj më parë? Zgjidh një varg date për të zbuluar ndryshimet në rezultatet tuaja."
+
+#: views/back/premium.php:57
+msgid "Reach their inboxes"
+msgstr "Arri inbox-et e tyre"
+
+#: views/back/premium.php:59
+msgid "Get your spam score in 1 click while you're designing your newsletter thanks to [link]mail-tester[/link], our own popular in-house tool."
+msgstr "Mer vlerësimin tuaj të spam-it në 1 klik kur je duke dizenjuar newsletter-in tuaj fal [link]mail-tester[/link], mjeti ynë popullor."
+
+#: views/back/premium.php:61
+msgid "Spam filters love DKIM"
+msgstr "Filtrat anti-spam e duan DKIM"
+
+#: views/back/premium.php:63
+msgid "Add a DKIM signature to your newsletters to increase the deliverability of your newsletters. [link]Read the setup guide.[/link]"
+msgstr "Shto një firmë DKIM në newsletter-in tuaj të shtoni mundësitë e marrjeve. [link]Lexo udhëzimin e instalimit.[/link]"
+
+#: views/back/premium.php:78
+msgid "Let us configure it"
+msgstr "Na lejo ta konfigurojmë"
+
+#: views/back/premium.php:79
+msgid "Our international and friendly team will help you optimize your settings in details, and make sure you're all good to go. We answer questions under 10h on average. Pretty fast!"
+msgstr "Ekipi ynë ndërkombëtar dhe miqësore do t'ju ndihmojë të zgjedhësh parametrat tuaj në detaje, dhe sigurohet që jeni gati për të shkuar. Ne përgjigjigjemi pyetjeve në 10 orë mesatarisht. Goxha shpejt!"
+
+#: views/back/premium.php:83
+msgid "Automate the boring stuff"
+msgstr "Automatizoni gjërat e mërzitshme"
+
+#: views/back/premium.php:85
+msgid "Let the plugin remove the <strong>bounced and invalid addresses</strong> automatically. [link]See the guide.[/link]"
+msgstr "Ler shtojcën të fshi <strong>adresat e pavlefshëme dhe të refuzuara</strong> automatikisht. [link]Shiko udhëzimin.[/link]"
+
+#: views/back/premium.php:87
+msgid "Moreover, MailPoet checks every 15 minutes your site, <strong>just like a \"cron\" job</strong>, to make sure your emails are being sent on time. No setup involved!"
+msgstr "Për më tepër, MailPoet kontrollon çdo 15 minuta faqen tuaj <strong>si një \"cron\" job</strong>,  të sigurohet që email-et e juaja të dërgohen në kohë. Nuk nevojitet menazhimi!"
+
+#: views/back/premium.php:92
+msgid "30 day money back"
+msgstr "Ju kthejmë paratë brënda 30 ditëve"
+
+#: views/back/premium.php:93
+msgid "A great way to try the Premium. No one should be locked in, ever."
+msgstr "Një mënyrë shumë e mirë të provosh Premium. Asnjë nuk duhet të bllokohet, kurr."
+
+#: views/back/premium.php:94
+msgid "The kitten is just to fill the blank space. He looks hungry, no? We love kittens."
+msgstr "Kotelja është thjeshtë për të mbushur hapsirat boshe. Duket si me uri, apo jo? Ne i duam kotelet."
+
+#: views/back/premium.php:105
+msgid "No more limits of 2000 subscribers"
+msgstr "Jo më limite të 2000 abonentëve"
+
+#: views/back/premium.php:106
+msgid "The free version blocks the sending of your newsletters when you have 2000 confirmed subscribers. The Premium removes this limit."
+msgstr "Versioni pa pagesë bllokon dërgimet e newsletter-it tuaj kur arrini limitin e 2000 abonentëve të verifikuar. Versioni Premium heq këtë limit."
+
+#: views/back/premium.php:116
+msgid "And more..."
+msgstr "Dhe më shumë..."
+
+#: views/back/premium.php:119
+msgid "Find out what happens to your subscribers once they arrive on your site, thanks to Google Analytics campaign tracking"
+msgstr "Shih çfar ndodh abonentëve tuaj kur arrinë në daqen tuaj, fal ndekjes së fushatës së Google Analytics"
+
+#: views/back/premium.php:120
+msgid "Detailed stats for each subscriber"
+msgstr "Statistika të detajuara për çdo abonent"
+
+#: views/back/premium.php:121
+msgid "Stats of clicked links for each newsletter"
+msgstr "Statistikat e link-eve të klikuar për çdo newsletter"
+
+#: views/back/premium.php:132
+#: views/back/premium.php:286
+msgid "Blogger"
+msgstr "Blogger"
+
+#: views/back/premium.php:135
+msgid "Freelance"
+msgstr "Freelance"
+
+#: views/back/premium.php:138
+#: views/back/premium.php:296
+msgid "Agency"
+msgstr "Agjensi"
+
+#: views/back/premium.php:148
+#: views/back/premium.php:152
+#: views/back/premium.php:156
+msgid "per year"
+msgstr "për vit"
+
+#: views/back/premium.php:162
+msgid "Single Site"
+msgstr "Faqe e Vetme"
+
+#: views/back/premium.php:165
+msgid "Four Sites"
+msgstr "Katër Faqe"
+
+#: views/back/premium.php:168
+msgid "Unlimited Sites"
+msgstr "Faqe Pa limit"
+
+#: views/back/premium.php:169
+msgid "Multisite ready."
+msgstr "Përputhshme me multisite."
+
+#: views/back/premium.php:182
+msgid "Buy Now"
+msgstr "Bli Tani"
+
+#: views/back/premium.php:186
+msgid "Already paid?"
+msgstr "Keni paguar tashmë?"
+
+#: views/back/premium.php:189
+msgid "Got a sales question? [link]Get in touch[/link]."
+msgstr "Keni pyetje mbi blerjen tuaj? [link]Na kontakto[/link]."
+
+#: views/back/premium.php:202
+msgid "Monitor everything with more stats"
+msgstr "Kontrllo gjithshka me më shumë statistika"
+
+#: views/back/premium.php:203
+msgid "Looking for answers? Why such and such campaign worked so well? Which is your most efficient subscription form? Get a clear picture with our brand new stats dashboard! [link]Get the stats dashboard in Premium.[/link]"
+msgstr "Po kërkoni përgjigje? Përse këto fushata kan punuar aq mirë? Kush është formulari më funksionali? Merr një pasqyrim më të qartë me panelin tonë të ri! [link]Merr panelin e statistikave në Premium.[/link]"
+
+#: views/back/premium.php:210
+msgid "Clean automatically your mailing list"
+msgstr "Pastro në mënyrë autmatike listat e email-eve"
+
+#: views/back/premium.php:211
+msgid "Send like a PRO and keep your server's sending reputation HIGH. Thanks to our advanced list cleaning tool, you can finally avoid sending to old or invalid email addresses. [link]Keep your list clean with Premium.[/link]"
+msgstr "Dërgo si një Profesionist dhe mbaje reputacionin e nivelit të serverit tuaj të Lartë. Fal strumentit tonë të avanacuar për pastrim, mund të mbrohesh së dërguari email-eve të vjetra ose të pa vlefshëme tashmë. [link]Mbaje listën tënde të pastër me versionin Premium.[/link]"
+
+#: views/back/premium.php:217
+msgid "Send at a higher frequency"
+msgstr "Dërgo me një frekuencë më të lartë"
+
+#: views/back/premium.php:218
+msgid "Did you know? It's better to send fewer emails at higher frequencies. Become Premium and we'll ping your site each 15 minutes making sure your emails are sent smoothly at this frequency. [link]Send better with Premium.[/link]"
+msgstr "A e dini? Është më mirë të dërgoni pak email-e me frekuencë të lartë. Kalo në Premium dhe ne do të bejmë ping çdo 15 miunta faqes tuaj për t'u siguruar që email-et tuaja do të dërgohen me këtë frekuencë rregullisht. [link]Dërgo më mirë me Premium.[/link]"
+
+#: views/back/premium.php:224
+msgid "Forget about limits"
+msgstr "Harro kufijtë"
+
+#: views/back/premium.php:225
+msgid "Remove the 2000 subscribers limit of the free version, and send to as many subscribers as you wish. [link]Get rid of that limit![/link]"
+msgstr "Hiq limitin e 2000 abonentëve të versionit pa pagesë, dhe dërgo sa më shumë abonentëve që dëshiron. [link]Hiqe qafe këtë limit![/link]"
+
+#: views/back/premium.php:231
+msgid "Investigate your top subscribers"
+msgstr "Heto mbi abonentët tuaj më të mirë"
+
+#: views/back/premium.php:232
+msgid "Discover which links are the top hits in each newsletter. Find out which subscribers are your number one fans and get advanced details about them. [link]Get more data with Premium.[/link]"
+msgstr "Zbulo cilët link-e janë më të klikuarat në cilat newsletter. Zbuloni se cilët janë abonentët tuaj më besnik dhe merrni detaje të avancuara rreth tyre. [link]Merr më shumë të dhëna me Premium.[/link]"
+
+#: views/back/premium.php:238
+msgid "Get faster support"
+msgstr "Merrni ndihmë të shpejtë"
+
+#: views/back/premium.php:239
+msgid "Skip the queue, go straight to our priority inbox. [link]Get faster support with Premium.[/link]"
+msgstr "Kaloni radhat, shko përpara në kutin tonë të postës prioritare. [link]Merr ndihmë të shpejtë me Premium.[/link]"
+
+#: views/back/premium.php:245
+msgid "Get more themes"
+msgstr "Merr më shumë tema"
+
+#: views/back/premium.php:246
+msgid "Not good at matching colors? Don't worry, we work with top notch designers to provide you plenty of themes, the newest are Premium exclusives. [link]Get more themes in Premium.[/link]"
+msgstr "Nuk jeni të mirë në përputhen e ngjyrave? Mos u shqetësoni, ne punojmë me designers të nivelit të lartë për të ju dhënë mjaft tema, më të rejat janë eksluzive Premium. [link]Merrni më shumë tema në Premium.[/link]"
+
+#: views/back/premium.php:252
+msgid "Track your readers within Google Analytics"
+msgstr "Ndiq lexuesit tuaj me Google Analytics"
+
+#: views/back/premium.php:253
+msgid "Verify what your subscribers do once you drove them onto your site and improve your retention rate. [link]Track your readers with GA in Premium.[/link]"
+msgstr "Verifiko çfar bëjnë abonentët tuaj një herë që janë në faqen tuaj dhe përmirëso shkallën mbajtëse. [link]Ndiq lexuesit tuaj me GA në Premium.[/link]"
+
+#: views/back/premium.php:260
+msgid "30 days happiness guarantee"
+msgstr "30 ditë kënaqësi e garantuar"
+
+#: views/back/premium.php:261
+msgid "Still having doubts about our product and our team of 9? No stress, we're confident enough to give you 30 days to try it out. We'll refund you in an instant if you are not happy. [link]Become Premium now without stress.[/link]"
+msgstr "Keni akoma pasiguri mbi produktin tonë dhe ekipin tonë të 9 personave? Asnjë problem, jemi të sigurtë mjaftueshëm të ju japim 30 ditë ta provoni. Do t-ju kthejmë paratë me një herë nëse nuk do të jeni të kënaqur. [link]Bëhu Premium tani pa u shqetësuar.[/link]"
+
+#: views/back/premium.php:271
+msgid "Be productive thanks to Premium!"
+msgstr "Bëhu më prodhues fal versionit Premium!"
+
+#: views/back/premium.php:283
+msgid "We have 3 different licences available to fit your needs:"
+msgstr "Kemi 3 lloje të ndryshme liçencash për të përmbushur ç'do lloj nevoje tuajën."
+
+#: views/back/premium.php:287
+#, php-format
+msgid "For %s per year, get 1 site covered with Premium."
+msgstr "Për %s në vit, mbulo 1 faqe tënden me Premium."
+
+#: views/back/premium.php:288
+#: views/back/premium.php:292
+#: views/back/premium.php:298
+msgid "Get it now!"
+msgstr "Merre tani!"
+
+#: views/back/premium.php:290
+msgid "Freelancer"
+msgstr "Freelancer"
+
+#: views/back/premium.php:291
+#, php-format
+msgid "For %s per year, get 4 of your sites covered with Premium."
+msgstr "Për %s në vit, mbulo 4 faqe me Premium."
+
+#: views/back/premium.php:297
+#, php-format
+msgid "For %s per year, get all of your sites covered with Premium."
+msgstr "Për %s në vit, mbulo të gjitha faqet tuaja me Premium."
+
+#: views/back/premium.php:307
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Lexo dokumentin tonë të thjeshtë të [link]termeve dhe konditave.[/link]"
+
+#: views/back/statistics.php:7
+msgid "Stats dashboard"
+msgstr "Tabela statistikave"
+
+#: views/back/statistics.php:48
+msgid "To"
+msgstr "Për"
+
+#: views/back/statistics.php:68
+msgid "You have feedback on these stats? [link]Contact us[/link] directly to let us know."
+msgstr "Keni vërejtje për këto statistika? [link]Na kontaktoni[/link] direkt të na tregoni."
+
+#: views/back/subscribers.php:12
+msgid "Lists and Subscribers"
+msgstr "Listat dhe Abonentët"
+
+#: views/back/subscribers.php:15
+msgid "Search subscribers"
+msgstr "Kërko Abonentë"
+
+#: views/back/subscribers.php:34
+msgid "Back to lists"
+msgstr "Mbrapa tek listat"
+
+#: views/back/subscribers.php:34
+msgid "Edit Lists"
+msgstr "Redakto Listat"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:1235
+#: views/back/subscribers.php:1270
+msgid "Import"
+msgstr "Importo"
+
+#: views/back/subscribers.php:34
+#: views/back/subscribers.php:166
+#: views/back/subscribers.php:465
+msgid "Export"
+msgstr "Eksporto"
+
+#: views/back/subscribers.php:87
+msgid "Unlisted"
+msgstr "Palistuar"
+
+#: views/back/subscribers.php:90
+msgid "Never opened or clicked"
+msgstr "Asnjeherë të hapura ose klikuara"
+
+#: views/back/subscribers.php:112
+msgid "Delete this subscriber forever?"
+msgstr "Fshije këtë abonent përgjithmonë?"
+
+#: views/back/subscribers.php:113
+msgid "Delete these subscribers forever?"
+msgstr "Fshi këta abonentë përgjithmonë?"
+
+#: views/back/subscribers.php:120
+msgid "Move to list"
+msgstr "Lëviz në listë"
+
+#: views/back/subscribers.php:135
+msgid "Add to list"
+msgstr "Shto në listë"
+
+#: views/back/subscribers.php:150
+msgid "Remove from list"
+msgstr "Fshi nga lista"
+
+#: views/back/subscribers.php:165
+msgid "Remove from all lists"
+msgstr "Fshi nga të gjitha listat"
+
+#: views/back/subscribers.php:167
+msgid "Delete subscribers"
+msgstr "Shuaj abonentët"
+
+#: views/back/subscribers.php:174
+msgid "Confirm unconfirmed subscribers"
+msgstr "Vërteto abonentët e pa vërtetuar"
+
+#: views/back/subscribers.php:175
+msgid "Resend confirmation email"
+msgstr "Ridërgo email vërtetimi"
+
+#: views/back/subscribers.php:211
+msgid "View all lists"
+msgstr "Shiko të gjitha listat"
+
+#: views/back/subscribers.php:219
+msgid "Subscribers in no list"
+msgstr "Abonentë në asnjë listë"
+
+#: views/back/subscribers.php:277
+msgid "Last open"
+msgstr "E hapura e fundit"
+
+#: views/back/subscribers.php:278
+msgid "Last click"
+msgstr "E klikuara e fundit"
+
+#: views/back/subscribers.php:296
+msgid "All subscribers on this page are selected."
+msgstr "Të gjithë abonentët në këtë faqe janë zgjedhur."
+
+#: views/back/subscribers.php:297
+#, php-format
+msgid "Select all %1$s subscribers."
+msgstr "Zgjidh të gjithë %1$s abonentët."
+
+#: views/back/subscribers.php:300
+#, php-format
+msgid "All %1$s subscribers are selected."
+msgstr "Të gjithë %1$s abonentët janë zgjedhur."
+
+#: views/back/subscribers.php:301
+msgid "Clear selection"
+msgstr "Pastro zgjedhjen"
+
+#: views/back/subscribers.php:356
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Listat në të cilat abonenti ishte abonuar."
+
+#: views/back/subscribers.php:396
+msgid "Pick a list"
+msgstr "Zgjidh një listë"
+
+#: views/back/subscribers.php:414
+msgid "Format"
+msgstr "Formati"
+
+#: views/back/subscribers.php:417
+msgid "CSV file"
+msgstr "file CSV"
+
+#: views/back/subscribers.php:419
+msgid "Excel for Windows"
+msgstr "Excel për Windows"
+
+#: views/back/subscribers.php:427
+msgid "Export confirmed subscribers only"
+msgstr "Eksporto vetëm abonentët e vërtetuar"
+
+#: views/back/subscribers.php:447
+msgid "List of fields to export"
+msgstr "Lista e fushave për eksport"
+
+#: views/back/subscribers.php:587
+#: views/front/confirm.php:140
+#, php-format
+msgid "Unsubscribed on %1$s"
+msgstr "çregjistruar në %1$s"
+
+#: views/back/subscribers.php:648
+msgid "Note: Find out what this subscriber opened and clicked with our [link]Premium version.[/link]"
+msgstr "Shënim: Shih çfar abonenti ka shikuar dhe klikuar me [link]versionin Premium.[/link]"
+
+#: views/back/subscribers.php:727
+msgid "Date created"
+msgstr "Data e krijimit"
+
+#: views/back/subscribers.php:764
+msgid "Update"
+msgstr "Përditëso"
+
+#: views/back/subscribers.php:774
+msgid "Get all MS users"
+msgstr "Merr të gjithë përdoruesit MS"
+
+#: views/back/subscribers.php:836
+msgid "For your own use and never shown to your subscribers."
+msgstr "Vetëm për përdorimin tënd dhe nuk do tregohet kurr abonentëve."
+
+#: views/back/subscribers.php:847
+msgid "Update list"
+msgstr "Përditëso listën"
+
+#: views/back/subscribers.php:851
+msgid "Add list"
+msgstr "Shto listën"
+
+#: views/back/subscribers.php:877
+msgid "How do you want to import?"
+msgstr "Si dëshiron të importosh?"
+
+#: views/back/subscribers.php:882
+msgid "Copy paste in a text box"
+msgstr "Kopjo dhe kalo në një hapsirë teksti"
+
+#: views/back/subscribers.php:885
+#: views/back/subscribers.php:924
+msgid "Upload a file"
+msgstr "Kariko një file"
+
+#: views/back/subscribers.php:900
+#, php-format
+msgid "Import from %1$s"
+msgstr "Importo nga %1$s"
+
+#: views/back/subscribers.php:913
+msgid "Then paste your list here"
+msgstr "Pastaj kalo listën tuaj këtu"
+
+#: views/back/subscribers.php:914
+msgid "This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo. See [link]examples in our support site[/link]."
+msgstr "Duhet të jetë në stilin e CSV ose thjesht kaloje nga Gmail, Hotmail ose Yahoo. Shih [link]shembuj në faqen tonë ndihmëse[/link]."
+
+#: views/back/subscribers.php:925
+msgid "This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr "Guhet të jetë në stilin CSV. Shih [link]shembuj në faqen tonë ndihmëse[/link]."
+
+#: views/back/subscribers.php:935
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Këta abonentë kanë kërkuar të jenë në listën tuaj?"
+
+#: views/back/subscribers.php:937
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr "Nëse përgjigjia është \"jo\", konsideroje veten si spammer."
+
+#: views/back/subscribers.php:938
+msgid "[link]Read more on support.mailpoet.com[/link]."
+msgstr "[link]Lexo më shumë në support.mailpoet.com[/link]."
+
+#: views/back/subscribers.php:965
+msgid "Match data"
+msgstr "Konfronto të dhënat"
+
+#: views/back/subscribers.php:968
+msgid "Ignore column..."
+msgstr "Injoro colonën..."
+
+#: views/back/subscribers.php:1022
+#, php-format
+msgid "Import as \"%1$s\""
+msgstr "Importo si \"%1$s\""
+
+#: views/back/subscribers.php:1023
+#, php-format
+msgid "Import \"%1$s\" as date field"
+msgstr "Importo \"%1$s\" si fushë date"
+
+#: views/back/subscribers.php:1103
+#: views/back/subscribers.php:1142
+msgid "Verify that the date in blue matches the original one."
+msgstr "Verifiko që data në blu të përputhet me origjinalin."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Do not match as a 'date field' if most of the rows for that column return the same error."
+msgstr "Nuk përputhen, si një \"fushë datë\" në qoftë se shumica e rreshtave për atë kolonë të kthejnë të njëjtin gabim."
+
+#: views/back/subscribers.php:1107
+#: views/back/subscribers.php:1146
+msgid "Error matching date."
+msgstr "Gabim përputhje date."
+
+#: views/back/subscribers.php:1172
+msgid "Pick one or many lists"
+msgstr "Zgjidh një ose shumë lista"
+
+#: views/back/subscribers.php:1173
+msgid "Pick the lists you want to import those subscribers to."
+msgstr "Zgjidh listat që dëshironi të importojë këto abonentë."
+
+#: views/back/subscribers.php:1181
+msgid "New list"
+msgstr "Lsitë e re"
+
+#: views/back/subscribers.php:1209
+msgid "Type name of your new list"
+msgstr "Shkruaj emrin e listës së re"
+
+#: views/back/subscribers.php:1217
+msgid "Note:"
+msgstr "Shënim:"
+
+#: views/back/subscribers.php:1217
+#, php-format
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "abonentët do të marrin  \"%1$s\" pas importimit."
+
+#: views/back/subscribers.php:1260
+#, php-format
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "importo %1$s abonentë nga shtojca: %2$s"
+
+#: views/back/tmce.php:72
+msgid "Insert form"
+msgstr "Vendos formular"
+
+#: views/front/confirm.php:107
+msgid "Your lists"
+msgstr "Listat tuaja"
+
+#: views/front/widget_nl.php:90
+#: widgets/wysija_nl.php:41
+#: widgets/wysija_nl.php:55
+msgid "MailPoet Subscription Form"
+msgstr "Formulari Abonimit të MailPoet"
+
+#: widgets/wysija_nl.php:42
+#: widgets/wysija_nl.php:56
+msgid "Subscription form for your newsletters."
+msgstr "Formulari abonimit në newsletter-in tuaj."
+
+#: widgets/wysija_nl.php:67
+msgid "Check your inbox now to confirm your subscription."
+msgstr "Kontrollo email-in për të konfirmuar abonimin tuaj."
+
+#: widgets/wysija_nl.php:68
+msgid "You've successfully subscribed."
+msgstr "Jeni abonuar me sukses."
+
+#: widgets/wysija_nl.php:78
+#: widgets/wysija_nl.php:146
+msgid "Title:"
+msgstr "Titull:"
+
+#: widgets/wysija_nl.php:83
+msgid "To subscribe to our dandy newsletter simply add your email below. A confirmation email will be sent to you!"
+msgstr "Vendos email-in tënd poshtë për abonim në newsletter. Një email konfirmimi do t'ju dërgohet!"
+
+#: widgets/wysija_nl.php:92
+msgid "Let subscribers select their lists:"
+msgstr "Lejo abonentët të zgjedhin listat e tyre:"
+
+#: widgets/wysija_nl.php:97
+msgid "Ask for:"
+msgstr "Pyet për:"
+
+#: widgets/wysija_nl.php:107
+msgid "Display labels in inputs"
+msgstr "Trego etiketat në hapsira"
+
+#: widgets/wysija_nl.php:112
+msgid "Button label:"
+msgstr "Etiketa butonit:"
+
+#: widgets/wysija_nl.php:117
+msgid "Success message:"
+msgstr "Mesazhi konfirmimit:"
+
+#: widgets/wysija_nl.php:122
+msgid "iframe version"
+msgstr "versioni iframe"
+
+#: widgets/wysija_nl.php:151
+msgid "Select a form:"
+msgstr "Zgjidh një formular:"
+
+#. Plugin Name of the plugin/theme
+msgid "MailPoet Newsletters"
+msgstr "MailPoet Newsletters"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.mailpoet.com/"
+msgstr "http://www.mailpoet.com/"
+
+#. Description of the plugin/theme
+msgid "Create and send newsletters or automated emails. Capture subscribers with a widget. Import and manage your lists. MailPoet is a sweet plugin maintained and supported with love by <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">a team of a dozen</a>."
+msgstr "Krijo dhe dërgo newsletter ose email të automatizuar. Tërhiq abonues me një widget. Importo dhe menaxho listat e tua. MailPoet është një plugin i ëmbël i mirmbajtur dhe mbështetur me dashuri nga <a target=\"_blank\" href=\"http://www.mailpoet.com/about-the-wysija-team-members/?utm_medium=plugin&utm_campaign=know_team&utm_source=wp_plugins_list\">një grup i një duzine personash</a>."
+
+#. Author of the plugin/theme
+msgid "MailPoet"
+msgstr "MailPoet"
