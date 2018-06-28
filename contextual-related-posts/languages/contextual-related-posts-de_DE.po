@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contextual Related Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Werner Braun <wernerbraun1080@gmail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/contextual-related-posts/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-06-04 00:37+0100\n"
+"PO-Revision-Date: 2017-09-20 04:35:25\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;esc_html__;esc_attr__;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: admin/admin.php:226
+msgid "Options saved successfully. If enabled, the cache has been cleared."
+msgstr "Einstellungen erfolgreich gespeichert. Falls ausgewählt, wurde auch der Cache geleert."
+
+#: admin/admin.php:229
+msgid "Rounded Thumbnails style selected. Author, Excerpt and Date will not be displayed."
+msgstr "Abgerundete Vorschaubilder ausgewählt. Autor, Auszug und Datum werden nicht angezeigt."
+
+#: admin/admin.php:232
+msgid "Text Only style selected. Thumbnails will not be displayed."
+msgstr "Reiner Textstil ausgewählt. Vorschaubilder werden nicht angezeigt."
+
+#: admin/admin.php:236
+#, php-format
+msgid "Pre-built thumbnail size selected. Thumbnail set to %1$d x %2$d."
+msgstr "Vorgefertigte Größe der Vorschaubilder ausgewählt. Die Vorschaubilder sind auf die Größe %1$d x %2$d eingestellt."
+
+#: admin/admin.php:269
+msgid "Options set to Default."
+msgstr "Einstellungen zurückgesetzt."
+
+#: admin/admin.php:278
+msgid "Index recreated"
+msgstr "Index wiederhergestellt"
+
+#: admin/admin.php:295
+msgid "Related Posts"
+msgstr "Verwandte Beiträge"
+
+#: admin/cache.php:42
+msgid "An error occurred clearing the cache. Please contact your site administrator.\\n\\nError message:\\n"
+msgstr "Beim Leeren des Caches ist ein Fehler aufgetreten. Bitte den Administrator kontaktieren.\\n\\nFehlermeldung:\\n"
+
+#: admin/cache.php:47
+msgid " cached row(s) cleared"
+msgstr "gespeicherte Zeile(n) geleert"
+
+#: admin/loader.php:23
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/loader.php:44
+#: admin/sidebar-view.php:48
+msgid "Support"
+msgstr "Support"
+
+#: admin/loader.php:45
+msgid "Donate"
+msgstr "Spenden"
+
+#: admin/loader.php:46
+msgid "Contribute"
+msgstr "Etwas beitragen"
+
+#: admin/main-view.php:32
+#: admin/main-view.php:55
+msgid "General options"
+msgstr "Einstellungen"
+
+#: admin/main-view.php:33
+#: admin/main-view.php:149
+msgid "List tuning options"
+msgstr "Einstellungs-Optionen anzeigen"
+
+#: admin/main-view.php:34
+#: admin/main-view.php:259
+msgid "Output options"
+msgstr "Ausgabe-Optionen"
+
+#: admin/main-view.php:35
+#: admin/main-view.php:463
+#: includes/modules/class-crp-widget.php:105
+msgid "Thumbnail options"
+msgstr "Miniaturbild-Einstellungen"
+
+#: admin/main-view.php:36
+#: admin/main-view.php:630
+msgid "Styles"
+msgstr "Stile"
+
+#: admin/main-view.php:37
+#: admin/main-view.php:713
+msgid "Feed options"
+msgstr "Feed-Optionen"
+
+#: admin/main-view.php:54
+#: admin/main-view.php:148
+#: admin/main-view.php:258
+#: admin/main-view.php:462
+#: admin/main-view.php:629
+#: admin/main-view.php:712
+#: admin/sidebar-view.php:19
+#: admin/sidebar-view.php:40
+#: admin/sidebar-view.php:58
+msgid "Click to toggle"
+msgstr "Zum Umschalten klicken"
+
+#: admin/main-view.php:71
+msgid "Cache output?"
+msgstr "Cache-Ausgabe?"
+
+#: admin/main-view.php:73
+msgid "Enabling this option will cache the related posts output when the post is visited the first time. The cache is cleaned when you save this page."
+msgstr "Wenn aktiviert, werden die verwandten Beiträge beim ersten Aufruf im Zwischenspeicher gespeichert. Der Zwischenspeicher wird beim Abspeichern dieser Seite geleert."
+
+#: admin/main-view.php:74
+msgid "The CRP cache works independently and in addition to any of your caching plugins like WP Super Cache or W3 Total Cache. It is recommended that you enable this on your blog."
+msgstr "Der CRP-Cache arbeitet unanhängig und zusätzlich zu jedem Caching-Plugin wie etwa WP Super Cache oder W3 Total Cache. Es wird empfohlen, dieses Feature auf deinem Blog zu aktivieren."
+
+#: admin/main-view.php:75
+msgid "Clear cache"
+msgstr "Zwischenspeicher leeren"
+
+#: admin/main-view.php:79
+msgid "Automatically add related posts to:"
+msgstr "Verwandte Artikel automatisch hinzufügen zu:"
+
+#: admin/main-view.php:81
+msgid "Posts"
+msgstr "Beiträge"
+
+#: admin/main-view.php:82
+msgid "Pages"
+msgstr "Seiten"
+
+#: admin/main-view.php:83
+msgid "Home page"
+msgstr "Startseite"
+
+#: admin/main-view.php:84
+msgid "Feeds"
+msgstr "Feeds"
+
+#: admin/main-view.php:85
+msgid "Category archives"
+msgstr "Kategorienarchive"
+
+#: admin/main-view.php:86
+msgid "Tag archives"
+msgstr "Schlagwort-Archive"
+
+#: admin/main-view.php:87
+msgid "Other archives"
+msgstr "Andere Archive"
+
+#: admin/main-view.php:88
+#, php-format
+msgid "If you choose to disable this, please add %1$s to your template file where you want it displayed"
+msgstr "Wenn du dich entschließt, dieses zu deaktivieren, dann füge bitte %1$s in deine Template-Datei ein an der Stelle, an welcher es erscheinen soll."
+
+#: admin/main-view.php:92
+msgid "Display location priority:"
+msgstr "Vorzug für Anzeigeort:"
+
+#: admin/main-view.php:95
+msgid "If you select to automatically add the related posts, CRP will hook into the Content Filter at a priority as specified in this option."
+msgstr "Ist die automatische Auswahl der verwandten Artikel ausgewählt, dann hakt sich CRP in das Inhaltsfilter mit der Vorzugseinstellung, die hier festgelegt wurde."
+
+#: admin/main-view.php:96
+msgid "A higher number will cause the related posts to be processed later and move their display further down after the post content. Any number below 10 is not recommended."
+msgstr "Eine höhere Anzahl bewirkt, dass die verwandten Artikel später abgearbeitet werden und weiter unten nach dem Artikelinhalt angezeigt werden. Jede Anzahl unter 10 wird nicht empfohlen."
+
+#: admin/main-view.php:100
+msgid "Insert after paragraph number"
+msgstr "Nach der Absatznummer einfügen"
+
+#: admin/main-view.php:103
+msgid "Enter 0 to display the related posts before the post content, -1 to display this at the end or a number to insert it after that paragraph number. If your post has less paragraphs, related posts will be displayed at the end."
+msgstr "Bei Eingabe von 0 werden die verwandten Artikel vor dem Artikelinhalt angezeigt und bei -1 am Ende des Inhalts. Jede andere Zahl gibt die Anzahl der Absätze an, nach welchen sie angezeigt werden. Gibt es weniger Absätze, dann werden die verwandten Artikel am Ende angezeigt. "
+
+#: admin/main-view.php:107
+msgid "Show metabox:"
+msgstr "Metabox anzeigen:"
+
+#: admin/main-view.php:110
+msgid "This will add the Contextual Related Posts metabox on Edit Posts or Add New Posts screens. Also applies to Pages and Custom Post Types."
+msgstr "Diese Einstellung fügt die CRT-Metabox hinzu zu den Bildschirmen: \"Beitrag bearbeiten\" und \"Neuen Beitrag erstellen\". Das gilt auch für Seiten und benutzerdefinierte Beitragstypen."
+
+#: admin/main-view.php:114
+msgid "Limit metabox to Admins only:"
+msgstr "Metabox den Admins vorbehalten:"
+
+#: admin/main-view.php:117
+msgid "If this is selected, the metabox will be hidden from anyone who is not an Admin. Otherwise, by default, Contributors and above will be able to see the metabox. This applies only if the above option is selected."
+msgstr "Bei dieser Einstellung wird die Metabox vor allen außer den Admins versteckt. Ansonsten wird die Metabox auch Mitarbeitern und höheren Rollen angezeigt (Voreinstellung). Das gilt nur dann, wenn die obige Einstellung ausgewählt wurde. "
+
+#: admin/main-view.php:121
+msgid "Tell the world you're using Contextual Related Posts:"
+msgstr "Sage der Welt das du Contextual Related Posts benutzt:"
+
+#: admin/main-view.php:123
+msgid "Optional"
+msgstr "Optional"
+
+#: admin/main-view.php:124
+msgid "Adds a nofollow link to Contextual Related Posts homepage as the last time in the list."
+msgstr "Fügt einen \"Nofollow\"-Link zur Contextual Related Posts-Homepage an die letzte Stelle der Liste."
+
+#: admin/main-view.php:142
+#: admin/main-view.php:252
+#: admin/main-view.php:456
+#: admin/main-view.php:623
+#: admin/main-view.php:706
+#: admin/main-view.php:778
+#: admin/main-view.php:794
+msgid "Save Options"
+msgstr "Einstellungen speichern"
+
+#: admin/main-view.php:165
+#: admin/main-view.php:731
+msgid "Number of related posts to display: "
+msgstr "Anzahl der angezeigten verwandten Beiträge:"
+
+#: admin/main-view.php:168
+msgid "Maximum number of posts that will be displayed. The actual number may be smaller if less related posts are found."
+msgstr "Höchstanzahl der Artikel, die angezeigt werden. Die tatsächliche Anzahl kann geringer sein, wenn weniger verwandte Artikel gefunden werden."
+
+#: admin/main-view.php:172
+msgid "Related posts should be newer than:"
+msgstr "Verwandte Artikel sollten aktueller sein als:"
+
+#: admin/main-view.php:174
+msgid "days"
+msgstr "Tage"
+
+#: admin/main-view.php:175
+msgid "This sets the cutoff period for which posts will be displayed. e.g. setting it to 365 will show related posts from the last year only. Set to 0 to disable limiting posts by date."
+msgstr "Diese Einstellung begrenzt den Zeitraum, in welchem nach verwandten Artikeln gesucht wird. Wird zum Beispiel 365 eingestellt, so werden nur verwandte Artikel angezeigt, die im letzten Jahr veröffentlicht wurden. Die Einstellung 0 bewirkt, dass die zeitliche Begrenzung aufgehoben ist."
+
+#: admin/main-view.php:179
+msgid "Randomize posts"
+msgstr "Zufällige Artikel"
+
+#: admin/main-view.php:181
+msgid "This shuffles the top related posts. Does not work if the cache is enabled."
+msgstr "Die Top verwandten Artikel werden in zufälliger Reihenfolge angezeigt. Funktioniert nicht, wenn der Cache aktiviert ist."
+
+#: admin/main-view.php:185
+msgid "Find related posts based on content as well as title:"
+msgstr "Verwandte Beiträge sowohl anhand des Inhalts als auch des Titels identifizieren:"
+
+#: admin/main-view.php:187
+msgid "If unchecked, only posts titles are used. I recommend using a caching plugin or enabling \"Cache output\" above if you enable this. Each site is different, so toggle this option to see which setting gives you better quality related posts."
+msgstr "Wenn nicht aktiviert, werden nur die Titel der Artikel herangezogen. Beim Aktivieren wird empfohlen, entweder ein Cache Plugin zu verwenden oder die Einstellung \"Cache-Ausgabe\" darüber. Jede Site ist anders, daher empfiehlt sich ein probeweises Umschalten dieser Einstellung, um herauszufinden, welche Einstellung eine höhere Qualität der verwandten Artikel zur Folge hat. "
+
+#: admin/main-view.php:191
+msgid "Limit content to be compared:"
+msgstr "Den zu vergleichenden Inhalt begrenzen:"
+
+#: admin/main-view.php:193
+msgid "This sets the maximum words of the content that will be matched. Set to 0 for no limit. Max value: 2,000. Only applies if you activate the above option."
+msgstr "Damit wird die Höchstanzahl der übereinstimmenden Wörter im Inhalt gesetzt. Die Einstellung 0 bedeutet unbegrenzt. Der Höchstwert ist 2000. Gilt nur, wenn die obige Einstellung aktiviert wurde. "
+
+#: admin/main-view.php:197
+msgid "Post types to include in results:"
+msgstr "In den Ergebnissen enthaltene Beitragstypen:"
+
+#: admin/main-view.php:204
+msgid "These post types will be displayed in the list. Includes custom post types."
+msgstr "Diese Beitragstypen werden in der Liste angezeigt. Enthalten sind auch benutzerdefinierte Beitragstypen."
+
+#: admin/main-view.php:208
+msgid "Limit to same post type"
+msgstr "Auf gleiche Beitragstypen beschränken."
+
+#: admin/main-view.php:210
+msgid "If checked, the related posts will only be selected from the same post type of the current post."
+msgstr "Wenn ausgewählt, dann werden die verwandten Artikel nur ausgewählt aus dem Beitragstyp des aktuellen Beitrags. "
+
+#: admin/main-view.php:214
+msgid "List of post or page IDs to exclude from the results:"
+msgstr "Liste der aus den Ergebnissen auszuschließenden Beitrags- oder Seiten-IDs:"
+
+#: admin/main-view.php:216
+#: admin/main-view.php:387
+msgid "Comma separated list of post, page or custom post type IDs. e.g. 188,320,500"
+msgstr "Kommaseparierte Liste der IDs von Beiträgen, Seiten und benutzerdefinierten Beitragstypen, z. B. 188,320,500"
+
+#: admin/main-view.php:220
+msgid "Categories to exclude from the results: "
+msgstr "Aus den Ergebnissen auszuschließende Kategorien:"
+
+#: admin/main-view.php:223
+msgid "Comma separated list of category slugs. The field above has an autocomplete so simply start typing in the beginning of your category name and it will prompt you with options."
+msgstr "Kommaseparierte Liste der Kategorie-Titelformen. Das Feld darüber ist mit Autocomplete-Funktion ausgestattet. Beginne einfach den Kategorienamen einzutippen und die verfügbaren Möglichkeiten werden dir angezeigt."
+
+#: admin/main-view.php:226
+msgid "Excluded category IDs are:"
+msgstr "Die ausgeschlossenen Kategorie-IDs sind:"
+
+#: admin/main-view.php:227
+msgid " "
+msgstr " "
+
+#: admin/main-view.php:232
+#, php-format
+msgid "These might differ from the IDs visible in the Categories page which use the %1$s. CRP uses the %2$s which is unique to this taxonomy."
+msgstr "Diese können sich unterscheiden von den IDs in der Kategorienseite, welche die %1$s verwendet. CRP verwendet die %2$s, welche in dieser Taxonomie einheitlich ist."
+
+#: admin/main-view.php:275
+msgid "Title of related posts:"
+msgstr "Titel der verwandten Beiträge:"
+
+#: admin/main-view.php:278
+#, php-format
+msgid "This is the main heading of the related posts. You can also display the current post title by using %1$s"
+msgstr "Das ist die Hauptüberschrift der verwandten Beiträge. Du kannst auch den aktuellen Beitragstitel anzeigen, wenn du %1$s verwendest."
+
+#: admin/main-view.php:282
+msgid "When there are no posts, what should be shown?"
+msgstr "Wenn es keine Beiträge gibt, was soll gezeigt werden?"
+
+#: admin/main-view.php:286
+msgid "Blank Output"
+msgstr "Leere Ausgabe"
+
+#: admin/main-view.php:291
+msgid "Display:"
+msgstr "Anzeige:"
+
+#: admin/main-view.php:297
+#: admin/main-view.php:734
+msgid "Show post excerpt in list?"
+msgstr "Beitragsauszüge in der Liste zeigen?"
+
+#: admin/main-view.php:300
+#, php-format
+msgid "Displays the excerpt of the post. If you do not provide an explicit excerpt to a post (in the post editor's optional excerpt field), it will display an automatic excerpt which refers to the first %d words of the post's content"
+msgstr "Zeigt den Beitragsauszug. Wird kein Auszug explizit erstellt (im optionalen Auszugsfeld des Beitragseditors), wird ein Auszug automatisch gebildet aus den ersten %d Worten des Beitragsinhalt."
+
+#: admin/main-view.php:303
+msgid "Rounded Thumbnails style selected under the Custom Styles. Excerpt display is disabled."
+msgstr "Abgerundete Vorschaubilder sind ausgewählt unter den benutzerdefinierten Stilen. Anzeige des Auszugs ist deaktiviert."
+
+#: admin/main-view.php:308
+msgid "Length of excerpt (in words):"
+msgstr "Länge des Auszugs (Anzahl der Wörter):"
+
+#: admin/main-view.php:314
+msgid "Show post author in list?"
+msgstr "Den Beitragsautor in der Liste zeigen?"
+
+#: admin/main-view.php:317
+msgid "Displays the author name prefixed with \"by\". e.g. by John Doe"
+msgstr "Zeigt den Autornamen mit einem \"von\" davor, z.B. von John Doe"
+
+#: admin/main-view.php:320
+msgid "Rounded Thumbnails style selected under the Custom Styles. Author display is disabled."
+msgstr "Abgerundete Vorschaubilder sind ausgewählt unter den benutzerdefinierten Stilen. Anzeige des Autors ist deaktiviert."
+
+#: admin/main-view.php:325
+msgid "Show post date in list?"
+msgstr "Beitragsdatum in der Liste zeigen?"
+
+#: admin/main-view.php:328
+msgid "Displays the date of the post. Uses the same date format set in General Options"
+msgstr "Zeigt das Beitragsdatum. Das gleiche Datumformat wird verwendet wie in den allgemeinen Einstellungen. "
+
+#: admin/main-view.php:331
+msgid "Rounded Thumbnails style selected under the Custom Styles. Date display is disabled."
+msgstr "Abgerundete Vorschaubilder sind ausgewählt unter den benutzerdefinierten Stilen. Datumsanzeige ist deaktiviert."
+
+#: admin/main-view.php:336
+msgid "Limit post title length (in characters)"
+msgstr "Die Länge des Titels begrenzen (Anzahl der Zeichen)"
+
+#: admin/main-view.php:339
+msgid "Any title longer than the number of characters set above will be cut and appended with an ellipsis (&hellip;)"
+msgstr "Jeder Titel der länger ist als die angegebene Zeichenanzahl wird gekürzt und mit einer Ellipse (&hellip;) ergänzt."
+
+#: admin/main-view.php:343
+msgid "Open links in new window"
+msgstr "Links in neuem Fenster öffnen"
+
+#: admin/main-view.php:349
+msgid "Add nofollow attribute to links in the list"
+msgstr "Das Nofollow-Attribut den Links in der Liste hinzufügen "
+
+#: admin/main-view.php:382
+msgid "Exclusion settings:"
+msgstr "Ausschluss-Einstellung:"
+
+#: admin/main-view.php:384
+msgid "Exclude display of related posts on these posts / pages"
+msgstr "Auf diesen Beiträgen / Seiten die Anzeige der verwandten Beiträge ausschließen."
+
+#: admin/main-view.php:390
+msgid "Exclude display of related posts on these post types."
+msgstr "Bei diesen Beitragstypen die Anzeige der verwandten Beiträge ausschließen."
+
+#: admin/main-view.php:397
+msgid "The related posts will not display on any of the above selected post types"
+msgstr "Die verwandten Beiträge werden bei keinem der oben ausgewählten Beitragstypen angezeigt."
+
+#: admin/main-view.php:427
+msgid "Customize the output:"
+msgstr "Die Ausgabe anpassen:"
+
+#: admin/main-view.php:429
+msgid "HTML to display before the list of posts: "
+msgstr "HTML zur Anzeige vor der Beitragsliste:"
+
+#: admin/main-view.php:432
+msgid "HTML to display before each list item: "
+msgstr "HTML zur Anzeige vor den einzelnen Listenelementen:"
+
+#: admin/main-view.php:435
+msgid "HTML to display after each list item: "
+msgstr "HTML zur Anzeige nach den einzelnen Listenelementen:"
+
+#: admin/main-view.php:438
+msgid "HTML to display after the list of posts: "
+msgstr "HTML zur Anzeige nach der Beitragsliste:"
+
+#: admin/main-view.php:479
+#: admin/main-view.php:737
+msgid "Location of post thumbnail:"
+msgstr "Speicherort der Beitrags-Vorschaubilder:"
+
+#: admin/main-view.php:483
+#: admin/main-view.php:741
+msgid "Display thumbnails inline with posts, before title"
+msgstr "Vorschaubilder innen mit dem Beitrag anzeigen, vor dem Titel"
+
+#: admin/main-view.php:488
+#: admin/main-view.php:745
+msgid "Display thumbnails inline with posts, after title"
+msgstr "Vorschaubilder innen mit dem Beitrag anzeigen, nach dem Titel"
+
+#: admin/main-view.php:493
+#: admin/main-view.php:749
+msgid "Display only thumbnails, no text"
+msgstr "Nur Vorschaubilder zeigen, keinen Text"
+
+#: admin/main-view.php:498
+#: admin/main-view.php:753
+msgid "Do not display thumbnails, only text."
+msgstr "Keine Vorschaubilder zeigen, nur Text."
+
+#: admin/main-view.php:502
+#, php-format
+msgid "This setting cannot be changed because an inbuilt style has been selected under the Styles section. If you would like to change this option, please select %1$s under the Styles section."
+msgstr "Diese Einstellung kann nicht verändert werden, weil ein eingebauter Stil gewählt wurde in der Stil-Abteilung. Wenn du diese Einstellung ändern willst, dann wähle bitte %1$s in der Stil-Abteilung."
+
+#: admin/main-view.php:502
+#: admin/main-view.php:649
+msgid "No styles"
+msgstr "Keine Stile"
+
+#: admin/main-view.php:506
+msgid "Thumbnail size:"
+msgstr "Größe der Vorschaubilder:"
+
+#: admin/main-view.php:531
+msgid "Custom size"
+msgstr "Benutzerdefinierte Größe"
+
+#: admin/main-view.php:534
+msgid "You can choose from existing image sizes above or create a custom size."
+msgstr "Du kannst wählen aus den bestehenden Bildgrößen oder eine eigene Größe erzeugen."
+
+#: admin/main-view.php:535
+msgid "If you choose an existing size, then the width, height and crop mode settings in the three options below will be automatically updated to reflect the correct dimensions of the setting."
+msgstr "Wenn du eine bestehende Größe wählst, dann wird die Breite, die Höhe und der Beschnittmodus in den drei Einstellungen unterhalb automatisch angepasst, um die korrekten Abmessungen widerzuspiegeln."
+
+#: admin/main-view.php:536
+msgid "If you have chosen Custom size above, then enter the width, height and crop settings below. For best results, use a cropped image with the same width and height. The default setting is 150x150 cropped image."
+msgstr "Wenn du eine benutzerdefinierte Größe gewählt hast, dann gib unten die Breite, die Höhe und die Beschnitteinstellung an. Die besten Ergebnisse erzielt man mit einem beschnittenen Bild von gleicher Breite und Höhe. Die Standardeinstellung ist ein auf 150x150 beschnittenes Bild.  "
+
+#: admin/main-view.php:537
+msgid "Any changes to the thumbnail settings doesn't automatically resize existing images."
+msgstr "Keine Änderung an den Einstellungen für die Vorschaubilder bewirkt, dass bestehende Bilder angepasst werden."
+
+#: admin/main-view.php:539
+#, php-format
+msgid "I recommend using %1$s or %2$s to regenerate all image sizes."
+msgstr "Empfohlen wird, %1$s oder %2$s zu verwenden, um alle Bildgrößen neu zu erzeugen."
+
+#: admin/main-view.php:546
+msgid "Width of the thumbnail:"
+msgstr "Breite der Vorschaubilder:"
+
+#: admin/main-view.php:549
+msgid "Height of the thumbnail: "
+msgstr "Höhe der Vorschaubilder:"
+
+#: admin/main-view.php:554
+msgid "Crop mode:"
+msgstr "Beschnittmodus:"
+
+#: admin/main-view.php:558
+msgid "By default, thumbnails will be hard cropped. Uncheck this box to proportionately/soft crop the thumbnails."
+msgstr "Standardmäßig werden die Vorschaubilder irreversibel beschnitten. Wähle diese Checkbox ab, um die Vorschaubilder proportional / nur als Anzeigeausschnitt zu zeigen."
+
+#: admin/main-view.php:562
+msgid "Image size attributes:"
+msgstr "Attribute der Bildgröße:"
+
+#: admin/main-view.php:566
+msgid "Style attributes. e.g."
+msgstr "Stilattribute z.B."
+
+#: admin/main-view.php:572
+msgid "HTML width and height attributes. e.g."
+msgstr "HTML für die Attribute Breite und Höhe, z.B."
+
+#: admin/main-view.php:578
+msgid "No HTML or Style attributes"
+msgstr "Kein HTML und keine Stilattribute"
+
+#: admin/main-view.php:583
+msgid "Post thumbnail meta field name:"
+msgstr "Name des Metafelds des Beitrags-Vorschaubilds:"
+
+#: admin/main-view.php:585
+#, php-format
+msgid "The value of this field should contain a direct link to the image. This is set in the meta box in the %1$s screen."
+msgstr "Der Wert dieses Feldes sollte einen direkten Link auf das Bild enthalten. Gesetzt wird diese Einstellung in der Metabox des %1$s-Bildschirms"
+
+#: admin/main-view.php:585
+msgid "Add New Post"
+msgstr "Neuer Beitrag"
+
+#: admin/main-view.php:588
+msgid "Extract the first image from the post?"
+msgstr "Das erste Bild aus dem Beitrag extrahieren? "
+
+#: admin/main-view.php:590
+msgid "This will only happen if there is no post thumbnail set and no image URL is specified in the meta field."
+msgstr "Das tritt nur dann ein, wenn kein Beitrags-Vorschaubild gesetzt und kein Bild-URL im Metafeld angegeben ist. "
+
+#: admin/main-view.php:593
+msgid "Use default thumbnail?"
+msgstr "Standard-Vorschaubild verwenden?"
+
+#: admin/main-view.php:595
+msgid "If checked, when no thumbnail is found, show a default one from the URL below. If not checked and no thumbnail is found, no image will be shown."
+msgstr "Wenn ausgewählt und kein Vorschaubild gefunden wird, wird das Standardbild aus dem unten angegebenen URL verwendet. Wenn nicht ausgewählt und kein Vorschaubild gefunden wird, wird kein Bild angezeigt.  "
+
+#: admin/main-view.php:598
+msgid "Default thumbnail:"
+msgstr "Standard-Vorschaubild:"
+
+#: admin/main-view.php:605
+msgid "The plugin will first check if the post contains a thumbnail. If it doesn't then it will check the meta field. If this is not available, then it will show the default image as specified above."
+msgstr "Das Plugin überprüft zuerst, ob der Beitrag ein Vorschaubild enthält. Wenn nicht, wird das Metafeld überprüft. Wenn dieses nicht verfügbar ist, dann wird das Standardbild wie oben angeführt gezeigt. "
+
+#: admin/main-view.php:646
+msgid "Style of the related posts:"
+msgstr "Stil der verwandten Beiträge:"
+
+#: admin/main-view.php:651
+msgid "Select this option if you plan to add your own styles"
+msgstr "Wähle diese Einstellung, wenn du deine eigenen Stile verwenden willst."
+
+#: admin/main-view.php:655
+msgid "Rounded Thumbnails"
+msgstr "Abgerundete Vorschaubilder"
+
+#: admin/main-view.php:658
+msgid "Enabling this option will turn on the thumbnails and set their width and height to 150px. It will also turn off the display of the author, excerpt and date if already enabled. Disabling this option will not revert any settings."
+msgstr "Das Aktivieren dieser Einstellung wird Miniaturbilder verfügbar machen und deren Höhe und Breite auf 150px festlegen. Außerdem wird die Anzeige des Autors, des Beitragsauszugs und des Datums, sofern diese aktiviert war, deaktiviert."
+
+#: admin/main-view.php:660
+#, php-format
+msgid "You can view the default style at %s"
+msgstr "Du kannst den Standard-Stil unter %s einsehen."
+
+#: admin/main-view.php:666
+msgid "Text only"
+msgstr "Nur Text"
+
+#: admin/main-view.php:668
+msgid "Enabling this option will disable thumbnails and no longer include the default style sheet included in the plugin."
+msgstr "Durch Aktivieren dieser Einstellung werden Vorschaubilder deaktiviert und der im Plugin enthaltene Standardstil wird in der Folge nicht mehr enthalten sein. "
+
+#: admin/main-view.php:683
+msgid "Custom CSS to add to header:"
+msgstr "Benutzerdefiniertes CSS dem head hinzufügen:"
+
+#: admin/main-view.php:688
+#, php-format
+msgid "Do not include %1$s tags. Check out the %2$s for available CSS classes to style."
+msgstr "%1$s-Tags nicht einschließen. Du findest die verfügbaren CSS-Klassen zum Formatieren in %2$s."
+
+#: admin/main-view.php:729
+msgid "Below options override the related posts settings for your blog feed. These only apply if you have selected to add related posts to Feeds in the General Options tab."
+msgstr "Die unten angeführten Einstellungen überschreiben die Einstellungen der verwandten Beiträge deines Blog-Feeds. Das ist nur dann der Fall, wenn du in den allgemeinen Einstellungen die verwandten Beiträge zu den Feeds hinzugefügt hast."
+
+#: admin/main-view.php:757
+msgid "Maximum width of the thumbnail: "
+msgstr "Größte Breite der Vorschaubilder:"
+
+#: admin/main-view.php:760
+msgid "Maximum height of the thumbnail: "
+msgstr "Größte Höhe der Vorschaubilder: "
+
+#: admin/main-view.php:795
+msgid "Default Options"
+msgstr "Standardeinstellungen"
+
+#: admin/main-view.php:795
+msgid "Do you want to set options to Default?"
+msgstr "Möchten Sie die Einstellungen auf die Standardeinstellungen zurücksetzen?"
+
+#: admin/main-view.php:796
+msgid "Recreate Index"
+msgstr "Index neu erstellen"
+
+#: admin/main-view.php:796
+msgid "Are you sure you want to recreate the index?"
+msgstr "Möchten Sie wirklich den Index neu erstellen?"
+
+#: admin/main-view.php:801
+#, php-format
+msgid "One or more FULLTEXT indices are missing. Please hit the %1$s at the bottom of the page to fix this."
+msgstr "Ein oder mehrere FULLTEXT-Indizes fehlen. Betätige die %1$s am Fuß der Seite, um das Problem zu lösen."
+
+#: admin/main-view.php:801
+msgid "Recreate Index button"
+msgstr "Index-Schaltfläche wiederherstellen"
+
+#: admin/main-view.php:806
+msgid "If the Recreate Index button fails, please run the following queries in phpMyAdmin or Adminer"
+msgstr "Wenn die Schaltfläche zum Wiederherstellen des Index keine Wirkung zeigt, führe bitte die folgenden Abfragen in phpMyAdmin oder Adminer aus."
+
+#: admin/metabox.php:105
+msgid "Disable Related Posts display:"
+msgstr "Anzeige der verwandten Beiträge deaktivieren:"
+
+#: admin/metabox.php:108
+msgid "If this is checked, then Contextual Related Posts will not automatically insert the related posts at the end of post content."
+msgstr "Wenn ausgewählt, dann wird Contextual Related Posts die verwandten Beiträge nicht automatisch am Ende des Beitragsinhalt anfügen."
+
+#: admin/metabox.php:112
+msgid "Exclude this post from the related posts list:"
+msgstr "Diesen Beitrag von der Liste der verwandten Beiträge ausschließen:"
+
+#: admin/metabox.php:115
+msgid "If this is checked, then this post will be excluded from the popular posts list."
+msgstr "Wenn ausgewählt, dann wird dieser Beitrag aus der Liste der populären Beiträge ausgeschlossen."
+
+#: admin/metabox.php:119
+#: admin/metabox.php:127
+msgid "Manual related posts:"
+msgstr "Manuell hinzugefügte verwandte Beiträge:"
+
+#: admin/metabox.php:121
+msgid "Comma separated list of post, page or custom post type IDs. e.g. 188,320,500. These will be given preference over the related posts generated by the plugin."
+msgstr "Kommaseparierte Liste der IDs von Beiträgen, Seiten oder benutzerdefinierten Beitragstypen,  z.B. 188,320,500. Diese werden bevorzugt gegenüber den verwandten Beiträgen, welche das Plugin erzeugt."
+
+#: admin/metabox.php:122
+msgid "Once you enter the list above and save this page, the plugin will display the titles of the posts below for your reference. Only IDs corresponding to published posts or custom post types will be retained."
+msgstr "Wenn die obige Liste eingegeben und die Seite gespeichert ist, zeigt das Plugin unten die Titel der Beiträge zur Überprüfung an. Nur IDs, die mit solchen von veröffentlichten Beiträgen oder benutzerdefinierten Beitragstypen übereinstimmen, werden festgehalten. "
+
+#: admin/metabox.php:138
+#, php-format
+msgid "This post type is: %s"
+msgstr "Dieser Beitragstyp ist: %s"
+
+#: admin/metabox.php:149
+msgid "Location of thumbnail"
+msgstr "Position des Vorschaubilds"
+
+#: admin/metabox.php:151
+msgid "Enter the full URL to the image (JPG, PNG or GIF) you'd like to use. This image will be used for the post. It will be resized to the thumbnail size set under Settings &raquo; Related Posts &raquo; Output Options"
+msgstr "Gib den vollständigen URL ein für das Bild (JPG, PNG oder GIF), welches du verwenden willst. Dieses Bild wird für den Artikel verwendet. Es wird auf die Größe eines Vorschaubilds reduziert unter der Einstellung \"Related Posts\"; Ausgabeeinstellungen"
+
+#: admin/metabox.php:152
+msgid "The URL above is saved in the meta field:"
+msgstr "Der obige URL ist gespeichert im Metafeld:"
+
+#: admin/metabox.php:157
+msgid "You have Top 10 WordPress Plugin installed. If you are trying to modify the thumbnail, then you'll need to make the same change in the Top 10 meta box on this page."
+msgstr "Du hast das Top 10 WordPress Plugin installiert. Wenn du versuchst, das Vorschaubild zu verändern, dann must die gleichen Änderungen auch in der Top 10 Metabox auf dieser Seite vornehmen. "
+
+#: admin/sidebar-view.php:20
+msgid "Support the development"
+msgstr "Die Entwicklung unterstützen"
+
+#: admin/sidebar-view.php:27
+msgid "Donation for Contextual Related Posts"
+msgstr "Zuwendung für Contextual Related Posts"
+
+#: admin/sidebar-view.php:29
+msgid "Enter amount in USD:"
+msgstr "Betrag in US-Dollar eingeben"
+
+#: admin/sidebar-view.php:33
+msgid "Send your donation to the author of"
+msgstr "Sende deine Zuwendung an den Autor von"
+
+#: admin/sidebar-view.php:41
+msgid "Quick links"
+msgstr "Quick Links"
+
+#: admin/sidebar-view.php:45
+msgid "WebberZone"
+msgstr "WebberZone"
+
+#: admin/sidebar-view.php:46
+msgid "Plugin homepage"
+msgstr "Homepage des Plugins "
+
+#: admin/sidebar-view.php:47
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/sidebar-view.php:49
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: admin/sidebar-view.php:50
+msgid "Github repository"
+msgstr "Github Repository"
+
+#: admin/sidebar-view.php:51
+msgid "Other plugins"
+msgstr "Andere Plugins"
+
+#: admin/sidebar-view.php:52
+msgid "Ajay's blog"
+msgstr "Ajays Blog"
+
+#: admin/sidebar-view.php:59
+msgid "Follow us"
+msgstr "Folge uns"
+
+#: contextual-related-posts.php:100
+msgid "<h3>Related Posts:</h3>"
+msgstr "<h3>Ähnliche Beiträge</h3>"
+
+#: contextual-related-posts.php:102
+msgid "No related posts found"
+msgstr "Keine ähnlichen Beiträge gefunden."
+
+#: includes/main-query.php:189
+#, php-format
+msgid "Powered by <a href=\"%s\" rel=\"nofollow\">Contextual Related Posts</a>"
+msgstr "Unterstützt von <a href=\"%s\" rel=\"nofollow\">Contextual Related Posts</a>"
+
+#: includes/media.php:65
+msgid "thumb_timthumb argument has been deprecated"
+msgstr "Das thumb_timthumb-Argument ist überholt."
+
+#: includes/media.php:69
+msgid "thumb_timthumb_q argument has been deprecated"
+msgstr "Das thumb_timthumb_q-Argument ist überholt."
+
+#: includes/media.php:73
+msgid "filter argument has been deprecated"
+msgstr "Das Filterargument ist überholt."
+
+#: includes/modules/class-crp-widget.php:32
+msgid "Related Posts [CRP]"
+msgstr "Verwandte Artikel (CRP)"
+
+#: includes/modules/class-crp-widget.php:34
+msgid "Display Related Posts"
+msgstr "Verwandte Artikel anzeigen"
+
+#: includes/modules/class-crp-widget.php:76
+msgid "Title"
+msgstr "Titel"
+
+#: includes/modules/class-crp-widget.php:81
+msgid "No. of posts"
+msgstr "Anzahl der Artikel"
+
+#: includes/modules/class-crp-widget.php:86
+msgid "Offset"
+msgstr "Offset"
+
+#: includes/modules/class-crp-widget.php:91
+msgid " Show excerpt?"
+msgstr "Auszug zeigen?"
+
+#: includes/modules/class-crp-widget.php:96
+msgid " Show author?"
+msgstr "Autor zeigen?"
+
+#: includes/modules/class-crp-widget.php:101
+msgid " Show date?"
+msgstr "Datum zeigen?"
+
+#: includes/modules/class-crp-widget.php:107
+msgid "Thumbnails inline, before title"
+msgstr "Vorschaubilder innen, vor dem Titel"
+
+#: includes/modules/class-crp-widget.php:108
+msgid "Thumbnails inline, after title"
+msgstr "Vorschaubilder innen, nach dem Titel"
+
+#: includes/modules/class-crp-widget.php:109
+msgid "Only thumbnails, no text"
+msgstr "Nur Vorschaubilder, kein Text"
+
+#: includes/modules/class-crp-widget.php:110
+msgid "No thumbnails, only text."
+msgstr "Keine Vorschaubilder, nur Text"
+
+#: includes/modules/class-crp-widget.php:115
+msgid "Thumbnail height"
+msgstr "Höhe Vorschaubild"
+
+#: includes/modules/class-crp-widget.php:120
+msgid "Thumbnail width"
+msgstr "Breite Vorschaubild"
+
+#: includes/modules/class-crp-widget.php:124
+msgid "Post types to include"
+msgstr "Einzuschließende Beitragstypen"
+
+#: includes/output-generator.php:239
+msgid " by "
+msgstr "von"
