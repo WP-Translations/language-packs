@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Attachment Slug\n"
+"Report-Msgid-Bugs-To: https://github.com/seb86/Attachment-Slug/issues\n"
+"Last-Translator: Omar Anwar <omaraglan91@yahoo.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/wp-translations/attachment-slug/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-02-23 02:37+0100\n"
+"PO-Revision-Date: 2017-09-23 13:47:33\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: permalink-settings.php:36
+msgid "Attachment Permalink"
+msgstr "الرابط الثابت للمرفق"
+
+#: permalink-settings.php:54
+msgid "These settings control the permalink used specifically for attachments."
+msgstr "هذه الإعدادات تتحكم في الرابط الثابت الذي يستخدم علي وجه التحديد للمرفقات."
+
+#: permalink-settings.php:67
+msgid "Default"
+msgstr "الأفتراضي"
+
+#: permalink-settings.php:71
+msgid "Attachment base"
+msgstr "قاعدة المرفقات"
+
+#: permalink-settings.php:76
+msgid "Custom Base"
+msgstr "قاعدة مخصصة"
+
+#: permalink-settings.php:78
+msgid "Enter a custom base to use. A base <strong>must</strong> be set or WordPress will use default instead."
+msgstr "أدخل قاعدة مخصصة لكي تستخدمها. قاعدة <strong>يجب</strong> أن تحدد أو الورد بريس سوف يستخدم الإفتراضي بدلا منه."
