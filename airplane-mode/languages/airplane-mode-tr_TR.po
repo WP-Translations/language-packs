@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Airplane Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Türker YILDIRIM <turker.biz@gmail.com>, 2018\n"
+"Language-Team: Turkish (Turkey) (https://www.transifex.com/wp-translations/teams/64435/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-03-26 17:11+0200\n"
+"PO-Revision-Date: 2018-03-28 11:06:42\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: airplane-mode.php\n"
+
+#: airplane-mode.php:312
+msgid "Airplane Mode blocked style"
+msgstr "Uçak modu engellenmiş stili"
+
+#: airplane-mode.php:343
+msgid "Airplane Mode blocked script"
+msgstr "Uçak modu engellenmiş betiği"
+
+#: airplane-mode.php:378
+#, php-format
+msgid "Airplane Mode is enabled. oEmbed blocked for %1$s."
+msgstr "Uçak modu etkin. oEmbed %1$s için engellendi."
+
+#: airplane-mode.php:535
+#: airplane-mode.php:695
+#: inc/wp-cli.php:18
+#: inc/wp-cli.php:48
+msgid "Airplane Mode is enabled."
+msgstr "Uçak modu etkin."
+
+#: airplane-mode.php:695
+#: inc/wp-cli.php:34
+#: inc/wp-cli.php:48
+msgid "Airplane Mode is disabled."
+msgstr "Uçak modu etkin değil."
+
+#: airplane-mode.php:709
+#, php-format
+msgid "There was %s HTTP request."
+msgid_plural "There were %s HTTP requests."
+msgstr[0] "%s HTTP isteği mevcuttu."
+msgstr[1] "%s HTTP isteği mevcuttu."
+
+#: airplane-mode.php:1039
+msgid "Continue"
+msgstr "Devam"
+
+#: inc/wp-cli.php:62
+msgid "Transients have been cleared"
+msgstr "Geçici kayıtlar temizlendi"
+
+#. Plugin Name of the plugin/theme
+msgid "Airplane Mode"
+msgstr "Airplane Mode"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/norcross/airplane-mode"
+msgstr "https://github.com/norcross/airplane-mode"
+
+#. Description of the plugin/theme
+msgid "Control loading of external files when developing locally"
+msgstr "Yerel geliştirme yaparken haricen yüklenen dosyaları kontrol edin"
+
+#. Author of the plugin/theme
+msgid "Andrew Norcross"
+msgstr "Andrew Norcross"
+
+#. Author URI of the plugin/theme
+msgid "http://andrewnorcross.com/"
+msgstr "http://andrewnorcross.com/"
