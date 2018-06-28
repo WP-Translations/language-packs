@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graphy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/graphy\n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/graphy/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:00+00:00\n"
+"PO-Revision-Date: 2017-12-21 12:20:05\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "O sayfa bulunamıyor."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Görünen o ki burada hiç bir şey bulunamadı. Ufak bir aramaya ne dersiniz?"
+
+#: archive.php:21
+msgid "Category: "
+msgstr "Kategori:"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "Etiket:"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Gün: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Ay: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Yıl: %s"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Taliler"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: archive.php:54
+msgid "Images"
+msgstr "Resimler"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "Videolar"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: archive.php:63
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "Sesler"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Yazışmalar"
+
+#: archive.php:75
+msgid "Archives"
+msgstr "Arşivler"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "%1$s cevap"
+msgstr[1] "%1$s cevap"
+
+#: comments.php:34
+#: comments.php:52
+msgid "Comment navigation"
+msgstr "Yorum erişimi"
+
+#: comments.php:35
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Eski Yorumlar"
+
+#: comments.php:36
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Yeni Yorumlar &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: content-page.php:16
+#: content-single.php:18
+#: content.php:21
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: content.php:20
+#: content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr ""
+
+#: footer.php:17
+msgid "Powered by "
+msgstr "Destekleyen:"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Yanbar"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "Dipnot 1"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Dipnot 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "Dipnot 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "Dipnot 4"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lora, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "açık"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: inc/customizer.php:25
+msgid "Hide Tagline"
+msgstr "Etiket Satırını Gizle"
+
+#: inc/customizer.php:32
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "Logo Yükle"
+
+#: inc/customizer.php:47
+msgid "Replace Title"
+msgstr "Başlığı Değiştir"
+
+#: inc/customizer.php:56
+msgid "Add Border Radius"
+msgstr "Kenarlık Yuvarlatma Ekle"
+
+#: inc/customizer.php:67
+msgid "Link Color"
+msgstr "Bağlantı rengi"
+
+#: inc/customizer.php:76
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Hide Serach"
+msgstr "Aramayı Gizle"
+
+#: inc/customizer.php:92
+msgid "Article"
+msgstr "Makale"
+
+#: inc/customizer.php:99
+msgid "Display"
+msgstr "Görüntü"
+
+#: inc/customizer.php:104
+msgid "Summary"
+msgstr "Özet"
+
+#: inc/customizer.php:105
+msgid "Full text"
+msgstr "Tüm metin"
+
+#: inc/customizer.php:112
+msgid "Hide Author"
+msgstr "Yazarı Gizle"
+
+#: inc/customizer.php:121
+msgid "Hide Categories"
+msgstr "Kategorileri Gizle"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski yazılar"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "Önceki gönderi"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "Sonraki gönderi"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "Gönderi zamanı"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "&lt;"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 yorum"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "% yorum"
+
+#: inc/template-tags.php:117
+#: inc/template-tags.php:125
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Arama Sonuçları: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr "Graphy"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr "http://themegraphy.com/graphy-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "Takao Utsumi (çeviri: mapazarbasi)"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Yanbar Yok"
