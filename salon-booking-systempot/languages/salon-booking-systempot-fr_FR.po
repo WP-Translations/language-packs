@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salon Booking Wordpress Plugin - Free Version\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Benjamin FORNAGE <benjamin.fornage@uni.lu>, 2017\n"
+"Language-Team: French (France) (https://www.transifex.com/wp-translations/teams/8416/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-11-02 14:18+0100\n"
+"PO-Revision-Date: 2018-01-16 12:15:48\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: salon.php\n"
+
+#: salon.php:51
+#: views/payment_method/stripe/settings.php:5
+#: views/settings/_tab_general_sms.php:174
+#: views/settings/tab_checkout.php:28
+#: views/settings/tab_checkout.php:33
+#: views/settings/tab_gcalendar.php:37
+#: views/settings/tab_general.php:85
+#: views/settings/tab_general.php:114
+#: views/settings/tab_general.php:167
+#: views/settings/tab_general.php:221
+#: views/settings/tab_general.php:317
+msgid "-"
+msgstr "-"
+
+#: src/SLB_Discount/Action/Ajax/ApplyDiscountCode.php:46
+msgid "Coupon is not valid"
+msgstr "Code promo non valide"
+
+#: src/SLB_Discount/Action/Ajax/ApplyDiscountCode.php:57
+msgid "Coupon was applied"
+msgstr "Code promo appliqué"
+
+#: src/SLB_Discount/Admin/DiscountsHistoryList.php:23
+msgid "Customer"
+msgstr "Client"
+
+#: src/SLB_Discount/Admin/DiscountsHistoryList.php:24
+msgid "Booking date"
+msgstr "Date de réservation"
+
+#: src/SLB_Discount/Admin/DiscountsHistoryList.php:25
+msgid "Booking amount"
+msgstr "Montant de la réservation"
+
+#: src/SLB_Discount/Admin/DiscountsHistoryList.php:26
+msgid "Booking discount"
+msgstr "Remise de la réservation"
+
+#: src/SLB_Discount/Enum/DiscountType.php:27
+msgid "Coupon code"
+msgstr "Code promo"
+
+#: src/SLB_Discount/Enum/DiscountType.php:28
+msgid "Automatic discount"
+msgstr "Remise automatique"
+
+#: src/SLB_Discount/Metabox/Discount.php:29
+msgid "Discount details"
+msgstr "Détails de la remise"
+
+#: src/SLB_Discount/Metabox/Discount.php:39
+msgid "&nbsp"
+msgstr "&nbsp"
+
+#: src/SLB_Discount/Metabox/Discount.php:50
+msgid "Discount usage history"
+msgstr "Historique d’utilisation des remises"
+
+#: src/SLB_Discount/Plugin.php:217
+msgid "Discounted price"
+msgstr "Prix remisé"
+
+#: src/SLB_Discount/PostType/Discount.php:58
+#: views/discount/metabox/_discount_details.php:20
+msgid "Type"
+msgstr "Type"
+
+#: src/SLB_Discount/PostType/Discount.php:59
+#: views/discount/metabox/_discount_details.php:16
+#: views/metabox/booking.php:204
+msgid "Amount"
+msgstr "Montant"
+
+#: src/SLB_Discount/PostType/Discount.php:60
+msgid "Active"
+msgstr "Activé"
+
+#: src/SLB_Discount/PostType/Discount.php:82
+msgid "Yes"
+msgstr "Oui"
+
+#: src/SLB_Discount/PostType/Discount.php:85
+msgid "No"
+msgstr "Non"
+
+#: src/SLB_Discount/PostType/Discount.php:153
+#: src/SLN/Admin/Calendar.php:12
+#: src/SLN/Admin/Calendar.php:13
+#: src/SLN/PostType/Attendant.php:233
+#: src/SLN/PostType/Booking.php:189
+#: src/SLN/PostType/Service.php:238
+msgid "Salon"
+msgstr "Salon"
+
+#: src/SLB_Discount/PostType/Discount.php:158
+msgid "Edit Discount"
+msgstr "Modifier la remise"
+
+#: src/SLB_Discount/PostType/Discount.php:159
+msgid "New Discount"
+msgstr "Nouvelle remise"
+
+#: src/SLB_Discount/PostType/Discount.php:160
+msgid "View Discount"
+msgstr "Voir la remise"
+
+#: src/SLB_Discount/PostType/Discount.php:162
+msgid "No discounts found"
+msgstr "Aucune remise trouvée"
+
+#: src/SLB_Discount/PostType/Discount.php:163
+msgid "No discounts found in trash"
+msgstr "Aucune remise trouvée dans la corbeille"
+
+#: src/SLB_Discount/PostType/Discount.php:164
+msgid "Discounts Archive"
+msgstr "Archive des remises"
+
+#: src/SLB_Discount/Wrapper/Discount.php:415
+#: src/SLB_Discount/Wrapper/Discount.php:481
+msgid "Coupon expired"
+msgstr "Code promo expiré"
+
+#: src/SLB_Discount/Wrapper/Discount.php:418
+msgid "This coupon was applied maximum number of times"
+msgstr "Ce code promo a atteint le nombre d’utilisation maximum"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:21
+msgid "Method not found"
+msgstr "Méthode non trouvée"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:36
+msgid "File not found"
+msgstr "Fichier non trouvé"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:41
+msgid "Cannot create tmp file"
+msgstr "Impossible de créer un fichier tmp"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:46
+msgid "Cannot write to tmp file"
+msgstr "Impossible d'écrire dans le fichier tmp"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:94
+#: src/SLN/Action/Ajax/AbstractImport.php:129
+msgid "Filename not found"
+msgstr "Nom de fichier non trouvé"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:99
+msgid "Import data not found"
+msgstr "Données d'import non trouvées"
+
+#: src/SLN/Action/Ajax/AbstractImport.php:135
+msgid "Data not found"
+msgstr "Données non trouvées."
+
+#: src/SLN/Action/Ajax/Calendar.php:47
+msgid "Booking Rule"
+msgstr "Règle de réservation"
+
+#: src/SLN/Action/Ajax/Calendar.php:49
+msgid "Holiday Rule"
+msgstr "Règle de vacances"
+
+#: src/SLN/Action/Ajax/Calendar.php:84
+msgid "bookings"
+msgstr "réservations"
+
+#: src/SLN/Action/Ajax/Calendar.php:86
+msgid "hrs"
+msgstr "H"
+
+#: src/SLN/Action/Ajax/Calendar.php:87
+msgid "mns"
+msgstr "min"
+
+#: src/SLN/Action/Ajax/Calendar.php:88
+msgid "available left"
+msgstr "disponibilité"
+
+#: src/SLN/Action/Ajax/CancelBooking.php:31
+#: src/SLN/Action/Ajax/SetBookingRating.php:35
+#: src/SLN/Action/Ajax/SetBookingRating.php:39
+msgid "You don't have access"
+msgstr "Vous n’avez pas les droits d’accès"
+
+#: src/SLN/Action/Ajax/CancelBooking.php:33
+msgid "Cancellation disabled"
+msgstr "Annulation désactivée"
+
+#: src/SLN/Action/Ajax/CancelBooking.php:35
+msgid "Out of time"
+msgstr "Temps dépassé"
+
+#: src/SLN/Action/Ajax/CheckDate.php:76
+msgid "There are no time slots available today - Please select a different day"
+msgstr "Il n’y a aucun créneau horaire disponible aujourd'hui - Veuillez sélectionner un autre jour."
+
+#: src/SLN/Action/Ajax/CheckDate.php:83
+msgid "There are no time slots available for this period - Please select a  different hour"
+msgstr "Il n’y a aucun créneau horaire disponible pour cette période - Veuillez sélectionner une heure différente."
+
+#: src/SLN/Action/Ajax/CheckDateAlt.php:179
+#: src/SLN/Action/Ajax/CheckServices.php:175
+#: src/SLN/Third/GoogleCalendarImport.php:290
+msgid "Multiple attendants selection is disabled. You must select one attendant for all services."
+msgstr "La sélection multiple d’assistants est désactivée. Vous devez sélectionner un assistant pour tous les services."
+
+#: src/SLN/Action/Ajax/CheckServices.php:151
+#: src/SLN/Helper/Availability.php:425
+#: src/SLN/Third/GoogleCalendarImport.php:257
+#, php-format
+msgid "You can select up to %d items"
+msgstr "Vous pouvez sélectionner jusqu’à %d éléments"
+
+#: src/SLN/Action/Ajax/ResendNotification.php:18
+#: src/SLN/Action/Ajax/ResendPaymentNotification.php:16
+msgid "E-mail sent"
+msgstr "E-mail envoyé"
+
+#: src/SLN/Action/Ajax/ResendNotification.php:20
+#: src/SLN/Action/Ajax/ResendPaymentNotification.php:18
+msgid "Please specify an email"
+msgstr "Veuillez spécifier un e-mail"
+
+#: src/SLN/Action/Ajax/SearchUser.php:15
+#: src/SLN/Action/Ajax/UpdateUser.php:12
+msgid "User not found"
+msgstr "Utilisateur non trouvé"
+
+#: src/SLN/Action/Ajax/SearchUser.php:21
+#: src/SLN/Action/Ajax/UpdateUser.php:18
+msgid "User updated"
+msgstr "Utilisateur mis à jour"
+
+#: src/SLN/Action/Ajax/SetBookingRating.php:43
+msgid "Set rating and comment"
+msgstr "Définir la note et commenter"
+
+#: src/SLN/Action/Ajax/SetCustomText.php:19
+msgid "You don't have permissions"
+msgstr "Vous n’avez pas les permissions"
+
+#: src/SLN/Action/Init.php:214
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+#: src/SLN/Action/InitComments.php:31
+msgid "Rating"
+msgstr "Note"
+
+#: src/SLN/Action/InitScripts.php:44
+msgid "checking availability"
+msgstr "vérification de la disponibilité"
+
+#: src/SLN/Action/InitScripts.php:46
+msgid "Do you really want to cancel?"
+msgstr "Voulez-vous vraiment annuler ?"
+
+#: src/SLN/Action/InitScripts.php:51
+msgid "fill this field"
+msgstr "remplissez ce champ"
+
+#: src/SLN/Action/Install.php:26
+#: src/SLN/Action/Updates/sln-update-for-3.0.php:92
+msgid "Salon staff"
+msgstr "Équipe du salon"
+
+#: src/SLN/Action/Install.php:27
+msgid "Salon customer"
+msgstr "Client du salon"
+
+#: src/SLN/Action/Sms/Plivo.php:22
+msgid "Plivo: Please check your settings"
+msgstr "Plivo : veuillez vérifier vos réglages"
+
+#: src/SLN/Admin/Calendar.php:21
+msgid "Salon Calendar"
+msgstr "Calendrier du salon"
+
+#: src/SLN/Admin/Calendar.php:22
+#: views/admin/calendar.php:123
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: src/SLN/Admin/Customers.php:10
+msgid "Salon Customers"
+msgstr "Clients du salon"
+
+#: src/SLN/Admin/Customers.php:10
+#: views/admin/customers.php:2
+msgid "Customers"
+msgstr "Clients"
+
+#: src/SLN/Admin/Customers/BookingsList.php:27
+#: src/SLN/PostType/Booking.php:46
+#: views/mail/_header.php:28
+msgid "Booking ID"
+msgstr "ID de la réservation"
+
+#: src/SLN/Admin/Customers/BookingsList.php:28
+#: src/SLN/PostType/Booking.php:47
+msgid "Booking Date"
+msgstr "Date de la réservation"
+
+#: src/SLN/Admin/Customers/BookingsList.php:29
+#: src/SLN/PostType/Booking.php:48
+#: views/mail/_header.php:31
+#: views/mail/_summary_details.php:104
+#: views/metabox/booking.php:77
+#: views/shortcode/salon_my_account/_salon_my_account_details_table.php:13
+#: views/shortcode/salon_my_account/_salon_my_account_details_table_rows.php:15
+msgid "Status"
+msgstr "État"
+
+#: src/SLN/Admin/Customers/BookingsList.php:30
+#: src/SLN/PostType/Booking.php:50
+#: views/mail/_summary_details.php:30
+#: views/mail/_summary_details.php:49
+#: views/metabox/_booking_services.php:112
+msgid "Attendant"
+msgstr "Préposé"
+
+#: src/SLN/Admin/Customers/BookingsList.php:31
+#: src/SLN/PostType/Booking.php:52
+msgid "Booking Price"
+msgstr "Prix de réservation"
+
+#: src/SLN/Admin/Customers/BookingsList.php:32
+#: src/SLN/PostType/Booking.php:53
+msgid "Booking Services"
+msgstr "Services de réservation"
+
+#: src/SLN/Admin/Customers/BookingsList.php:33
+#: src/SLN/PostType/Booking.php:54
+msgid "Booking Review"
+msgstr "Relecture de la réservation"
+
+#: src/SLN/Admin/Customers/List.php:23
+msgid "Customer ID"
+msgstr "ID du client"
+
+#: src/SLN/Admin/Customers/List.php:24
+msgid "First Name"
+msgstr "Prénom"
+
+#: src/SLN/Admin/Customers/List.php:25
+msgid "Last Name"
+msgstr "Nom"
+
+#: src/SLN/Admin/Customers/List.php:26
+#: views/admin/_customer.php:44
+#: views/metabox/attendant.php:9
+#: views/metabox/booking.php:159
+#: views/shortcode/salon_details.php:26
+msgid "E-mail"
+msgstr "E-mail"
+
+#: src/SLN/Admin/Customers/List.php:27
+#: src/SLN/Enum/CheckoutFields.php:92
+#: src/SLN/PostType/Attendant.php:126
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: src/SLN/Admin/Customers/List.php:28
+msgid "Total Reservations"
+msgstr "Total des réservations"
+
+#: src/SLN/Admin/Customers/List.php:29
+msgid "Customer Value"
+msgstr "Valeur client"
+
+#: src/SLN/Admin/Customers/List.php:153
+msgid "Edit"
+msgstr "Modifier"
+
+#: src/SLN/Admin/Customers/List.php:164
+msgid "Search customers"
+msgstr "Rechercher des clients"
+
+#: src/SLN/Admin/Reports.php:12
+msgid "Salon Reports"
+msgstr "Rapports du salon"
+
+#: src/SLN/Admin/Reports.php:13
+#: views/admin/_reports_bookings.php:2
+#: views/admin/reports.php:2
+msgid "Reports"
+msgstr "Rapports"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:457
+#: views/admin/calendar.php:208
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:458
+msgid "Yesterday"
+msgstr "Hier"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:459
+msgid "This Week"
+msgstr "Cette semaine"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:460
+msgid "Last Week"
+msgstr "La semaine dernière"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:461
+msgid "This Month"
+msgstr "Ce mois-ci"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:462
+msgid "Last Month"
+msgstr "Le mois dernier"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:463
+msgid "This Quarter"
+msgstr "Ce trimestre"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:464
+msgid "Last Quarter"
+msgstr "Le dernier trimestre"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:465
+msgid "This Year"
+msgstr "Cette année"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:466
+msgid "Last Year"
+msgstr "L’année dernière"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:467
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:491
+#: views/discount/metabox/_discount_advanced.php:120
+msgid "From"
+msgstr "De"
+
+#: src/SLN/Admin/Reports/AbstractReport.php:507
+#: views/discount/metabox/_discount_advanced.php:129
+#: views/discount/metabox/_discount_details.php:51
+msgid "To"
+msgstr "À"
+
+#: src/SLN/PostType/Booking.php:219
+#, php-format
+msgid " <span class=\"count\">(%s)</span>"
+msgid_plural " <span class=\"count\">(%s)</span>"
+msgstr[0] " <span class=\"count\">(%s)</span>"
+msgstr[1] " <span class=\"count\">(%s)</span>"
+
+#: src/SLN/PostType/Service.php:164
+msgid "YES"
+msgstr "OUI"
+
+#: views/discount/metabox/_discount_details.php:25
+msgid "%"
+msgstr "%"
+
+#: views/discount/shortcode/_salon_summary_after_total_amount.php:31
+msgid "Apply"
+msgstr "Appliquer"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://salon.wpchef.it/"
+msgstr "http://salon.wpchef.it/"
+
+#. Author of the plugin/theme
+msgid "Wordpress Chef / Plugins"
+msgstr "Wordpress Chef / Plugins"
