@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i-transform\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/i-transform\n"
+"Last-Translator: Raphael Mendonça\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/wp-translations/i-transform/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-03-05 11:03:33+00:00\n"
+"PO-Revision-Date: 2017-12-14 18:23:03\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 404.php:16
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Isso é embaraçoso, não?"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado neste endereço. Que tal tentar fazer uma pesquisa?"
+
+#: archive.php:28
+msgid "Daily Archives: %s"
+msgstr "Arquivos Diários: %s"
+
+#: archive.php:30
+msgid "Monthly Archives: %s"
+msgstr "Arquivos Mensais: %s"
+
+#: archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:32
+msgid "Yearly Archives: %s"
+msgstr "Arquivos Anuais: %s"
+
+#: archive.php:32
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Archives"
+msgstr "Arquivos"
+
+#: author-bio.php:26
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: author-bio.php:30
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ver todos posts de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: author.php:31
+msgid "All posts by %s"
+msgstr "Todos os posts de %s"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Arquivos da categoria: %s"
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] "%1$s ideias sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "Navegação do comentário"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários Antigos"
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr "Comentários Recentes &rarr;"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Comentários não permitidos."
+
+#: content-aside.php:13
+#: content-audio.php:24
+#: content-gallery.php:24
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:13
+#: content-status.php:13
+#: content-video.php:23
+#: content.php:68
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:14
+#: content-audio.php:25
+#: content-chat.php:24
+#: content-gallery.php:25
+#: content-image.php:24
+#: content-link.php:25
+#: content-quote.php:14
+#: content-status.php:14
+#: content-video.php:24
+#: content.php:69
+#: image.php:70
+#: page-sidebar.php:36
+#: page.php:35
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-aside.php:20
+#: content-aside.php:28
+#: content-audio.php:31
+#: content-chat.php:29
+#: content-gallery.php:39
+#: content-image.php:35
+#: content-link.php:19
+#: content-quote.php:25
+#: content-status.php:19
+#: content-video.php:35
+#: content.php:58
+#: featured.php:54
+#: image.php:44
+#: page-sidebar.php:40
+#: page.php:39
+msgid "Edit"
+msgstr "Editar"
+
+#: content-gallery.php:36
+#: content-image.php:32
+#: content-quote.php:22
+#: content-video.php:32
+#: content.php:76
+#: featured.php:22
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+#: content-gallery.php:36
+#: content-image.php:32
+#: content-quote.php:22
+#: content-video.php:32
+#: content.php:76
+#: featured.php:22
+msgid "One comment so far"
+msgstr "Um comentário até agora"
+
+#: content-gallery.php:36
+#: content-image.php:32
+#: content-quote.php:22
+#: content-video.php:32
+#: content.php:76
+#: featured.php:22
+msgid "View all % comments"
+msgstr "Ver todos % comentários"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "Nada correspondeu aos seus termos. Tente novamente com palavras-chaves diferentes."
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não encontramos o que você estava procurando. Talvez uma pesquisa possa ajudar."
+
+#. Translators: used between list items, there is a space after the comma.
+#: featured.php:43
+#: featured.php:49
+#: functions.php:375
+#: functions.php:381
+msgid ", "
+msgstr ", "
+
+#: footer.php:19
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: footer.php:22
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:22
+msgid "Semantic Personal Publishing Platform"
+msgstr "Plataforma de Publicação Pessoal Semântica"
+
+#: footer.php:23
+msgid "Powered by %s"
+msgstr "Disponibilizado por "
+
+#: footer.php:25
+msgid ", Designed and Developed by"
+msgstr ", Desenhado e Desenvolvido por"
+
+#: footer.php:26
+msgid "http://www.templatesnext.org/"
+msgstr "http://www.templatesnext.org/"
+
+#: footer.php:27
+msgid "templatesnext"
+msgstr "templatesnext"
+
+#: functions.php:95
+msgid "Navigation Menu"
+msgstr "Menu de navegação"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Source Sans Pro, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:133
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ativada"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Bitter, translate this to 'off'. Do not translate into
+#. your
+#. * own language.
+#: functions.php:139
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "ativada"
+
+#: functions.php:249
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:264
+msgid "Main Widget Area"
+msgstr "Área de widgets principal"
+
+#: functions.php:266
+msgid "Appears in the footer section of the site."
+msgstr "Aparece no rodapé do site."
+
+#: functions.php:274
+msgid "Main Sidebar Widget Area"
+msgstr " Área principal de widgets da barra lateral "
+
+#: functions.php:276
+msgid "Appears on posts and pages in the sidebar."
+msgstr "Aparece nos posts e nas páginas na barra lateral."
+
+#: functions.php:310
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:311
+msgid "Next"
+msgstr "Seguinte"
+
+#: functions.php:315
+msgid "Posts navigation"
+msgstr "Navegação por posts"
+
+#: functions.php:345
+msgid "Post navigation"
+msgstr "Navegação do post"
+
+#: functions.php:348
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:349
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:369
+msgid "Sticky"
+msgstr "Fixo"
+
+#: functions.php:390
+msgid "View all posts by %s"
+msgstr "Ver todos os posts de %s"
+
+#: functions.php:410
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s em %2$s"
+
+#: functions.php:416
+msgid "Permalink to %s"
+msgstr "Link permanente para %s"
+
+#: functions.php:611
+msgid "Read More..."
+msgstr "Leia mais…"
+
+#: header.php:42
+msgid "Call us : "
+msgstr "Contate-nos: "
+
+#: header.php:67
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:68
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: image.php:22
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr "<span class=\"attachment-meta\">Publicado em <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> em <a href=\"%3$s\" title=\"Voltar para %4$s\" rel=\"gallery\">%5$s</a></span>"
+
+#: image.php:38
+msgid "Link to full-size image"
+msgstr "Link para imagem em tamanho real"
+
+#: image.php:39
+msgid "Full resolution"
+msgstr "Resolução original"
+
+#: image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Próximo <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/custom-header.php:51
+msgctxt "header image description"
+msgid "Circle"
+msgstr "Círculo"
+
+#: inc/custom-header.php:56
+msgctxt "header image description"
+msgid "Diamond"
+msgstr "Diamante"
+
+#: inc/custom-header.php:61
+msgctxt "header image description"
+msgid "Star"
+msgstr "Estrela"
+
+#: inc/includes/class-options-framework-admin.php:85
+#: inc/includes/class-options-framework-admin.php:86
+#: inc/includes/class-options-framework-admin.php:314
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#. #-#-#-#-#  i-transform.pot (i-transform 1.5)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/includes/class-options-framework-admin.php:157
+msgid "http://templatesnext.org/itrans/"
+msgstr "http://templatesnext.org/itrans/"
+
+#: inc/includes/class-options-framework-admin.php:158
+msgid "http://facebook.com/templatesnext/"
+msgstr "http://facebook.com/templatesnext/"
+
+#: inc/includes/class-options-framework-admin.php:180
+msgid "Save Options"
+msgstr "Salvar Opções"
+
+#: inc/includes/class-options-framework-admin.php:181
+msgid "Restore Defaults"
+msgstr "Restaurar Padões"
+
+#: inc/includes/class-options-framework-admin.php:181
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Clique em OK para reiniciar. Quaisquer configurações de tema serão perdidas!"
+
+#: inc/includes/class-options-framework-admin.php:212
+msgid "Default options restored."
+msgstr "Opções padrão restauradas"
+
+#: inc/includes/class-options-framework-admin.php:266
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr "Nenhum arquivo selecionado"
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr "Enviar"
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Atualize sua versão do WordPress para um suporte de mídia completo."
+
+#: inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr "Ver Arquivo"
+
+#: inc/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr "Sem Repetição"
+
+#: inc/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr "Repetir Horizontalmente"
+
+#: inc/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr "Repetir Verticalmente"
+
+#: inc/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr "Repetir Tudo"
+
+#: inc/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr "Em cima à esquerda"
+
+#: inc/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr "Em cima no centro"
+
+#: inc/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr "Em cima à direita"
+
+#: inc/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr "Meio a esquerda"
+
+#: inc/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr "Meio no centro"
+
+#: inc/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr "Meio à Direita"
+
+#: inc/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr "Embaixo à esquerda"
+
+#: inc/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr "Em baixo no centro"
+
+#: inc/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr "Embaixo à direita"
+
+#: inc/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr "Rolar Normalmente"
+
+#: inc/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr "Fixo no local"
+
+#: inc/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr "Itálico"
+
+#: inc/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr "Negrito"
+
+#: inc/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr "Negrito e Itálico"
+
+#: inc/widgets/contact-widget.php:13
+msgid "Displays conatct info with icons"
+msgstr "Exibir informações de contatos com ícones"
+
+#: inc/widgets/contact-widget.php:19
+msgid "itransform: Contact widget"
+msgstr "itransform: widget de contato"
+
+#: inc/widgets/contact-widget.php:42
+#: inc/widgets/contact-widget.php:86
+msgid "Address"
+msgstr "Endereço"
+
+#: inc/widgets/contact-widget.php:46
+#: inc/widgets/contact-widget.php:91
+msgid "Phone"
+msgstr "Telefone"
+
+#: inc/widgets/contact-widget.php:50
+#: inc/widgets/contact-widget.php:96
+msgid "Email"
+msgstr "Email"
+
+#: inc/widgets/contact-widget.php:76
+msgid "Contact"
+msgstr "Contato"
+
+#: inc/widgets/contact-widget.php:81
+msgid "Title"
+msgstr "Título"
+
+#: options.php:32
+msgid "One"
+msgstr "Um"
+
+#: options.php:33
+msgid "Two"
+msgstr "Dois"
+
+#: options.php:34
+msgid "Three"
+msgstr "Três"
+
+#: options.php:35
+msgid "Four"
+msgstr "Qutro"
+
+#: options.php:36
+msgid "Five"
+msgstr "Cinco"
+
+#: options.php:41
+msgid "French Toast"
+msgstr "French Toast"
+
+#: options.php:42
+msgid "Pancake"
+msgstr "Panqueca"
+
+#: options.php:43
+msgid "Omelette"
+msgstr "Omelete"
+
+#: options.php:44
+msgid "Crepe"
+msgstr "Crepe"
+
+#: options.php:45
+msgid "Waffle"
+msgstr "Waffle"
+
+#: options.php:105
+msgid "Basic Settings"
+msgstr "Configurações Básicas"
+
+#: options.php:109
+msgid "Phone Number"
+msgstr "Numero de Telefone"
+
+#: options.php:110
+msgid "Phone number that appears on top bar."
+msgstr "Número de telefone que aparece na barra superior."
+
+#: options.php:144
+msgid "Social Links "
+msgstr "Link Social"
+
+#: options.php:148
+msgid "Facebook"
+msgstr "Facebook"
+
+#: options.php:155
+msgid "Twitter"
+msgstr "Twitter"
+
+#: options.php:162
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: options.php:169
+msgid "Flickr"
+msgstr "Flickr"
+
+#: options.php:176
+msgid "RSS"
+msgstr "RSS"
+
+#: options.php:183
+msgid "Instagram"
+msgstr "Instagram"
+
+#: options.php:191
+msgid "Slider"
+msgstr "Carrossel"
+
+#: options.php:195
+msgid "Slide1 Title"
+msgstr "Título do Slide1 "
+
+#: options.php:202
+msgid "Slide1 Description"
+msgstr "Descrição do Slide1"
+
+#: options.php:209
+msgid "Slide1 Link text"
+msgstr "Texto do link do Slide1 "
+
+#: options.php:216
+msgid "Slide1 Link URL"
+msgstr "URL do Link pra o Slide1"
+
+#: options.php:223
+msgid "Slide1 Image"
+msgstr "Imagem do Slide1 "
+
+#: options.php:231
+msgid "Slide2 Title"
+msgstr "Título do Slide2"
+
+#: options.php:238
+msgid "Slide2 Description"
+msgstr "Descrição do Slide2 "
+
+#: options.php:245
+msgid "Slide2 Link text"
+msgstr "Texto do link do Slide2"
+
+#: options.php:252
+msgid "Slide2 Link URL"
+msgstr "URL do Link pra o Slide2"
+
+#: options.php:259
+msgid "Slide2 Image"
+msgstr "Imagem do Slide2"
+
+#: options.php:268
+msgid "Slide3 Title"
+msgstr "Título do Slide3"
+
+#: options.php:275
+msgid "Slide3 Description"
+msgstr "Descrição do Slide3 "
+
+#: options.php:282
+msgid "Slide3 Link text"
+msgstr "Texto do link do Slide3"
+
+#: options.php:289
+msgid "Slide3 Link URL"
+msgstr "URL do Link pra o Slide3"
+
+#: options.php:296
+msgid "Slide3 Image"
+msgstr "Imagem do Slide3 "
+
+#: options.php:305
+msgid "Slide4 Title"
+msgstr "Título do Slide4"
+
+#: options.php:312
+msgid "Slide4 Description"
+msgstr "Descrição do Slide4 "
+
+#: options.php:319
+msgid "Slide4 Link text"
+msgstr "Texto do link do Slide4"
+
+#: options.php:326
+msgid "Slide4 Link URL"
+msgstr "URL do Link pra o Slide4 "
+
+#: options.php:333
+msgid "Slide4 Image"
+msgstr "Imagem do Slide4 "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados da Pesquisa por: %s"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Arquivos de Tags: %s"
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr "Arquivo de %s"
+
+#. Theme Name of the plugin/theme
+msgid "i-transform"
+msgstr "i-transform"
+
+#. Description of the plugin/theme
+msgid "The i-transform theme for WordPress is developed using a populer theme \"Twenty Thirteen\" giving you all the features if Twenty Thirteen plus several additional features like easy to use admin theme admin options, featured post section, 5 color schemes, etc."
+msgstr "O tema i-transform para WordPress foi desenvolvido utilizando o popular tema \"Twenty Thirteen\" disponibilizando todos os recursos do Twenty Thirteen mais deiversos recursos adicionais, como opções de temas e administração fáceis de utilizar,recursos na seção de postagem, 5 esquemas de cores, etc."
+
+#. Author of the plugin/theme
+msgid "templatesnext team"
+msgstr "equipe templatesnext "
+
+#. Author URI of the plugin/theme
+msgid "http://templatesnext.org/"
+msgstr "http://templatesnext.org/"
+
+#. Template Name of the plugin/theme
+msgid "Page with no sidebar"
+msgstr "Página sem barra lateral"
