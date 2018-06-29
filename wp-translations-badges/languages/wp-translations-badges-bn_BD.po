@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Translations Badges\n"
+"Report-Msgid-Bugs-To: https://github.com/WP-Translations/wp-translations-badges/issues\n"
+"Last-Translator: MD. AL-AMIN <alamin_opu@yahoo.com>\n"
+"Language-Team: Bengali (Bangladesh) (http://www.transifex.com/wp-translations/wp-translations-badges/language/bn_BD/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-02-11 16:33:57+00:00\n"
+"PO-Revision-Date: 2017-09-20 02:33:55\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: class-wp-translations-badges.php:179
+msgid "Visit the GitHub plugin page"
+msgstr "গিটহাব প্লাগিন পেজ ভিজিট করুন"
+
+#: class-wp-translations-badges.php:180
+msgid "Join us on Transifex"
+msgstr "Transifex এ অামাদের সাথে যোগ দিন"
+
+#: class-wp-translations-badges.php:180
+msgid "Translate"
+msgstr "অনুবাদ করুন"
+
+#: class-wp-translations-badges.php:344
+msgid "WP-Translations Badges Shortcode Builder"
+msgstr "WP-Translations ব্যাজ শর্টকোড প্রস্তুতকারক"
+
+#: class-wp-translations-badges.php:345
+#: class-wp-translations-badges.php:513
+msgid "Insert Shortcode"
+msgstr "শর্টকোড প্রবেশ করুন"
+
+#: class-wp-translations-badges.php:345
+msgid "WP-T Badges"
+msgstr "WP-T ব্যাজ"
+
+#: class-wp-translations-badges.php:364
+msgid "Your content goes here"
+msgstr "অাপনার কন্টেন্ট এখানে"
+
+#: class-wp-translations-badges.php:438
+#: includes/widget-wp_translations_badge.php:179
+msgid "Add Another"
+msgstr "অারেকটি যোগ করুন"
+
+#: class-wp-translations-badges.php:452
+#: includes/widget-wp_translations_badge.php:149
+#: includes/widget-wp_translations_badge.php:185
+msgid "Remove"
+msgstr "অপসারণ"
+
+#: class-wp-translations-badges.php:503
+msgid "Shortcode Builder"
+msgstr "শর্টকোড প্রস্তুতকারক"
+
+#: configs/wp_translations_badge-configuration.php:15
+msgid "Configuration"
+msgstr "কনফিগারেশন"
+
+#: configs/wp_translations_badge-configuration.php:20
+#: configs/wp_translations_badge-settings.php:20
+msgid "Badge Type:"
+msgstr "ব্যাজের ধরন:"
+
+#: configs/wp_translations_badge-configuration.php:21
+#: configs/wp_translations_badge-settings.php:21
+msgid "Type of badge to display"
+msgstr "প্রদর্শন করার জন্য ব্যাজের ধরন"
+
+#. translators: Important don't translate translator, developer, donor,
+#. supporter
+#: configs/wp_translations_badge-configuration.php:24
+#: configs/wp_translations_badge-settings.php:24
+msgid "*translator||I'm Translating,developer||I'm Developing,donor||I'm a Donor,supporter||I'm a Supporter"
+msgstr "*অনুবাদক॥অামি অনুবাদ করতেছি, ডেভলপার॥অামি ডেভলপ করতেছি, দাতা॥অামি একজন দাতা, সমর্থক॥অামি একজন সমর্থক"
+
+#: configs/wp_translations_badge-configuration.php:27
+msgid "Alignment:"
+msgstr "সমান করা:"
+
+#: configs/wp_translations_badge-configuration.php:28
+msgid "Alignment"
+msgstr "সমান করা"
+
+#: configs/wp_translations_badge-configuration.php:35
+msgid "Transifex username:"
+msgstr "Transifex ব্যাবহারকারীরনাম:"
+
+#: configs/wp_translations_badge-configuration.php:36
+msgid "Transifex username"
+msgstr "Transifex ব্যাবহারকারীরনাম"
+
+#: configs/wp_translations_badge-configuration.php:42
+msgid "Project slug:"
+msgstr "প্রজেক্ট স্লাগ:"
+
+#: configs/wp_translations_badge-configuration.php:43
+msgid "Project slug"
+msgstr "প্রজেক্ট স্লাগ"
+
+#: configs/wp_translations_badge-settings.php:15
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: includes/element-wp_translations_badge.php:14
+msgid "I am a Translator in WP-Translations Community"
+msgstr "অামি WP-Translations Community এর একজন অনুবাদক"
+
+#: includes/element-wp_translations_badge.php:20
+msgid "I Use WP-Translations Community for my i18n"
+msgstr "অামি WP-Translations Community ব্যবহার করি অামার i18n জন্যে"
+
+#: includes/element-wp_translations_badge.php:24
+msgid "I am a Proud Donor of WP-Translations Community"
+msgstr "অামি WP-Translations Community এর একজন গর্বিত দাতা"
+
+#: includes/element-wp_translations_badge.php:28
+msgid "I am a big Fan of WP-Translations Community"
+msgstr "অামি WP-Translations Community এর একজন বড় সমর্থক"
+
+#: includes/field-onoff.php:3
+msgid "On"
+msgstr "খোলা"
+
+#: includes/field-onoff.php:3
+msgid "Off"
+msgstr "বন্ধ করা"
+
+#: includes/widget-wp_translations_badge.php:22
+msgid "Display a WP-Translations Badge."
+msgstr "একটি WP-Translations ব্যাজ প্রদর্শন করুন"
+
+#. Description of the plugin/theme
+msgid "Display WP-Translations badges on your site with Shortcode or Widget"
+msgstr "WP-Translations ব্যাজ অাপনার সাইটে প্রদর্শন করুন শর্টকোড অথবা উইজেডের মাধ্যমে"
+
+#. translators: Important only translate Uppercase Words
+#: configs/wp_translations_badge-configuration.php:31
+msgctxt "important only translate Uppercase Words"
+msgid "*none||None,left||Left,center||Center,right||Right"
+msgstr "*একটুও নাহ॥একটুও নাহ, বাম॥বাম, মাঝে॥মাঝে, ডান॥ডান"
+
+#: configs/wp_translations_badge-configuration.php:38
+msgctxt "wp-translations-badges"
+msgid "*TX username"
+msgstr "*TX ব্যাবহারকারীরনাম"
+
+#: configs/wp_translations_badge-configuration.php:45
+msgctxt "wp-translations-badges"
+msgid "*Project slug"
+msgstr "*প্রজেক্ট স্লাগ"
