@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Dashboard Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-dashboard-notes\n"
+"Last-Translator: evigiannakou <evigian@in.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/wp-translations/wp-dashboard-notes/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-02 09:03:33+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:40:13\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+#: includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Σημείωση"
+
+#: includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Νέο πολυμέσο"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Προσθήκη Νέας Σημείωσης"
+
+#: includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Επεξεργασία Σημείωσης"
+
+#: includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Νέα Σημείωση"
+
+#: includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Προβολή Σημείωσης"
+
+#: includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Αναζήτηση Σημειώσεων"
+
+#: includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "Δεν υπάρχουν Σημειώσεις"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Δεν βρέθηκαν Σημειώσεις στον Κάδο."
+
+#: includes/class-wpdn-ajax.php:108
+#: includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Νέα σημείωση"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Κατάλογος στοιχείων"
+
+#: includes/templates/note-list.php:16
+#: includes/templates/note.php:15
+msgid "Just me"
+msgstr "Μόνο εγώ"
+
+#: includes/templates/note-list.php:20
+#: includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Όλοι"
+
+#: includes/templates/note-list.php:24
+#: includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Ορατότητα:"
+
+#: includes/templates/note-list.php:28
+#: includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "Δώστε χρώμα!"
+
+#: includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Μετατροπή σε κανονική σημείωση"
+
+#: includes/templates/note-list.php:45
+#: includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Προσθήκη νέας σημείωσης"
+
+#: includes/templates/note-list.php:50
+#: includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Διαγραφή σημείωσης"
+
+#: includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Μετατροπή σε κατάλογο σημειώσεων"
+
+#: wp-dashboard-notes.php:218
+msgid "Add note"
+msgstr "Προσθήκη σημείωσης"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.jeroensormani.com"
+msgstr "http://www.jeroensormani.com"
+
+#. Description of the plugin/theme
+msgid "Working with multiple persons on a website? Want to make notes? You can do just that with WP Dashboard Notes. Create beautiful notes with a nice user experience."
+msgstr "Εργάζεστε με πολλά άτομα σε ένα ιστότοπο; Θέλετε να σημειώνετε; Μπορείτε να κάνετε ακριβώς αυτό με το WP Dashboard Notes.  Δημιουργήστε όμορφες σημειώσεις με μια ωραία εμπειρία χρήστη."
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
