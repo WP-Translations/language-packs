@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coming Soon\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Sebastien <sebastien@sebs-studio.com>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/woocommerce-coming-soon/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-06-23 00:46+0100\n"
+"PO-Revision-Date: 2017-09-20 01:07:22\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:27
+msgid "Set for Coming Soon?"
+msgstr "Set for Coming Soon?"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:29
+msgid "Make sure that you have set the stock to \"Out of Stock\"."
+msgstr "Make sure that you have set the stock to \"Out of Stock\"."
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:36
+msgid "Coming Soon Label"
+msgstr "Coming Soon Label"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:37
+#: includes/woocommerce-coming-soon-functions.php:27
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:39
+msgid "Enter the label you want to show if coming soon is set. Default: Coming Soon"
+msgstr "Enter the label you want to show if coming soon is set. Default: Coming Soon"
+
+#: woocommerce-coming-soon.php:168
+#: woocommerce-coming-soon.php:180
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: woocommerce-coming-soon.php:222
+msgid "Documentation"
+msgstr "Documentation"
+
+#: woocommerce-coming-soon.php:223
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-coming-soon.php:224
+msgid "More Free Extensions"
+msgstr "More Free Extensions"
+
+#: woocommerce-coming-soon.php:288
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade your WordPress setup."
+msgstr "Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade your WordPress setup."
+
+#: woocommerce-coming-soon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce to be installed and activatd first. Please <a href=\"%s\">install WooCommerce</a> first."
+msgstr "Sorry, <strong>%s</strong> requires WooCommerce to be installed and activatd first. Please <a href=\"%s\">install WooCommerce</a> first."
+
+#: woocommerce-coming-soon.php:312
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce %s or higher. Please update WooCommerce for %s to work."
+msgstr "Sorry, <strong>%s</strong> requires WooCommerce %s or higher. Please update WooCommerce for %s to work."
