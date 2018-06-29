@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whistles\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: English (United States) (http://www.transifex.com/wp-translations/whistles/language/en_US/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-12 13:38-0600\n"
+"PO-Revision-Date: 2017-09-20 01:17:44\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__;esc_html_e;esc_html__;_n;_x;_x:1,2c;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:100
+msgid "Add Whistles"
+msgstr "Add Whistles"
+
+#: admin/admin.php:129
+#: inc/class-whistles-widget.php:135
+msgid "Ascending"
+msgstr "Ascending"
+
+#: admin/admin.php:130
+#: inc/class-whistles-widget.php:136
+msgid "Descending"
+msgstr "Descending"
+
+#: admin/admin.php:135
+#: inc/class-whistles-widget.php:141
+msgid "Author"
+msgstr "Author"
+
+#: admin/admin.php:136
+#: inc/class-whistles-widget.php:142
+msgid "Date"
+msgstr "Date"
+
+#: admin/admin.php:137
+#: inc/class-whistles-widget.php:143
+msgid "ID"
+msgstr "ID"
+
+#: admin/admin.php:138
+#: inc/class-whistles-widget.php:144
+msgid "Random"
+msgstr "Random"
+
+#: admin/admin.php:139
+#: inc/class-whistles-widget.php:145
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/admin.php:140
+#: inc/class-whistles-widget.php:146
+msgid "Title"
+msgstr "Title"
+
+#: admin/admin.php:151
+#: admin/admin.php:158
+msgid "Insert"
+msgstr "Insert"
+
+#: admin/admin.php:184
+#: inc/class-whistles-widget.php:153
+msgid "You need at least one whistle group to display whistles."
+msgstr "You need at least one whistle group to display whistles."
+
+#: admin/admin.php:186
+#: inc/class-whistles-widget.php:155
+msgid "Whistle Groups &rarr;"
+msgstr "Whistle Groups &rarr;"
+
+#: admin/admin.php:190
+#: admin/admin.php:237
+msgid "Cancel"
+msgstr "Cancel"
+
+#: admin/admin.php:194
+msgid "Type"
+msgstr "Type"
+
+#: admin/admin.php:203
+msgid "Group"
+msgstr "Group"
+
+#: admin/admin.php:213
+msgid "Number of whistles to display"
+msgstr "Number of whistles to display"
+
+#: admin/admin.php:217
+#: inc/class-whistles-widget.php:185
+msgid "Order"
+msgstr "Order"
+
+#: admin/admin.php:226
+msgid "Order By"
+msgstr "Order By"
+
+#: admin/admin.php:236
+msgid "Insert Whistles"
+msgstr "Insert Whistles"
+
+#: inc/class-whistles-and-bells.php:164
+#, php-format
+msgid "The %s method must be overwritten in a sub-class."
+msgstr "The %s method must be overwritten in a sub-class."
+
+#: inc/class-whistles-widget.php:26
+msgid "Tabs, toggles, accordions, bells, whistles, and all that jazz."
+msgstr "Tabs, toggles, accordions, bells, whistles, and all that jazz."
+
+#: inc/class-whistles-widget.php:38
+#: inc/post-types.php:82
+#: inc/post-types.php:84
+#: inc/post-types.php:94
+msgid "Whistles"
+msgstr "Whistles"
+
+#: inc/class-whistles-widget.php:161
+msgid "Title:"
+msgstr "Title:"
+
+#: inc/class-whistles-widget.php:165
+msgid "Type:"
+msgstr "Type:"
+
+#: inc/class-whistles-widget.php:173
+msgid "Group:"
+msgstr "Group:"
+
+#: inc/class-whistles-widget.php:181
+msgid "Limit:"
+msgstr "Limit:"
+
+#: inc/class-whistles-widget.php:193
+msgid "Order By:"
+msgstr "Order By:"
+
+#: inc/functions.php:30
+msgid "Tabs"
+msgstr "Tabs"
+
+#: inc/functions.php:31
+msgid "Toggle"
+msgstr "Toggle"
+
+#: inc/functions.php:32
+msgid "Accordion"
+msgstr "Accordion"
+
+#: inc/post-types.php:83
+#: inc/post-types.php:85
+msgid "Whistle"
+msgstr "Whistle"
+
+#: inc/post-types.php:86
+msgid "Add New"
+msgstr "Add New"
+
+#: inc/post-types.php:87
+msgid "Add New Whistle"
+msgstr "Add New Whistle"
+
+#: inc/post-types.php:88
+msgid "Edit Whistle"
+msgstr "Edit Whistle"
+
+#: inc/post-types.php:89
+msgid "New Whistle"
+msgstr "New Whistle"
+
+#: inc/post-types.php:90
+msgid "View Whistle"
+msgstr "View Whistle"
+
+#: inc/post-types.php:91
+msgid "Search Whistles"
+msgstr "Search Whistles"
+
+#: inc/post-types.php:92
+msgid "No whistles found"
+msgstr "No whistles found"
+
+#: inc/post-types.php:93
+msgid "No whistles found in trash"
+msgstr "No whistles found in trash"
+
+#: inc/taxonomies.php:49
+#: inc/taxonomies.php:51
+msgid "Whistle Groups"
+msgstr "Whistle Groups"
+
+#: inc/taxonomies.php:50
+#: inc/taxonomies.php:52
+msgid "Whistle Group"
+msgstr "Whistle Group"
+
+#: inc/taxonomies.php:53
+msgid "Search Whistle Groups"
+msgstr "Search Whistle Groups"
+
+#: inc/taxonomies.php:54
+msgid "Popular Whistle Groups"
+msgstr "Popular Whistle Groups"
+
+#: inc/taxonomies.php:55
+msgid "All Whistle Groups"
+msgstr "All Whistle Groups"
+
+#: inc/taxonomies.php:56
+msgid "Edit Whistle Group"
+msgstr "Edit Whistle Group"
+
+#: inc/taxonomies.php:57
+msgid "View Whistle Group"
+msgstr "View Whistle Group"
+
+#: inc/taxonomies.php:58
+msgid "Update Whistle Group"
+msgstr "Update Whistle Group"
+
+#: inc/taxonomies.php:59
+msgid "Add New Whistle Group"
+msgstr "Add New Whistle Group"
+
+#: inc/taxonomies.php:60
+msgid "New Whistle Group Name"
+msgstr "New Whistle Group Name"
+
+#: inc/taxonomies.php:61
+msgid "Separate whistle groups with commas"
+msgstr "Separate whistle groups with commas"
+
+#: inc/taxonomies.php:62
+msgid "Add or remove whistle groups"
+msgstr "Add or remove whistle groups"
+
+#: inc/taxonomies.php:63
+msgid "Choose from the most used whistle groups"
+msgstr "Choose from the most used whistle groups"
