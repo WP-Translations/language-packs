@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"Last-Translator: Pham Thi Khanh Huyen <dikhotheta@gmail.com>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/wp-translations/visual/language/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-12 17:24:12+00:00\n"
+"PO-Revision-Date: 2017-09-20 11:05:24\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: grunt-wp-i18n 0.4.8\n"
+
+#: 404.php:16
+msgid "Oops! That page can&apos;t be found."
+msgstr "Ồ! Không tìm thấy trang đó."
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Có vẻ như không có gì được tìm thấy ở địa điểm này. Có lẽ bạn nên thử một vài liên kết dưới đây hoặc một tìm kiếm?"
+
+#: archive.php:19
+msgid "Category Archives: %s"
+msgstr "Chuyên mục lưu trữ: %s"
+
+#: archive.php:22
+msgid "Tag Archives: %s"
+msgstr "Lưu trữ cho từ khóa: %s"
+
+#: archive.php:29
+msgid "Author Archives: %s"
+msgstr "Lưu trữ của tác giả: %s"
+
+#: archive.php:37
+msgid "Daily Archives: %s"
+msgstr "Lưu trữ hàng ngày: %s"
+
+#: archive.php:40
+msgid "Monthly Archives: %s"
+msgstr "Lưu trữ hàng tháng: %s"
+
+#: archive.php:43
+msgid "Yearly Archives: %s"
+msgstr "Lưu trữ hàng năm: %s"
+
+#: archive.php:46
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: comments.php:39
+#: comments.php:59
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:40
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:41
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Phản hồi đã bị đóng."
+
+#: content-page.php:17
+#: content-single.php:64
+#: image.php:35
+#: image.php:108
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-single.php:26
+#: image.php:94
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:32
+#: content-single.php:35
+msgid ", "
+msgstr ", "
+
+#: content-single.php:42
+msgid "This entry was tagged %2$s."
+msgstr ""
+
+#: content-single.php:48
+msgid "This entry was posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: content-single.php:50
+msgid "This entry was posted in %1$s."
+msgstr "Bài này đã được đăng trong %1$s."
+
+#: content.php:17
+msgid "Permalink to %s"
+msgstr "Đường dẫn tĩnh đến%s"
+
+#: content.php:40
+msgid "Read More <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc thêm <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:48
+msgid "Comment"
+msgstr "Phản hồi"
+
+#: content.php:48
+msgid "1 Comment"
+msgstr "1 ý kiến"
+
+#: content.php:48
+msgid " % Comments"
+msgstr "% Bình luận"
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: image.php:24
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Đã xuất bản <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:39
+msgid "&larr; Previous"
+msgstr "&larr; Trang trước"
+
+#: image.php:40
+msgid "Next &rarr;"
+msgstr "Trang sau &rarr;"
+
+#: image.php:100
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Đăng một bình luận</a> hoặc để lại một theo dõi: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Theo dõi URL</a>."
+
+#: image.php:102
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Bình luận đã đóng, nhưng bạn vẫn có thể theo dõi: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Theo dõi URL</a>."
+
+#: image.php:104
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Theo dõi đã đóng, nhưng bạn có thể <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> đăng một bình luận </a>."
+
+#: image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Cả bình luận và theo dõi đều tạm thời bị đóng."
+
+#: inc/customizer.php:35
+msgid "Excerpts"
+msgstr "Trích đoạn"
+
+#: inc/customizer.php:45
+msgid "Display excerpts on archives"
+msgstr "Hiển thị trích đoạn trên văn bản"
+
+#: inc/customizer.php:54
+#: inc/customizer.php:74
+msgid "Footer Text"
+msgstr "Chân trang"
+
+#: inc/customizer.php:61
+#: inc/options-functions.php:41
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: inc/customizer.php:63
+#: inc/options-functions.php:43
+msgid "Theme: Visual"
+msgstr "Giao diện: Trực quan"
+
+#: inc/extras.php:73
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/template-tags.php:37
+msgid "Post navigation"
+msgstr "Duyệt bài viết"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "Trước"
+
+#: inc/template-tags.php:42
+msgid "Next"
+msgstr "Tiếp"
+
+#: inc/template-tags.php:47
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Bài viết cũ hơn"
+
+#: inc/template-tags.php:51
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bài viết mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:76
+#: inc/template-tags.php:99
+msgid "(Edit)"
+msgstr "(Chỉnh sửa)"
+
+#: inc/template-tags.php:86
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">nói:</span>"
+
+#: inc/template-tags.php:89
+msgid "Your comment is awaiting moderation."
+msgstr "Ý kiến của bạn là đang chờ kiểm duyệt."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:97
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#: inc/template-tags.php:124
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "Đã đăng <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> bởi <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:130
+msgid "View all posts by %s"
+msgstr "Xem tất cả các bài viết của %s"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Dường như nội dung bạn tìm kiếm không có. Hãy thử dùng chức năng tìm kiếm."
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: searchform.php:10
+#: searchform.php:12
+msgid "Search"
+msgstr "Tìm"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Trình đơn"
+
+#. Theme Name of the plugin/theme
+msgid "Visual"
+msgstr "Hiển thị"
+
+#. Theme URI of the plugin/theme
+msgid "http://wptheming.com/2013/03/visual-theme/"
+msgstr "http://wptheming.com/2013/03/visual-theme/"
+
+#. Description of the plugin/theme
+msgid "Visual is a well-crafted responsive theme designed to showcase images, artwork and photgraphy in a smart grid layout.  An icon font ensures crisp display on retina devices and quick load times.  It's simple for new users to set up.  Developers can easily extend the code in a child theme.  For more information and a theme demo, visit: http://wptheming.com/?p=5277."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Devin Price"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wptheming.com"
+msgstr "http://wptheming.com"
+
+#. Template Name of the plugin/theme
+msgid "Full Width, No Sidebar"
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+"One thought on &ldquo;%2$s&rdquo;\n"
+"%1$s bình luận về &ldquo;%2$s&rdquo;"
+
+#: inc/template-tags.php:41
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:42
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
