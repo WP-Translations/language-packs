@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2018-06-20 09:04-0700\n"
-"PO-Revision-Date: 2018-06-13 21:49:57\n"
+"PO-Revision-Date: 2018-06-29 13:18:30\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.0.8\n"
@@ -18,6 +18,16 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-WPHeader: github-updater.php\n"
+
+#. translators: 1: minimum PHP version required, 2: Upgrade PHP URL
+#: github-updater.php:40
+#, php-format
+msgid "GitHub Updater cannot run on PHP versions older than %1$s. <a href=\"%2$s\">Learn about upgrading your PHP.</a>"
+msgstr "O GitHub Updater não pode ser executado versões do PHP anteriores à%1$s. <a href=\"%2$s\">Saiba mais sobre como actualizar o seu PHP.</a>"
+
+#: github-updater.php:42
+msgid "https://wordpress.org/support/upgrade-php/"
+msgstr "https://wordpress.org/support/upgrade-php/"
 
 #: mu/ghu-loader.php:66
 msgid "Activated as mu-plugin"
@@ -285,9 +295,29 @@ msgstr "Activar na rede"
 msgid "GitHub Updater Error Code:"
 msgstr "Código de erro do GitHub Updater:"
 
+#. translators: %s: wait time
+#: src/GitHub_Updater/Messages.php:116
+#, php-format
+msgid "GitHub API&#8217;s rate limit will reset in %s minutes."
+msgstr "A taxa limite da API do GitHub será reposta em %s minutos."
+
+#. translators: %s: GitHub personal access token URL
+#: src/GitHub_Updater/Messages.php:122
+#, php-format
+msgid "It looks like you are running into GitHub API rate limits. Be sure and configure a <a href=\"%s\"Personal Access Token</a> to avoid this issue."
+msgstr "Parece que se está a aproximar dos limites da API do GitHub. Configure um <a href=\"%s\"Personal Access Token</a> para evitar que isto aconteça."
+
 #: src/GitHub_Updater/Messages.php:154
 msgid "There is probably an access token or password error on the GitHub Updater Settings page."
 msgstr "Provavelmente existe um erro no Token de acesso ou senha na página de definições do GitHub Updater."
+
+#: src/GitHub_Updater/Messages.php:188
+msgid "GitHub Updater Information"
+msgstr "Informações do GitHub Updater"
+
+#: src/GitHub_Updater/Messages.php:190
+msgid "Please be patient while WP-Cron finishes making API calls."
+msgstr "Por favor aguarde enquanto o WP-Cron conclui as chamadas à API."
 
 #: src/GitHub_Updater/Plugin.php:327
 msgid "View details"
@@ -347,6 +377,14 @@ msgstr "Cache actualizada."
 msgid "Enable Branch Switching"
 msgstr "Permitir mudar ramo do plugin"
 
+#: src/GitHub_Updater/Settings.php:517
+msgid "Override Dot Org is <strong>active</strong>."
+msgstr "A função Override Dot Org está <strong>activada</strong>."
+
+#: src/GitHub_Updater/Settings.php:519
+msgid "Override Dot Org is <strong>not active</strong>."
+msgstr "A função Override Dot Org está <strong>desactivada</strong>."
+
 #: src/GitHub_Updater/Settings.php:521
 msgid "Override Dot Org will skip any updates from wordpress.org for plugins with identical slugs."
 msgstr "A função Override Dot Org irá ignorar actualizações de wordpress.org para plugins com slugs idênticas."
@@ -397,6 +435,13 @@ msgstr "Ver detalhes da versão %s."
 #: src/GitHub_Updater/Theme.php:349
 msgid "Automatic update is unavailable for this theme."
 msgstr "Actualizações automáticas indisponíveis para este tema."
+
+#. translators: 1: version number, 2: closing anchor tag, 3: update URL
+#: src/GitHub_Updater/Theme.php:354
+#: src/GitHub_Updater/Theme.php:539
+#, php-format
+msgid "View version %1$s details%2$s or %3$supdate now%2$s."
+msgstr "Ver detalhes da versão %1$s%2$s ou %3$sactualize agora%2$s."
 
 #. translators: %s: theme name
 #: src/GitHub_Updater/Theme.php:359
