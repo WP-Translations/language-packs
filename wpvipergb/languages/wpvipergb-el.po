@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"Last-Translator: Elektra M. <safiragon@yahoo.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/wp-translations/wp-vipergb/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-18 20:18:24+00:00\n"
+"PO-Revision-Date: 2017-09-20 02:00:28\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: _admin_menu.php:29
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: _admin_menu.php:61
+msgid "Options saved."
+msgstr "Οι επιλογές αποθηκεύτηκαν."
+
+#: _admin_menu.php:67
+msgid "WP-ViperGB Options"
+msgstr "Επιλογές WP-ViperGB"
+
+#: _admin_menu.php:69
+msgid "Manage Entries"
+msgstr "Διαχείριση Καταχωρήσεων"
+
+#: _admin_menu.php:73
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "Για να προσθέσετε Βιβλίο Επισκεπτών στο ιστολόγιό σας, απλά δημιουργήστε μια νέα σελίδα, επιλέξτε την στο πρώτο πλαίσιο επιλογών παρακάτω, και πατήστε \"Αποθήκευση\"."
+
+#: _admin_menu.php:80
+msgid "Main Settings"
+msgstr "Βασικές Ρυθμίσεις"
+
+#: _admin_menu.php:82
+msgid "Guestbook Page"
+msgstr "Σελίδα Βιβλίου Επισκεπτών"
+
+#: _admin_menu.php:93
+msgid "Guestbook Style"
+msgstr "Στυλ Βιβλίου Επισκεπτών"
+
+#: _admin_menu.php:107
+msgid "Extra Settings"
+msgstr "Επιπλέον Ρυθμίσεις"
+
+#: _admin_menu.php:108
+msgid "Entries Per Page"
+msgstr "Καταχωρήσεις ανά Σελίδα"
+
+#: _admin_menu.php:109
+msgid "Use Digg-style pagination"
+msgstr "Χρησιμοποιήστε σελιδοποίηση Digg-style"
+
+#: _admin_menu.php:110
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Αντιστροφή Ταξινόμησης (κατάλογος από παλαιότερα σε νεότερα)"
+
+#: _admin_menu.php:111
+msgid "Allow Image Uploads"
+msgstr "Επιτρέπεται η Μεταφόρτωση Εικόνων"
+
+#: _admin_menu.php:112
+msgid "Max Image Filesize (kb)"
+msgstr "Μέγιστο Μέγεθος Αρχείου Εικόνας (kb)"
+
+#: _admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Δεν επιτρέπονται ανώνυμες υπογραφές (ψευδώνυμο επιτρέπεται μόνο σε εγγεγραμμένους χρήστες)"
+
+#: _admin_menu.php:114
+msgid "Show Browser &amp; OS Icons"
+msgstr ""
+
+#: _admin_menu.php:115
+msgid "Show Flag Icons (Requires %s)"
+msgstr ""
+
+#: _admin_menu.php:116
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "Συμπερίληψη ενός Συνδέσμου στην <a href=\"%s\">αρχική σελίδα προσθέτου</a> (προαιρετικό, αλλά εκτιμάται ιδιαίτερα)"
+
+#: _admin_menu.php:118
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: _admin_menu.php:122
+msgid "Development"
+msgstr "Προγραμματισμός"
+
+#: _admin_menu.php:123
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Πολλές ώρες πέρασαν για να φτιάξω αυτό το πρόσθετο όσο πιο καθαρό και εύκολο στη χρήση είναι δυνατόν. Αν και σας το προσφέρω δωρεάν, παρακαλώ έχετε κατά νου ότι κάθε ώρα που ξοδεύτηκε γι'αυτό ήταν μια ώρα που θα μπορούσε επίσης να είχε πάει σε δουλειά που αποφέρει εισόδημα. Αν το βρήκατε χρήσιμο, μια μικρή δωρεά θα ήταν πάρα πολύ ευπρόσδεκτη :)"
+
+#: _admin_menu.php:134
+msgid "Credits"
+msgstr "Ευχαριστίες"
+
+#: _admin_menu.php:135
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "Το WP-ViperGB επωφελείται από τον κώδικα πολλών άλλων προσθέτων. Αυτά είναι:"
+
+#: _admin_menu.php:137
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Επιτρέπει στους χρήστες να ενσωματώνουν εικόνες στις καταχωρήσεις του βιβλίου επισκεπτών τους. <i>Αυτή η λειτουργία  περιλαμβάνεται από προεπιλογή, αλλά πρέπει να ενεργοποιηθεί ρητά παραπάνω.</i>"
+
+#: _admin_menu.php:138
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Προβολή πλοηγού και εικονιδίου λειτουργικού συστήματος σε κάθε καταχώρηση επισκέπτη στο βιβλίο επισκεπτών. <i>Αυτή η λειτουργία  περιλαμβάνεται από προεπιλογή.</i>"
+
+#: _admin_menu.php:139
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Προβολή εθνικής σημαίας σε κάθε καταχώρηση επισκέπτη στο βιβλίο επισκεπτών. <i>Αυτό το πρόσθετο πρέπει να εγκατασταθεί ξεχωριστά.</i>"
+
+#: _diggstyle.php:43
+#: _diggstyle.php:45
+msgid "prev"
+msgstr "προηγούμενο"
+
+#: _diggstyle.php:109
+#: _diggstyle.php:111
+msgid "next"
+msgstr "επόμενο"
+
+#: _output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Προβολή Βιβλίου Επισκεπτών"
+
+#: _output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Υπογραφή στο Βιβλίο Επισκεπτών"
+
+#: _output_guestbook.php:101
+msgid "entries"
+msgstr "καταχωρήσεις"
+
+#: _output_guestbook.php:111
+msgid "Page"
+msgstr "Σελίδα"
+
+#: _output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Δεν υπάρχουν καταχωρήσεις ακόμη"
+
+#: _output_guestbook.php:175
+msgid "EntryNo"
+msgstr ""
+
+#: _output_guestbook.php:184
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: _output_guestbook.php:186
+msgid "H:i"
+msgstr ""
+
+#: _output_guestbook.php:186
+msgid "m.d.Y"
+msgstr ""
+
+#: _output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Αυτή η καταχώρηση περιμένει έγκριση"
+
+#: _output_guestbook.php:221
+msgid "hidden"
+msgstr "κρυφό"
+
+#: _output_guestbook.php:234
+#: _output_guestbook.php:236
+msgid "Powered by"
+msgstr "Κατασκευασμένο με"
+
+#: _output_guestbook.php:274
+msgid "Sorry, but only registered users are allowed to sign this guestbook.<br />Please create a user account, or login to sign."
+msgstr "Συγγνώμη, αλλά μόνο εγγεγραμμένοι χρήστες επιτρέπεται να υπογράφουν σε αυτό το βιβλίο επισκεπτών, <br />Παρακαλώ δημιουργήστε ένα λογαριασμό χρήστη, ή συνδεθείτε για να υπογράψετε."
+
+#: _output_guestbook.php:280
+msgid "Name"
+msgstr "Όνομα"
+
+#: _output_guestbook.php:285
+#: _output_guestbook.php:294
+msgid "(required)"
+msgstr "(υποχρεωτικό)"
+
+#: _output_guestbook.php:289
+msgid "Email"
+msgstr "Ηλ. διεύθυνση"
+
+#: _output_guestbook.php:298
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+#: _output_guestbook.php:303
+msgid "(optional)"
+msgstr "(προαιρετικό)"
+
+#: _output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*Αν θέλετε να προσαρμόσετε αυτές τις τιμές, παρακαλώ"
+
+#: _output_guestbook.php:320
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: _output_guestbook.php:325
+msgid "Text"
+msgstr "Κείμενο"
+
+#: _output_guestbook.php:327
+msgid "Send"
+msgstr "Αποστολή"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-ViperGB"
+msgstr "WP-ViperGB"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.justin-klein.com/projects/wp-vipergb"
+msgstr "http://www.justin-klein.com/projects/wp-vipergb"
+
+#. Description of the plugin/theme
+msgid "Create a stylish and user-friendly Guestbook for your blog.  Designed to replicate the appearance and behavior of the discontinued <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> project."
+msgstr "Δημιουργήστε ένα κομψό και φιλικό στη χρήση Βιβλίο Επισκεπτών για το ιστολόγιό σας. Σχεδιάστηκε για να αναπαράγει την εμφάνιση και συμπεριφορά του καταργημένου έργου  <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a>."
+
+#. Author of the plugin/theme
+msgid "Justin Klein"
+msgstr "Justin Klein"
+
+#. Author URI of the plugin/theme
+msgid "http://www.justin-klein.com/"
+msgstr "http://www.justin-klein.com/"
