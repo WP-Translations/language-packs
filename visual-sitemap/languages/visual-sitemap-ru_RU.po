@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Sitemap\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/visual-sitemap\n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/visual-sitemap/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-05 19:42:07+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:48:29\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: visual-sitemap.php:80
+#: visual-sitemap.php:91
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: visual-sitemap.php:232
+msgid "Love Visual Sitemap? Help spread the word by rating us 5★ on WordPress.org"
+msgstr "Нравится Visual Sitemap? Помогите, рассказав о нём и поставив рейтинг 5★ на WordPress.org"
+
+#. Plugin Name of the plugin/theme
+msgid "Visual Sitemap"
+msgstr "Visual Sitemap"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/visual-sitemap/"
+msgstr "http://wordpress.org/plugins/visual-sitemap/"
+
+#. Description of the plugin/theme
+msgid "Display an interactive visual sitemap of pages, tags, and categories in admin."
+msgstr "Отображает интерактивную визуальную карту страниц, тегов и категорий у администратора."
+
+#. Author of the plugin/theme
+msgid "ThemeBoy"
+msgstr "ThemeBoy"
+
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com/"
+msgstr "http://themeboy.com/"
