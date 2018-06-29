@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Dashboard Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-dashboard-notes\n"
+"Last-Translator: idoet <idoet@protonmail.ch>\n"
+"Language-Team: Indonesian (Indonesia) (http://www.transifex.com/wp-translations/wp-dashboard-notes/language/id_ID/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-02 09:03:33+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:40:13\n"
+"Language: id_ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Catatan"
+
+#: includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Catatan"
+
+#: includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Tambah Catatan Baru"
+
+#: includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Sunting Catatan"
+
+#: includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Catatan Baru"
+
+#: includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Lihat Catatan"
+
+#: includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Cari Catatan"
+
+#: includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "Tidak ada catatan"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Tidak ada catatan yang ditemukan di tong sampah"
+
+#: includes/class-wpdn-ajax.php:108
+#: includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Catatan baru"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Daftar item"
+
+#: includes/templates/note-list.php:16
+#: includes/templates/note.php:15
+msgid "Just me"
+msgstr "Hanya saya"
+
+#: includes/templates/note-list.php:20
+#: includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Semua orang"
+
+#: includes/templates/note-list.php:24
+#: includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Kenampakan:"
+
+#: includes/templates/note-list.php:28
+#: includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "Beri saya warna!"
+
+#: includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Konversikan ke catatan reguler"
+
+#: includes/templates/note-list.php:45
+#: includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Tambah catatan baru"
+
+#: includes/templates/note-list.php:50
+#: includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Hapus catatan"
+
+#: includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Konversikan ke daftar catatan"
+
+#: wp-dashboard-notes.php:218
+msgid "Add note"
+msgstr "Tambah catatan"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.jeroensormani.com"
+msgstr "http://www.jeroensormani.com"
+
+#. Description of the plugin/theme
+msgid "Working with multiple persons on a website? Want to make notes? You can do just that with WP Dashboard Notes. Create beautiful notes with a nice user experience."
+msgstr "Bekerja dalam sebuah tim? Ingin membuat catatan? Anda dapat melakukan hal itu dengan WP Dashboard Notes. Membuat catatan indah dengan pengalaman pengguna yang menyenangkan."
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
