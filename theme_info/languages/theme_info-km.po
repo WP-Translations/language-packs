@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Info\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"Last-Translator: Sovichet Tep\n"
+"Language-Team: Khmer (http://www.transifex.com/wp-translations/theme-info/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-18 16:23:09+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:45:49\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: theme-info.php:107
+msgid "%s ago"
+msgstr "%s មុន"
+
+#: theme-info.php:254
+msgid "Download"
+msgstr "ទាញយក"
+
+#: theme-info.php:255
+msgid "Visit theme homepage"
+msgstr "មើល​គេហទំព័រ​ស្បែក"
+
+#: theme-info.php:256
+msgid "Donate"
+msgstr "បរិច្ចាគ"
+
+#: theme-info.php:299
+msgid "[ hide ]"
+msgstr "[ លាក់ ]"
+
+#: theme-info.php:299
+#: theme-info.php:423
+msgid "[ show ]"
+msgstr "[ បង្ហាញ ]"
+
+#: theme-info.php:362
+msgid "Theme slug:"
+msgstr ""
+
+#: theme-info.php:364
+msgid "To display information about a theme, you should use one of the shortcodes below."
+msgstr "ដើម្បីី​បង្ហាញ​ព័ត៌មាន​អំពី​រូបរាង​មួយ អ្នក​គួរ​តែ​ប្រើ​កូដ​ខ្លី​ណាមួយ​ដែល​មាន​នៅ​ខាង​ក្រោម។"
+
+#: theme-info.php:366
+msgid "Plain info:"
+msgstr ""
+
+#: theme-info.php:369
+msgid "Author&rsquo;s name"
+msgstr "ឈ្មោះ​អ្នក​និពន្ធ"
+
+#: theme-info.php:371
+msgid "Author&rsquo;s URL"
+msgstr "URL អ្នក​និពន្ធ"
+
+#: theme-info.php:373
+msgid "URL of ZIP file"
+msgstr "URL នៃ​ឯកសារ ZIP"
+
+#: theme-info.php:375
+msgid "Download count"
+msgstr "ចំនួន​ទាញយក"
+
+#: theme-info.php:377
+msgid "URL of homepage"
+msgstr "URL នៃ​គេហទំព័រ"
+
+#: theme-info.php:379
+msgid "URL of donations page"
+msgstr "URL នៃ​ទំព័រ​បរិច្ចាគ"
+
+#: theme-info.php:381
+msgid "URL of wp.org page"
+msgstr "URL នៃ​ទំព័រ wp.org"
+
+#: theme-info.php:383
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#: theme-info.php:385
+msgid "URL of author&rsquo;s wp.org profile"
+msgstr "URL នៃ​ទំព័រ​ប្រវត្តិរូប wp.org របស់​អ្នក​និពន្ធ"
+
+#: theme-info.php:387
+msgid "Rating out of 5"
+msgstr ""
+
+#: theme-info.php:389
+msgid "Slug"
+msgstr "URL"
+
+#: theme-info.php:391
+msgid "List of tags"
+msgstr "បញ្ជី​ស្លាក"
+
+#: theme-info.php:393
+msgid "Last updated ago (hours/days/weeks)"
+msgstr "ពេល​ធ្វើ​បច្ចុប្បន្នភាព​ចុង​ក្រោយ (ម៉ោង/ថ្ងៃ/សប្ដាហ៍)"
+
+#: theme-info.php:395
+msgid "Last updated date"
+msgstr "ពេល​ធ្វើ​បច្ចុប្បន្នភាព​ចុង​ក្រោយ"
+
+#: theme-info.php:397
+msgid "Version number"
+msgstr "លេខ​កំណែ"
+
+#: theme-info.php:399
+msgid "Formatted info:"
+msgstr "ព័ត៌មាន​មាន​ទ្រង់ទ្រាយ៖"
+
+#: theme-info.php:402
+msgid "Link to author&rsquo;s homepage"
+msgstr "តំណ​ទៅ​គេហទំព័រ​របស់​អ្នក​និពន្ធ"
+
+#: theme-info.php:404
+msgid "List of contributors"
+msgstr "បញ្ជី​អ្នក​ចូលរួម​ចំណែក"
+
+#: theme-info.php:406
+msgid "Long description"
+msgstr "ការ​អធិប្បាយ​វែង"
+
+#: theme-info.php:408
+msgid "Link to ZIP file"
+msgstr "តំណ​ទៅ​ឯកសារ ZIP"
+
+#: theme-info.php:410
+msgid "Link to homepage"
+msgstr "តំណ​ទៅ​គេហទំព័រ"
+
+#: theme-info.php:412
+msgid "Link to donations page"
+msgstr "តំណ​ទៅ​ទំព័រ​បរិច្ចាគ"
+
+#: theme-info.php:414
+msgid "Link to wp.org page"
+msgstr "តំណ​ទៅ​ទំព័រ wp.org"
+
+#: theme-info.php:416
+msgid "Link to author&rsquo;s wp.org profile"
+msgstr "តំណ​ទៅ​ទំព័រ​ប្រវត្តិរូប wp.org របស់​អ្នក​និពន្ធ"
+
+#: theme-info.php:418
+msgid "Latest changelog entry"
+msgstr "កំណត់ហេតុ​ផ្លាស់​ប្ដូរ​ចុង​ក្រោយ"
+
+#: theme-info.php:420
+msgid "Other notes"
+msgstr "កំណត់​ចំណាំ​ដទៃ"
+
+#. Plugin Name of the plugin/theme
+msgid "Theme Info"
+msgstr "ព័ត៌មាន​រូបរាង"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lud.icro.us/wordpress-theme-info/"
+msgstr "http://lud.icro.us/wordpress-theme-info/"
+
+#. Description of the plugin/theme
+msgid "Provides a simple way of displaying up-to-date information about specific WordPress Theme Directory hosted themes in your blog posts and pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "John Blackbourn"
+msgstr "John Blackbourn"
+
+#. Author URI of the plugin/theme
+msgid "http://johnblackbourn.com/"
+msgstr "http://johnblackbourn.com/"
