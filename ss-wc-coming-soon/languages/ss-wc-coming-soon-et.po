@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coming Soon\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Rivo Zängov <eraser@eraser.ee>\n"
+"Language-Team: Estonian (http://www.transifex.com/wp-translations/woocommerce-coming-soon/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2015-06-23 00:46+0100\n"
+"PO-Revision-Date: 2018-03-01 13:36:22\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:27
+msgid "Set for Coming Soon?"
+msgstr "Märgi kui \"Varsti tulemas\""
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:29
+msgid "Make sure that you have set the stock to \"Out of Stock\"."
+msgstr "Veendu, et laoseis oleks \"Pole laos\"."
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:36
+msgid "Coming Soon Label"
+msgstr "Varsti tulemas silt"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:37
+#: includes/woocommerce-coming-soon-functions.php:27
+msgid "Coming Soon"
+msgstr "Varsti tulemas"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:39
+msgid "Enter the label you want to show if coming soon is set. Default: Coming Soon"
+msgstr "Sisesta silt, mida sa soovid varsti tulevate kaupade juures näidata. Vaikeväärtus: Varsti tulemas"
+
+#: woocommerce-coming-soon.php:168
+#: woocommerce-coming-soon.php:180
+msgid "Cheatin&#8217; huh?"
+msgstr "Üritad alt tõmmata&#8217;?"
+
+#: woocommerce-coming-soon.php:222
+msgid "Documentation"
+msgstr "Dokumentatsioon"
+
+#: woocommerce-coming-soon.php:223
+msgid "Support"
+msgstr "Soporte"
+
+#: woocommerce-coming-soon.php:224
+msgid "More Free Extensions"
+msgstr "Veel tasuta lisaprogramme"
+
+#: woocommerce-coming-soon.php:288
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade your WordPress setup."
+msgstr "Vabandust, aga <strong>%s</strong> nõuab WordPress versiooni %s või uuemat. Palun uuenda oma WordPressi."
+
+#: woocommerce-coming-soon.php:300
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce to be installed and activatd first. Please <a href=\"%s\">install WooCommerce</a> first."
+msgstr "Vabandust, aga <strong>%s</strong> nõuab, et WooCommerce oleks paigaldatud ja aktiveeritud. Palun paigalda esmalt <a href=\"%s\">WooCommerce</a>."
+
+#: woocommerce-coming-soon.php:312
+#, php-format
+msgid "Sorry, <strong>%s</strong> requires WooCommerce %s or higher. Please update WooCommerce for %s to work."
+msgstr "Vabandust, aga <strong>%s</strong> nõuab WooCommerce versiooni %s või uuemat. Palun uuenda oma WooCommerce versioonile %s."
