@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordstrap\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/wordstrap\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/wordstrap/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-26 11:15:21+00:00\n"
+"PO-Revision-Date: 2017-09-21 15:44:16\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: author.php:49
+msgid "registered %s ago"
+msgstr "Enregistr&eacute; il y a %s"
+
+#: author.php:69
+msgid "Posts published by %s"
+msgstr "Tous les articles de %s"
+
+#: author.php:76
+msgid "Sorry, but there are no posts by this author."
+msgstr "Désolé, mais cet auteur n'a pas encore publié d'article."
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est prot&eacute;g&eacute; par un mot de passe. Veuillez le saisir pour afficher les commentaires."
+
+#: comments.php:24
+msgid "There is %d comment"
+msgstr "Il y a %d commentaire"
+
+#: comments.php:26
+msgid "There are %d comments"
+msgstr "Il y a %d commentaires"
+
+#: comments.php:28
+msgid "There are no comments"
+msgstr "Il n&rsquo;y a pas d&rsquo;autres commentaires."
+
+#: comments.php:55
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:57
+msgid "Email"
+msgstr "Adresse de contact"
+
+#: comments.php:62
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: functions.php:89
+#: functions.php:101
+msgid "Wordstrap widgetized area"
+msgstr "Zone des widgets Wordstrap"
+
+#. translators: 1: comment author, 2: date and time
+#: functions.php:155
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s <span class=\"says\">a dit&nbsp;:</span> sur %2$s"
+
+#: functions.php:160
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: functions.php:168
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: functions.php:181
+msgid "Reply"
+msgstr "Répondre"
+
+#: functions.php:194
+#: partials/part_article_header.php:25
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: functions.php:204
+msgid "Read the rest of the article"
+msgstr "Lire la suite de l'article..."
+
+#: functions.php:204
+msgid "Read the rest"
+msgstr "Lire la suite"
+
+#: functions.php:253
+msgid "<i class=\"icon-circle-arrow-left\"></i> OLDER POSTS"
+msgstr "<i class=\"icon-circle-arrow-left\"></i> Articles plus anciens"
+
+#: functions.php:254
+msgid "NEWER POSTS <i class=\"icon-circle-arrow-right\"></i>"
+msgstr "Articles plus récents <i class=\"icon-circle-arrow-right\"></i>"
+
+#: functions.php:304
+msgid "Nothing Found !"
+msgstr "Oups !"
+
+#: functions.php:308
+msgid "Sorry, but no results were found for the requested query. Try another search."
+msgstr "On dirait que vous cherchez quelque chose qui n'existe pas ! Essayez autre chose..."
+
+#: functions.php:496
+msgid "You should customize a %s"
+msgstr "Vous devriez utiliser un %s "
+
+#: functions.php:546
+msgid "Like this theme? Support my work"
+msgstr "Si vous aimez ce thème, encouragez mon travail."
+
+#: header.php:32
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/theme-options.php:53
+msgid "About"
+msgstr "À propos"
+
+#: inc/theme-options.php:54
+msgid "Follow us"
+msgstr "Suivez-nous !"
+
+#: inc/theme-options.php:55
+msgid "Powered by Wordstrap"
+msgstr "Réalisé avec Wordstrap"
+
+#: inc/theme-options.php:76
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: inc/theme-options.php:122
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/theme-options.php:205
+msgid "%s Theme Options"
+msgstr "%s Options du thème"
+
+#: inc/theme-options.php:216
+msgid "Appearance"
+msgstr "Apparance"
+
+#: inc/theme-options.php:217
+#: inc/theme-options.php:503
+msgid "Extras"
+msgstr "Extras"
+
+#: inc/theme-options.php:218
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/theme-options.php:219
+msgid "Front page"
+msgstr "Page d&rsquo;accueil"
+
+#: inc/theme-options.php:224
+msgid "Appearance settings"
+msgstr "Configuration de l'apparance"
+
+#: inc/theme-options.php:225
+msgid "Customize the layout and colors"
+msgstr "Personnalisez la \t\tagencementPersonnalisation de la disposition et des couleurs"
+
+#: inc/theme-options.php:231
+msgid "Layout"
+msgstr "Disposition"
+
+#: inc/theme-options.php:238
+msgid "Full width"
+msgstr "Pleine largeur"
+
+#: inc/theme-options.php:247
+msgid "2 cols left"
+msgstr "2 colonnes gauche"
+
+#: inc/theme-options.php:257
+msgid "2 cols right"
+msgstr "2 colonnes droite"
+
+#: inc/theme-options.php:266
+msgid "3 cols"
+msgstr "3 colonnes"
+
+#: inc/theme-options.php:274
+msgid "Sidebar widths"
+msgstr "Largeur de la Sidebar"
+
+#: inc/theme-options.php:276
+msgid "Sidebar widths are given in Bootstrap's grid system \"units\". Maximum size is 12. The width of the center column is automatically calculated."
+msgstr "La largeur de la sidebar est exprimée en \"unités\" du sytème de grille Bootstrap. La taille maximale est 12. La largeur de la colonne centrale est calculée automatiquement."
+
+#: inc/theme-options.php:281
+msgid "Left sidebar"
+msgstr "Sidebar gauche"
+
+#: inc/theme-options.php:289
+msgid "Right sidebar"
+msgstr "Sidebar droite"
+
+#: inc/theme-options.php:302
+msgid "Style"
+msgstr "Style"
+
+#: inc/theme-options.php:306
+msgid "Select a style from the \"inc/styles\" folder"
+msgstr "Sélectionnez un style dans le dossier \"inc/styles\"."
+
+#: inc/theme-options.php:333
+msgid "There are no styles available !"
+msgstr "Aucun style disponible !"
+
+#: inc/theme-options.php:343
+msgid "Background gradient for widget headers"
+msgstr "Dégradé d'arrière-plan pour l'en-tête des widgets"
+
+#: inc/theme-options.php:347
+#: inc/theme-options.php:400
+#: inc/theme-options.php:449
+msgid "Start Color"
+msgstr "Couleur de d&eacute;but"
+
+#: inc/theme-options.php:354
+#: inc/theme-options.php:407
+#: inc/theme-options.php:456
+msgid "Ending Color"
+msgstr "Couleur de fin"
+
+#: inc/theme-options.php:361
+#: inc/theme-options.php:414
+#: inc/theme-options.php:463
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/theme-options.php:376
+msgid "Header options"
+msgstr "Options pour l'en-tête"
+
+#: inc/theme-options.php:377
+msgid "Hide Header"
+msgstr "Masquer l&rsquo;en-tête"
+
+#: inc/theme-options.php:385
+msgid "Show Search form in header"
+msgstr "Afficher la boîte de recherche dans l'en-tête"
+
+#: inc/theme-options.php:392
+msgid "Header Height"
+msgstr "Hauteur de l'en-tête"
+
+#: inc/theme-options.php:396
+msgid "Header Background gradient"
+msgstr "Dégradé d'arrière-plan de l'en-tête"
+
+#: inc/theme-options.php:424
+msgid "Navbar options"
+msgstr "Options de la barre de navigation"
+
+#: inc/theme-options.php:426
+msgid "Hide Nav bar"
+msgstr "Masquer la barre de navigation"
+
+#: inc/theme-options.php:431
+msgid "Show Site title in nav bar"
+msgstr "Afficher le nom du site sur la barre de navigation"
+
+#: inc/theme-options.php:435
+msgid "Show Search form in nav bar"
+msgstr "Afficher la boîte de recherche sur la barre de navigation"
+
+#: inc/theme-options.php:439
+msgid "Show Home link in nav bar"
+msgstr "Afficher un lien vers la page d'accueil sur la barre de navigation"
+
+#: inc/theme-options.php:445
+msgid "Navbar Background gradient"
+msgstr "Dégradé d'arrière-plan de la barre de navigation"
+
+#: inc/theme-options.php:472
+msgid "Breadcrumb"
+msgstr "Fil d'Ariane"
+
+#: inc/theme-options.php:473
+msgid "Hide Breadcrumb"
+msgstr "Masquer le fil d'Ariane"
+
+#: inc/theme-options.php:479
+msgid "Misc."
+msgstr "Divers"
+
+#: inc/theme-options.php:480
+msgid "Fixed Header/Nav bar"
+msgstr "En-tête/barre de navigation fixes"
+
+#: inc/theme-options.php:483
+msgid "This will make the Header, Nav bar or both of them stick to the top."
+msgstr "Ceci immobilisera l'en-tête, la barre de navigation ou les deux en haut de page."
+
+#: inc/theme-options.php:487
+msgid "Make theme responsive"
+msgstr "Rendre le thème responsive"
+
+#: inc/theme-options.php:490
+msgid "Use this option to make your site \"auto adaptable\" for mobile devices."
+msgstr "Utilisez cette option pour  \"auto adapter\" votre site aux supports portables."
+
+#: inc/theme-options.php:504
+msgid "Some extra functionalities"
+msgstr "Quelques options supplémentaires"
+
+#: inc/theme-options.php:510
+msgid "Use Google API Fonts ?"
+msgstr "Utiliser les polices de caractères de Google API Fonts ?"
+
+#: inc/theme-options.php:519
+msgid "Type the name of a font"
+msgstr "Indiquez le nom d'une police"
+
+#: inc/theme-options.php:526
+msgid "Find more fonts at"
+msgstr "Chercher des polices supplémentaires sur"
+
+#: inc/theme-options.php:531
+msgid "Use it in"
+msgstr "L'utiliser dans"
+
+#: inc/theme-options.php:533
+msgid "Widget titles"
+msgstr "Titres des Widgets"
+
+#: inc/theme-options.php:536
+msgid "Post titles"
+msgstr "Titres des articles"
+
+#: inc/theme-options.php:539
+msgid "Page titles"
+msgstr "Titres des pages"
+
+#: inc/theme-options.php:546
+msgid "Display social share buttons in ALL posts?"
+msgstr "Afficher les boutons des réseaux sociaux sur TOUS les articles ?"
+
+#: inc/theme-options.php:549
+msgid "or uncheck this and use the shortcode <b>[social_share]</b> for displaying social share buttons only where you want posts or pages"
+msgstr "ou décochez cela et utilise le shortcode <b>[social_share]</b> pour afficher ces boutons sur les articles et les pages que vous choisissez"
+
+#: inc/theme-options.php:551
+msgid "Google Analytics code"
+msgstr "Code Google Analytics"
+
+#: inc/theme-options.php:552
+msgid "Here you can paste the full Google Analytics script for your site, including the <b>&lt;script&gt;</b> tags."
+msgstr "!Ici vous pouvez coller la totalité du script d'affiliation à Google Analytics pour le site, en incluant les balises <b>&lt;script&gt;</b>."
+
+#: inc/theme-options.php:558
+msgid "Footer Elements settings"
+msgstr "Configuration des éléments en pied de page"
+
+#: inc/theme-options.php:559
+msgid "Customize the footer of your site"
+msgstr "Personnalisez le pied de page de votre site"
+
+#: inc/theme-options.php:565
+msgid "Footer Title"
+msgstr "Titre du pied de page"
+
+#: inc/theme-options.php:568
+msgid "Footer Title Social"
+msgstr "Titre des éléments sociaux en pied de page"
+
+#: inc/theme-options.php:573
+msgid "Footer text"
+msgstr "Texte en pied de page"
+
+#: inc/theme-options.php:584
+msgid "Social buttons"
+msgstr "Boutons sociaux"
+
+#: inc/theme-options.php:586
+msgid "Facebook Button"
+msgstr "Bouton Facebook"
+
+#: inc/theme-options.php:592
+msgid "Google+ Button"
+msgstr "Bouton Google+"
+
+#: inc/theme-options.php:598
+msgid "Twitter Button"
+msgstr "Bouton Twitter"
+
+#: inc/theme-options.php:604
+msgid "Show Linkedin Button"
+msgstr "Afficher le bouton Linkedin"
+
+#: inc/theme-options.php:610
+msgid "Show GitHub Button"
+msgstr "Afficher le bouton GitHub"
+
+#: inc/theme-options.php:616
+msgid "Show YouTube Button"
+msgstr "Afficher le bouton YouTube"
+
+#: inc/theme-options.php:623
+msgid "Display Creative Commons logo"
+msgstr "Afficher le logo de la licence Creative Commons"
+
+#: inc/theme-options.php:634
+msgid "Front page settings"
+msgstr "Configuration de la page d&rsquo;accueil "
+
+#: inc/theme-options.php:635
+msgid "Select which elements will be displayed in the front page."
+msgstr "Sélectionnez les éléments à afficher sur la page d'accueil"
+
+#: inc/theme-options.php:639
+msgid "Display Intro container"
+msgstr "Affichage d'une introduction"
+
+#: inc/theme-options.php:644
+msgid "Display page"
+msgstr "Afficher la page"
+
+#: inc/theme-options.php:647
+msgid "Select an item..."
+msgstr "Sélectionner un élément..."
+
+#: inc/theme-options.php:655
+msgid "Container colors"
+msgstr "Couleurs du container"
+
+#: inc/theme-options.php:659
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/theme-options.php:665
+msgid "Text"
+msgstr "Texte"
+
+#: inc/theme-options.php:674
+msgid "Options"
+msgstr "Options"
+
+#: inc/theme-options.php:675
+msgid "Show page title"
+msgstr "Afficher le titre de la page"
+
+#: inc/theme-options.php:678
+msgid "Wrap in a box"
+msgstr "Afficher dans une boîte"
+
+#: inc/theme-options.php:686
+msgid "Display Featured items container"
+msgstr "Affichage des éléments à mettre en avant"
+
+#: inc/theme-options.php:691
+msgid "Select category:"
+msgstr "Choix de la rubrique"
+
+#: inc/theme-options.php:693
+#: inc/theme-options.php:734
+#: inc/theme-options.php:756
+#: inc/theme-options.php:778
+#: inc/theme-options.php:800
+msgid "Select a category..."
+msgstr "Sélectionner une rubrique..."
+
+#: inc/theme-options.php:706
+msgid "Title"
+msgstr "Titre"
+
+#: inc/theme-options.php:710
+msgid "Title color"
+msgstr "Couleur du titre"
+
+#: inc/theme-options.php:714
+msgid "Number"
+msgstr "Quantité"
+
+#: inc/theme-options.php:720
+msgid "Display Tabs"
+msgstr "Affichage des onglets"
+
+#: inc/theme-options.php:725
+msgid "First tab"
+msgstr "Premier onglet"
+
+#: inc/theme-options.php:727
+#: inc/theme-options.php:749
+#: inc/theme-options.php:771
+#: inc/theme-options.php:793
+msgid "Categorized posts"
+msgstr "Articles par rubriques"
+
+#: inc/theme-options.php:728
+#: inc/theme-options.php:750
+#: inc/theme-options.php:772
+#: inc/theme-options.php:794
+#: partials/part_tabs.php:14
+#: partials/part_tabs.php:27
+#: partials/part_tabs.php:41
+#: partials/part_tabs.php:55
+msgid "Latest posts"
+msgstr "Articles récents"
+
+#: inc/theme-options.php:729
+#: inc/theme-options.php:751
+#: inc/theme-options.php:773
+#: inc/theme-options.php:795
+#: partials/part_tabs.php:16
+#: partials/part_tabs.php:29
+#: partials/part_tabs.php:43
+#: partials/part_tabs.php:57
+msgid "Popular posts"
+msgstr "Articles les plus lus"
+
+#: inc/theme-options.php:732
+#: inc/theme-options.php:754
+#: inc/theme-options.php:776
+#: inc/theme-options.php:798
+msgid "category"
+msgstr "Rubrique"
+
+#: inc/theme-options.php:746
+msgid "Second tab"
+msgstr "Second onglet"
+
+#: inc/theme-options.php:748
+#: inc/theme-options.php:770
+#: inc/theme-options.php:792
+msgid "Unused"
+msgstr "Inutilisé"
+
+#: inc/theme-options.php:768
+msgid "Third tab"
+msgstr "Troisième onglet"
+
+#: inc/theme-options.php:790
+msgid "Fourth tab"
+msgstr "Quatrième onglet"
+
+#: inc/theme-options.php:816
+msgid "Display Blog loop"
+msgstr "Afficher la boucle de Blog"
+
+#: inc/theme-options.php:825
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: inc/theme-options.php:827
+msgid "Theme options have been succesfully updated."
+msgstr "Les options du thème ont été mises à jour avec succès !"
+
+#: partials/part_article_content.php:24
+msgid "Next page"
+msgstr "Page suivante"
+
+#: partials/part_article_content.php:25
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: partials/part_article_content.php:29
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: partials/part_article_header.php:39
+msgid "Author"
+msgstr "Auteur"
+
+#: partials/part_article_header.php:46
+msgid "Categories"
+msgstr "Rubriques"
+
+#: partials/part_article_header.php:52
+msgid "no"
+msgstr "0"
+
+#: partials/part_article_header.php:53
+msgid "%s comments"
+msgstr "%s commentaire(s)"
+
+#: partials/part_article_header.php:64
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: partials/part_breadcrumb.php:13
+#: partials/part_navbar.php:35
+msgid "Home"
+msgstr "Accueil"
+
+#: partials/part_breadcrumb.php:37
+msgid "About the author"
+msgstr "A propos de l'Auteur "
+
+#: partials/part_breadcrumb.php:41
+#: search.php:26
+msgid "Search results"
+msgstr "Résultats de la recherche "
+
+#: partials/part_breadcrumb.php:45
+msgid "Posts in category:"
+msgstr "Articles de la rubrique:"
+
+#: partials/part_breadcrumb.php:49
+msgid "Browsing posts tagged:"
+msgstr "Tous les articles par mots-clés"
+
+#: partials/part_breadcrumb.php:53
+msgid "Browsing archived posts:"
+msgstr "Tous les articles"
+
+#: partials/part_featured.php:69
+msgid "Read article"
+msgstr "Lire la suite"
+
+#: partials/part_featured.php:93
+msgid "PREV"
+msgstr "Préc."
+
+#: partials/part_featured.php:94
+msgid "NEXT"
+msgstr "Suivant"
+
+#: partials/part_widgets_left.php:12
+msgid "Widgets area #left"
+msgstr "Zone de widgets gauche"
+
+#: partials/part_widgets_left.php:16
+#: partials/part_widgets_right.php:16
+msgid "add widgets here"
+msgstr "Ajoutez des widgets ici"
+
+#: partials/part_widgets_right.php:12
+msgid "Widgets area #right"
+msgstr "Zone de widgets droite"
+
+#: search.php:27
+msgid "%d result(s) found for the term"
+msgstr "%d résultat(s) trouvé pour ce mot"
+
+#: searchform.php:11
+msgid "Search"
+msgstr "Rechercher..."
+
+#. Theme Name of the plugin/theme
+msgid "Wordstrap"
+msgstr "Wordstrap"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.olabaworks.com/wordstrap/"
+msgstr "http://www.olabaworks.com/wordstrap/"
+
+#. Description of the plugin/theme
+msgid "Wordstrap is a WordPress theme designed with the popular Bootstrap CSS Framework, and using Font Awesome for the lightweight usage of icons. You can customize the layout in one, two or three columns, and choose the background colors of the header, navbar and widget headers and some other interesting features available in the theme options page."
+msgstr "Wordstrap est un thème WordPress conçu avec l'excellent Framework Bootstrap CSS et utilise Font Awesome pour la gestion des icônes. Vous pouvez personnaliser la mise en page en une, deux ou trois colonnes et choisir les couleurs d'arrière-plan de l'en-tête, l'en-tête de la navbar et des widgets et plein d'autres fonctionnalités à découvrir dans la page des options du thème."
+
+#. Author of the plugin/theme
+msgid "Aritz Olabarrieta"
+msgstr "Aritz Olabarrieta"
+
+#. Author URI of the plugin/theme
+msgid "http://www.olabaworks.com"
+msgstr "http://www.olabaworks.com"
+
+#. Template Name of the plugin/theme
+msgid "One column"
+msgstr "Une colonne"
+
+#. Template Name of the plugin/theme
+msgid "Two columns (left)"
+msgstr "Deux colonnes (à gauche)"
+
+#. Template Name of the plugin/theme
+msgid "Two columns (right)"
+msgstr "Deux colonnes (à droite)"
