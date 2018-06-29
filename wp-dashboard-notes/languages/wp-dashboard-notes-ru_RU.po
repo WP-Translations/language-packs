@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Dashboard Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-dashboard-notes\n"
+"Last-Translator: Victor Bychek\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/wp-dashboard-notes/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-02 09:03:33+00:00\n"
+"PO-Revision-Date: 2017-10-12 09:29:23\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Заметки"
+
+#: includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Примечание"
+
+#: includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Добавить новую заметку"
+
+#: includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Изменить примечание"
+
+#: includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Новая заметка"
+
+#: includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Просмотр заметки"
+
+#: includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Поиск заметок"
+
+#: includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "Нет заметок"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Не найдено заметок в корзине"
+
+#: includes/class-wpdn-ajax.php:108
+#: includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Новая заметка"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Элемент списка"
+
+#: includes/templates/note-list.php:16
+#: includes/templates/note.php:15
+msgid "Just me"
+msgstr "Только меня"
+
+#: includes/templates/note-list.php:20
+#: includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Для всех"
+
+#: includes/templates/note-list.php:24
+#: includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Видимость:"
+
+#: includes/templates/note-list.php:28
+#: includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "Дайте мне цвет!"
+
+#: includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Конвертировать в обычную заметку"
+
+#: includes/templates/note-list.php:45
+#: includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Добавить новую заметку"
+
+#: includes/templates/note-list.php:50
+#: includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Удалить заметку"
+
+#: includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Конвертировать в список заметок"
+
+#: wp-dashboard-notes.php:218
+msgid "Add note"
+msgstr "Добавить заметку"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.jeroensormani.com"
+msgstr "http://www.jeroensormani.com"
+
+#. Description of the plugin/theme
+msgid "Working with multiple persons on a website? Want to make notes? You can do just that with WP Dashboard Notes. Create beautiful notes with a nice user experience."
+msgstr "Работаете с множеством человек на одном сайте? Хотите делать заметки? Вы можете это сделать только с  WP Dashboard Notes. Создайте красивые заметки с лучшим пользовательским опытом."
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
