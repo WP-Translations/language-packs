@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Sitemap\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/visual-sitemap\n"
+"Last-Translator: Eddie E Winther <support@spotondesign.no>\n"
+"Language-Team: Norwegian Bokmål (Norway) (http://www.transifex.com/wp-translations/visual-sitemap/language/nb_NO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-05 19:42:07+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:48:22\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: visual-sitemap.php:80
+#: visual-sitemap.php:91
+msgid "Sitemap"
+msgstr "Nettstedkart"
+
+#: visual-sitemap.php:232
+msgid "Love Visual Sitemap? Help spread the word by rating us 5★ on WordPress.org"
+msgstr "Liker du Visual Sitemap? Bidra til å spre ordet ved å gi oss oss 5 ★ på WordPress.org"
+
+#. Plugin Name of the plugin/theme
+msgid "Visual Sitemap"
+msgstr "Visual Sitemap"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/visual-sitemap/"
+msgstr "http://wordpress.org/plugins/visual-sitemap/"
+
+#. Description of the plugin/theme
+msgid "Display an interactive visual sitemap of pages, tags, and categories in admin."
+msgstr "Vis et interaktiv visuell nettstedkart med sider, koder og kategorier i admin."
+
+#. Author of the plugin/theme
+msgid "ThemeBoy"
+msgstr "ThemeBoy"
+
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com/"
+msgstr "http://themeboy.com/"
