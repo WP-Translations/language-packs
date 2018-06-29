@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Help\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-help\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/wp-translations/wp-help/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-09-15 08:56:57+00:00\n"
+"PO-Revision-Date: 2017-09-19 19:09:28\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: templates/edit-page-js.php:5
+#: templates/list-documents.php:8
+msgctxt "verb. Button with limited space"
+msgid "Manage"
+msgstr "مدیر"
+
+#: templates/edit-page-js.php:10
+msgid "Parent:"
+msgstr "والد:"
+
+#: templates/list-documents.php:7
+msgctxt "Button with limited space"
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: templates/list-documents.php:8
+msgctxt "Button with limited space"
+msgid "Add New"
+msgstr "افزودن"
+
+#: templates/list-documents.php:16
+msgid "There are no help documents."
+msgstr "هیچ اسناد کمک وجود دارد."
+
+#: templates/list-documents.php:18
+msgid "There are no help documents yet."
+msgstr "وجود ندارد اسناد کمک نشده است."
+
+#: templates/list-documents.php:37
+msgid "edit"
+msgstr "ویرایش"
+
+#: templates/list-documents.php:40
+msgid "You are not allowed to view this document."
+msgstr ""
+
+#: templates/list-documents.php:43
+msgid "The requested help document could not be found."
+msgstr "درخواست سند کمک نمی تواند یافت می شود."
+
+#: templates/settings.php:7
+msgid "WP Help Settings"
+msgstr "تنظیمات راهنما WP"
+
+#: templates/settings.php:9
+msgid "Headlines"
+msgstr "سرخط"
+
+#: templates/settings.php:11
+msgid "The main WP Help headline and document listing headline are directly editable."
+msgstr "WP اصلی تیتر تیتر فهرست راهنما و سند به طور مستقیم قابل ویرایش."
+
+#: templates/settings.php:13
+msgid "Menu Location"
+msgstr "جایگاه منو"
+
+#: templates/settings.php:15
+msgid "Display the help documents menu item:"
+msgstr "نمایش اسناد به کمک آیتم منو:"
+
+#: templates/settings.php:17
+msgid "as a Dashboard submenu"
+msgstr "عنوان منوها صفحه"
+
+#: templates/settings.php:18
+msgid "above the Dashboard menu"
+msgstr "بالاتر از منوی صفحه"
+
+#: templates/settings.php:19
+msgid "below the Dashboard menu"
+msgstr "زیر منوی صفحه"
+
+#: templates/settings.php:20
+msgid "at the bottom"
+msgstr "در پایین"
+
+#: templates/settings.php:23
+msgctxt "noun, h3 heading about synchronization"
+msgid "Sync Source"
+msgstr "منبع همگام سازی"
+
+#: templates/settings.php:25
+msgid "To treat this install as a source, use this secret URL:"
+msgstr "برای درمان این نصب به عنوان یک منبع، استفاده از این آدرس های مخفی:"
+
+#: templates/settings.php:27
+msgid "Sync Pull"
+msgstr "همگام نگه دار"
+
+#: templates/settings.php:29
+msgid "Pull in help documents from this WP Help secret URL:"
+msgstr "نگه دار، در اسناد کمک از این WP راهنما URL مخفی:"
+
+#: templates/settings.php:31
+msgid "Note:"
+msgstr "نکته:"
+
+#: templates/settings.php:33
+msgid "Sync pull refreshes automatically once a day."
+msgstr "همگام سازی جلو و تازه به صورت خودکار یک بار در روز."
+
+#: templates/settings.php:34
+msgid "You can manually refresh by saving the setting again."
+msgstr "شما دستی می تواند با صرفه جویی در تنظیم دوباره تازه کردن."
+
+#: templates/settings.php:35
+msgid "Synced documents cannot be modified locally while syncing is still enabled."
+msgstr "اسناد همگام سازی شده می تواند اصلاح شود به صورت محلی در حالی که همگام سازی است هنوز هم فعال است."
+
+#: templates/settings.php:38
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: templates/settings.php:38
+msgid "Cancel"
+msgstr "لغو"
+
+#: templates/submitbox-actions.php:8
+msgid "Set as default help document"
+msgstr "مجموعه ای به عنوان پیش فرض سند کمک"
+
+#: wp-help.php:116
+msgctxt "post type label"
+msgid "Publishing Help"
+msgstr "راهنما انتشار"
+
+#: wp-help.php:128
+msgid "Help Documents"
+msgstr "اسناد راهنما"
+
+#: wp-help.php:129
+msgid "Help Document"
+msgstr "اسناد راهنما"
+
+#: wp-help.php:130
+msgid "Add New Help Document"
+msgstr "افزودن راهنما سند جدید"
+
+#: wp-help.php:131
+msgid "Edit Help Document"
+msgstr "ویرایش راهنما سند"
+
+#: wp-help.php:132
+msgid "New Help Document"
+msgstr "سند کمک جدید"
+
+#: wp-help.php:133
+msgid "View Help Document"
+msgstr "مشاهده اسناد راهنما"
+
+#: wp-help.php:134
+msgid "Search Documents"
+msgstr "جستجو اسناد"
+
+#: wp-help.php:135
+msgid "No Help Documents Found"
+msgstr "بدون اسناد راهنما در بر داشت"
+
+#: wp-help.php:136
+msgid "No Help Documents found in Trash"
+msgstr "بدون اسناد راهنما موجود در سطل زباله"
+
+#: wp-help.php:137
+msgid "Parent Help Document"
+msgstr "سند والد راهنما"
+
+#: wp-help.php:138
+msgctxt "i.e. Add new Help Document"
+msgid "Add New"
+msgstr "افزودن"
+
+#: wp-help.php:139
+msgctxt "i.e. Edit Help Document"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: wp-help.php:140
+msgctxt "i.e. View Help Document"
+msgid "View"
+msgstr "نمایش"
+
+#: wp-help.php:155
+msgctxt "h2 default title"
+msgid "Publishing Help"
+msgstr "راهنمای انتشار"
+
+#: wp-help.php:156
+msgctxt "h3 default title"
+msgid "Help Topics"
+msgstr "موضوعات راهنما"
+
+#: wp-help.php:173
+msgid "Donate"
+msgstr "اهداء کردن"
+
+#: wp-help.php:252
+msgid "&mdash; Remote document"
+msgstr "&mdash; اسناد راه دور"
+
+#: wp-help.php:477
+msgid "What are you doing? You&#8217;re going to create an infinite loop!"
+msgstr "&#8217; چه کار می کنید؟شما قصد دارید برای ایجاد یک حلقه بی نهایت!"
+
+#: wp-help.php:481
+msgid "That is not a WP Help URL. Make sure you copied it correctly."
+msgstr "این است که URL راهنما WP نیست. اطمینان حاصل کنید که شما آن را به درستی کپی شده."
+
+#: wp-help.php:591
+msgid "Document updated. <a href=\"%s\">View document</a>"
+msgstr "سند به روز شده است. را  <a href=\"%s\"> مشاهده سند </a>"
+
+#: wp-help.php:592
+msgid "Custom field updated."
+msgstr "زمینه‌ی دل‌خواه به‌روز شد."
+
+#: wp-help.php:593
+msgid "Custom field deleted."
+msgstr "زمینه‌ی دل‌خواه پاک شد."
+
+#: wp-help.php:594
+msgid "Document updated."
+msgstr "سند بروز شد"
+
+#: wp-help.php:595
+msgid "Document restored to revision from %s"
+msgstr "سند به برقراری تجدید نظر از%s"
+
+#: wp-help.php:596
+msgid "Document published. <a href=\"%s\">View document</a>"
+msgstr "سند منتشر شده است. را <a href=\"%s\">مشاهده سند </a>"
+
+#: wp-help.php:597
+msgid "Document saved."
+msgstr "سند ذخیره شد."
+
+#: wp-help.php:598
+msgid "Document submitted. <a target=\"_blank\" href=\"%s\">Preview document</a>"
+msgstr "سند را مشاهده کنید. <a target=\"_blank\" href=\"%s\"> سند پیشنمایش </a>"
+
+#: wp-help.php:599
+msgid "Document scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview document</a>"
+msgstr "سند برنامه ریزی شده برای: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\"> سند پیشنمایش </a>"
+
+#: wp-help.php:599
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: wp-help.php:600
+msgid "Document draft updated. <a target=\"_blank\" href=\"%s\">Preview document</a>"
+msgstr "پیش نویس سند به روز شده. <a target=\"_blank\" href=\"%s\"> سند پیشنمایش </a>"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Help"
+msgstr "راهنما وردپرس"
+
+#. Plugin URI of the plugin/theme
+msgid "http://txfx.net/wordpress-plugins/wp-help/"
+msgstr "http://txfx.net/wordpress-plugins/wp-help/"
+
+#. Description of the plugin/theme
+msgid "Administrators can create detailed, hierarchical documentation for the site's authors and editors, viewable in the WordPress admin."
+msgstr "مدیران می توانند جزئیات، اسناد سلسله مراتبی را برای نویسندگان و سردبیران، در مدیریت وردپرس قابل مشاهده ایجاد کنید."
+
+#. Author of the plugin/theme
+msgid "Mark Jaquith"
+msgstr "Mark Jaquith"
+
+#. Author URI of the plugin/theme
+msgid "http://coveredwebservices.com/"
+msgstr "http://coveredwebservices.com/"
