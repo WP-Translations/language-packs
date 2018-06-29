@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Maintenance Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Nikolay Nakuginkin <translator@mondaystar.ru>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/ultimate-maintenance-mode/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2012-12-12 12:20-0500\n"
+"PO-Revision-Date: 2017-09-19 22:42:36\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/framework.php:122
+msgid "Plugin Support"
+msgstr "Поддержка плагина"
+
+#: framework/framework.php:126
+msgid "Got a Question, Idea, Problem or Praise?"
+msgstr "Есть вопрос, идея, проблема или благодарность?"
+
+#: framework/framework.php:129
+msgid "Support Request"
+msgstr "Запрос поддержки"
+
+#: framework/framework.php:138
+msgid "Show Some Love"
+msgstr "Покажите любовь"
+
+#: framework/framework.php:141
+msgid "Like this plugin? Show your support by:"
+msgstr "Нравится этот плагин? Покажите свою поддержку путем:"
+
+#: framework/framework.php:143
+msgid "Rating It"
+msgstr "Оценить"
+
+#: framework/framework.php:144
+msgid "Tweet It"
+msgstr "Твикнуть"
+
+#: framework/framework.php:155
+msgid "SeedProd Blog"
+msgstr "Блог SeedProd"
+
+#: framework/framework.php:169
+msgid "Subscribe by Email"
+msgstr "Подписаться на рассылку"
+
+#: framework/framework.php:201
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: framework/framework.php:203
+msgid "Note: The automatic screenshot is produced from a service on WordPress.com. There is no way to manually refresh the screenshot once taken. WordPress.com should refresh it within a few days."
+msgstr "Примечание: Автоматический скриншот производится из службы на WordPress.com. Там нет способа, чтобы вручную обновить скриншот. WordPress.com должен обновлять его в течение нескольких дней."
+
+#: framework/framework.php:283
+msgid "Media Image Library"
+msgstr "Библиотека медиафайлов"
+
+#: framework/framework.php:396
+#, php-format
+msgid "Settings saved.  <a href='%s/?mm_preview=true'>Preview &raquo;</a>"
+msgstr "Настройки сохранены.  <a href='%s/?mm_preview=true'>Просмотр &raquo;</a>"
+
+#: inc/config.php:48
+msgid "Maintenance Mode Active"
+msgstr "Режим обслуживания активен"
+
+#: inc/config.php:96
+#: inc/config.php:98
+#: inc/config.php:99
+msgid "Maintenance Mode"
+msgstr "Режим обслуживания"
+
+#: inc/config.php:121
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/config.php:133
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/config.php:134
+#, php-format
+msgid "Enable if you enter Maintenance Mode. <a href='%s/?mm_preview=true'>Preview</a>"
+msgstr "Включите, если Вы входите в режим обслуживания. <a href='%s/?mm_preview=true'>Просмотр</a>"
+
+#: inc/config.php:135
+msgid "Yes"
+msgstr "Да"
+
+#: inc/config.php:141
+msgid "Custom Background Image"
+msgstr "Своё фоновое изображение"
+
+#: inc/config.php:142
+msgid "This will override the captured screenshot. If left empty a screenshot of your website will be shown."
+msgstr "Это заменит скриншот. Если оставить пустым, будет показан скриншот Вашего сайта."
+
+#: inc/config.php:148
+msgid "Custom Headline"
+msgstr "Свой заголовок"
+
+#: inc/config.php:149
+msgid "This will override the default headline. If left empty the default headline will be shown."
+msgstr "Это заменит стандартный заголовок. Если оставить пустым, будет показан стандартный заголовок."
+
+#: inc/config.php:155
+msgid "Message"
+msgstr "Сообщение"
+
+#: inc/config.php:156
+msgid "Write a message to be displayed."
+msgstr "Напишите сообщение, которое будет отображаться."
+
+#: inc/config.php:162
+msgid "Powered By SeedProd"
+msgstr "Работает на SeedProd"
+
+#: inc/config.php:163
+msgid "Nope - Got No Love"
+msgstr "Нет"
+
+#: inc/config.php:163
+msgid "Yep - I Love You Man"
+msgstr "Да"
+
+#: inc/config.php:164
+msgid "Can we show a <strong>cool stylish</strong> footer credit at the bottom the page."
+msgstr "Мы покажем <strong>классный стильный</strong> логотип внизу страницы."
+
+#: inc/config.php:171
+msgid "Powered By SeedProd Affiliate ID"
+msgstr "Работает на SeedProd Affiliate ID"
+
+#: inc/config.php:172
+msgid "Enter your affiliate ID and earn commisions on sales referred to SeedProd from your page. <a href='http://www.seedprod.com/affiliates/' target='_blank'>Learn More</a>. "
+msgstr "Введите свой партнерский идентификатор и зарабатывайте комиссионные от продаж, упоминая SeedProd на своей странице. <a href='http://www.seedprod.com/affiliates/' target='_blank'>Подробнее</a>."
+
+#: template/maintenancemode.php:58
+msgid "is Down for Maintenance"
+msgstr "закрыт на техническое обслуживание"
