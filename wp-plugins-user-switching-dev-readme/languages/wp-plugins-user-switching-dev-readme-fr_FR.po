@@ -1,0 +1,558 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Switching\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/user-switching/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-06-29T14:02:03+00:00\n"
+"PO-Revision-Date: 2017-09-23 21:15:48\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+
+#. Name.
+msgid "User Switching"
+msgstr "User Switching"
+
+#. Short description.
+msgid "Instant switching between user accounts in WordPress."
+msgstr "Changer instantanément de comptes utilisateurs dans WordPress."
+
+#. Found in faq paragraph.
+msgid "No. This can be enabled though by installing the <a href=\"https://github.com/johnbillion/user-switching-for-regular-admins\">User Switching for Regular Admins</a> plugin."
+msgstr "Non. Cela peut néanmoins être activé en installant l'extension <a href=\"https://github.com/johnbillion/user-switching-for-regular-admins\">User Switching for Regular Admins</a>."
+
+#. Found in faq paragraph.
+msgid "When a user switches off, the <code>switch_off_user</code> hook is called with the old user ID as a parameter."
+msgstr "Lorsqu'un utilisateur permute, le crochet <code>switch_off_user</code> est appelé avec l'ancienne ID de l'utilisateur passé en paramètre."
+
+#. Found in faq paragraph.
+msgid "When a user switches back to their original account, the <code>switch_back_user</code> hook is called with the new (original) and old user IDs passed as parameters. Note that the old user ID can be boolean false if the user is switching back after they've been switched off."
+msgstr "Lorsqu'un utilisateur revient en arrière vers le compte original, le crochet <code>switch_back_user</code> est appelé avec le nouvel (original) et l'ancien identifiant de l'utilisateur passés en paramètres. Notez que l'ancien identifiant utilisateur peut avoir la valeur booléenne false si l'utilisateur revient en arrière après avoir permuté."
+
+#. Found in faq paragraph.
+msgid "Yes. When a user switches to another account, the <code>switch_to_user</code> hook is called with the new and old user IDs passed as parameters."
+msgstr "Oui. Lorsqu'un utilisateur permute vers un autre compte; le crochet <code>switch_to_user</code> est appelé avec l'ancien et le nouvel identifiant de l'utilisateur passés en paramètres."
+
+#. Found in faq paragraph.
+msgid "Yes, but you'll need to install <code>user-switching.php</code> into the root of your <code>mu-plugins</code> directory, not in the <code>user-switching</code> subdirectory. This is a restriction of WordPress."
+msgstr "Oui, mais vous devrez installer <code>user-switching.php</code> à la racine de votre répertoire <code>mu-plugins</code>, et non pas dans le sous-répertoire <code>user-switching</code>. C'est une restriction de WordPress."
+
+#. Found in faq paragraph.
+msgid "Yes, and you'll also be able to switch users from the Users screen in Network Admin."
+msgstr "Oui, et vous serez également en mesure de permuter les utilisateurs depuis l'écran Utilisateurs de l'Admin du réseau."
+
+#. Found in faq paragraph.
+msgid "Yes, and you'll also be able to switch users from member profile screens and the member listing screen."
+msgstr "Oui, et vous serez également en mesure de permutrr les utilisateurs depuis l'écran de profil de membre et l'écran de liste des membres."
+
+#. Found in faq paragraph.
+msgid "Yes, and you'll also be able to switch users from member profile screens."
+msgstr "Oui, et vous serez également en mesure de permuter les utilisateurs depuis les écrans de profil de membre."
+
+#. Found in faq paragraph.
+msgid "A user needs the <code>edit_users</code> capability in order to switch user accounts. By default only Administrators have this capability, and with Multisite enabled only Super Admins have this capability."
+msgstr "Un utilisateur a besoin de la capacité <code>edit_users</code> pour permuter les comptes utilisateurs. Par défaut, seuls les Administrateurs ont cette capacité, et avec le Multisite activé, seuls les Super Admins ont cette capacité."
+
+#. Found in faq paragraph.
+msgid "The <em>Switch Off</em> link can be found in your profile menu in the WordPress toolbar. Once you've switched off you'll see a <em>Switch back</em> link in the footer of your site."
+msgstr "Le lien <em>Permuter</em> peut être trouvé dans le menu de votre profil dans la barre d'outils WordPress. Une fois que vous l'avez fait, vous verrez un lien <em>Revenir en arrière</em> en bas de page de votre site."
+
+#. Found in faq header.
+msgid "Can regular admins on Multisite installs switch accounts?"
+msgstr "Est-ce que les admins normaux d'une installation multisite peuvent permuter les comptes&nbsp;?"
+
+#. Found in faq header.
+msgid "What does \"Switch off\" mean?"
+msgstr "Que signifie \"Arrêter\"&nbsp;?"
+
+#. Found in faq header.
+msgid "Does this plugin work with WordPress Multisite?"
+msgstr "Est-ce que cette extension fonctionne avec WordPress Multisite&nbsp;?"
+
+#. Found in faq paragraph.
+msgid "Switching off logs you out of your account but retains your user ID in an authentication cookie so you can switch straight back without having to log in again manually. It's akin to switching to no user, and being able to switch back."
+msgstr "Arrêter vous déconnecte de votre compte, mais conserve votre identifiant utilisateur dans un cookie d'authentification de sorte que vous pouvez revenir en arrière sans avoir à vous reconnecter manuellement. C'est comme basculer vers aucun utilisateur, et être capable de revenir en arrière."
+
+#. Found in faq header.
+msgid "Are any plugin hooks called when users switch accounts?"
+msgstr "Est-ce que des crochets d'extensions sont appelés lorsque les utilisateurs basculent des comptes&nbsp;?"
+
+#. Found in faq header.
+msgid "Does this work as a mu-plugin?"
+msgstr "Est-ce qu'il fonctionne comme une extension mu&nbsp;?"
+
+#. Found in faq header.
+msgid "What capability does a user need in order to switch accounts?"
+msgstr "De quelle capacité a besoin un utilisateur pour basculer un compte&nbsp;?"
+
+#. Found in faq header.
+msgid "Does this plugin work with BuddyPress?"
+msgstr "Est-ce que cette extension fonctionne avec BuddyPress&nbsp;?"
+
+#. Found in faq header.
+msgid "Does this plugin work with bbPress?"
+msgstr "Est-ce que cette extension fonctionne avec bbPress&nbsp;?"
+
+#. Found in installation list item.
+msgid "Click <em>Install Now</em> next to the <em>User Switching</em> plugin."
+msgstr "Cliquez sur <em>Installer maintenant</em> à côté de l'extension <em>User Switching</em>."
+
+#. Found in installation paragraph.
+msgid "Alternatively, you can install this plugin directly from your WordPress dashboard:"
+msgstr "Autrement, vous pouvez installer cette extension directement à partir de votre tableau de bord WordPress&nbsp;:"
+
+#. Found in installation list item.
+msgid "Activate the plugin."
+msgstr "Activez l'extension."
+
+#. Found in installation paragraph.
+msgid "If you have the <a href=\"https://wordpress.org/plugins/developer/\">WordPress Developer plugin</a> installed then User Switching is a one-click install from the Tools -&gt; Developer screen."
+msgstr "Si vous avez l'extension <a href=\"https://wordpress.org/plugins/developer/\">WordPress Developer plugin</a> d'installée alors l'installation de User Switching se fait en un clic depuis Outils -&gt; Écran développeur."
+
+#. Found in installation list item.
+msgid "Go to the <em>Plugins</em> menu and click <em>Add New</em>."
+msgstr "Allez dans le menu <em>Extensions</em> et cliquer sur <em>Ajouter</em>."
+
+#. Found in installation list item.
+msgid "Search for <em>User Switching</em>."
+msgstr "Recherchez <em>User Switching</em>."
+
+#. Found in description paragraph.
+msgid "Thanks to translations by Hassan Hisham, Tunghsiao Liu, Francois-Xavier Bénard, Ralph Stenzel, Rami Y, Yusuke Hayasaki, Tommixoft, Amin Ab, Bartosz Arendt, Raphael Mendonça, R J, Max Samael, Eko Ikhyar, Marcelo Pedra, Abdullah Pazarbasi, ArianServ, SilverXp, Evi Giannakou, Petya Raykovska, Martin Sauter, Yaser Tallo, Enrique Errando, Sami Keijonen, Ishka Michocka, Alessandro Curci, Alessandro Tesoro, and Ante Sepic!"
+msgstr "Merci pour les traductions par Hassan Hisham, Tunghsiao Liu, Francois-Xavier Bénard, Ralph Stenzel, Rami Y, Yusuke Hayasaki, Tommixoft, Amin Ab, Bartosz Arendt, Raphael Mendonça, R J, Max Samael, Eko Ikhyar, Marcelo Pedra, Abdullah Pazarbasi, ArianServ, SilverXp, Evi Giannakou, Petya Raykovska, Martin Sauter, Yaser Tallo, Enrique Errando, Sami Keijonen, Ishka Michocka, Alessandro Curci, Alessandro Tesoro, and Ante Sepic&nbsp;!"
+
+#. Found in description list item.
+msgid "Русский (Russian)"
+msgstr "Русский (Russe)"
+
+#. Found in description paragraph.
+msgid "See the <a href=\"https://wordpress.org/plugins/user-switching/faq/\">FAQ</a> for information about the <em>Switch Off</em> feature."
+msgstr "Regardez la <a href=\"https://wordpress.org/plugins/user-switching/faq/\">FAQ</a> pour des informations sur la fonctionnalité <em>Arrêter</em>."
+
+#. Found in description list item.
+msgid "Türkçe (Turkish)"
+msgstr "Türkçe (Turc)"
+
+#. Found in description paragraph.
+msgid "This plugin allows you to quickly swap between user accounts in WordPress at the click of a button. You'll be instantly logged out and logged in as your desired user. This is handy for test environments where you regularly log out and in between different accounts, or for adminstrators who need to switch between multiple accounts."
+msgstr "Cette extension vous permet de basculer rapidement entre des comptes utilisateurs dans WordPress d'un clic de bouton. Vous serez instantanément déconnecté et reconnecté sous l'utilisateur de votre choix. C'est pratique pour les environnements de test où vous vous connectez et déconnectez régulièrement entre différents comptes, ou pour les adminstrateurs qui ont besoin de basculer entre plusieurs comptes."
+
+#. Found in description list item.
+msgid "Português do Brasil (Brazilian Portuguese)"
+msgstr "Português do Brasil (Portugais brésilien)"
+
+#. Found in description list item.
+msgid "Română (Romanian)"
+msgstr "Română (Roumain)"
+
+#. Found in description list item.
+msgid "Slovenčina (Slovak)"
+msgstr "Slovenčina (Slovaque)"
+
+#. Found in description list item.
+msgid "Español (Spanish)"
+msgstr "Español (Espagnol)"
+
+#. Found in description list item.
+msgid "فارسی (Persian)"
+msgstr "فارسی (Persan)"
+
+#. Found in description list item.
+msgid "日本語 (Japanese)"
+msgstr "日本語 (Japonais)"
+
+#. Found in description list item.
+msgid "Polski (Polish)"
+msgstr "Polski (Polonais)"
+
+#. Found in description list item.
+msgid "Lietuvių kalba (Lithuanian)"
+msgstr "Lietuvių kalba (Lituanien)"
+
+#. Found in description list item.
+msgid "Italiano (Italian)"
+msgstr "Italiano (Italien)"
+
+#. Found in description list item.
+msgid "עִבְרִית (Hebrew)"
+msgstr "עִבְרִית (Hebreux)"
+
+#. Found in description list item.
+msgid "Bahasa Indonesia (Indonesian)"
+msgstr "Bahasa Indonesia (Indonésien)"
+
+#. Found in description list item.
+msgid "Ελληνικά (Greek)"
+msgstr "Ελληνικά (Grec)"
+
+#. Found in description list item.
+msgid "Français (French)"
+msgstr "Français"
+
+#. Found in description list item.
+msgid "Deutsch (German)"
+msgstr "Deutsch (Allemand)"
+
+#. Found in description list item.
+msgid "Suomi (Finnish)"
+msgstr "Suomi (Finnois)"
+
+#. Found in description list item.
+msgid "Click this and you will immediately switch into that user account."
+msgstr "Cliquez dessus et vous serez immédiatement basculé sous ce compte utilisateur."
+
+#. Found in description list item.
+msgid "You can switch back to your originating account via the <em>Switch back</em> link on each dashboard screen or in your profile menu in the WordPress toolbar."
+msgstr "Vous pouvez revenir à votre compte d'origine via le lien <em>Retour arrière</em> lien sur chaque écran du tableau de bord ou dans le menu de votre profil dans la barre d'outils WordPress."
+
+#. Found in description list item.
+msgid "Nederlands (Dutch)"
+msgstr "Nederlands (Néerlandais)"
+
+#. Found in description list item.
+msgid "Hrvatski (Croatian)"
+msgstr "Hrvatski (Croate)"
+
+#. Found in description list item.
+msgid "Български (Bulgarian)"
+msgstr "Български (Bulgare)"
+
+#. Found in description list item.
+msgid "中文 (Chinese Simplified)"
+msgstr "中文 (Chinois simplifié)"
+
+#. Found in description list item.
+msgid "Visit the <em>Users</em> menu in WordPress and you'll see a <em>Switch To</em> link next to each user."
+msgstr "Visitez le menu <em>utilisateurs</em> dans WordPress et vous verrez un lien <em>Basculer vers</em> à côté de chaque utilisateur."
+
+#. Found in description list item.
+msgid "العربية (Arabic)"
+msgstr "العربية (Arabe)"
+
+#. Found in description list item.
+msgid "Full support for administration over SSL (if applicable)."
+msgstr "Prise en charge complète de l'administration sur SSL (si c'est possible)."
+
+#. Found in description list item.
+msgid "Implements the nonce security system in WordPress, meaning only those who intend to switch users can switch."
+msgstr "Implémente le système de sécurité de nonce de WordPress, ce qui signifie que seuls ceux qui sont supposés basculer des utilisateurs peuvent le faire."
+
+#. Found in description list item.
+msgid "Uses the cookie authentication system in WordPress when remembering the account(s) you've switched from and when switching back."
+msgstr "Utilise le système d'authentification par cookie de WordPress se rappelant du (des) compte (s) que vous avez basculé et lors du retour arrière."
+
+#. Found in description list item.
+msgid "Passwords are not (and cannot be) revealed."
+msgstr "Les mots de passe ne sont (et ne peuvent) pas être révélés."
+
+#. Found in description list item.
+msgid "It's completely secure (see the <em>Security</em> section below)."
+msgstr "C'est complètement sécurisé (voir la section <em>Sécurité</em> ci-dessous)."
+
+#. Found in description list item.
+msgid "Compatible with WordPress, WordPress Multisite, BuddyPress and bbPress."
+msgstr "Compatible avec WordPress, WordPress Multisite, BuddyPress et bbPress."
+
+#. Found in description list item.
+msgid "Only users with the ability to edit other users can switch user accounts. By default this is only Administrators on single site installs, and Super Admins on Multisite installs."
+msgstr "Seuls les utilisateurs ayant la possibilité de modifier d'autres utilisateurs peuvent basculer les comptes utilisateurs. Par défaut, seuls les administrateurs sur un site unique, et les Super Admins sur une installation multisite peuvent le faire."
+
+#. Found in description list item.
+msgid "Switch off: Log out of your account but retain the ability to instantly switch back in again."
+msgstr "Arrêter&nbsp;: Déconnectez-vous de votre compte, mais conservez la possibilité d'y revenir instantanément."
+
+#. Found in description list item.
+msgid "Switch user: Instantly switch to any user account from the <em>Users</em> screen."
+msgstr "Bascule d'utilisateur&nbsp;: passer instantanément vers n'importe quel compte d'utilisateur à partir des écrans <em>Utilisateurs</em>."
+
+#. Found in description list item.
+msgid "Switch back: Instantly switch back to your originating account."
+msgstr "Bascule arrière&nbsp;: bascule instantanément vers votre compte d'origine."
+
+#. Found in description header.
+msgid "Translations Included"
+msgstr "Traductions Incluses"
+
+#. Found in description header.
+msgid "Security"
+msgstr "Sécurité"
+
+#. Found in description header.
+msgid "Usage"
+msgstr "Utilisation"
+
+#. Found in description header.
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#. Found in changelog list item.
+msgid "Prevent admins switching to multisite super admin accounts."
+msgstr "Empêcher les admins de basculer vers des comptes de super-admin multisites."
+
+#. Found in changelog list item.
+msgid "Adds an admin bar menu item (WordPress 3.1+) for switching back to the user you switched from."
+msgstr "Ajoute un élément dans le menu de la barre d'admin (WordPress 3.1+) pour revenir en arrière vers l'utilisateur dont vous avez basculé."
+
+#. Found in changelog list item.
+msgid "Respect the current 'Remember me' setting when switching users."
+msgstr "Respecte le réglage courant 'Se souvenir de moi' lorsqu'on bascule des utilisateurs."
+
+#. Found in changelog list item.
+msgid "Redirect to home page instead of admin screen if the user you're switching to has no privileges."
+msgstr "Redirige vers la page d'accueil à la place de l'écran d'admin si l'utilisateur que vous êtes en train de basculer n'a pas de privilèges."
+
+#. Found in changelog list item.
+msgid "Edge case bugfix to prevent 'Switch back to...' message appearing when it shouldn't."
+msgstr "Correction de cas limite de bogue pour empêcher le message 'Revenir en arrière vers ...' message apparaissant quand il ne devrait pas."
+
+#. Found in changelog list item.
+msgid "Functionality for switching back to user you switched from."
+msgstr "Fonctionnalité pour revenir en arrière vers l'utilisateur vous aviez basculé."
+
+#. Found in changelog list item.
+msgid "Initial release."
+msgstr "Première publication."
+
+#. Found in changelog list item.
+msgid "Toolbar tweaks for WordPress 3.3."
+msgstr "Ajustements pour la barre d'outils WordPress 3.3."
+
+#. Found in changelog list item.
+msgid "Fix a PHP warning when used as a mu-plugin (thanks Scribu)."
+msgstr "Corrige un avertissement PHP lors d'une utilisation en mu-plugin (Merci Scribu)."
+
+#. Found in changelog list item.
+msgid "Fix the 'Switch back to' menu item in the WordPress admin bar (WordPress 3.1+)."
+msgstr "Corrige l'élément de menu 'Retour arrière vers' dans la barre d'admin WordPress (WordPress 3.1+)."
+
+#. Found in changelog list item.
+msgid "Fix a formatting issue on the user profile page."
+msgstr "Corrige un problème de formatage dans la page de profil utilisateur."
+
+#. Found in changelog list item.
+msgid "Fix a permissions problem for users with no privileges."
+msgstr "Corrige le problème de permissions pour les utilisateurs sans privilèges."
+
+#. Found in changelog list item.
+msgid "Add some extended support for Multisite."
+msgstr "Apporte une prise en charge plus étendue pour le Multisite."
+
+#. Found in changelog list item.
+msgid "Support for upcoming changes to the admin bar in WordPress 3.3."
+msgstr "Prends en charge des changements à venir dans la barre d'admin dans WordPress 3.3."
+
+#. Found in changelog list item.
+msgid "Add some extended support for BuddyPress."
+msgstr "Apporte une prise en charge plus étendue pour BuddyPress."
+
+#. Found in changelog list item.
+msgid "New \"Switch off\" function: Log out and log instantly back in again when needed (see the FAQ)."
+msgstr "Nouvelle fonction \"Arrêter\"&nbsp;: Déconnectez-vous et reconnectez-vous immédiatement lorsque nécessaire (voir la FAQ)"
+
+#. Found in changelog list item.
+msgid "Chinese Simplified translation by Sparanoid."
+msgstr "Traduction en chinois simplifié par Sparanoid."
+
+#. Found in changelog list item.
+msgid "Added some hooks: <code>switch_to_user</code>, <code>switch_back_user</code> and <code>switch_off_user</code>, fired when appropriate."
+msgstr "Ajout de quelques crochets&nbsp;: <code>switch_to_user</code>, <code>switch_back_user</code> et <code>switch_off_user</code>, lancé lorsque c'est nécessaire."
+
+#. Found in changelog list item.
+msgid "Farsi (Persian) translation by Amin Ab."
+msgstr "Traduction en farsi (perse) par Amin Ab."
+
+#. Found in changelog list item.
+msgid "Display switch back links in Network Admin and login screen."
+msgstr "Affichage les liens Retour arrière dans l'Admin du réseau et l'écran de connexion."
+
+#. Found in changelog list item.
+msgid "German translation by Ralph Stenzel."
+msgstr "Traduction en allemand par Ralph Stenzel."
+
+#. Found in changelog list item.
+msgid "Avoid a BuddyPress bug preventing Switch To buttons from appearing."
+msgstr "Évite un bug de BuddyPress empêchant les boutons Basculer vers d'apparaître."
+
+#. Found in changelog list item.
+msgid "Added a template function: <code>current_user_switched()</code> which lets you know if the current user switched into their account."
+msgstr "Ajout d'une fonction de modèle&nbsp;: <code>current_user_switched ()</code> qui vous permet de savoir si l'utilisateur courant a basculé dans leur compte."
+
+#. Found in changelog list item.
+msgid "A little code refactoring and improving, completed inline docs."
+msgstr "Un peu de refactorisation et d'amélioration de code et achèvement de la doc en ligne."
+
+#. Found in changelog list item.
+msgid "Lithuanian translation by Tommixoft."
+msgstr "Traduction en lituanien translation par Tommixoft."
+
+#. Found in changelog list item.
+msgid "Polish translation by Bartosz Arendt."
+msgstr "Traduction en polonais par Bartosz Arendt."
+
+#. Found in changelog list item.
+msgid "Slovak translation by Max Samael."
+msgstr "Traduction en slovaque par Max Samael."
+
+#. Found in changelog list item.
+msgid "More intuitive redirecting after switching."
+msgstr "Redirection plus intuitive après la bascule."
+
+#. Found in changelog list item.
+msgid "Minor code tweaks."
+msgstr "Ajustements mineurs de code."
+
+#. Found in changelog list item.
+msgid "Always show a 'Switch back' link in the footer when the admin toolbar isn't showing."
+msgstr "Affiche toujours un lien 'Retour arrière' dans le pied de page lorsque la barre d'outils admin n'est pas visible."
+
+#. Found in changelog list item.
+msgid "Arabic translation by Hassan Hisham."
+msgstr "Traduction en arabe par Hassan Hisham."
+
+#. Found in changelog list item.
+msgid "Updated Arabic translation by Hassan Hisham."
+msgstr "Mise à jour de la traduction arabe par Hassan Hisham."
+
+#. Found in changelog list item.
+msgid "Nested switching and switching back is now supported (capability permitting). Switch, switch again, switch back, switch back!"
+msgstr "Les bascules imbriquées et le retour en arrière est désormais pris en charge (si la capacité le permet). Basculer, basculer à nouveau, revenir en arrière, revenez en arrière&nbsp;!"
+
+#. Found in changelog list item.
+msgid "Fix for BuddyPress 1.7 member profile pages. Props nat0n."
+msgstr "Correction pour les pages de profil membres de BuddyPress 1,7. Props nat0n."
+
+#. Found in changelog list item.
+msgid "Russian translation by R J."
+msgstr "Traduction en russe par R J."
+
+#. Found in changelog list item.
+msgid "Japanese translation by Yusuke Hayasaki."
+msgstr "Traduction en japonais par Yusuke Hayasaki."
+
+#. Found in changelog list item.
+msgid "Change the textdomain in the plugin to match the plugin slug (required for language packs in WordPress core)."
+msgstr "Changement du textdomain dans l'extension pour correspondre à l'identifiant de l'extension (nécessaire pour packs de langue du cœur WordPress)."
+
+#. Found in changelog list item.
+msgid "Show admin notices on all possible admin screens."
+msgstr "Affiche les remarques admin sur tous les écrans possibles d'admin."
+
+#. Found in changelog list item.
+msgid "Tweak the redirect location for BuddyPress user profiles."
+msgstr "Ajustement de l'emplacement de redirection pour les profils utilisateur BuddyPress."
+
+#. Found in changelog list item.
+msgid "Switch to storing data in cookies as JSON instead of PHP-serialized."
+msgstr "Passer au stockage des données dans les cookies JSON lieu de PHP sérialisé."
+
+#. Found in changelog list item.
+msgid "Revert a change in 0.8.3 which switched to using the <code>login_init</code> hook. This hook is fired too late."
+msgstr "Rétablit un changement dans 0.8.3 qui passe en utilisant le crochet <code>login_init</code>. Ce crochet est lancé trop tard."
+
+#. Found in changelog list item.
+msgid "Add a 'Switch To' link to bbPress profile screens."
+msgstr "Ajout d'un lien  'Basculer vers' dans les écrans de profil bbPress."
+
+#. Found in changelog list item.
+msgid "Correctly encode the <code>redirect_to</code> parameter in the login screen message."
+msgstr "* Encodage correct du paramètre <code>redirect_to<:code> dans le message de la page de connexion."
+
+#. Found in changelog list item.
+msgid "User Switching is now a network-only plugin when used on Multisite."
+msgstr "User Switching est maintenant une extension réseau uniquement lorsqu'elle est utilisée sur un Multisite."
+
+#. Found in changelog list item.
+msgid "Respect the <code>secure_logged_in_cookie</code> and <code>login_redirect</code> filters."
+msgstr "* Respecte les filtres  <code>secure_logged_in_cookie</code> et  <code>login_redirect</code>."
+
+#. Found in changelog list item.
+msgid "Portuguese translation by Raphael Mendonça."
+msgstr "Traduction en portugais par Raphael Mendonça."
+
+#. Found in changelog list item.
+msgid "Spanish Translation by Marcelo Pedra."
+msgstr "Traduction en espagnol par Marcelo Pedra."
+
+#. Found in changelog list item.
+msgid "Hebrew translation by Rami Y."
+msgstr "Traduction en hébreux par Rami Y."
+
+#. Found in changelog list item.
+msgid "Indonesian translation by Eko Ikhyar."
+msgstr "Traduction en Indonésien par Eko Ikhyar."
+
+#. Found in changelog list item.
+msgid "French translation by Fx Bénard."
+msgstr "Traduction en français par Fx Bénard."
+
+#. Found in changelog list item.
+msgid "Finnish translation by Sami Keijonen."
+msgstr "Traduction en finnois par Sami Keijonen."
+
+#. Found in changelog list item.
+msgid "Italian translation by Alessandro Curci and Alessandro Tesoro."
+msgstr "Traduction en italien par Alessandro Curci et Alessandro Tesoro."
+
+#. Found in changelog list item.
+msgid "Updated Arabic, Spanish, German, and Polish translations."
+msgstr "Mise à jour des traductions en arabe, espagnol, allemand et polonais."
+
+#. Found in changelog list item.
+msgid "Shorten the names of User Switching's cookies to avoid problems with Suhosin's over-zealous default rules."
+msgstr "Réduction des noms des cookies de User Switching pour éviter les problèmes avec les règles par défaut trop zélés de Suhosin."
+
+#. Found in changelog list item.
+msgid "Add backwards compatibility for the deprecated <code>OLDUSER_COOKIE</code> constant."
+msgstr "* Ajout de compatibilité ascendante pour la `constante obsolète <code>OLDUSER_COOKIE</code> ."
+
+#. Found in changelog list item.
+msgid "Security hardening for sites that use HTTPS in the admin area and HTTP on the front end."
+msgstr "Renforcement de la sécurité pour les sites utilisant HTTPS dans la partie admin et HTTP pour le reste."
+
+#. Found in changelog list item.
+msgid "Add an extra auth check before the nonce verification."
+msgstr "Ajout d'un contrôle d'authentification supplémentaire avant la vérification nonce."
+
+#. Found in changelog list item.
+msgid "Pretty icon next to the switch back links."
+msgstr "Jolie icône à côté du lien de retour."
+
+#. Found in changelog list item.
+msgid "Minor fixes for the <code>login_redirect</code> filter."
+msgstr "Corrections mineures pour le filtre <code>login_redirect</code>."
+
+#. Found in changelog list item.
+msgid "Increase the specificity of the <code>switch_to_old_user</code> and <code>switch_off</code> nonces."
+msgstr "Augmentation de la précision des nonces <code>switch_to_old_user</code> et <code>switch_off</code>."
+
+#. Found in changelog list item.
+msgid "Romanian translation by ArianServ."
+msgstr "Traduction en roumain par ArianServ."
+
+#. Found in changelog list item.
+msgid "Dutch translation by Thom."
+msgstr "Traduction en néerlandais par Thom."
+
+#. Found in changelog list item.
+msgid "Greek translation by evigiannakou."
+msgstr "Traduction en grec par evigiannakou."
+
+#. Found in changelog list item.
+msgid "Bulgarian translation by Petya Raykovska."
+msgstr "Traduction en bulgare par Petya Raykovska."
+
+#. Found in changelog list item.
+msgid "Avoid PHP notices caused by other plugins which erroneously use boolean <code>true</code> as a capability."
+msgstr "Évitement des remarques PHP causées par d'autres extensions qui utilisent à tort le booléen <code>true</code> comme une capacité."
+
+#. Found in changelog list item.
+msgid "Turkish translation by Abdullah Pazarbasi."
+msgstr "Traduction en turc par Abdullah Pazarbasi."
+
+#. Found in changelog list item.
+msgid "Croation translation."
+msgstr "Traduction en croate."
