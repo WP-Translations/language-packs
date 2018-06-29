@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/wp-vipergb/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-18 20:18:24+00:00\n"
+"PO-Revision-Date: 2017-12-21 12:20:12\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: _admin_menu.php:29
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: _admin_menu.php:61
+msgid "Options saved."
+msgstr "Seçenekler saklandı."
+
+#: _admin_menu.php:67
+msgid "WP-ViperGB Options"
+msgstr "WP-ViperGB Seçenekleri"
+
+#: _admin_menu.php:69
+msgid "Manage Entries"
+msgstr "Girdileri Yönet"
+
+#: _admin_menu.php:73
+msgid "To add a Guestbook to your blog, simply create a new page, select it in the first combobox below, and click \"Save.\""
+msgstr "Blogunuza bir Ziyaretçi Defteri eklemek için, basitçe yeni bir sayfa oluşturun, onu alttaki ilk combobox'tan seçin ve \"Sakla.\" butonuna tıklayın."
+
+#: _admin_menu.php:80
+msgid "Main Settings"
+msgstr "Ana Ayarlar"
+
+#: _admin_menu.php:82
+msgid "Guestbook Page"
+msgstr "Ziyaretçi Defteri Sayfası"
+
+#: _admin_menu.php:93
+msgid "Guestbook Style"
+msgstr "Ziyareçi Defteri Stili"
+
+#: _admin_menu.php:107
+msgid "Extra Settings"
+msgstr "Extra Ayarlar"
+
+#: _admin_menu.php:108
+msgid "Entries Per Page"
+msgstr "Sayfa Başına Girdi Sayısı"
+
+#: _admin_menu.php:109
+msgid "Use Digg-style pagination"
+msgstr "Digg stili sayfalama kullan"
+
+#: _admin_menu.php:110
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Ters Sıralama (en eskiden en yeniye)"
+
+#: _admin_menu.php:111
+msgid "Allow Image Uploads"
+msgstr "Resim Yüklemelerine İzin Ver"
+
+#: _admin_menu.php:112
+msgid "Max Image Filesize (kb)"
+msgstr "Azami Resim Dosyası Boyutu (kb)"
+
+#: _admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Anonim imzalara izin verme (sadece kayıtlı kullanıcılar)"
+
+#: _admin_menu.php:114
+msgid "Show Browser &amp; OS Icons"
+msgstr "Tarayıcıyı &amp; İşletim Sistemi Simgelerini Göster"
+
+#: _admin_menu.php:115
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Bayrak Simgelerini Göster (%s gerektirir)"
+
+#: _admin_menu.php:116
+msgid "Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much appreciated)"
+msgstr "<a href=\"%s\">eklenti anasayfası</a>'na bağlanan bir Link dahil et (isteğe bağlı fakat memnun edici)"
+
+#: _admin_menu.php:118
+msgid "Save"
+msgstr "Sakla"
+
+#: _admin_menu.php:122
+msgid "Development"
+msgstr "Geliştirme"
+
+#: _admin_menu.php:123
+msgid "Many hours have gone into making this plugin as clean and easy to use as possible. Although I offer it to you freely, please keep in mind that each hour spent on it was an hour that could've also gone towards income-generating work. If you find it useful, a small donation would be greatly appreciated :)"
+msgstr "Mümkün Olduğunca temiz ve kolay kullanım için saatlerce bu eklentiyi oluşturmaya çalıştım. Bağış yapıp yapmamkta Özgürsünüz. Ama unutmayın ki her bağış size daha iyi ve kullanışlı bir eklenti olarak geri dönecektir. Eğer eklentiyi kullanışlı buluyorsanız, küçük bir bağış büyük taktirdir. :)"
+
+#: _admin_menu.php:134
+msgid "Credits"
+msgstr "Katkı sağlayanlar"
+
+#: _admin_menu.php:135
+msgid "WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB diğer bazı eklentilerin yaralı kodlarını almaktadır. Bunlar:"
+
+#: _admin_menu.php:137
+msgid "Allow users to embed images in their guestbook entries. <i>This functionality is included by default, but must be explicitly enabled above.</i>"
+msgstr "Kullanıcılarınız Ziyaretçi Defteri yazılarına Resim eklemelerine izin verin. <i> Bu işlev varsayılan olarak eklenir, ancak panelden etkinleştirmeniz gerekir. </ i>"
+
+#: _admin_menu.php:138
+msgid "Show a browser and operating system icon in each visitor's guestbook entry.  <i>This functionality is included by default.</i>"
+msgstr "Her ziyaretçinin Yazısında bir tarayıcı ve işletim sistemi simgesi gösterilir. <i> Bu işlev varsayılan olarak eklenir. </ i>"
+
+#: _admin_menu.php:139
+msgid "Show a national flag in each visitor's guestbook entry.  <i>This plugin must be installed separately.</i>"
+msgstr "Her ziyaretçinin Yazısında bir ulusal bayrak gösterilir. <i> Bu eklentinin ayrı olarak yüklenmesi gerekir. </ i>"
+
+#: _diggstyle.php:43
+#: _diggstyle.php:45
+msgid "prev"
+msgstr "önceki"
+
+#: _diggstyle.php:109
+#: _diggstyle.php:111
+msgid "next"
+msgstr "sonraki"
+
+#: _output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Ziyaretçi Defterini Göster"
+
+#: _output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Ziyaretçi Defterini İmzala"
+
+#: _output_guestbook.php:101
+msgid "entries"
+msgstr "girdiler"
+
+#: _output_guestbook.php:111
+msgid "Page"
+msgstr "Sayfa"
+
+#: _output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Henüz girdi yok"
+
+#: _output_guestbook.php:175
+msgid "EntryNo"
+msgstr "Girdi No"
+
+#: _output_guestbook.php:184
+msgid "Date"
+msgstr "Tarih"
+
+#: _output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: _output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "d.m.Y"
+
+#: _output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Yazınız Yönetici onayı beklemektedir."
+
+#: _output_guestbook.php:221
+msgid "hidden"
+msgstr "gizli"
+
+#: _output_guestbook.php:234
+#: _output_guestbook.php:236
+msgid "Powered by"
+msgstr "Destek:"
+
+#: _output_guestbook.php:274
+msgid "Sorry, but only registered users are allowed to sign this guestbook.<br />Please create a user account, or login to sign."
+msgstr "Üzgünüz, fakat bu ziyaretçi defterini imzalaması için yalnızca kayıtlı kullanıcılara izin verilmiştir.<br />Lütfen imzalamak için bir kullanıcı hesabı oluşturun veya giriş yapın."
+
+#: _output_guestbook.php:280
+msgid "Name"
+msgstr "İsim"
+
+#: _output_guestbook.php:285
+#: _output_guestbook.php:294
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: _output_guestbook.php:289
+msgid "Email"
+msgstr "Eposta"
+
+#: _output_guestbook.php:298
+msgid "Homepage"
+msgstr "Anasayfa"
+
+#: _output_guestbook.php:303
+msgid "(optional)"
+msgstr "(seçimlik)"
+
+#: _output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr " * Eğer bu değerleri özelleştirmek istiyorsanız, lütfen"
+
+#: _output_guestbook.php:320
+msgid "Logout"
+msgstr "Çık"
+
+#: _output_guestbook.php:325
+msgid "Text"
+msgstr "Metin"
+
+#: _output_guestbook.php:327
+msgid "Send"
+msgstr "Gönder"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-ViperGB"
+msgstr "WP-ViperGB"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.justin-klein.com/projects/wp-vipergb"
+msgstr "http://www.justin-klein.com/projects/wp-vipergb"
+
+#. Description of the plugin/theme
+msgid "Create a stylish and user-friendly Guestbook for your blog.  Designed to replicate the appearance and behavior of the discontinued <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> project."
+msgstr "Blogunuz için kullanımı kolay ve stilli bir Ziyaretçi Defteri oluşturun. devam etmeyen  <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> projesinin görünüm ve davranışının yerini tutması için tasarlandı."
+
+#. Author of the plugin/theme
+msgid "Justin Klein"
+msgstr "Justin Klein (çeviri mapazarbasi)"
+
+#. Author URI of the plugin/theme
+msgid "http://www.justin-klein.com/"
+msgstr "http://www.justin-klein.com/"
