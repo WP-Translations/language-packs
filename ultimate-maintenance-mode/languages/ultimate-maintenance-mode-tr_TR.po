@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Maintenance Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/ultimate-maintenance-mode/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2012-12-12 12:20-0500\n"
+"PO-Revision-Date: 2017-12-21 12:20:14\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/framework.php:122
+msgid "Plugin Support"
+msgstr "Eklenti Desteği"
+
+#: framework/framework.php:126
+msgid "Got a Question, Idea, Problem or Praise?"
+msgstr "Bir Soru, Fikir, Sorun veya Övgünüz mü var?"
+
+#: framework/framework.php:129
+msgid "Support Request"
+msgstr "Destek Talebi"
+
+#: framework/framework.php:138
+msgid "Show Some Love"
+msgstr "Sevginiz Gösterin"
+
+#: framework/framework.php:141
+msgid "Like this plugin? Show your support by:"
+msgstr "Eklentiyi beğendiniz mi? Destekleyerek gösterin:"
+
+#: framework/framework.php:143
+msgid "Rating It"
+msgstr "Oy Verin"
+
+#: framework/framework.php:144
+msgid "Tweet It"
+msgstr "Tweetleyin"
+
+#: framework/framework.php:155
+msgid "SeedProd Blog"
+msgstr "SeedProd Blog"
+
+#: framework/framework.php:169
+msgid "Subscribe by Email"
+msgstr "Eposta ile Abone Olun"
+
+#: framework/framework.php:201
+msgid "Save Changes"
+msgstr "Kaydet"
+
+#: framework/framework.php:203
+msgid "Note: The automatic screenshot is produced from a service on WordPress.com. There is no way to manually refresh the screenshot once taken. WordPress.com should refresh it within a few days."
+msgstr "Not: Otomatik ekran görüntüsü bir WordPress.com hizmeti ile üretilir. Ekran görüntüsü bir kez alındığı zaman el ile yenilemenin bir yolu yoktur. WordPress.com bir kaç gün içinde yenileyecektir."
+
+#: framework/framework.php:283
+msgid "Media Image Library"
+msgstr "Ortam Kütüphanesi"
+
+#: framework/framework.php:396
+#, php-format
+msgid "Settings saved.  <a href='%s/?mm_preview=true'>Preview &raquo;</a>"
+msgstr "Ayarlar kaydedildi. <a href='%s/?mm_preview=true'>Ön İzleme &raquo;</a>"
+
+#: inc/config.php:48
+msgid "Maintenance Mode Active"
+msgstr "Bakım Modu Aktif"
+
+#: inc/config.php:96
+#: inc/config.php:98
+#: inc/config.php:99
+msgid "Maintenance Mode"
+msgstr "Bakım Modu"
+
+#: inc/config.php:121
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inc/config.php:133
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: inc/config.php:134
+#, php-format
+msgid "Enable if you enter Maintenance Mode. <a href='%s/?mm_preview=true'>Preview</a>"
+msgstr "Eğer Bakım Moduna girecekseniz etkinleştirin. <a href='%s/?mm_preview=true'>Ön İzleme</a>"
+
+#: inc/config.php:135
+msgid "Yes"
+msgstr "Evet"
+
+#: inc/config.php:141
+msgid "Custom Background Image"
+msgstr "Özel Arkaplan Resmi"
+
+#: inc/config.php:142
+msgid "This will override the captured screenshot. If left empty a screenshot of your website will be shown."
+msgstr "Bu, alınan ekran görünütüsünün üzerine yazılır. Boş bırakılırsa, web sitenizin bir ekran görüntüsü gösterilecektir."
+
+#: inc/config.php:148
+msgid "Custom Headline"
+msgstr "Özel Başlık"
+
+#: inc/config.php:149
+msgid "This will override the default headline. If left empty the default headline will be shown."
+msgstr "Bu varsayılan başlığın yerine yazılır. Boş bırakılırsa, varsayılan başlık gösterilecektir."
+
+#: inc/config.php:155
+msgid "Message"
+msgstr "Mesaj"
+
+#: inc/config.php:156
+msgid "Write a message to be displayed."
+msgstr "Gösterilmesi için bir mesaj yazın."
+
+#: inc/config.php:162
+msgid "Powered By SeedProd"
+msgstr "SeedProd Tarafından Desteklenir"
+
+#: inc/config.php:163
+msgid "Nope - Got No Love"
+msgstr "Olmaz - Sevgi Beslemiyorum"
+
+#: inc/config.php:163
+msgid "Yep - I Love You Man"
+msgstr "Olur - Seni Seviyorum Adamım"
+
+#: inc/config.php:164
+msgid "Can we show a <strong>cool stylish</strong> footer credit at the bottom the page."
+msgstr "Sayfanın alt tarafında <strong>hoş ve şık</strong> bir bilgi gösterebilirmiyiz."
+
+#: inc/config.php:171
+msgid "Powered By SeedProd Affiliate ID"
+msgstr "SeedProd Destek Ortaklık ID Kimliği"
+
+#: inc/config.php:172
+msgid "Enter your affiliate ID and earn commisions on sales referred to SeedProd from your page. <a href='http://www.seedprod.com/affiliates/' target='_blank'>Learn More</a>. "
+msgstr "Ortaklık kimliğinizi girin ve sayfanızdan SeedProd sayfasına yönlendirme ile komisyon kazanın. <a href='http://www.seedprod.com/affiliates/' target='_blank'>Daha Fazla</a>. "
+
+#: template/maintenancemode.php:58
+msgid "is Down for Maintenance"
+msgstr "Şu an Bakım için Kapalıdır"
