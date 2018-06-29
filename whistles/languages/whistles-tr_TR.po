@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whistles\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Abdullah Pazarbasi <mail@abdullahpazarbasi.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/wp-translations/whistles/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-12 13:38-0600\n"
+"PO-Revision-Date: 2017-12-21 12:20:12\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__;esc_html_e;esc_html__;_n;_x;_x:1,2c;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:100
+msgid "Add Whistles"
+msgstr "Whistles Ekle"
+
+#: admin/admin.php:129
+#: inc/class-whistles-widget.php:135
+msgid "Ascending"
+msgstr "Artan"
+
+#: admin/admin.php:130
+#: inc/class-whistles-widget.php:136
+msgid "Descending"
+msgstr "Azalan"
+
+#: admin/admin.php:135
+#: inc/class-whistles-widget.php:141
+msgid "Author"
+msgstr "Yazar"
+
+#: admin/admin.php:136
+#: inc/class-whistles-widget.php:142
+msgid "Date"
+msgstr "Tarih"
+
+#: admin/admin.php:137
+#: inc/class-whistles-widget.php:143
+msgid "ID"
+msgstr "ID"
+
+#: admin/admin.php:138
+#: inc/class-whistles-widget.php:144
+msgid "Random"
+msgstr "Rasgele"
+
+#: admin/admin.php:139
+#: inc/class-whistles-widget.php:145
+msgid "Slug"
+msgstr "Kısaad"
+
+#: admin/admin.php:140
+#: inc/class-whistles-widget.php:146
+msgid "Title"
+msgstr "Başlık"
+
+#: admin/admin.php:151
+#: admin/admin.php:158
+msgid "Insert"
+msgstr "Ekle"
+
+#: admin/admin.php:184
+#: inc/class-whistles-widget.php:153
+msgid "You need at least one whistle group to display whistles."
+msgstr "Whistle görüntülemek için en az bir whistle grubuna ihtiyacınız var."
+
+#: admin/admin.php:186
+#: inc/class-whistles-widget.php:155
+msgid "Whistle Groups &rarr;"
+msgstr "Whistle Grupları &rarr;"
+
+#: admin/admin.php:190
+#: admin/admin.php:237
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: admin/admin.php:194
+msgid "Type"
+msgstr "Tür"
+
+#: admin/admin.php:203
+msgid "Group"
+msgstr "Grup"
+
+#: admin/admin.php:213
+msgid "Number of whistles to display"
+msgstr "Görüntülenecek whistle sayısı"
+
+#: admin/admin.php:217
+#: inc/class-whistles-widget.php:185
+msgid "Order"
+msgstr "Sıralama"
+
+#: admin/admin.php:226
+msgid "Order By"
+msgstr "Sıralama Kriteri"
+
+#: admin/admin.php:236
+msgid "Insert Whistles"
+msgstr "Whistles Gir"
+
+#: inc/class-whistles-and-bells.php:164
+#, php-format
+msgid "The %s method must be overwritten in a sub-class."
+msgstr "%s metodu bir alt sınıfta tekrar yazılmış olmalı."
+
+#: inc/class-whistles-widget.php:26
+msgid "Tabs, toggles, accordions, bells, whistles, and all that jazz."
+msgstr "Sekmeler, değiştiriciler, akordeonlar, ziller, düdükler ve tüm cazırtılar."
+
+#: inc/class-whistles-widget.php:38
+#: inc/post-types.php:82
+#: inc/post-types.php:84
+#: inc/post-types.php:94
+msgid "Whistles"
+msgstr "Whistles"
+
+#: inc/class-whistles-widget.php:161
+msgid "Title:"
+msgstr "Başlık:"
+
+#: inc/class-whistles-widget.php:165
+msgid "Type:"
+msgstr "Tip:"
+
+#: inc/class-whistles-widget.php:173
+msgid "Group:"
+msgstr "Grup:"
+
+#: inc/class-whistles-widget.php:181
+msgid "Limit:"
+msgstr "Sınır:"
+
+#: inc/class-whistles-widget.php:193
+msgid "Order By:"
+msgstr "Sıralama Kriteri:"
+
+#: inc/functions.php:30
+msgid "Tabs"
+msgstr "Sekmeler"
+
+#: inc/functions.php:31
+msgid "Toggle"
+msgstr "Değiştir"
+
+#: inc/functions.php:32
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: inc/post-types.php:83
+#: inc/post-types.php:85
+msgid "Whistle"
+msgstr "Whistle"
+
+#: inc/post-types.php:86
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: inc/post-types.php:87
+msgid "Add New Whistle"
+msgstr "Yeni Whistle Ekle"
+
+#: inc/post-types.php:88
+msgid "Edit Whistle"
+msgstr "Whistle Düzenle"
+
+#: inc/post-types.php:89
+msgid "New Whistle"
+msgstr "Yeni Whistle"
+
+#: inc/post-types.php:90
+msgid "View Whistle"
+msgstr "Whistle Görüntüle"
+
+#: inc/post-types.php:91
+msgid "Search Whistles"
+msgstr "Whistle'ları Ara"
+
+#: inc/post-types.php:92
+msgid "No whistles found"
+msgstr "Whistle bulunamadı"
+
+#: inc/post-types.php:93
+msgid "No whistles found in trash"
+msgstr "Çöpte whistle bulunamadı"
+
+#: inc/taxonomies.php:49
+#: inc/taxonomies.php:51
+msgid "Whistle Groups"
+msgstr "Whistle Grupları"
+
+#: inc/taxonomies.php:50
+#: inc/taxonomies.php:52
+msgid "Whistle Group"
+msgstr "Whistle Grubu"
+
+#: inc/taxonomies.php:53
+msgid "Search Whistle Groups"
+msgstr "Whistle Gruplarını Ara"
+
+#: inc/taxonomies.php:54
+msgid "Popular Whistle Groups"
+msgstr "Popüler Whistle Grupları"
+
+#: inc/taxonomies.php:55
+msgid "All Whistle Groups"
+msgstr "Tüm Whistle Grupları"
+
+#: inc/taxonomies.php:56
+msgid "Edit Whistle Group"
+msgstr "Whistle Grubu Düzenle"
+
+#: inc/taxonomies.php:57
+msgid "View Whistle Group"
+msgstr "Whistle Grubu Görüntüle"
+
+#: inc/taxonomies.php:58
+msgid "Update Whistle Group"
+msgstr "Whistle Grubu Güncelle"
+
+#: inc/taxonomies.php:59
+msgid "Add New Whistle Group"
+msgstr "Yeni Whistle Grubu Ekle"
+
+#: inc/taxonomies.php:60
+msgid "New Whistle Group Name"
+msgstr "Yeni Whistle Grubu İsmi"
+
+#: inc/taxonomies.php:61
+msgid "Separate whistle groups with commas"
+msgstr "Whistle gruplarını virgüllerle ayır"
+
+#: inc/taxonomies.php:62
+msgid "Add or remove whistle groups"
+msgstr "Whistle grupları ekle veya kaldır"
+
+#: inc/taxonomies.php:63
+msgid "Choose from the most used whistle groups"
+msgstr "En çok kullanılan whistle gruplarından seçin"
