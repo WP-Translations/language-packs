@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whistles\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/whistles/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2013-09-12 13:38-0600\n"
+"PO-Revision-Date: 2017-11-24 09:33:33\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__;esc_html_e;esc_html__;_n;_x;_x:1,2c;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:100
+msgid "Add Whistles"
+msgstr "Ajouter Whistles"
+
+#: admin/admin.php:129
+#: inc/class-whistles-widget.php:135
+msgid "Ascending"
+msgstr "Croissant"
+
+#: admin/admin.php:130
+#: inc/class-whistles-widget.php:136
+msgid "Descending"
+msgstr "Décroissant"
+
+#: admin/admin.php:135
+#: inc/class-whistles-widget.php:141
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/admin.php:136
+#: inc/class-whistles-widget.php:142
+msgid "Date"
+msgstr "Date"
+
+#: admin/admin.php:137
+#: inc/class-whistles-widget.php:143
+msgid "ID"
+msgstr "ID"
+
+#: admin/admin.php:138
+#: inc/class-whistles-widget.php:144
+msgid "Random"
+msgstr "Au hasard"
+
+#: admin/admin.php:139
+#: inc/class-whistles-widget.php:145
+msgid "Slug"
+msgstr "Identifiant"
+
+#: admin/admin.php:140
+#: inc/class-whistles-widget.php:146
+msgid "Title"
+msgstr "Titre"
+
+#: admin/admin.php:151
+#: admin/admin.php:158
+msgid "Insert"
+msgstr "Insérer"
+
+#: admin/admin.php:184
+#: inc/class-whistles-widget.php:153
+msgid "You need at least one whistle group to display whistles."
+msgstr "Vous devez avoir au moins un groupe whistle pour afficher des whistles."
+
+#: admin/admin.php:186
+#: inc/class-whistles-widget.php:155
+msgid "Whistle Groups &rarr;"
+msgstr "Groupes Whistle &rarr;"
+
+#: admin/admin.php:190
+#: admin/admin.php:237
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/admin.php:194
+msgid "Type"
+msgstr "Type"
+
+#: admin/admin.php:203
+msgid "Group"
+msgstr "Groupe"
+
+#: admin/admin.php:213
+msgid "Number of whistles to display"
+msgstr "Nombre de whistles à afficher"
+
+#: admin/admin.php:217
+#: inc/class-whistles-widget.php:185
+msgid "Order"
+msgstr "Ordre"
+
+#: admin/admin.php:226
+msgid "Order By"
+msgstr "Trier par"
+
+#: admin/admin.php:236
+msgid "Insert Whistles"
+msgstr "Insérer des Whistles"
+
+#: inc/class-whistles-and-bells.php:164
+#, php-format
+msgid "The %s method must be overwritten in a sub-class."
+msgstr "La méthode %s doit être écrasée dans une sous-catégorie."
+
+#: inc/class-whistles-widget.php:26
+msgid "Tabs, toggles, accordions, bells, whistles, and all that jazz."
+msgstr "Onglets, toggles, accordéons, cloches, whistles et tout ce jazz."
+
+#: inc/class-whistles-widget.php:38
+#: inc/post-types.php:82
+#: inc/post-types.php:84
+#: inc/post-types.php:94
+msgid "Whistles"
+msgstr "Whistles"
+
+#: inc/class-whistles-widget.php:161
+msgid "Title:"
+msgstr "Titre :"
+
+#: inc/class-whistles-widget.php:165
+msgid "Type:"
+msgstr "Type&nbsp;:"
+
+#: inc/class-whistles-widget.php:173
+msgid "Group:"
+msgstr "Groupe :"
+
+#: inc/class-whistles-widget.php:181
+msgid "Limit:"
+msgstr "Limite&nbsp;:"
+
+#: inc/class-whistles-widget.php:193
+msgid "Order By:"
+msgstr "Trier par&nbsp;:"
+
+#: inc/functions.php:30
+msgid "Tabs"
+msgstr "Onglets"
+
+#: inc/functions.php:31
+msgid "Toggle"
+msgstr "Toggle"
+
+#: inc/functions.php:32
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: inc/post-types.php:83
+#: inc/post-types.php:85
+msgid "Whistle"
+msgstr "Whistle"
+
+#: inc/post-types.php:86
+msgid "Add New"
+msgstr "Ajouter Nouveau"
+
+#: inc/post-types.php:87
+msgid "Add New Whistle"
+msgstr "Ajouter un nouveau whistle"
+
+#: inc/post-types.php:88
+msgid "Edit Whistle"
+msgstr "Modifier Whistles"
+
+#: inc/post-types.php:89
+msgid "New Whistle"
+msgstr "Nouveau Whistle"
+
+#: inc/post-types.php:90
+msgid "View Whistle"
+msgstr "Afficher Whistle"
+
+#: inc/post-types.php:91
+msgid "Search Whistles"
+msgstr "Rechercher des Whistles"
+
+#: inc/post-types.php:92
+msgid "No whistles found"
+msgstr "Aucun whistle trouvé."
+
+#: inc/post-types.php:93
+msgid "No whistles found in trash"
+msgstr "Aucun whistle trouvé dans la corbeille."
+
+#: inc/taxonomies.php:49
+#: inc/taxonomies.php:51
+msgid "Whistle Groups"
+msgstr "Groupes de Whistle"
+
+#: inc/taxonomies.php:50
+#: inc/taxonomies.php:52
+msgid "Whistle Group"
+msgstr "Groupe de Whistle"
+
+#: inc/taxonomies.php:53
+msgid "Search Whistle Groups"
+msgstr "Rechercher parmi les groupes de whistle"
+
+#: inc/taxonomies.php:54
+msgid "Popular Whistle Groups"
+msgstr "Groupes de whistle populaires"
+
+#: inc/taxonomies.php:55
+msgid "All Whistle Groups"
+msgstr "Tous les groupes de whistle"
+
+#: inc/taxonomies.php:56
+msgid "Edit Whistle Group"
+msgstr "Modifier le groupe de whistle"
+
+#: inc/taxonomies.php:57
+msgid "View Whistle Group"
+msgstr "Afficher le groupe de whistle"
+
+#: inc/taxonomies.php:58
+msgid "Update Whistle Group"
+msgstr "Mettre à jour le groupe de whistle"
+
+#: inc/taxonomies.php:59
+msgid "Add New Whistle Group"
+msgstr "Ajouter un nouveau groupe de whistle"
+
+#: inc/taxonomies.php:60
+msgid "New Whistle Group Name"
+msgstr "Nom du nouveau groupe de whistle"
+
+#: inc/taxonomies.php:61
+msgid "Separate whistle groups with commas"
+msgstr "Séparez les groupes de whistle par des virgules"
+
+#: inc/taxonomies.php:62
+msgid "Add or remove whistle groups"
+msgstr "Ajouter ou retirer des groupes de whistle"
+
+#: inc/taxonomies.php:63
+msgid "Choose from the most used whistle groups"
+msgstr "Choisir parmi les groupes de whistle les plus utilisés"
