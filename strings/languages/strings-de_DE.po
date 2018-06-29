@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Secondary Title\n"
+"Project-Id-Version: Thumbnail Cleaner\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Kolja Nolte <inactive+thaikolja@transifex.com>\n"
-"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/secondary-title/language/de_DE/)\n"
+"Language-Team: German (Germany) (http://www.transifex.com/wp-translations/thumbnail-cleaner/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2016-05-27 19:42+0100\n"
-"PO-Revision-Date: 2017-09-23 19:56:19\n"
+"POT-Creation-Date: 2016-06-20 23:01+0100\n"
+"PO-Revision-Date: 2017-09-23 21:22:11\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.1\n"
@@ -17,231 +17,189 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-WPHeader: secondary-title.php\n"
+"X-Poedit-WPHeader: thumbnail-cleaner.php\n"
 
-#: includes/admin.php:35
-msgid "Enter secondary title here"
-msgstr "Alternativen Titel hier einfügen"
-
-#: includes/hooks.php:87
-msgid "Secondary title"
-msgstr "Alternativer Titel"
-
-#: includes/hooks.php:230
-msgid "Settings"
-msgstr "Einstellungen"
-
-#: includes/settings.php:40
-msgid "Are you sure you want to reset all settings?"
-msgstr "Bist du sicher, dass du alle Einstellungen zurücksetzen möchtest?"
-
-#: includes/settings.php:50
-msgid "The settings have been successfully updated."
-msgstr "Die Einstellungen wurden erfolgreich aktualisiert."
-
-#: includes/settings.php:57
-msgid "The settings have been successfully reset."
-msgstr "Die Einstellungen wurden erfolgreich zurückgesetzt."
-
-#: includes/settings.php:65
-#: includes/settings.php:300
-msgid "Collapse/expand section"
-msgstr "Bereich ein- bzw. -aufklappen."
-
-#: includes/settings.php:67
-msgid "General Settings"
-msgstr "Allgemeine Einstellungen"
-
-#: includes/settings.php:71
-msgid "This section lets you change the most basic settings about how Secondary Title is supposed to behave."
-msgstr "Dieser Bereich legt fest, wie sich Secondary Title verhalten soll."
-
-#: includes/settings.php:78
-msgid "Auto show"
-msgstr "Automatisch anzeigen"
-
-#: includes/settings.php:84
-#: includes/settings.php:173
-#: includes/settings.php:317
-msgid "On"
-msgstr "Ein"
-
-#: includes/settings.php:87
-#: includes/settings.php:176
-#: includes/settings.php:322
-msgid "Off"
-msgstr "Aus"
-
-#: includes/settings.php:91
-msgid "Automatically merges the secondary title with the standard title."
-msgstr "Fügt den alternativen Titel automatisch zum Standardtitel hinzu."
-
-#: includes/settings.php:96
+#: admin/thumbnail-cleaner.php:47
 #, php-format
-msgid "To manually insert the secondary title in your theme, use %s or %s. See the <a href=\"%s\" title=\"See official documentation\" target=\"_blank\" >official documentation</a> for additional parameters."
-msgstr "Um den alternativen Titel manuell in deinem Theme einzubinden, verwende %s oder %s. Besuche die <a href=\"%s\" title=\"Offizielle Dokumentation besuchen\" target=\"_blank\" >offizielle Dokumentation</a> für weitere Parameter."
+msgid "The backup <strong>%s</strong> has been successfully created in <code>wp-content/backups/thumbnail-cleaner/</code>. <a href=\"%s\">Click here</a> to download the archive."
+msgstr "Die Sicherung <strong>%s</strong> wurde erfolgreich erstellt in <code>wp-content/backups/thumbnail-cleaner/</code>. <a href=\"%s\">Klicken Sie hier</a> , um das Archiv herunterzuladen."
 
-#: includes/settings.php:105
-msgid "Title format"
-msgstr "Titelformat"
-
-#: includes/settings.php:110
-msgid "E.g.: %secondary_title%: %title%"
-msgstr "z.B.: %secondary_title%: %title%"
-
-#: includes/settings.php:113
-msgid "Reset"
-msgstr "Zurücksetzen"
-
-#: includes/settings.php:117
+#: admin/thumbnail-cleaner.php:59
 #, php-format
-msgid "Replaces the default title with the given format. Use %s for the main title and %s for the secondary title."
-msgstr "Ersetzt den Standardtitel mit dem angegeben Titelformat. Benutze %s für den Standardtitel und %s für den alternativen Titel."
+msgid "All <strong>%s backups</strong> have been successfully deleted."
+msgstr "Alle <strong>%s-Sicherungen</strong> wurden erfolgreich gelöscht."
 
-#: includes/settings.php:117
-msgid "Add title to title format input"
-msgstr "Standardtitel zur Formatbox hinzufügen."
+#: admin/thumbnail-cleaner.php:69
+msgid "Thumbnail Cleaner found and deleted <strong>1 thumbnail</strong>."
+msgstr "Thumbnail Cleaner hat <strong>ein Bild</strong>gefunden und gelöscht."
 
-#: includes/settings.php:117
-msgid "Add secondary title to title format input"
-msgstr "Alternativen Titel zur Formatbox hinzufügen."
-
-#: includes/settings.php:145
+#: admin/thumbnail-cleaner.php:69
 #, php-format
-msgid "<b>Note:</b> To style the output, use the <a href=\"%s\" title=\"See an explanation on w3schools.com\" target=\"_blank\">style HTML attribute</a>, e.g.:<br />%s"
-msgstr "<b>Hinweis:</b> Du kannst <a href=\"%s\" title=\"Erklärung auf w3schools.com ansehen\" target=\"_blank\">HTML-Attribute</a> zum Gestalten benutzen, z.B.:<br />%s"
+msgid "Thumbnail Cleaner found and deleted <strong>%s thumbnails</strong>."
+msgstr "Thumbnail Cleaner hat <strong>%s Bilder</strong> gefunden und gelöscht."
 
-#: includes/settings.php:145
-msgid "Add code to title format input"
-msgstr "Code zur Formatbox hinzufügen."
-
-#: includes/settings.php:158
-msgid "Display Rules"
-msgstr "Anzeigeregeln"
-
-#: includes/settings.php:162
-msgid "These options let you specify where the secondary title is allowed to be displayed and where not. Unselecting all fields deactivates the limit completely."
-msgstr "Dieser Bereich bestimmt, wann alternative Titel eingeblendet werden sollen und wann nicht. Deaktivieren aller Kästchen deaktiviert dieses Feature."
-
-#: includes/settings.php:168
-msgid "Only show in main post"
-msgstr "Nur in Hauptbeitrag anzeigen"
-
-#: includes/settings.php:179
-msgid "Only displays the secondary title if the post is a main post and <strong>not</strong> within a widget etc."
-msgstr "Zeige alternativen Titel nur, wenn der Beitrag der Hauptbeitrag ist und <strong>nicht</strong> beispielsweise in einem Widget dargestellt wird."
-
-#: includes/settings.php:186
-msgid "Post types"
-msgstr "Post Types"
-
-#: includes/settings.php:226
-msgid "Only displays the secondary title if post among the selected post types."
-msgstr ""
-
-#: includes/settings.php:233
-msgid "Categories"
-msgstr "Kategorien"
-
-#: includes/settings.php:252
+#: admin/thumbnail-cleaner.php:72
 #, php-format
-msgid "There are %s posts in %s"
-msgstr "Es gibt %s Beiträge in %s"
+msgid "No thumbnails found or thumbnails could not be deleted. Please see the <a href=\"%s\" target=\"_blank\">FAQ</a> for a list of possible causes and how to fix them."
+msgstr "Keine Thumbnails gefunden oder Thumbnails konnten nicht gelöscht werden. Bitte siehe das <a href=\"%s\" target=\"_blank\">FAQ</a> für häufige Ursachen."
 
-#: includes/settings.php:267
-msgid "Select all"
-msgstr "Alle auswählen"
-
-#: includes/settings.php:272
-msgid "Unselect all"
-msgstr "Keine auswählen"
-
-#: includes/settings.php:277
-msgid "Displays the secondary title only if post is among the selected categories."
-msgstr ""
-
-#: includes/settings.php:286
-msgid "Post IDs"
-msgstr "Post IDs"
-
-#: includes/settings.php:290
-msgid "E.g. 13, 71, 33"
-msgstr "z.B: 13, 71, 33"
-
-#: includes/settings.php:292
-msgid "Only uses the secondary title if post is among the entered post IDs. Use commas to separate multiple IDs."
-msgstr "Zeige alternativen Titel nur, wenn der Beitrag unter den ausgewählten Beitrags-IDs ist. Trenne mehrere IDs mit Kommas."
-
-#: includes/settings.php:302
-msgid "Miscellaneous Settings "
-msgstr "Sonstige Einstellungen"
-
-#: includes/settings.php:310
-msgid "Include in search"
-msgstr "In Suche einbeziehen"
-
-#: includes/settings.php:326
-msgid "Makes the secondary title searchable."
-msgstr "Macht den alternativen Titel suchbar."
-
-#: includes/settings.php:334
-msgid "Input field position"
-msgstr "Position des Eingabefelds"
-
-#: includes/settings.php:340
-msgid "Above standard title"
-msgstr "Über Standardtitel"
-
-#: includes/settings.php:343
-msgid "Below standard title"
-msgstr "Unter Standardtitel"
-
-#: includes/settings.php:345
+#: admin/thumbnail-cleaner.php:78
 #, php-format
-msgid "Defines whether input field for the secondary title should be displayed above or below<br />the standard title <strong>within the add/edit post/page area</strong> on the admin Dashboard.<br />See the <a href=\"%s\" title=\"See the FAQ\" target=\"_blank\">FAQ</a> if you want to apply the same effect on your front end."
-msgstr "Legt fest, ob das Eingabefeld für den alternativen Titel über- oder unterhalb <br /> des Standardtitels auf den <strong>Bearbeitungsseiten für Artikel und Seiten</strong> zu sehen sein soll.<br />Besuche die <a href=\"%s\" title=\"FAQs betrachten\" target=\"_blank\">FAQs</a>, wenn du selbige Position auch im Front-End erreichen möchtest."
+msgid "The backup <strong>%s</strong> has been successfully restored."
+msgstr "Die Sicherung <strong>%s</strong> wurde erfolgreich wiederherstellt."
 
-#: includes/settings.php:352
-msgid "Column position"
-msgstr "Spaltenposition"
+#: admin/thumbnail-cleaner.php:109
+msgid "How it works"
+msgstr "So funktioniert's"
 
-#: includes/settings.php:359
-msgid "Left of primary title"
-msgstr "Links des Standardtitels"
+#: admin/thumbnail-cleaner.php:115
+msgid "Welcome to <strong>Thumbnail Cleaner</strong>. This plugin will clean up your WordPress installation by removing and regenerating thumbnails from your web server while keeping the original uploaded images. To make sure you don't lose any data, please hit the <em>Backup Now</em> button before you start."
+msgstr "Willkommen zu <strong>Thumbnail Cleaner</strong>. Dieses Plugin säubert deine WordPress-Installation, in dem es Thumbnails löscht und neu erstellt. Die Originaldateien bleiben dabei erhalten. Damit keine Dateien verlorengehen, klicke bitte auf <em>Backup erstellen</em>, bevor du loslegst."
 
-#: includes/settings.php:364
-msgid "Right of primary title"
-msgstr "Rechts des Standardtitels"
+#: admin/thumbnail-cleaner.php:127
+msgid "Original Files"
+msgstr "Originaldateien"
 
-#: includes/settings.php:368
+#: admin/thumbnail-cleaner.php:130
+msgid "Thumbnail Files"
+msgstr "Vorschaudateien"
+
+#: admin/thumbnail-cleaner.php:133
+msgid "Total File Size"
+msgstr "Gesamtdateigröße"
+
+#: admin/thumbnail-cleaner.php:144
+#: admin/thumbnail-cleaner.php:164
 #, php-format
-msgid "Specifies the position of the secondary title in regard to the primary title on <a href=\"%s\">post overview</a> pages within the Dashboard."
-msgstr "Bestimmt die Position des alternativen Titels auf <a href=\"%s\">Beitragsübersichtseiten</a> im Adminbereich."
+msgid "%s file"
+msgid_plural "%s files"
+msgstr[0] "%s Datei"
+msgstr[1] "%s Dateien"
 
-#: includes/settings.php:381
-msgid "Save Changes"
-msgstr "Änderungen speichern"
+#: admin/thumbnail-cleaner.php:198
+msgid "Backup"
+msgstr "Sichern"
 
-#: includes/settings.php:386
-msgid "Reset Settings"
-msgstr "Einstellungen zurücksetzen"
+#: admin/thumbnail-cleaner.php:207
+msgid "Backup Now"
+msgstr "Jetzt sichern"
 
-#: includes/settings.php:394
+#: admin/thumbnail-cleaner.php:222
+msgid "There is currently no backup of your uploads directory. Are you sure you want to continue?"
+msgstr "Es gibt derzeit keine Sicherung deines Uploads-Verzeichnisses. Bist du sicher, dass du ohne Sicherung fortfahren möchtest?"
+
+#: admin/thumbnail-cleaner.php:227
+msgid "Last backup"
+msgstr "Letzte Sicherung"
+
+#: admin/thumbnail-cleaner.php:229
+msgid "Creates a zipped archive of your <code>uploads</code> directory and saves it in <code>wp-content/backups/thumbnail-cleaner/</code> (recommended)."
+msgstr "Erstellt ein ZIP-Archiv von Ihrem <code>uploads</code>-Verzeichnis und speichert sie in <code>wp-content/backups/thumbnail-cleaner/</code> (empfohlen)."
+
+#: admin/thumbnail-cleaner.php:234
+msgid "The Zip PHP extension is not activated on your server. Backups are not possible unless you contact your server provider and ask them to enable this feature."
+msgstr "Die PHP-Erweiterung ZIP, die zur Sicherung benötigt wird, ist nicht aktiviert. Bitte kontaktiere deinen Server-Provider."
+
+#: admin/thumbnail-cleaner.php:243
+msgid "Analyze"
+msgstr "Analysieren"
+
+#: admin/thumbnail-cleaner.php:249
+msgid "Start Analyzing"
+msgstr "Analyse starten"
+
+#: admin/thumbnail-cleaner.php:251
+msgid "Scans your <code>uploads</code> directory for thumbnails and returns the total amount without deleting any files. "
+msgstr "Durchsucht dein <code>uploads</code>-Verzeichnis nach Thumbnails und gibt die Gesamtzahl derer wider, ohne Dateien löschen."
+
+#: admin/thumbnail-cleaner.php:258
+msgid "Clean Thumbnails"
+msgstr "Thumbnails säubern"
+
+#: admin/thumbnail-cleaner.php:266
 #, php-format
-msgid "Found an error? Help making Secondary Title better by <a href=\"%s\" title=\"Click here to report a bug\" target=\"_blank\">quickly reporting the bug</a>."
-msgstr "Hast du einen Fehler entdeckt? Hilf mit, Secondary Title zu verbessern, indem du einen kurzen <a href=\"%s\" title=\"Bug-Report verfassen\" target=\"_blank\">Bug-Report verfasst</a>."
+msgid "Delete %s Thumbnail(s)"
+msgstr "%s Thumbnails löschen"
+
+#: admin/thumbnail-cleaner.php:269
+msgid "Delete Thumbnails"
+msgstr "Thumbnails löschen"
+
+#: admin/thumbnail-cleaner.php:276
+msgid "Clean all thumbnails"
+msgstr "Alle Vorschaubilder löschen"
+
+#: admin/thumbnail-cleaner.php:282
+msgid "Only clean thumbnails older than"
+msgstr "Nur Vorschaubilder löschen, die älter sind als"
+
+#: admin/thumbnail-cleaner.php:286
+msgid "Deletes <strong>all</strong> thumbnails within your <code>uploads</code> directory. <strong>Note:</strong> Unless you have created a backup, this <strong>cannot</strong> be reversed."
+msgstr "Löscht <strong>alle</strong> Thumbnails innerhalb deines <code>uploads</code>-Verzeichnisses. <strong>Wichtig:</strong> Sofern du keine Sicherung erstellt hast, lässt sich diese Aktion <strong>nicht</strong> rückgängig machen."
+
+#: admin/thumbnail-cleaner.php:293
+msgid "Regenerate Thumbnails"
+msgstr "Thumbnails erstellen"
+
+#: admin/thumbnail-cleaner.php:318
+msgid "Regenerate Now"
+msgstr "Jetzt erstellen"
+
+#: admin/thumbnail-cleaner.php:322
+#, php-format
+msgid "The plugin <strong>Regenerate Thumbnails</strong> is inactive. Please <a href=\"%s\" target=\"_blank\">enable</a>."
+msgstr "Das Plugin <strong>Regenerate Thumbnails</strong> ist nicht aktiviert. Bitte <a href=\"%s\" target=\"_blank\">aktiviere</a> es."
+
+#: admin/thumbnail-cleaner.php:325
+#, php-format
+msgid "The plugin <strong>Regenerate Thumbnails</strong> is not installed. Please <a href=\"%s\" target=\"_blank\">download</a>."
+msgstr "Das Plugin <strong>Regenerate Thumbnails</strong> ist nicht installiert. Bitte <a href=\"%s\" target=\"_blank\">lade es herunter</a>."
+
+#: admin/thumbnail-cleaner.php:329
+#, php-format
+msgid "Recreates thumbnails for uploaded images. Check your <a href=\"%s\" target=\"_blank\">Media</a> page to change the resolution of the thumbnails."
+msgstr "Erstellt Thumbnails für hochgeladene Dateien. Auf der <a href=\"%s\" target=\"_blank\">Medien</a>-Seite lässt sich die Auflösung der Thumbnails einstellen."
+
+#: admin/thumbnail-cleaner.php:337
+msgid "Restore Backup"
+msgstr "Sicherung wiederherstellen"
+
+#: admin/thumbnail-cleaner.php:346
+msgid "Select backup to restore:"
+msgstr "Sicherung wählen:"
+
+#: admin/thumbnail-cleaner.php:360
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+#: admin/thumbnail-cleaner.php:363
+msgid "Replaces your <code>uploads</code> directory with a previously backed up version."
+msgstr "Ersetzt dein <code>uploads</code>-Verzeichnis mit einer zuvor gesicherten Version."
+
+#: admin/thumbnail-cleaner.php:367
+msgid "No backups found."
+msgstr "Keine Sicherungen gefunden."
+
+#: admin/thumbnail-cleaner.php:375
+#, php-format
+msgid "Found an error? Help making Thumbnail Cleaner better by <a href=\"%s\" title=\"Click here to report a bug\" target=\"_blank\">quickly reporting the bug</a>."
+msgstr "Hast du einen Fehler entdeckt? Hilf mit, Thumbnail Cleaner zu verbessern, indem du einen kurzen <a href=\"%s\" title=\"Bug-Report verfassen\" target=\"_blank\">Bug-Report verfasst</a>."
+
+#: includes/functions.php:51
+msgid "Never"
+msgstr "Noch nie"
 
 #. Plugin Name of the plugin/theme
-msgid "Secondary Title"
-msgstr "Secondary Title"
+msgid "Thumbnail Cleaner"
+msgstr "Thumbnail Cleaner"
 
 #. Plugin URI of the plugin/theme
-msgid "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
-msgstr "http://www.koljanolte.com/wordpress/plugins/secondary-title/"
+msgid "http://www.koljanolte.com/wordpress/plugins/thumbnail-cleaner/"
+msgstr "http://www.koljanolte.com/wordpress/plugins/thumbnail-cleaner/"
 
 #. Description of the plugin/theme
-msgid "Adds a secondary title to posts, pages and custom post types."
-msgstr "Fügt Beiträgen, Seiten und Custom Post Types eigenen alternativen Titel hinzu."
+msgid "Cleans up your WordPress installation by removing and regenerating thumbnails."
+msgstr "Räumt deine WordPress-Installation auf, indem unnötige Vorschaubilder gelöscht werden."
 
 #. Author of the plugin/theme
 msgid "Kolja Nolte"
