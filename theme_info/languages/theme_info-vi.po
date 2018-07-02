@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Info\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"Last-Translator: Hai Trieu To <contact@tohaitrieu.net>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/wp-translations/theme-info/language/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-18 16:23:09+00:00\n"
+"PO-Revision-Date: 2018-01-10 18:17:36\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: theme-info.php:107
+msgid "%s ago"
+msgstr "%s trước"
+
+#: theme-info.php:254
+msgid "Download"
+msgstr "Tải về captcha"
+
+#: theme-info.php:255
+msgid "Visit theme homepage"
+msgstr "Xem trang chủ của giao diện"
+
+#: theme-info.php:256
+msgid "Donate"
+msgstr "Tài trợ"
+
+#: theme-info.php:299
+msgid "[ hide ]"
+msgstr "[ ẩn ]"
+
+#: theme-info.php:299
+#: theme-info.php:423
+msgid "[ show ]"
+msgstr "[ hiện ]"
+
+#: theme-info.php:362
+msgid "Theme slug:"
+msgstr "slug Giao diện"
+
+#: theme-info.php:364
+msgid "To display information about a theme, you should use one of the shortcodes below."
+msgstr "Để hiển thị thông tin về giao diện, bạn nên sử dụng một trong những shortcodes bên dưới."
+
+#: theme-info.php:366
+msgid "Plain info:"
+msgstr "Thông tin giải thích:"
+
+#: theme-info.php:369
+msgid "Author&rsquo;s name"
+msgstr "Tên tác giả"
+
+#: theme-info.php:371
+msgid "Author&rsquo;s URL"
+msgstr "URL tác giả"
+
+#: theme-info.php:373
+msgid "URL of ZIP file"
+msgstr "URL tệp ZIP"
+
+#: theme-info.php:375
+msgid "Download count"
+msgstr "Số lượt tải xuống"
+
+#: theme-info.php:377
+msgid "URL of homepage"
+msgstr "URL trang chủ"
+
+#: theme-info.php:379
+msgid "URL of donations page"
+msgstr "URL trang tài trợ"
+
+#: theme-info.php:381
+msgid "URL of wp.org page"
+msgstr "URL trang wp.org"
+
+#: theme-info.php:383
+msgid "Name"
+msgstr "Tên"
+
+#: theme-info.php:385
+msgid "URL of author&rsquo;s wp.org profile"
+msgstr "URL trang cá nhân tác giả trên wp.org"
+
+#: theme-info.php:387
+msgid "Rating out of 5"
+msgstr "Đánh giá 5 sao"
+
+#: theme-info.php:389
+msgid "Slug"
+msgstr "Chuỗi cho đường dẫn tĩnh"
+
+#: theme-info.php:391
+msgid "List of tags"
+msgstr "Danh sách từ khoá"
+
+#: theme-info.php:393
+msgid "Last updated ago (hours/days/weeks)"
+msgstr "Cập nhật cuối cùng trước đây (giờ/ngày/tuần)"
+
+#: theme-info.php:395
+msgid "Last updated date"
+msgstr "Ngày cập nhật sau cùng"
+
+#: theme-info.php:397
+msgid "Version number"
+msgstr "Số phiên bản"
+
+#: theme-info.php:399
+msgid "Formatted info:"
+msgstr "Thông tin định dạng:"
+
+#: theme-info.php:402
+msgid "Link to author&rsquo;s homepage"
+msgstr "Liên kết tới trang chủ tác giả"
+
+#: theme-info.php:404
+msgid "List of contributors"
+msgstr "Danh sách cộng tác viên"
+
+#: theme-info.php:406
+msgid "Long description"
+msgstr "Mô tả chi tiết"
+
+#: theme-info.php:408
+msgid "Link to ZIP file"
+msgstr "Liên kết tới tệp ZIP."
+
+#: theme-info.php:410
+msgid "Link to homepage"
+msgstr "Liên kết tới trang chủ"
+
+#: theme-info.php:412
+msgid "Link to donations page"
+msgstr "Liên kết tới trang nhận tài trợ."
+
+#: theme-info.php:414
+msgid "Link to wp.org page"
+msgstr "Liên kết tới wp.org"
+
+#: theme-info.php:416
+msgid "Link to author&rsquo;s wp.org profile"
+msgstr "Liên kết tới trang cá nhân tác giả trên wp.org"
+
+#: theme-info.php:418
+msgid "Latest changelog entry"
+msgstr "Nhật ký cập nhật"
+
+#: theme-info.php:420
+msgid "Other notes"
+msgstr "Ghi chú khác"
+
+#. Plugin Name of the plugin/theme
+msgid "Theme Info"
+msgstr "Thông tin giao diện"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lud.icro.us/wordpress-theme-info/"
+msgstr "http://lud.icro.us/wordpress-theme-info/"
+
+#. Description of the plugin/theme
+msgid "Provides a simple way of displaying up-to-date information about specific WordPress Theme Directory hosted themes in your blog posts and pages."
+msgstr "Cung cấp cách đơn giản nhất để hiển thị thông tin cập nhập về Kho Giao diện WordPress lưu trữ trên blog và trang của bạn."
+
+#. Author of the plugin/theme
+msgid "John Blackbourn"
+msgstr "John Blackbourn"
+
+#. Author URI of the plugin/theme
+msgid "http://johnblackbourn.com/"
+msgstr "http://johnblackbourn.com/"
