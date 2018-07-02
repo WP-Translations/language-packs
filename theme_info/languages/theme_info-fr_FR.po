@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Info\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/theme-info/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-18 16:23:09+00:00\n"
+"PO-Revision-Date: 2017-09-20 02:00:01\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: theme-info.php:107
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: theme-info.php:254
+msgid "Download"
+msgstr "Téléchargement"
+
+#: theme-info.php:255
+msgid "Visit theme homepage"
+msgstr "Aller sur la page du thème"
+
+#: theme-info.php:256
+msgid "Donate"
+msgstr "Don"
+
+#: theme-info.php:299
+msgid "[ hide ]"
+msgstr "[ masquer ]"
+
+#: theme-info.php:299
+#: theme-info.php:423
+msgid "[ show ]"
+msgstr "[ afficher ]"
+
+#: theme-info.php:362
+msgid "Theme slug:"
+msgstr "Identifiant du thème :"
+
+#: theme-info.php:364
+msgid "To display information about a theme, you should use one of the shortcodes below."
+msgstr "Pour afficher les informations concernant un thème, vous devez utiliser un des shortcodes ci-dessous."
+
+#: theme-info.php:366
+msgid "Plain info:"
+msgstr "Info brut :"
+
+#: theme-info.php:369
+msgid "Author&rsquo;s name"
+msgstr "Nom de l&rsquo;auteur"
+
+#: theme-info.php:371
+msgid "Author&rsquo;s URL"
+msgstr "URL de l&rsquo;auteur"
+
+#: theme-info.php:373
+msgid "URL of ZIP file"
+msgstr "URL du fichier ZIP"
+
+#: theme-info.php:375
+msgid "Download count"
+msgstr "Nombre de téléchargement"
+
+#: theme-info.php:377
+msgid "URL of homepage"
+msgstr "URL de la page d'accueil"
+
+#: theme-info.php:379
+msgid "URL of donations page"
+msgstr "URL de la page de don"
+
+#: theme-info.php:381
+msgid "URL of wp.org page"
+msgstr "URL de la page wp.org"
+
+#: theme-info.php:383
+msgid "Name"
+msgstr "Nom"
+
+#: theme-info.php:385
+msgid "URL of author&rsquo;s wp.org profile"
+msgstr "URL du profil de l&rsquo;auteur sur wp.org"
+
+#: theme-info.php:387
+msgid "Rating out of 5"
+msgstr "Note sur 5 "
+
+#: theme-info.php:389
+msgid "Slug"
+msgstr "Identifiant"
+
+#: theme-info.php:391
+msgid "List of tags"
+msgstr "Liste de mots-clés"
+
+#: theme-info.php:393
+msgid "Last updated ago (hours/days/weeks)"
+msgstr "Dernière mise à jour (heures/jours/semaines)"
+
+#: theme-info.php:395
+msgid "Last updated date"
+msgstr "Date de la dernière mise à jour"
+
+#: theme-info.php:397
+msgid "Version number"
+msgstr "Numéro de version"
+
+#: theme-info.php:399
+msgid "Formatted info:"
+msgstr "Info formaté :"
+
+#: theme-info.php:402
+msgid "Link to author&rsquo;s homepage"
+msgstr "Lien vers la page d'accueil de l'auteur"
+
+#: theme-info.php:404
+msgid "List of contributors"
+msgstr "Liste des contributeurs"
+
+#: theme-info.php:406
+msgid "Long description"
+msgstr "Description longue"
+
+#: theme-info.php:408
+msgid "Link to ZIP file"
+msgstr "Lien au fichier ZIP"
+
+#: theme-info.php:410
+msgid "Link to homepage"
+msgstr "Lien vers la page d'accueil"
+
+#: theme-info.php:412
+msgid "Link to donations page"
+msgstr "Lien vers la page de don"
+
+#: theme-info.php:414
+msgid "Link to wp.org page"
+msgstr "Lien vers la page wp.org"
+
+#: theme-info.php:416
+msgid "Link to author&rsquo;s wp.org profile"
+msgstr "Lien vers le profil wp.org de l'auteur"
+
+#: theme-info.php:418
+msgid "Latest changelog entry"
+msgstr "Dernière entrée du changelog"
+
+#: theme-info.php:420
+msgid "Other notes"
+msgstr "Autres notes"
+
+#. Plugin Name of the plugin/theme
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lud.icro.us/wordpress-theme-info/"
+msgstr "http://lud.icro.us/wordpress-theme-info/"
+
+#. Description of the plugin/theme
+msgid "Provides a simple way of displaying up-to-date information about specific WordPress Theme Directory hosted themes in your blog posts and pages."
+msgstr "Offre un moyen simple d'afficher des informations à jour sur des thèmes spécifiques du répertoire de thème WordPress dans les articles ou pages de votre site."
+
+#. Author of the plugin/theme
+msgid "John Blackbourn"
+msgstr "John Blackbourn"
+
+#. Author URI of the plugin/theme
+msgid "http://johnblackbourn.com/"
+msgstr "http://johnblackbourn.com/"
