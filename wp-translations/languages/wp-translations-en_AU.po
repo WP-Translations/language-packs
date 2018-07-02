@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2018-07-02T12:21:25+00:00\n"
-"PO-Revision-Date: 2018-06-29 13:01:03\n"
+"POT-Creation-Date: 2018-07-02T14:09:37+00:00\n"
+"PO-Revision-Date: 2018-07-02 12:50:36\n"
 "Language: en_AU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: ..\n"
@@ -202,10 +202,16 @@ msgid "Edit"
 msgstr "Edit"
 
 #: src/WP_Translations/WordPress/Admin/EnqueueAssets.php156,
-#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php136,
-#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:136
-msgid "Close Modal"
-msgstr "Close Modal"
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php42,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php43,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php130,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php131,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php241,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php242,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php225,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:225
+msgid "Close modal"
+msgstr "Close modal"
 
 #: src/WP_Translations/WordPress/Admin/EnqueueAssets.php157,
 #: src/WP_Translations/WordPress/Helpers/ModalHelper.php254,
@@ -298,10 +304,6 @@ msgstr "Products list reloaded."
 #: src/WP_Translations/WordPress/Admin/Notice.php:41
 msgid "Check for translations updates, done!"
 msgstr "Check for translations updates, done!"
-
-#: src/WP_Translations/WordPress/Admin/Notice.php:45
-msgid "Translations settings successfully reseted."
-msgstr "Translations settings successfully reseted."
 
 #: src/WP_Translations/WordPress/Admin/Notice.php:49
 msgid "Logs successfully purged."
@@ -570,17 +572,6 @@ msgstr "Update available"
 msgid "Waiting"
 msgstr "Waiting"
 
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php42,
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php43,
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php130,
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php131,
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php241,
-#: src/WP_Translations/WordPress/Helpers/ModalHelper.php242,
-#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php225,
-#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:225
-msgid "Close modal"
-msgstr "Close modal"
-
 #: src/WP_Translations/WordPress/Helpers/ModalHelper.php:61
 msgid "Version:"
 msgstr "Version:"
@@ -690,10 +681,6 @@ msgstr "MO Cache"
 msgid "Cache translations with object cache"
 msgstr "Cache translations with object cache"
 
-#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:36
-msgid "Gettext"
-msgstr "Gettext"
-
 #: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:39
 msgid "WordPress gettext"
 msgstr "WordPress gettext"
@@ -701,10 +688,6 @@ msgstr "WordPress gettext"
 #: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:40
 msgid "PHP native gettext"
 msgstr "PHP native gettext"
-
-#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:42
-msgid "Select Gettext library."
-msgstr "Select Gettext library."
 
 #: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php54,
 #: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:68
@@ -871,6 +854,11 @@ msgstr "Addons"
 #: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:92
 msgid "Activations"
 msgstr "Activations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php136,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:136
+msgid "Close Modal"
+msgstr "Close Modal"
 
 #: src/WP_Translations/WordPress/Admin/Page/PagePremium.php201,
 #: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:201
