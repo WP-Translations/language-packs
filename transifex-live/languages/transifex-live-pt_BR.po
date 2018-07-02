@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Transifex Live\n"
+"Report-Msgid-Bugs-To: http://wp-translations.org/\n"
+"Last-Translator: Diego Búrigo Zacarão <diegobz@transifex.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/wp-translations/transifex-live/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-07-02 08:54:34+00:00\n"
+"PO-Revision-Date: 2017-09-20 10:48:36\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/admin/transifex-live-integration-admin-template.php:5
+msgid "Oops! Please make sure you've entered a valid API key."
+msgstr "Ops! Tenha certeza de que você digitou uma chave de API válida."
+
+#: includes/admin/transifex-live-integration-admin-template.php:8
+msgid "The Transifex Live JavaScript snippet has been added to your site! To enable advanced SEO settings, publish translations first."
+msgstr "O fragmento do Transifex Live JavaScript foi adicionado no seu site! Para habilitar as configurações avançadas de SEO, publique as traduções primeiro."
+
+#. Description of the plugin/theme
+msgid "Translate your WordPress powered website using Transifex."
+msgstr "Traduza seu site suportado por WordPress usando Transifex."
+
+#: includes/admin/transifex-live-integration-admin-template.php:14
+msgid "Before using this plugin, be sure you have a Transifex Live API key. "
+msgstr "Antes de usar este plugin, tenha certeza de que você possui uma chave de API Transifex Live."
+
+#: includes/admin/transifex-live-integration-admin-template.php:14
+msgid "Click here to sign up and get an API key."
+msgstr "Clique aqui para se inscrever e adquirir uma chave API."
+
+#: includes/admin/transifex-live-integration-admin-template.php:18
+msgid "Transifex Live API Key"
+msgstr "Chave de API Transifex Live"
+
+#: includes/admin/transifex-live-integration-admin-template.php:21
+msgid "This field is required."
+msgstr "Este campo é obrigatório."
+
+#: includes/admin/transifex-live-integration-admin-template.php:26
+msgid "Staging?"
+msgstr "Encenar?"
+
+#: includes/admin/transifex-live-integration-admin-template.php:34
+msgid "Start Translating NOW"
+msgstr "Iniciar a Traduzir AGORA"
+
+#: includes/admin/transifex-live-integration-admin-template.php:36
+msgid "Advanced SEO Settings"
+msgstr "Configurações Avançadas de SEO"
+
+#: includes/admin/transifex-live-integration-admin-template.php:37
+msgid "This plugin lets you set unique, language/region-specific URLs for your site and tells search engines what language a page is in. This is done by creating new language subdirectories through the plugin, or by pointing to existing language subdomains. In all cases, the plugin will add the Transifex Live JavaScript snippet to your site."
+msgstr ""
+
+#: includes/admin/transifex-live-integration-admin-template.php:42
+msgid "Disabled – Just add the Transifex Live JavaScript snippet to my site. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#disabled\"><b>Learn more</b></a>."
+msgstr "Desabilitado – Apenas adiciona ao fragmento do Transifex Live JavaScript no meu site. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#disabled\"><b>Saiba mais</b></a>."
+
+#: includes/admin/transifex-live-integration-admin-template.php:43
+msgid "Subdirectory – Create new language subdirectories through the plugin, e.g. <code>http://www.example.com/fr/</code>. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#subdirectories\"><b>Learn more</b></a>."
+msgstr "Subdiretório – Criar novos subdiretórios de idioma através do plugin, ex: <code>http://www.example.com/fr/</code>. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#subdirectories\"><b>Saiba mais</b></a>."
+
+#: includes/admin/transifex-live-integration-admin-template.php:44
+msgid "Subdomain – Point the plugin to existing language subdomains, e.g. <code>http://fr.example.com</code>. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#subdomains\"><b>Learn more</b></a>."
+msgstr "Subdomínio – Aponta o plugin para os subdomínios de idiomas existentes. ex: <code>http://fr.example.com</code>. <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#subdomains\"><b>Saiba mais</b></a>."
+
+#: includes/admin/transifex-live-integration-admin-template.php:47
+msgid "<b>Note:</b> When you choose the Subdirectory or Subdomain options, the plugin will automatically <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#hreflang-tag\"><b>add hreflang tags</b></a> to the header of your site."
+msgstr "<b>Nota:</b> Quando você escolher as opções de Subdiretório ou Subdomínio, o plugin irá automaticamente <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#hreflang-tag\"><b>adicionar tags hreflangs</b></a> no cabeçalho do seu site."
+
+#: includes/admin/transifex-live-integration-admin-template.php:51
+msgid "Published Languages"
+msgstr "Idiomas Publicados"
+
+#: includes/admin/transifex-live-integration-admin-template.php:53
+msgid "Below is a list of languages published from Transifex Live. For each language, you can set the name of the subdirectory. Your URLs will follow the pattern of <code>www.example.com/%lang%/</code>, with the language code always appearing immediately after your domain."
+msgstr "Abaixo está a lista de idiomas publicados por Transifex Live, Para cada idioma, você pode definir o nome do subdiretório. Suas URLs seguirão o padrão <code>www.example.com/%lang%/</code>, com o código do idioma sempre aparecendo imediatamente após o seu domínio."
+
+#: includes/admin/transifex-live-integration-admin-template.php:55
+msgid "Below is a list of languages published from Transifex Live. If you’ve set up language subdomains for your site, enter the language subdomain names below. So if <code>fr.example.com</code> is the subdomain for your French site, put in <code>fr</code>. If you don’t have language subdomains set up yet, be sure they match what’s below when you set them up."
+msgstr "Abaixo está a lista de idiomas publicados por Transifex Live. Se você definiu subdomínios de idioma para seu site, digite os nomes do subdomínio do idioma abaixo. Então se <code>fr.example.com</code> é o subdomínio para seu site em francês, coloque <code>fr</code>. Se vicê não possui subdomínios de idiomas definidos ainda, tenha certeza que eles correspondem com o que está abaixo quando você os definiu."
+
+#: includes/admin/transifex-live-integration-admin-template.php:60
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/admin/transifex-live-integration-admin-template.php:60
+msgid "Code"
+msgstr "Código"
+
+#: includes/admin/transifex-live-integration-admin-template.php:60
+msgid "Hreflang"
+msgstr "Hreflang"
+
+#: includes/admin/transifex-live-integration-admin-template.php:67
+msgid "Your languages can't be loaded. Please re-check your API key."
+msgstr "Seus idiomas não puderam ser carregados. Por favor, verifique sua chave de API novamente."
+
+#: includes/admin/transifex-live-integration-admin-template.php:68
+msgid "Refreshing languages will replace your current codes with those from Transifex Live. Continue?"
+msgstr "Atualizando os idiomas irá substituir seu códigos atuais com esses do Transifex Live. Continuar?"
+
+#: includes/admin/transifex-live-integration-admin-template.php:71
+msgid "Refresh Languages List"
+msgstr "Atualizando Lista de Idiomas"
+
+#: includes/admin/transifex-live-integration-admin-template.php:72
+msgid "Tweak your localized urls changing the language codes above."
+msgstr "Ajustar suas urls localizadas para alterar os códigos de idioma acima."
+
+#: includes/admin/transifex-live-integration-admin-template.php:76
+msgid "Subdirectory Options"
+msgstr "Opções de Subdiretório"
+
+#: includes/admin/transifex-live-integration-admin-template.php:78
+msgid "Choose which WordPress content types you want to enable language subdirectories for."
+msgstr "Escolher qual tipo de conteúdo do WordPress você deseja habilitar para os subdiretórios de idiomas."
+
+#: includes/admin/transifex-live-integration-admin-template.php:82
+msgid "All"
+msgstr "Todos"
+
+#: includes/admin/transifex-live-integration-admin-template.php:86
+msgid "Static Frontpage Support"
+msgstr "Suporte Estático para a Primeira Inicial"
+
+#: includes/admin/transifex-live-integration-admin-template.php:92
+msgid "Having trouble getting language/region-specific URLs working? <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#troubleshooting-tips\">Check out our additional troubleshooting tips!"
+msgstr "Problemas para conseguir idiomas-regiões específicas para as URLs funcionais? <a target=\"_blank\" href=\"http://docs.transifex.com/integrations/wordpress/#troubleshooting-tips\">Confira nossas dicas de solução de problemas!"
+
+#: includes/admin/transifex-live-integration-admin-template.php:95
+msgid "Prerender for Crawlers"
+msgstr "Pré Renderizador para Crawlers"
+
+#: includes/admin/transifex-live-integration-admin-template.php:97
+msgid "Enable Prerender"
+msgstr "Habilitar Pré Renderizador"
+
+#: includes/admin/transifex-live-integration-admin-template.php:100
+msgid "Prerender URL"
+msgstr "URL do Pré Renderizador"
+
+#: includes/admin/transifex-live-integration-admin-template.php:101
+msgid "Put your prerender url here."
+msgstr "Coloque sua URL de pré renderização aqui."
+
+#: includes/admin/transifex-live-integration-admin-template.php:104
+msgid "Enable Prerender Check"
+msgstr "Habilitar Verificação de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:105
+msgid "Prerender Check Key"
+msgstr "Verificar Chave de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:106
+msgid "Prerender Check Header Value"
+msgstr "Verificar Valor de Cabeçalho de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:109
+msgid "Enable Vary Header"
+msgstr "Habilitar Variação de Cabeçalho"
+
+#: includes/admin/transifex-live-integration-admin-template.php:110
+msgid "Value for Vary Header"
+msgstr "Valor para Variação de Cabeçalho"
+
+#: includes/admin/transifex-live-integration-admin-template.php:113
+msgid "Enable Custom Prerender Headers"
+msgstr "Habilitar Cabeçalhos de Pré Renderização Personalizados"
+
+#: includes/admin/transifex-live-integration-admin-template.php:114
+msgid "Custom Headers for Prerender Responses"
+msgstr "Cabeçalhos Personalizados para Respostas de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:117
+msgid "Enable Custom Cookie Prerender Responses"
+msgstr "Habilitar Cookie Personalizado para Respostas de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:118
+msgid "Custom Cookie for Prerender Responses"
+msgstr "Cookie Personalizado para Respostas de Pré Renderização"
+
+#: includes/admin/transifex-live-integration-admin-template.php:121
+msgid "Regex whitelist of allowed crawlers."
+msgstr ""
+
+#: includes/admin/transifex-live-integration-admin-template.php:122
+msgid "Regex list of crawler type keywords."
+msgstr ""
+
+#: includes/admin/transifex-live-integration-admin-template.php:125
+msgid "Important so crawler and bots can see your translated content <a target=\"_blank\" href=\"https://docs.transifex.com/integrations/wordpress#helping-bots-read-translations\">Check out our docs for details.</a>"
+msgstr ""
+
+#: includes/admin/transifex-live-integration-admin-template.php:144
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: includes/admin/transifex-live-integration-admin-template.php:147
+msgid "Plugin documentation"
+msgstr "Documentação do plugin"
+
+#: includes/admin/transifex-live-integration-admin-template.php:147
+msgid "Thank you for using Transifex!"
+msgstr "Obrigado por usar o Transifex!"
+
+#: includes/admin/transifex-live-integration-admin-util.php:116
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/admin/transifex-live-integration-admin.php:277
+msgid "Your changes to the settings have been saved!"
+msgstr "Suas alterações nas configurações foram salvas!"
+
+#: includes/transifex-live-integration-defaults.php:39
+msgid "Posts"
+msgstr "Postagens"
+
+#: includes/transifex-live-integration-defaults.php:40
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/transifex-live-integration-defaults.php:41
+msgid "Authors"
+msgstr "Autores"
+
+#: includes/transifex-live-integration-defaults.php:42
+msgid "Date"
+msgstr "Data"
+
+#: includes/transifex-live-integration-defaults.php:43
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/transifex-live-integration-defaults.php:44
+msgid "Categories"
+msgstr "Categorias"
+
+#: includes/transifex-live-integration-defaults.php:45
+msgid "Search"
+msgstr "Pesquisa"
+
+#: includes/transifex-live-integration-defaults.php:46
+msgid "Root"
+msgstr "Root"
+
+#: includes/transifex-live-integration-defaults.php:47
+msgid "Reverse Template Links"
+msgstr ""
+
+#: includes/transifex-live-integration-defaults.php:48
+msgid "Permalink Tag"
+msgstr "Tag de Permalink"
