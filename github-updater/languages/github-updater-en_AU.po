@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2018-06-20 09:04-0700\n"
-"PO-Revision-Date: 2018-06-13 21:49:56\n"
+"POT-Creation-Date: 2018-06-28 08:55-0700\n"
+"PO-Revision-Date: 2018-07-01 22:52:41\n"
 "Language: en_AU\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.0.8\n"
@@ -125,43 +125,43 @@ msgstr "GitHub"
 msgid "Enter GitHub Access Token for private GitHub repositories."
 msgstr "Enter GitHub Access Token for private GitHub repositories."
 
-#: src/GitHub_Updater/API/GitLab_API.php:591
+#: src/GitHub_Updater/API/GitLab_API.php:590
 msgid "GitLab Personal Access Token"
 msgstr "GitLab Personal Access Token"
 
-#: src/GitHub_Updater/API/GitLab_API.php:600
+#: src/GitHub_Updater/API/GitLab_API.php:599
 msgid "GitLab Private Settings"
 msgstr "GitLab Private Settings"
 
-#: src/GitHub_Updater/API/GitLab_API.php:609
+#: src/GitHub_Updater/API/GitLab_API.php:608
 msgid "GitLab.com Access Token"
 msgstr "GitLab.com Access Token"
 
-#: src/GitHub_Updater/API/GitLab_API.php:623
+#: src/GitHub_Updater/API/GitLab_API.php:622
 msgid "GitLab CE or GitLab Enterprise Personal Access Token"
 msgstr "GitLab CE or GitLab Enterprise Personal Access Token"
 
-#: src/GitHub_Updater/API/GitLab_API.php:657
+#: src/GitHub_Updater/API/GitLab_API.php:656
 msgid "GitLab"
 msgstr "GitLab"
 
-#: src/GitHub_Updater/API/GitLab_API.php:666
+#: src/GitHub_Updater/API/GitLab_API.php:665
 msgid "Enter your repository specific GitLab Access Token."
 msgstr "Enter your repository specific GitLab Access Token."
 
-#: src/GitHub_Updater/API/GitLab_API.php:673
+#: src/GitHub_Updater/API/GitLab_API.php:672
 msgid "Enter your GitLab.com, GitLab CE, or GitLab Enterprise Access Token."
 msgstr "Enter your GitLab.com, GitLab CE, or GitLab Enterprise Access Token."
 
-#: src/GitHub_Updater/API/GitLab_API.php:684
+#: src/GitHub_Updater/API/GitLab_API.php:683
 msgid "GitLab Access Token"
 msgstr "GitLab Access Token"
 
-#: src/GitHub_Updater/API/GitLab_API.php:700
+#: src/GitHub_Updater/API/GitLab_API.php:699
 msgid "Enter GitLab Access Token for private GitLab repositories."
 msgstr "Enter GitLab Access Token for private GitLab repositories."
 
-#: src/GitHub_Updater/API/GitLab_API.php:733
+#: src/GitHub_Updater/API/GitLab_API.php:732
 msgid "You must set a GitLab.com, GitLab CE, or GitLab Enterprise Access Token."
 msgstr "You must set a GitLab.com, GitLab CE, or GitLab Enterprise Access Token."
 
